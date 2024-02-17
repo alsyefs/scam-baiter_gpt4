@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_730",
+        "to": "CRAWLER",
+        "subject": "  Hello,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Hello,\nYou are the one appointed by the Citizen of your country to be the\nnext of kin to his late father inheritance funds,in offshore bank.The\ntotal funds been deposited is $10.8 million you are claiming. Send\nyour details\nBest Regards\nBarrister Andrew Dan   "
+    },
+    {
+        "from": "baiter_730",
+        "to": "scammer_730",
+        "subject": "Re:   Hello,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Barrister Andrew Dan,\n\nWow, that's quite a surprise! I had no idea about this. Can you tell me more about the late father and how he came to choose me as the next of kin? Also, could you please explain the process of claiming these funds? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAngelica"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_441",
+        "to": "CRAWLER",
+        "subject": "  Dear Sir/Madam,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Sir/Madam,\nTO WHOM IT MAY CONCERN:\nWe are attorneys to estates of late Mr. Kunio Uematsu of Japan who had\npreviously willed his funds to you as a donation/inheritance for\ncharity works couple of years ago before his death. Unfortunately, you\nwere unable to complete the process yet as indicated. As directed us\nprior to his demise, you are to be rewarded with a compensation of\n$500,000 from his estates for your willingness to assist and carry out\nthe charity works although due to financial constraints you could not\nyet complete the funds transfer. Late Kunio has before his death\ndirected that you be compensated from his estate/assets, so please\ncontact the below stated person to receive your reward:\nName:  Mr. Jean Marc\nEmail:  \nabcx995@yahoo.com\nCountry/Address: Abidjan, Ivory Coast.\nAsk him to send you the Cashier's Check of US$500,000.00 (Five Hundred\nThousand US Dollars) which is meant for your compensation for all\nefforts and attempts to assist in the matter. So, feel free and get in\ntouched with Mr. Toya Toshio and instruct him where to send the\nCashier's Check to you. Kindly cooperate with him and reconfirm your\ncurrent address to him to enable him send you the Check immediately.\nRegards,\nMr. J. B. Ansley\nPrincipal Partner\nANSLEY & ASSOCIATES\n(Attorneys-At-Law, Notary Public, Solicitors And Advocates)\n1269 Terry Rd.  Winston Salem, NC 27107, USA.   "
+    },
+    {
+        "from": "baiter_441",
+        "to": "scammer_441",
+        "subject": "Re:   Dear Sir/Madam,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. J. B. Ansley,\n\nThank you for reaching out to me regarding the late Mr. Kunio Uematsu's estate and his charitable intentions. I am deeply touched by his generosity and willingness to contribute towards charity works.\n\nI must admit, I'm a bit surprised as I don't recall having any previous interactions with Mr. Uematsu or being involved in any charity works on his behalf. Could you please provide more details about this? How did Mr. Uematsu come to know about me and why did he choose me for this noble cause?\n\nAlso, could you please elaborate on the process that was initiated but not completed? What exactly does it entail? \n\nYou mentioned a certain Mr. Toya Toshio who is supposed to send me a Cashier's Check of US Five Hundred Thousand Dollars. Could you tell me more about him and his role in this matter?\n\nI appreciate your assistance in helping me understand this situation better.\n\nBest wishes,\nMadeline"
+    }
+]

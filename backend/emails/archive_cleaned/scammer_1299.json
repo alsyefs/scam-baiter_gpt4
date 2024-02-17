@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1299",
+        "to": "CRAWLER",
+        "subject": "   Hello ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Hello \nBank address: 602 Walnut St, Des Moines, IA, 50309   "
+    },
+    {
+        "from": "baiter_1299",
+        "to": "scammer_1299",
+        "subject": "Re:    Hello ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "How are you doing today? I hope everything is going well. I was wondering if you could share some information with me.\n\nBest wishes,\nSamantha"
+    }
+]

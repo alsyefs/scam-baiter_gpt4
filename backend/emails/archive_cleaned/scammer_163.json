@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_163",
+        "to": "CRAWLER",
+        "subject": "Hello Dear,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hello Dear,\nAre you in need of investor for your projects?. We are running a\nproject funding program which I feel you may benefit from. We fund\nviable projects as soft loan at a very low rate of 2% ROI for a 15\nyears period with an option of early repayment without penalty.\nSectors of Interest: Oil & Gas, Agriculture, Health, Aviation,\nTourism, Retail, Real Estate, Construction, IT & Communications,\nTechnology, Education, Energy, Engineering, Utilities, Telecom,\nMining, Maritime and host of other profitable ventures.\nWe fund project from 1 million USD/EUROS to 500 million USD/EUROS.\nWe finance ongoing and fresh projects.\nKindly forward your project plan to my email address for review by our\ninvestment team and commencement of your project funding procedure and\nfunding.\nBillycrane97@gmail.com\nBest Regards\nDr Billy Crane."
+    },
+    {
+        "from": "baiter_163",
+        "to": "scammer_163",
+        "subject": "Re: Hello Dear,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Dr. Billy Crane,\n\nThank you for your email and the offer to fund viable projects. I am indeed in need of an investor for a project that I believe has great potential.\n\nThe project is a tech startup focused on developing innovative solutions for renewable energy. We are currently in the early stages of development and are seeking funding to further our research and development efforts.\n\nI would be happy to forward you our project plan for review by your investment team. Could you please provide me with more details about the funding procedure?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMary"
+    }
+]

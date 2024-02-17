@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_506",
+        "to": "CRAWLER",
+        "subject": "  DEAR  ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  DEAR  \nI WAS READY TO GIVE YOU OUR USA HSBC BANK ACCOUNT TO MAKE THE PAYMENT-TRANSFER, BUT TODAY WE RECEIVED A BANK DRAFT 50.000 EUROS FROM GERMANY BANK- FROM OUR CLIENT IN GERMANY AND OUR USA HSBC BANK START THE PROCEDURE OF VERIFICATION OF THE BANK DRAFT AND AFTER THE DISCOUNTING AND THIS WILL TAKE THREE WEEKS, SO I DO NOT WANT ANY PAYMENT-TRANSFER IN OUR USA HSBC BANK ACCOUNT IN CASE SOMETHING WILL GO WRONG...\nSO PLEASE MAKE THE PAYMENT-TRANSFER IN OUR EUROPE BANK ACCOUNT WHICH I HAVE, AS I WAS LAST YEAR IN TURKEY AND CYPRUS TO CLOSE A DEAL AND I OPENED A BANK ACCOUNT FOR TAX REASONS WITH THE HELP OF MY AGENT-PARTNER'S WHO IS FROM CYPRUS AND AFTER THAT I AM USING IT ALL THE TIME THE SAME BANK ACCOUNT TO RECEIVE SMALL AMOUNT OF PAYMENTS ....\nMAKE THE TRANSFER IN THIS EUROPE BANK ACCOUNT DETAILS ===.\n===========================================\nTürkiye finans ( Dollars )\nName : R.\nSurname: A.\nİban number : TR7500206003520403698XXXXXX\nAccount number: 403698XXXX\nSwift code : AFKBTRISXXX\nBank Adres : Bağlarçeşme mahallesi doğan araslı bulvarı no:149/3 34517 Esenyurt Istanbul\n===================================\nSEND A CLEAR COPY-SLIP OF TRANSFER ..  \nCompany Name: GLOBALMEDSFACILITIES \nDr. Tony Anderson \nSales Manager\nTel/Whastapp: +1 951 389-0853\nEmail: \nsales@globalmedsfacilities.com\nEmail: \nglobalmedsfacilities@gmail.com\nWebsite: globalmedsfacilities.com\n "
+    },
+    {
+        "from": "baiter_506",
+        "to": "scammer_506",
+        "subject": "Re:   DEAR  ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Dr. Tony Anderson,\n\nThank you for your detailed message. I'm a bit confused about the process, but I'm trying to understand it better. So, if I got it right, you're suggesting that we should make the transfer to your Europe bank account instead of the USA HSBC bank account? \n\nAlso, could you please explain why the procedure with the bank draft from Germany will take three weeks? Is this a standard procedure or is there something specific about this case?\n\nI also noticed that you mentioned Turkey and Cyprus. Did you open the Europe bank account there? How does it help with tax reasons?\n\nLooking forward to hearing from you.\n\nBest wishes,\nLaura"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_36",
+        "to": "CRAWLER",
+        "subject": "  2023, Compensation Amount of",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  2023, Compensation Amount of GBP£500,000.00\nFrom: United Nations Organization\n168 Churchill Place Street.\nLondon,\nUnited Kingdom.\n \nAttention; Sir/Madam,\n \nThis message is directed to find from you if you have received your payment? If really you have not received your payment. Uptill December, 2022; then urgently contact our processing agent in South Africa, for immediate release of your payment.\n \nPlease, kindly reply through this agent email address for your payment: \nagentoff426@gmail.com\n \nWe wait for your urgent response before the end of today.\n \nYours in Service.\nMR. WILSON STEWART.\nTel/Fax: +44 703 1814 858\nUnited Nations Funds Investigation Unit.   "
+    },
+    {
+        "from": "baiter_36",
+        "to": "scammer_36",
+        "subject": "Re:   2023, Compensation Amount of",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Wilson Stewart,\n\nI am writing to inform you that I have not received any payment as of yet. Could you please provide more details about this payment? \n\nLooking forward to your prompt response.\n\nBest wishes,\nRodger"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_767",
+        "to": "CRAWLER",
+        "subject": "  Hello  ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Hello  \nHow are you? I see no reason why you cannot download the document. I advice you look for means to download the document because it can not be send as text.\nRegards,\n \nKim Jung Li\nDeputy Manager\nSk Energy\n26, Jongno, Jongno-gu, Seoul, Korea\nTel. +82-2-2121-5114 Fax +82-2-2121-7001\nhttp:/ /eng.skenergy.com    "
+    },
+    {
+        "from": "baiter_767",
+        "to": "scammer_767",
+        "subject": "Re:   Hello  ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Kim Jung Li,\n\nI apologize for the inconvenience. I will try to find another way to download the document. Thank you for your understanding.\n\nBest wishes,\nJamaal"
+    }
+]

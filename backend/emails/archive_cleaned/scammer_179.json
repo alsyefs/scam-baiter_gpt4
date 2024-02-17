@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_179",
+        "to": "CRAWLER",
+        "subject": "About your transfer, Please hu",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "About your transfer, Please hurry back to me .\nThanks \nJohn "
+    },
+    {
+        "from": "baiter_179",
+        "to": "scammer_179",
+        "subject": "Re: About your transfer, Please hu",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear John,\n\nCould you please provide more details about the transfer you mentioned? I need to understand the context better in order to assist you.\n\nBest wishes,\nTheresa"
+    }
+]

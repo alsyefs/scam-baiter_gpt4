@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_723",
+        "to": "CRAWLER",
+        "subject": "OFFICE OF THE INVESTIGATION DE",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "OFFICE OF THE INVESTIGATION DEPT.\nCYBER CRIME-FRAUD UNIT\n Hello,\n My name is John Rowlands from Investigation department cyber fraud unit (CFU)\n We are commissioned to ERADICATE all incidents of criminal activities\nthat are associated with internet-cyber fraud against their victims.\nWe partner with other crime control security agencies, as well as\ninternational law enforcement agencies such as International Monetary\nAgency (IMF) Central Intelligence Agency (CIA), the FBI and the US\nSecret Service to share intelligence and coordinate action.\n An ongoing investigation led to the reason you are being contacted\nand we do appreciate your time going through this important\ninformation.\n Some impostors are currently under investigation/interrogation in our\ncustody for internet fraud related charges. Especially cases of demand\nof FEES repeatedly from their prey. However, your e-mail happen to be\non their list as a target. To enable us to gather more evidence before\nswinging into action i need to ask you some couple of questions if you\ndon't mind.\n 1. Have you at any point in time been scammed?\n Option: (A) Yes (B) No\n Answer:\n 2. Did you ever file complaint to any authority?\n Option: (A) Yes (B) NO\n Answer:\n 3. What is the average amount you were scammed?\n Option: (A) $5,000-$10,000 (B) $10,000-$50,000 (C) $50,000-$150,000\n(D) $150,000 and Above (E) None\n Answer:\n 4. How were you scammed?\n Option: (A) Romance Scam (B) Business Email Compromise \"BEC\" (C)\nBusiness proposal/Inheritance/Beneficiary/Lottery? (D) None\n Answer:\n  If you were asked or you are presently asked to send FESS\ncontinuously, kindly forward to us email correspondence and documents\nfor which those demands for fees were stated. We are here to dismiss\nany form of unofficial administrative FEES imposed on beneficiaries to\ndeny them of civil right of possession.\n Thanks for your cooperation as we await your earliest response,\n John Rowlands\n Director of Investigation"
+    },
+    {
+        "from": "baiter_723",
+        "to": "scammer_723",
+        "subject": "Re: OFFICE OF THE INVESTIGATION DE",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello John Rowlands,\n\nThank you for reaching out and for the work you do in combating cyber fraud. It's reassuring to know that there are agencies like yours working tirelessly to protect us from these criminal activities.\n\nIn response to your questions, I have been approached by individuals with suspicious intentions online, but I can't say for certain if they were scams. I've never filed a complaint because I wasn't sure who to report it to or if it was serious enough.\n\nAs for the average amount, well, they usually ask for varying amounts. Some have asked for small amounts while others have asked for larger sums. \n\nThe methods used have varied as well. Some claimed to be business proposals while others were lottery-related.\n\nI'm afraid I don't have any emails or documents related to these incidents as I tend not to keep such correspondences due to their suspicious nature.\n\nI hope this information is helpful in your investigations. Please let me know if there's anything else you need from me.\n\nBest wishes,\nPatricia"
+    }
+]

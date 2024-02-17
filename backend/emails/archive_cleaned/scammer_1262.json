@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1262",
+        "to": "CRAWLER",
+        "subject": " Dear Sir/Madam,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " Dear Sir/Madam,\nWe are doing  the above-mentioned project and would like to \nreceive your most Competitive Offer\nof the above subject by 5th March 2018 or before.\nYour offer should highlight/include for the following.\n·         Compliance statement confirming Full Compliance with \nthe relevant drawings and specification.\n·         Any deviation from the specification. \n·         Recommended list of spares with related costs.\n·         Extended Warranties with any cost implications – as \nrequired by specification.\n·         Delivery to site, clearly identifying delivery \nperiod/lead in times.\n·         Price breakdown against the BOQ items.                  \n \n·         Validity period of 60 days.\n·         Payment Terms \n·         All Terms and Conditions to be as per BK Gulf Standard \nLPO/Supply Agreement/Subcontract Agreement\n                     as appropriate  and as maybe amended to \nreflect those in place between BK Gulf and the Client.\n Enclosed/Attached Documents \n·         specifications\n·         drawings\nBest Regards\n \nSunil\nSunil Nair\nProject Controls – Technical Manager  | BK Gulf\nmob: 055 8769870| e:   \nsunilnair@hbthchina.co\nPO Box. 10079 , Dubai , United Arab Emirates    http:/ /www.hbthchina.co\nBK Gulf Values\nIntegrity\nTeam work\nExcellence\nRespect\nConsider the environment. Please don't print this e-mail unless \nyou really need to.\nBK Gulf - Limited Liability Company, Commercial Registry No. \n45053.\nThis email and any attachment is intended solely for the named \nrecipients and may only be read, transmitted, relied upon, or \ncommunicated in whole or part, by the intended recipient if so \nauthorised by the sender. Any confidentiality in the contents is \nnot waived or lost through mistaken transmission. If you have \nreceived this email in error, please inform the sender by reply, \ndelete it and destroy any copies. Any views expressed in this \nemail are not necessarily the views of BK Gulf LLC, Dubai \nTransport Co. LLC or its subsidiaries.  This email is not \nintended to form a legally binding offer, acceptance or \nagreement, nor to add to, amend or waive any rights in an \nexisting contract all of which are subject to execution by \nauthorised signature on letterhead. The sender does not accept \nliability for any loss or damage arising from any viruses \ntransmitted.\n "
+    },
+    {
+        "from": "baiter_1262",
+        "to": "scammer_1262",
+        "subject": "Re:  Dear Sir/Madam,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sunil Nair,\n\nThank you for your email and interest in our services. We are more than willing to assist you with your project.\n\nHowever, before we proceed, could you please provide us with more specific details about the project? This will help us understand your needs better and enable us to give you a more accurate quote.\n\nOnce we receive this information, we will be able to provide you with the relevant drawings and other documents required by your team. \n\nPlease note that our lead times vary depending on the complexity of the project, but we always strive to deliver within the agreed timeframe.\n\nRegarding the LPO Supply Agreement, we are open to discussions and negotiations to ensure that it reflects those in place between BK Gulf and the Client.\n\nWe look forward to receiving more details about your project soon.\n\nBest wishes,\nLois"
+    }
+]

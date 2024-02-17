@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1183",
+        "to": "CRAWLER",
+        "subject": "  PAYPAL USER,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  PAYPAL USER,\n                       Thank you for shopping with Paypal .Your recent product purchased from paypal is ready to be dispatched. All details related to your product are mentioned in this email, please check it carefully.You will receive your order in the next 4 working days.\nPRODUCT NAME - lenovo laptop\nORDER ID -(AKDR8643NSIT)\nTotal Price - $760.00\nShipping date - 11/06/2022\nShip charges - Null\nIf you have any questions contact :- +1(808) 736 7425\nPAY-PAL   "
+    },
+    {
+        "from": "baiter_1183",
+        "to": "scammer_1183",
+        "subject": "Re:   PAYPAL USER,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear PayPal User,\n\nThank you for your recent purchase of a Lenovo laptop. \n\nOrder ID: \nTotal Price: \nShipping Date: \nShipping Charges: Null\n\nWe appreciate your business and hope you enjoy your new laptop. If you have any questions or concerns, please don't hesitate to contact us.\n\nBest wishes,\nRandy"
+    }
+]

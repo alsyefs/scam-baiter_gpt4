@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_201",
+        "to": "CRAWLER",
+        "subject": "CITI BANK OF Texas Corporate O",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "CITI BANK OF Texas Corporate Office\nHeadquarters 134, 198 Citibank Dr, San Antonio, TX 78245\nOur Ref:CBD/IRU/SFE/15.5/WD/011\nUNITED STATES OF AMERICA\nMonday-Friday\n8 a.m.-9 p.m. Eastern Daylight Time(EDT)\nSaturday and Sunday\n8 a.m.-4 p.m. Eastern Daylight Time(EDT)\nEmail:(\nchamberjohn490@gmail.com\n)\nPhone : +1 214 353 0307\nDear Customer,\nMy name is John Chamber of Citi Bank Texas,How are you doing today? I\nwish to inform you that your total fund of $4.5 Million was deposited\nhere by the United Nation compensation board and we have made all the\ngood arrangements on how to ensure that your fund hits your account.\nYou are advised to provide the information below to enable us to\nenhance the transfer.\nYour BANK NAME:\nYour bank address:\nYour account number/ routing number\nYour Full name and address.\nYour Cell Phone number.\nWe shall proceed and get your fund transferred into your account once\nwe receive the above information.\nYours faithfully,\nJOHN CHAMBER\nCITI BANK OF TEXAS\nEmail (\nchamberjohn490@gmail.com\n)"
+    },
+    {
+        "from": "baiter_201",
+        "to": "scammer_201",
+        "subject": "Re: CITI BANK OF Texas Corporate O",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear John Chamber,\n\nThank you for your email. However, I must inform you that I am not comfortable sharing my personal banking details over email due to security reasons. \n\nI would appreciate if we could find a more secure way of handling this matter. Please advise on the next steps.\n\nBest wishes,\nFrances"
+    }
+]

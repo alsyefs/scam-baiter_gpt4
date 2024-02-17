@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1058",
+        "to": "CRAWLER",
+        "subject": "Attention: Dear Email owner !",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attention: Dear Email owner !\nI am Mr Godwin Emefiele the director o central bank o Nigeria (CBN).We\nwould like to inform you that the International Monetary Fund (IMF) in\nWashington, DC, USA visited our country to study the investigation of\nonline fraud; You have received this information today because your\nemail address was found in the list of\nvictims of fraud in this country.\nAdditional information (IMF), Fedral repubilc of Nigeria to\ncompensates all countries that were fraudsters in our country, and\nyour email address was found in these lists of victims. So! Our bank\nhas entrusted (IMF) the transfer of your compensation fund using ATM\nCARD or WIRE TRANSFER methods.\nHowever, we have decided to transfer this fund to your account in the\namount of $5,500,000.00  (Four.five million five hundred thousand\ndollars) using an ATM card. We will not be able to make this payment\nusing only\nyour email address; so we need your information as;\n(1) Your full name: ......................................\n(2) Your home address: ..............................\n(3) Your country: .........................................\n(4) Your direct phone number: ................\n(5) Postal code:...............................\n(6)Phone number:………………………………..\nPlease send your above information immediately because your ATM Card\nis ready to be delivered, Now contact the director the director of\ninternational monitoring whose name is Mr.Frank Williams:\n(\ninternationalmonitoringfunds2018@aol.com\n)send him the following\ninformation to deliver your accredited ATM card.\nWith best regards\nMr Godwin Emefiele."
+    },
+    {
+        "from": "baiter_1058",
+        "to": "scammer_1058",
+        "subject": "Re: Attention: Dear Email owner !",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Emefiele,\n\nThank you for your email and the information provided. I appreciate your efforts in combating online fraud and ensuring that victims are compensated.\n\nHowever, before proceeding further, I would like to verify the authenticity of this communication. Could you please provide me with an official document or reference number related to this case? \n\nOnce I have verified this information, I will be more than happy to provide the details you requested.\n\nBest wishes,\nIvory"
+    }
+]

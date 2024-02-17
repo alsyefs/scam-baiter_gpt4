@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_489",
+        "to": "CRAWLER",
+        "subject": " After requesting for another ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " After requesting for another account you know longer reply email\nanymore- it seem you are a joker and that make you an idiot.  "
+    },
+    {
+        "from": "baiter_489",
+        "to": "scammer_489",
+        "subject": "Re:  After requesting for another ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nI apologize if there has been any misunderstanding. I assure you that I am serious about this matter and have no intention of causing any inconvenience. Please let me know how we can proceed further.\n\nBest Regards,\nLewis D.\n\nBest wishes,\nEileen"
+    }
+]

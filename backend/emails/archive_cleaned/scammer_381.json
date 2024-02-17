@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_381",
+        "to": "CRAWLER",
+        "subject": "  Arthur Morris,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Arthur Morris,\nPublic Bureau For Claims Settlements\nArea C Gariki,\nAbuja.\n29/06/2021\nPh:+ 234-803-759-5393\nGood morning to you my brother and how are you doing, i sent to you\ntwo bank account that you never made use of, and that was why i felt\nthat you have issue with the account, you informed me that the first\naccount did not go through then i sent the second and never heard from\nyou, i called severally but no answer, i wonder what is going on when\nmy office had made all arrangement for the booklets to get to you and\nthen the release of funds, please let me know something from your end\nand give me your direct contract numbers, i shall wait your urgent\nreply to know what will go through at your end before i send another\naccount, possibly call me, if you are not interested in this matter\nplease let me know, we are just working for the good and benefit of\nyour transfer, give me answer now.\n+ 234-803-759-5393\nThanks  "
+    },
+    {
+        "from": "baiter_381",
+        "to": "scammer_381",
+        "subject": "Re:   Arthur Morris,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Arthur Morris,\n\nI apologize for the confusion. I have been dealing with some personal matters and haven't had the chance to respond to your previous messages. \n\nRegarding the bank accounts, I am still interested in proceeding with this matter. However, I would appreciate if you could provide more details about the next steps and how we can ensure a smooth transfer process.\n\nHere are my contact numbers:\n\nHome: +1-202-555-0184\nMobile: +1-202-555-0185\n\nPlease feel free to call me at your earliest convenience so we can discuss this further.\n\nBest wishes,\nMiguel"
+    }
+]

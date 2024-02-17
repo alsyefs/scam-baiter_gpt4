@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1404",
+        "to": "CRAWLER",
+        "subject": "Western Union Money",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Western Union Money\nTransfer Unit Lagos Nigeria\n+2349125395590\nwu79021@gmail.com\nDear\nMy names is Tom West of the above office, This to let you know that\nyour name and address was among the Scam Victims compensation funds of\n$2.5Million Dollars which was approved to be release to you by the\nGovernment of this Country, You are advice to get back to us with\nthese for the immediate transfer of your funds to you as directed.\n1: Your Names\n2: City\n3:Address\n4: Working ID\n5: Email  Address\n6;Telephone Number\nYour urgent message is highly needed as soon as possible once you\nreceive this message.\nThanks and God bless you\nYours Sincerely\nMr. Tom West\nEmail \n{wu79021@gmail.com\n}\nTelephone +2349125395590\nWestern Union\nLagos Nigeria"
+    },
+    {
+        "from": "baiter_1404",
+        "to": "scammer_1404",
+        "subject": "Re: Western Union Money",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Tom West,\n\nI'm delighted to hear from you and appreciate your effort in reaching out to me. It's quite surprising to learn that my name was among the scam victims. Could you please provide more details about this? How did my name appear on this list? \n\nAlso, I would like to understand the process of transferring these funds. What steps are involved? Is there any documentation required from my end?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nCarlton"
+    },
+    {
+        "from": "scammer_1404",
+        "to": "baiter_1404",
+        "subject": "Re: Western Union Money",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "body": "Western Union Money\r\nTransfer Unit Abuja Nigeria\r\nwu79021@gmail.com\r\n+2349162108053\r\n\r\nAttn Carlton,\r\n\r\nThis is Mr. Tom West of Western Union Money Transfer Unit Abuja Nigeria,I\r\nwrite on receipt of your mail and your approved funds of Two Million Five\r\nHundred Thousand Dollars with this office to be credited to your favor as\r\ndemands by International Monetary Funds as one of the scam victim,you\r\nadvise to get back to this office with this details for the immediate\r\ncommence with the credition of your funds as instructed.\r\n\r\nYour Full Name :...............\r\nBank Address:...............\r\nBank Account...............\r\nCountry:..................\r\nCity :...............\r\nPhone number:..................\r\nID Card :...............\nThanks\r\nYours Sincerely\r\nMr. Tom West\r\nWestern Union"
+    },
+    {
+        "from": "scammer_1404",
+        "to": "baiter_1404",
+        "subject": "Re: Western Union Money",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "body": ""
+    }
+]

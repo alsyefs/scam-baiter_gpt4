@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_490",
+        "to": "CRAWLER",
+        "subject": "Dear",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear\nAre you dead? Because the report I am getting from the bank is that\nsomeone wrote to them that you're dead, that he's your next of kin,\nthat he wants to claim your fund as your next of kin. So they\ncontacted me to be sure before proceeding with him, so please confirm\nto me before it will be too late. I am waiting for your urgent\nresponse from the receipt of this mail\nRegard\nDavid Gate"
+    },
+    {
+        "from": "baiter_490",
+        "to": "scammer_490",
+        "subject": "Re: Dear",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello David Gate,\n\nOh my, that's quite a surprise! I can assure you that I am very much alive and well. It's strange to hear about someone claiming to be my next of kin. Could you please tell me more about this person? How did they prove their relation to me?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMichelle"
+    },
+    {
+        "from": "scammer_490",
+        "to": "baiter_490",
+        "subject": "Re: Dear",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "body": "Dear Michelle,\r\nIts not an easy thing, one young Mr. Dawn, came to the office of the Security company in Amsterdam, Netherlands, where your $100 million is been kept and said that is your next of kin, that they should allow him to claim your fund on your behalf that you sent him to claim the fund. So i decided to contact you to hear from you before security company will proceed with him, now that we know that you're not the one that sent him, i will tell the security company to get him arrest, so as its now i urge you to act fast and claim your fund before it will be too late\r\n\r\nI am waiting for your urgent positive response from the receipt of this mail for more details\r\nRegard\nDavid Gate"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_296",
+        "to": "CRAWLER",
+        "subject": "  Good Day",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Good Day\n How are you doing and how is your business life, hope all is well? It is my pleasure to write this letter to you to solicit for your mutual assistance in this business.\n Though I know in a situation like this it will make any one apprehensive and worried, but I am assuring you that all is under control.\nI decided to contact you due to the urgency of this transaction.\nMy name is  Andrew P. Swigergrey; an Engineer with Exxon Mobil in London http:/ /www.exxonmobil.co.uk). \nI seek for your business partnership to assist me in Oil business \ntransactions.\n I appreciate the fact that we have no prior knowledge or existing \n business relationship, but due to the urgency of this transaction, I \n decided to make contact with you in a good faith.\n I will explain to you in details the nature of the business upon your indication of interest for details on the transaction. E-Mail:\nexxon3mobil@mail.ee\n \nRegards\nANDREW P. SWIGERGREY\n(International Gas Marketing)\nExxonMobil House\nErmyn Way\nLeatherhead\nSurrey, KT22 8UX.   "
+    },
+    {
+        "from": "baiter_296",
+        "to": "scammer_296",
+        "subject": "Re:   Good Day",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Andrew P. Swigergrey,\n\nIt's a pleasure to receive your message. I hope you're doing well too. Your business proposal sounds interesting, although I must admit, I'm not very familiar with the oil industry.\n\nCould you please provide more details about this opportunity? What exactly would my role be in this business? And how does it work?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMichael"
+    }
+]

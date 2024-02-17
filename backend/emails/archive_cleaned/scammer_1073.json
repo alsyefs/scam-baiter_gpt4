@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1073",
+        "to": "CRAWLER",
+        "subject": "  Congratulation,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Congratulation,\nWe will like to inform you that your e-mail address has won the sum of £13,000,000.00 from monthly British National Lottery Promotion held this 21st December 2022. Your email address was chosen from this promotion as one of the lucky e-mail address through our computer ballot system in British national lottery.\nOPEN THE ATTACHED FILE FOR YOUR CLAIM.   "
+    },
+    {
+        "from": "baiter_1073",
+        "to": "scammer_1073",
+        "subject": "Re:   Congratulation,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Oh wow, that sounds amazing! I can't believe my address was chosen. Can you tell me more about how this works? How was my address selected in the first place? And what exactly is this British National Lottery Promotion?\n\nBest wishes,\nJohnie"
+    }
+]

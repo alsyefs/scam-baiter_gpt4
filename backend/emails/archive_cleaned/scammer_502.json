@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_502",
+        "to": "CRAWLER",
+        "subject": "Good Day,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Good Day,\nOn behalf of Engineer Dr. Ali Mahmoud Hassan Mohamed, the Director-Chairman Board of Trustees Libyan Oil Investment Authority in charge to manage the mounting surplus revenue of the Libyan oil (silent investor) I am writing to seek your cooperation/assistance in effort to relocate Multi-million dollars investment capital for Joint Venture Partnership with you in your country.\nMy aim is to relocate and partner with you through PROJECTS FINANCING AND ESTABLISHMENTS on joint venture in your existing entity or formation of a new one ([NEW COMPANY]) to be jointly owned, and this plan has been approved by the bank.\nYour responsibility will be nomination of Bank Account to receive the Funds AS PROJECT FINANCING CAPITAL and facilitate integrating the funds into the banking system and diversification of the same to viable sectors in your economy in compliance with and Gov't regulatory agencies.\nI propose we arrange for a meeting, thus this mail is a formal expression of intent to start a joint investment partnership with you, hence my contact.\nIf the offer is acceptable to you, reply with your personal details and contact so that we can move forward with our discussions.\nThank you (shukran)\nRegards,\nAbdul Majid Kubar (Jnr)"
+    },
+    {
+        "from": "baiter_502",
+        "to": "scammer_502",
+        "subject": "Re: Good Day,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Abdul Majid Kubar Jnr,\n\nThank you for your email and the opportunity to collaborate on this venture. I am interested in learning more about this project and how we can work together.\n\nBefore we proceed, could you please provide more details about the nature of the projects you are looking to finance? It would also be helpful to understand more about the Libyan Oil Investment Authority and its investment strategy.\n\nI look forward to hearing from you soon.\n\nBest wishes,\nLillian"
+    }
+]

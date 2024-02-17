@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1054",
+        "to": "CRAWLER",
+        "subject": "From: JP Morgan Chase Bank New",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "From: JP Morgan Chase Bank New York.\n#455 Broadway New York, NY, 10227 USA.\nNew Year Bonanza Bonanza Bonanza\nDear Customer: Chase Bank HeadQuarter is now offering New Year Bonanza to all our customers who have not receive his/her funds in our bank, you are not going to pay $50 again, \nthe fee has been redeuce to only $25 to help you receive your funds \n$2.5 Million USD to ATM card now, \nsend the fee $25 through Apple card/ Bitcoin or Steam wallet card, again there is no more time to delay again, you have only 24/48 hours to send the fee $25 gift card, and receive your ATM card.\nReconfirm your full details.\nYour  Full Name:\nYour Home Address:\nYour Phone Number:\nYour WhatsApp Number:\nYour Occupation:\nYour Country:\nYour copy ID\n:\nYour Age:\nThe fee we needed is $25.00 USD send the fee by Steam Wallet Card / Apple iTunes Gift Card or Bitcoin.\nI wait for the picture of the gift card.\nThank You For Banking With Us.\nMr. Robert Justin\nCEO Manager Chase Bank"
+    },
+    {
+        "from": "baiter_1054",
+        "to": "scammer_1054",
+        "subject": "Re: From: JP Morgan Chase Bank New",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Robert Justin,\n\nI appreciate your message, but I'm afraid there seems to be some confusion. I don't recall having any pending funds with Chase Bank. Could you please provide more details about this transaction? \n\nAlso, it's unusual for a bank to request payment through gift cards or Bitcoin. Can you explain why these methods are necessary?\n\nLooking forward to your response.\n\nBest regards,\nLewis D.\n\nBest wishes,\nTed"
+    }
+]

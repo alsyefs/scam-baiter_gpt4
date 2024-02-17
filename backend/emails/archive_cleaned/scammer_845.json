@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_845",
+        "to": "CRAWLER",
+        "subject": "  Dear.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear.\nopen the attach and get back to me.   "
+    },
+    {
+        "from": "baiter_845",
+        "to": "scammer_845",
+        "subject": "Re:   Dear.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sender,\n\nI'm sorry, but I didn't receive any attachment with your email. Could you please resend it?\n\nBest wishes,\nAnn"
+    }
+]

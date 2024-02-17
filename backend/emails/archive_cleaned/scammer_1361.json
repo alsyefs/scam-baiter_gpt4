@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1361",
+        "to": "CRAWLER",
+        "subject": "  From: Johnson Paul.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  From: Johnson Paul.\nInspection Unit\nSan Francisco International Airport,\nCalifornia, United-States\nI am Mr. Johnson Paul. Officer-in-Charge, and Administrative Service\nInspection Unit United Nations Inspection Agency in San Francisco\nInternational Airport. During our investigation, I discovered an\nabandoned shipment through a Diplomat from United Kingdom, and when\nscanned it revealed an undisclosed sum of money in 2 Metal Trunk\nBoxes.\nThe consignment was abandoned because the Content was not properly\ndeclared by the consignee as money rather it was declared as personal\neffect/classified document to either avoid diversion by the Shipping\nAgent or confiscation by the relevant authorities. The diplomat's\ninability to pay for Non Inspection fees among other things are the\nreason why the consignment is delayed and abandoned.\nBy my assessment, each of the boxes contains about $5M or more. They\nare still left in the airport storage facility till today. The\nConsignments like I said are two metal trunk boxes and details of the\nconsignment including your name and email on the official document\nfrom United Nations' office in London where the shipment was tagged as\npersonal effects/classified document is still available with us. It is\nnow left to you to decide if you still need the consignment or allow\nus repatriate it back to UK (place of origin).\nI am ready to assist you in any way I can for you to get back this\npackages provided you will also give me something out of it (financial\ngratification of 10% of the content). I also am willing to assist in\nprovide necessary funding to complete this project if you will assure\nme of the 10% compensation.\nBest Regards,\nMr.Johnson Paul.\nAdministrative Service Inspection Unit   "
+    },
+    {
+        "from": "baiter_1361",
+        "to": "scammer_1361",
+        "subject": "Re:   From: Johnson Paul.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Paul,\n\nThank you for reaching out and sharing this intriguing information with me. I must say, it's not every day that one hears about abandoned shipments of such magnitude.\n\nI'm curious to know more about the situation. How did these boxes end up being abandoned? And why was the content declared as personal effects rather than money?\n\nAlso, could you please elaborate on what you mean by \"Non Inspection fees\"? Is this a common occurrence in your line of work?\n\nI appreciate your willingness to assist in this matter. However, I would like to understand more about the process and what it entails before making any decisions.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRobert"
+    }
+]

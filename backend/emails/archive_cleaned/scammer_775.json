@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_775",
+        "to": "CRAWLER",
+        "subject": "Welcome to Western Union Offic",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Welcome to Western Union Office.\nAddress: Rue Du General De Gaulle Co 71. Courcelles, Hainaut, 6180,Belgium.\nAttention Dear\nGreetings from western union, money transfer agent location,\nWe acknowledge the receipt of your email in regard to your fund\n(us$1.400, 000.00)) deposited here Belgium by the international monetary fund\n(IMF) to be transferred to you for security reasons and to safe guard of your\nfund,\nIt's my great pleasure to inform you that the first sum of $7000.00\nhas being sent in your address this morning,\nSender's First Name: Alian\nSender's Last Name:Evans\n(MTCN) is: 9816110510\nAmount: $7000.00USD\nPlease note that the above transaction has not been authorized to pick\nup, the reason why you cannot pick up the $7000.00 right now is\nbecause the service fee has not been send to us which is the only fee\nthat is putting your fund on hold, on which without the service fee\nyour fund cannot be authorized to pick up, so in your best interest, i\nhereby advised you to send the services fee so that you can be able to\npick up your payment \nat any western union agent location in your\nstate.*\nservice fee covers the cost of services rendered when administering &\nmaintaining a third-party transaction to a beneficiary that is not\nliving within the country which the fund is being deposited; service\nfee is usually one percent (1%) of the deposited fund and it is under\nnormal conditions to paid by the beneficiary of a third-party\ntransaction.\nthe applicable registration and transfer fees have been paid by the\ndepositor.\nthe reason why the service fee cannot be deducted from your fund is\nbecause your fund has been insured by the depositor, this is in\naccordance with section 13(1)(n) of the national monetary act as\nadopted in 1999 and amended on 3rd july 2004 by the constitutional\nassembly. this is to protect beneficiary and to avoid misappropriation\nof funds.\nso \nyou have to send the service fee of $75.00usd through Steam Wallet\nGift Card or Google play card to enable us authorize your fund to pick\nup but you prefer BTC or PayPal I will forward it to you ok.\nif you have questions or need assistance; our western union team is\nhere to help you.\nRegards,\nMs. Eden R. Jons\nOfficer in charge"
+    },
+    {
+        "from": "baiter_775",
+        "to": "scammer_775",
+        "subject": "Re: Welcome to Western Union Offic",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Ms. Eden R. Jons,\n\nThank you for your email and the information provided. It's good to know that my fund has been deposited safely in Belgium by the IMF.\n\nI'm a bit confused about the service fee though. Could you please explain more about why it can't be deducted from my fund? I understand that my fund has been insured, but I'm not quite clear on how this relates to the service fee.\n\nAlso, could you provide more details about how I should send the service fee through Steam Wallet Gift Card or Google play card? I've never used these services before so any guidance would be appreciated.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLuz"
+    }
+]

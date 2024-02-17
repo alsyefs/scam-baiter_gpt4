@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_182",
+        "to": "CRAWLER",
+        "subject": "  CAPITAL ONE BANK.U.S.A 2301 ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  CAPITAL ONE BANK.U.S.A 2301 E Riverside Dr, Austin, TX 78741,United States. Unclaimed Asset/Assets Re-united, USA International Remittance Department Tel: +1 (438)2661569 ur Ref: BR/102/0005B/90 ==================================== URGENT TRANSFER OF YOUR US$4,500,000.00 Attention Beneficiary In fight against corruption in the Banking system and in pursuit to re-build a good relationship with foreigners by the President of the United States of America. We wish to inform you that every files and reports concerning international payment of all the foreign beneficiaries was brought to my office in the Order and instruction of the U.S Department of States and U.S Department of Treasury. I must confess that i shared tears after seeing your unclaimed and uncompleted transactions, It was a national slap and a disgrace to this Country after noticing that your have paid for all the fee to receive your fund but your funds never got to your bank account because of the selfish interest of the banks and Individuals mandated to transfer and release your fund to your bank account. The U.S Department of States and U.S Department of Treasury has approved a compensation payment of US $4,500,000.00 in your name which shall be transfer to your bank account through an online, We will create an online bank in your name and you will transfer your fund by yourself through our online to your bank account. We chose to transfer your fund through an online banking so that no Agency will notice or stop your fund. Sir/Ma, you shall receive this compensation fund within 3 working day, if you comply with our instructions and adhere to our directives. Get back to us with your information as listed below. Your Full Name: Address: Phone number: Age and Occupation: Next of Kin: Scan Copy of your identification Thank you for your mutual understanding and cooperation as we wait to read from you soonest. Yours Faithfully, MR FREDERIC BEACH JENNINGS JR ONLINE MANAGER CONTROLLER   "
+    },
+    {
+        "from": "baiter_182",
+        "to": "scammer_182",
+        "subject": "Re:   CAPITAL ONE BANK.U.S.A 2301 ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Frederic Beach Jennings Jr,\n\nThank you for reaching out to me and providing such detailed information. I must say, it's quite a surprise to hear about this unclaimed asset. I'm curious, how did my name come up in connection with these funds? \n\nAlso, could you please explain more about the online bank that will be created in my name? How does this process work exactly?\n\nLooking forward to your response.\n\nBest wishes,\nCharles"
+    }
+]

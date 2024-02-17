@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_337",
+        "to": "CRAWLER",
+        "subject": " Mail received.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " Mail received.\nI have submitted your files, and the approval of the accrued interest will be forwarded tomorrow.\nRegards\nMRS. LETTITIA OKKERS\nAfrican Development Bank Group Limited/Beperk,\nReg. No 1986/004794/06 Registered Bank 008140008196\nAFDB Towers East 3rd Floor, 170 Main Street Johannesburg South Africa.  "
+    },
+    {
+        "from": "baiter_337",
+        "to": "scammer_337",
+        "subject": "Re:  Mail received.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mrs. Lettitia Okkers,\n\nThank you for your email and the information provided. I'm glad to hear that my files have been submitted and the approval of the accrued interest will be forwarded tomorrow.\n\nCould you please provide more details about this process? What are the next steps I should expect?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nTiffanie"
+    }
+]

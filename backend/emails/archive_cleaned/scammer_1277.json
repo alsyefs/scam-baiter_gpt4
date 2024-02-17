@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1277",
+        "to": "CRAWLER",
+        "subject": "  Dear Beneficiary,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Beneficiary,\nI am Mr. Tim Craith, Director Anti-Fraud Unit Financial Services\nRegulation Committee, We are not sure you received our previous\nmessage, but we wish to use this medium to officially inform you that\nfollowing the ongoing review of all unclaimed and delayed funds by the\nUnited Nations and the World Bank, your payment file was forwarded to\nour office for immediate payment of your long delayed outstanding\nfunds, starting with a first\npayment of US$10.4Milloin (Ten Million Four Hundred US$) with\nreference No. USA/FM-99FL, to you.\nHowever, we are surprised to receive another application this morning\nfrom your representative, MR. HANS STEINBICHLER, stating that you\nauthorized him to receive your funds into his personal bank account in\nSwitzerland and that you were recently involved in an auto accident\nwith your family and cannot walk right now. Could you please confirm\nimmediately your relationship with MR. HANS STEINBICHLER and also\nconfirm if the bank account in Switzerland as shown below is from you\nor now your new bank account information to receive your funds.\nCREDIT SUISSE, CH-8038 Z? RICH, SWITZERLAND ACCOUNT NO:\n0872-456011-91IBAN: CH55 0487 2045 6011 9100 0SWIFT CODE: CRESCHZZ8OT\nKindly get in touch with us today by email with your full details to\nthis office to confirm this information to avoid making a wrong\npayment into a wrong account.\nYours sincerely,\nMr. Tim Craith\nDirector, Anti-Fraud Unit Financial\nServices Regulation Committee   "
+    },
+    {
+        "from": "baiter_1277",
+        "to": "scammer_1277",
+        "subject": "Re:   Dear Beneficiary,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Tim Craith,\n\nI am writing to clarify that I have not authorized anyone named Mr. Hans to receive funds on my behalf. I have not been involved in any auto accident and I am perfectly capable of receiving the funds directly.\n\nThe bank account details you provided do not belong to me. Please do not transfer any funds into that account as it is not associated with me in any way.\n\nCould you please provide more information about the process for receiving these funds? \n\nThank you for your attention to this matter.\n\nBest wishes,\nShawn"
+    }
+]

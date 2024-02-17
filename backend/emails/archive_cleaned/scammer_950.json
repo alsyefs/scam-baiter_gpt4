@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_950",
+        "to": "CRAWLER",
+        "subject": "I am Mrs. Chantal. I am sendin",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "I am Mrs. Chantal. I am sending this brief letter to solicit your\npartnership to transfer a sum of  5  Million Dollars\nBest Regards.\nMrs. Chantal"
+    },
+    {
+        "from": "baiter_950",
+        "to": "scammer_950",
+        "subject": "Re: I am Mrs. Chantal. I am sendin",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mrs. Chantal,\n\nI received your message, but it seems to be incomplete. Could you please provide more details about the transfer of the sum you mentioned?\n\nBest wishes,\nJames"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_804",
+        "to": "CRAWLER",
+        "subject": "An administrative assistant to",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "An administrative assistant to perform various administrative tasks like making or receiving payment and sending gifts, keeping record and processing paperwork when necessary with a good weekly pay is needed\n,  please find the position and some basic information below.\nPosition: Personal Assistant\nType: Part-Time Job. \nPay:$300-400.00 weekly.\nAllowance of $50.\nHours: Average of 11hrs weekly\nThis position will be home-based and flexible part time job, you can be working from home, School or any location.\nCustomer care"
+    },
+    {
+        "from": "baiter_804",
+        "to": "scammer_804",
+        "subject": "Re: An administrative assistant to",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nI am interested in the position you have mentioned. I have experience in handling various tasks and I am confident that I can perform the duties as required. \n\nCould you please provide more details about the job, such as the specific tasks involved, working hours, and payment terms? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMaureen"
+    },
+    {
+        "from": "scammer_804",
+        "to": "baiter_804",
+        "subject": "Re: An administrative assistant to",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "body": "Thank you for your message and sorry for the late response. There is a\r\nslight issue with positioning due to the high volume of applicants.\r\n\r\n  This is a flexible part-time job where you determine how much you work,\r\nand best of all, it won't disrupt your other schedules and you'll spend\r\nless money outside the home.\r\n\r\n   All you need to do for now is always check your mail for instructions\r\nyou should follow whenever you receive mail on my behalf.\r\n\r\n    Please confirm your information to create a file in your name.\r\n\r\nFirst and last name:\r\n\r\nAddress:\r\n\r\nPersonal cell phone:\r\n\r\nE-mail:\r\n\r\nLocation:\r\n\r\nRegard"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_549",
+        "to": "CRAWLER",
+        "subject": "Attention",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attention\nThis is Humphrey Pule the delivery agent mandated by United Nations\n(UN) to deliver your package fund to you. I am at the airport with\nyour $2.5 Million united state dollars fund package ready to\nbe cleared and delivered to you as directed.\n At this point I wish to\nknow your readiness to receive your fund as you will be required to\nreconfirm your receiving address once more\n so that I will make sure\nthat I give them your correct address to avoid any mistake about the\ndelivery they told me that \nyou will be required to pay for the\nSecurity Keeping Fee of the parcel for a little rate amount of money\nwhich will only cost you ($120.00 dollar.)\nPlease reconfirm to me your delivery details and nearest airport;\nFull name\nAddress\nPhone\nNearest airport\nI will be waiting for your response\nUnited Nation Diplomatic Agent.\nHumphrey Pule"
+    },
+    {
+        "from": "baiter_549",
+        "to": "scammer_549",
+        "subject": "Re: Attention",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Humphrey Pule,\n\nThank you for your email. I am ready to receive the package. Here are my details:\n\nFull Name: Eliza Dane\nAddress: 123 Main Street, Sydney, NSW 2000, Australia\nPhone: +61 2 1234 5678\nNearest Airport: Sydney Kingsford Smith Airport\n\nPlease let me know the next steps in this process.\n\nBest wishes,\nJohn"
+    },
+    {
+        "from": "scammer_549",
+        "to": "baiter_549",
+        "subject": "Re: Attention",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "body": "Good Morning Dear.\r\n\r\n  Good day to you. I hope you are doing super good today. I hereby\r\nacknowledge receipt of your email response with your personal information\r\nand its content is duly noted. I write to inform you that I have received\r\nthe financial compensation form attached to your email message for\r\nprocessing of your compensation fund payment file.\r\n\r\n\r\n\r\nPlease be informed that I have carefully reviewed the information you\r\nprovided in the financial compensation form for validation of your\r\ncompensation fund payment file. At this end, I will authorize my office\r\nattorney to submit your payment file to the Supreme Court of the United\r\nStates for authentication and approval of your payment file, which will\r\nhelp to facilitate your compensation fund payment from my office.\r\n\r\n\r\n\r\nFurthermore, I was notified by the chief judge that will handle the\r\napproval process of your compensation fund payment file that you have to\r\npay the sum of $550.00 as official mandatory administrative fee and it is\r\nnon negotiable since it's related to the United States government.\r\n\r\n\r\n\r\nThank you for understanding and patience while I work on validating your\r\npayment file.\r\n\r\nYou’re also advised to cease all communication with everyone regarding your\r\nremittance as we have short listed to relinquish to you and now urge you\r\ncomply and receive your MasterCard.\r\n\r\nThanks for your understanding as you follow instructions while I wait\r\nto hear from you.\nBest regards,\r\n\r\nMr Pule"
+    }
+]

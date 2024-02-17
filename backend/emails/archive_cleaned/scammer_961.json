@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_961",
+        "to": "CRAWLER",
+        "subject": "UNITED NATIONS FUNDS",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "UNITED NATIONS FUNDS\nCOMPENSATION DEPARTMENT:\nNEW YORK-UNITED STATES OF AMERICA.\nCOMPENSATION FUND ,LONDON UNITED KINGDOM\nDear Sir/Ma Good day,\nCOMPENSATION PAYMENT FOR 2023 FISCAL YEAR:\nSorry for making this contact through email since we could not reach\nyour phone number.\nMy name is Miss Lynda Green, special agent at the United Nations.\nA meeting was held on your behalf by just concluded 73rd United\nNations general assembly within the UN/IMF countries concerning the\nunclaimed funds denied to some people and major oil contractors who\ndied intestate during their contracts period and the institution\ncouldn’t trace their families, it is in your interest to know that\nyour name was listed on our database for such compensation therefore\nyour funds will be released to you by the paying bank immediately you\nverify your identity.\nIt was discovered during this meeting that no funds have been paid to\nyou all these years of pursuit because either your contract\ninformation\nwas changed or some other factors that needed Authentication.\nThe funds are now ready to be released to you since you have been\napproved to receive/claim this compensation payment of $15Million\nWe have instructions to release your payment to you.\nKindly Re-confirm Your\nNames;\nAddress;\nwhatsapp Number;\nNext of Kin;\nCountry of Origin;\nCountry of Residence;\nGender;\nOccupation:\nThe UN in collaboration with the IMF is sorry for the inconvenience\nthis might have caused you.\nPlease be aware that some miscreant are using this avenue to\nimpersonate our office and to ask for vital information in order to\nclaim your registration so feel free to report any email you receive\nregarding this information and we’ll do our best to identify the\nculprits.\nfor the release of your payment. The UN is sorry for the delay of funds release.\nsend an email to this email (\nmisslyndagreen1161@gmail.com\n ) to get an\nimmediate response."
+    },
+    {
+        "from": "baiter_961",
+        "to": "scammer_961",
+        "subject": "Re: UNITED NATIONS FUNDS",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Miss Lynda Green,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I wasn't aware that my name was listed on your database. Could you please provide more details about how my name ended up there? \n\nAlso, could you explain a bit more about the process of releasing these funds? I'm not very familiar with these procedures and would appreciate some clarification.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRobert"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_510",
+        "to": "CRAWLER",
+        "subject": "Request For Partnership To Exp",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Request For Partnership To Export Gold Bar From Republic Of Ghana to Overseas\nI Am Genevieve Mensah, a great grand- Daughter of Yiadom Mensah, The\nprogenitor of one of the notable and famous land owners in Obuasi,\nAshanti Region of Ghana By Virtue of my birth. and as a descendant of\nYiadom Mensah,I am Currently seeking foreign partners that have the\nfinancial capacity to explore,exploit and export the Gold Bar in\nconsideration of such financial commitment. such willing foreign\npartner shall be entitled to thirty percent ( 30%) remuneration from\nwhatever accrues as the proceeds after sale\nIf you are interested in this proposed partnership ,kindly contact me\nthrough my email\nI look forward to hearing from you\nSincerely Yours\nGenevieve Mensah"
+    },
+    {
+        "from": "baiter_510",
+        "to": "scammer_510",
+        "subject": "Re: Request For Partnership To Exp",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Genevieve Mensah,\n\nThank you for your email and the opportunity to be involved in this venture. I am interested in learning more about this proposal. Could you please provide more details about the gold bars, such as their weight, purity, and current location? Also, could you explain the process of exporting these gold bars from Ghana?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nVirginia"
+    }
+]

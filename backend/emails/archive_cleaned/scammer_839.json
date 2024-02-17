@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_839",
+        "to": "CRAWLER",
+        "subject": "Sun Trust Bank INC.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Sun Trust Bank INC.\n5361 Us Highway 158,\nAdvance, NC U.S.A\nDear Beneficiary\nI am Mr Mark Wegener the managing director of (Truist Bank NC),set up\nto fight against scam and fraudulent activities worldwide. This group\nis responsible for investigating the legitimacy of unpaid contract,\ninheritance and lotto winning claims by  companies and\nindividuals and directs the paying authorities (banks) worldwide to\nmake immediate payment of verified claims to the beneficiaries without\nfurther delay.the world bank group has mandated that your fund should\nbe release immediately the sum of $11.8usd (eleven million, eight\nhundred thousand united states dollars has been approved in your favor\nvia my desk.\nYou are being legally contacted regarding the release of your long\nawaited fund. After a detailed review of your file, the world bank\ngroup has mandated that your fund should be release immediately the\nsum of $11.8usd (eleven million, eight hundred thousand united states\ndollars has been approved in your favor via my desk. I therefore wish\nto inform you that \nyour payment is being processed and will be\nreleased to you as soon as you respond to this letter.\n( 1 ) Your Full Name\n( 2 ) Your Corrent house Address\n( 3 ) Your Phone Number:\n( 4 )Your Current Occupation.......\n( 5 }Your age.....\n{ 6}  Your Country.......\n(7). Your age.....\n(8). Sex.......\n(9). Your Next Of Kin Name......\n(10). \nYOUR IDENTIFICATION CARD ID\n.....\nHowever, be informed that this development is real and nothing\ncontrary hence you cannot be disappointed because it is not a business\nas usual. There is a committee set-up by the U.S government in power\nto monitor this arrangement to make sure that all beneficiaries dully\nreceive their money and that is why your name came up for this\ntherefore you are assured of a good result this time.\nMr Mark Wegener\nManaging Director: Sun Trust  Bank NC, U.S.A"
+    },
+    {
+        "from": "baiter_839",
+        "to": "scammer_839",
+        "subject": "Re: Sun Trust Bank INC.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Wegener,\n\nThank you for your email and the information provided. I am glad to hear that there are measures being taken against fraudulent activities worldwide.\n\nHowever, before proceeding further, I would like to clarify a few things:\n\n1. Could you please provide more details about the origin of this fund? How did my name come up in relation to this sum?\n\n2. What is the purpose of providing my card ID? I want to ensure that my personal information will be handled securely.\n\n3. Could you please provide more details about the committee monitoring this process?\n\nI look forward to your response.\n\nBest wishes,\nGina"
+    }
+]

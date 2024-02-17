@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_365",
+        "to": "CRAWLER",
+        "subject": "   Hello Sir",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Hello Sir\nHow are you doing today? I hope not bad ,well it has being a long time\nwe have not heard from you why? Please kindly understand that your\nfund is still with  us here in The Sky Bank Nigerian plc and now the\nInternational community, FBI and  Federal Government of Nigeria has\napproved The Sky Bank Nigerian plc to transfer your fund into your\nbank account but the problem we are having now is one Mr ALI  Smith\ntold us that you are dead and he is your next of Kim to clam the fund\nand he has present all the documents together with the new bank\naccount information for us  to transfer the $3.5 million part payment\nto his bank account  ...PLEASE WE  WILL LIKE TO HEAR FROM YOU IF YOU\nARE STILL ALIVE TO ENABLE  US KNOW WHAT TO DO OK\nPLEASE HERE IS THE BANK ACCOUNT HE PRESENT TO US TO TRANSFER THE FUND\nBELOW,DO YOU KNOW ABOUT IT?\nBank of America\n6901 Northwest Expressway\nOklahoma City, Oklahoma 73132\nABA: 026009593 (International)\nACCT. #:003042656833\nACCT: Name: FMS Investments Inc.\nSignatory: Floyd M. Shealy\nI will be glad to hear from you fast\nThanks\nMr Godwin Madu\nOperations Director Sky Bank plc\nTel N0:-234-901-466-9244\nEmail:-gambarii86@gmail.com  "
+    },
+    {
+        "from": "baiter_365",
+        "to": "scammer_365",
+        "subject": "Re:    Hello Sir",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Godwin Madu,\n\nI am very much alive and I have no idea who this Mr. Ali Smith is. I certainly did not authorize him to claim any funds on my behalf. \n\nPlease do not transfer any funds to the account he provided. I will provide you with the correct account details once we have verified all necessary information.\n\nThank you for bringing this to my attention.\n\nBest wishes,\nWilliam"
+    }
+]

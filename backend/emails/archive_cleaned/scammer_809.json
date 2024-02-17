@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_809",
+        "to": "CRAWLER",
+        "subject": "  Attn: ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Attn: \n Dear sir,\n Yes it is truly required and needed urgently.\n Yours faithfully,\n R. Louw\n Principal/Head of Chambers\n Riaan Louw & Associates\n Legal Practitioners/Financial Consultants\n Direct Line: +27-62-783-2117\nWE ARE FIRM OF LEGAL PRACTITIONERS WITH AREAS OF SPECIALIZATION IN BANKING LAW, CORPORATE PRACTICE AND LITIGATION - RIAAN  LOUW & ASSOCIATES        \nlouwriaan@yahoo.com\n "
+    },
+    {
+        "from": "baiter_809",
+        "to": "scammer_809",
+        "subject": "Re:   Attn: ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello R. Louw,\n\nThank you for your prompt response. I'm glad to hear that the information is urgently needed. Could you please elaborate on what specific details are required? I'm eager to assist, but I need a bit more clarity on what exactly is needed.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJoseph"
+    }
+]

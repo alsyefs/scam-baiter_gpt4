@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_523",
+        "to": "CRAWLER",
+        "subject": "   sir, you can only use our B",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   sir, you can only use our Bitcoin Wallet to send it if you want your fund   "
+    },
+    {
+        "from": "baiter_523",
+        "to": "scammer_523",
+        "subject": "Re:    sir, you can only use our B",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir,\n\nThank you for your response. However, I would like to clarify that I am not comfortable using Bitcoin Wallet for transactions due to personal reasons. Is there any other method of payment that we could use? \n\nLooking forward to your response.\n\nBest regards,\nLewis D.\n\nBest wishes,\nAnthony"
+    }
+]

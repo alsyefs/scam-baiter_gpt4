@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1091",
+        "to": "CRAWLER",
+        "subject": "Do you need a loan? We offer l",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Do you need a loan? We offer loans at 3% interest rate. If you are interested, contact us and let us know how much you need. Mrs Maria"
+    },
+    {
+        "from": "baiter_1091",
+        "to": "scammer_1091",
+        "subject": "Re: Do you need a loan? We offer l",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mrs. Maria,\n\nThank you for your offer. At the moment, I am not in need of a loan. However, I will keep your contact information for future reference.\n\nBest wishes,\nLeroy"
+    }
+]

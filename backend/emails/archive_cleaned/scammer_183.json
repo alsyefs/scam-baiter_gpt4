@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_183",
+        "to": "CRAWLER",
+        "subject": "Seasons Greetings,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Seasons Greetings,\n We will like to present this offer of investment funding reminder of your Interest, as Our Investor are willing to make investment funding available for your investment use immediately in your country, yesterday the 8th of February 2021 procedures meeting was held on your favor to enable us have the Confidential Agreement Procedures document send to you if you are interested with this offer for investment business funding opportunity, we will appreciate that you have the below information send to us for the preparation of the Agreement  documents with the term.\nIt is my keen interest to have you outline briefly on what area of investment you want to invest the fund in, So I will like this transaction be conclude next week with you now that we have willing investor who are ready to conclude on this transaction as soon as possible, I will appreciate you immediately have below information send to me.\nWaiting for reply for the procedures immediately, upon your reply I will prove you my direct WhatAAp number for easy communication; I will be expecting your response For More Clarification as soon we have your reply.  Note: I have a hearing disability from military service..\nAlways At your Service.\nBest Regards.\nN/B: WHILE SUBMISSION OF THE ABOVE INTAKE DOCUMENTS, INCOMPLETE PACKAGES WILL NOT BE ACCEPTED and ALL SUBMISSIONS MUST BE IN ENGLISH"
+    },
+    {
+        "from": "baiter_183",
+        "to": "scammer_183",
+        "subject": "Re: Seasons Greetings,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nThank you for your email and the offer of investment funding. I am indeed interested in this opportunity and would like to proceed further.\n\nAs for the area of investment, I am considering several sectors including technology, real estate, and renewable energy. However, I would appreciate if we could discuss this in more detail to understand the preferences and guidelines of your investors.\n\nPlease provide me with the necessary agreement documents and procedures so that we can move forward. \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nTodd"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_41",
+        "to": "CRAWLER",
+        "subject": "  Hello Good Day ,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Hello Good Day ,\n \nThe sum of $3.2 million out of your overdue total sum has been approved for payment through the ATM cash card system after all attempts to pay you through bank, diplomatic and courier failed. The approved sum will be programmed into an ATM cash card and dispatched to your address.\nWe made Several attempts to contact you and this is the 3rd and perhaps the last email to you in respect of this matter. We received a power of attorney from one JOHN GRIMLEY from the USA, asking us to change the beneficiary to him stating that you have been sentenced to life imprisonment hence we are seeking for your confirmation.\n \nHe has also submitted his account for us to transfer the funds to him. Mr.John Grimley account coordinate is as stated below:-\nBank: Bank of America\n1121 N 205th St, Shoreline, Wa 98133.\nBank routing number: 125000024.\nBank account number: 5319678606.\nAccount Holders name: John Grimely\nWe want to hear from you before we can make the transfer, and also to confirm if his claim of you being imprisoned is true or not. And provide your personal information stated below along with our handling and delivery charge of $186 Dollars to enable us process and transfer your contract funds successfully to you.\nYOUR FULL NAME----------\nYOUR ADDRESS---------\nYOUR OCCUPATION-----\nYOUR AGE.-------------\nYOUR TELEPHONE NUMBER/FAX LINE (MOBILE)----------\nPRIVATE EMAIL:---------\n \nYours respectfully\nKabiru Ahmed\nDirector Operations\nInland Revenue Board Nigeria   "
+    },
+    {
+        "from": "baiter_41",
+        "to": "scammer_41",
+        "subject": "Re:   Hello Good Day ,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Kabiru Ahmed,\n\nI am surprised to receive your email. I can assure you that I am not imprisoned and have no knowledge of a John Grimley. It seems there has been some misunderstanding or miscommunication.\n\nHere are my details:\n\nFull Name: Eliza Dane\nAddress: 1234 Elm Street, Sydney, Australia\nOccupation: Software Engineer\nAge: 35\nTelephone Number: +61 2 9876 5432\n\nPlease let me know the next steps in this process.\n\nBest wishes,\nJames"
+    }
+]

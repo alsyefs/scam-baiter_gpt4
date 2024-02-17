@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_250",
+        "to": "CRAWLER",
+        "subject": "  FedEx  TOGO DU REPUBLIC Inte",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  FedEx  TOGO DU REPUBLIC International Delivery\nThank you again for bringing this matter to our attention.\nFedEx   Corporate Compliance & Ethics\nFraud Report Management.\nDelivery To The Whole World .\nTEL:  +228 98624552\n \nYou are welcome to FedEx COURIER COMPANY LTD with world wide delivery at its best. We are pleased to be at your service.  FedEx COURIER COMPANY LTD   is Regulated and Stipulated by the Delivery Service Authority (DSA), the delivery institutions that REGULATES all delivery activities in Benin. This office has been notified by your partner Rev. Williams Christopher of Your Sealed Metallic  package deposited in our company with code (2661477)\n \nAttn: Beneficiary\nWe have received Your Full Name and mailing address where to deliver your package and the Government has paid your consignment box Delivery fee and the only fee you have to pay  to us is your package SECURITY KEEPING CHARGE :$70  United States Dollars which your package accumulated since it was under the Safe keeping of  the  SECURITY DEPARTMENT  before we can dispatch your Cargo for delivery.\n \n============================== =========\nSECURITY KEEPING CHARGE : $70\n============================== =========\n \nBe  Informed  that the  SECURITY KEEPING FEE of  your  package will keep increasing  until you pay the SECURITY KEEPING   DEPARTMENT of  the FedEx to Release your package  for urgent delivery.\n \nPAYMENT INFORMATION (WESTERN UNION RIA OR MONEYGRAM TRANSFER\n \nFirst name : Jane\nLast name : David\nCity : Lome\nCountry : Republic of Togo\n \nPAYMENT DETAILS TO SEND TO US\n \nMoney transfer control number (MTCN)\nSender's Name\nSender's address.\n \nMODE OF DIPLOMATIC DELIVERY.\n \nAs soon as we receive the SECURITY KEEPING, your package will be shipped to you and the Airway bill will be sent to you immediately to track your Cargo to your given address within 48 Hours. Our agent will call you on arrival to your country to hand over your package to you.\n \nCONFIDENTIALITY NOTE\n \nThe information contained in this message is confidential. This message is intended to be read only by the person named above. The unauthorized use, disclosure, copying or alteration of this message is strictly prohibited. If you have received this mail and did not request it please discard with urgency. This mail was sent on behalf of package delivery  in FedEx delivery code of Conduct.\nRegistered Trademark\n FedEx delivery code of Conduct.   "
+    },
+    {
+        "from": "baiter_250",
+        "to": "scammer_250",
+        "subject": "Re:   FedEx  TOGO DU REPUBLIC Inte",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello,\n\nThank you for your detailed message. I'm quite intrigued by the process of this delivery service. It's fascinating how it all works, isn't it? \n\nI do have a few questions though, if you don't mind. Could you please explain more about the Delivery Service Authority DSA? And what exactly does the security keeping fee entail?\n\nAlso, could you provide more information on the mode of diplomatic delivery? How does that work and what makes it different from regular delivery?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nGeorge"
+    }
+]

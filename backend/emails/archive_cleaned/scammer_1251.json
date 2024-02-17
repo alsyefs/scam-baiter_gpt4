@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1251",
+        "to": "CRAWLER",
+        "subject": "   KINDLY FIND A WAY TO GO ARO",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   KINDLY FIND A WAY TO GO AROUND THIS STEP, I WILL ADVISE THAT YOU FILL AND SIGN THE NDA FOR US TO OPEN PROPER DISCUSSION   "
+    },
+    {
+        "from": "baiter_1251",
+        "to": "scammer_1251",
+        "subject": "Re:    KINDLY FIND A WAY TO GO ARO",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nI understand the importance of the Non-Disclosure Agreement (NDA) in this process. However, I would appreciate if you could provide more details about the next steps after signing the NDA. This will help me to better prepare for our upcoming discussions.\n\nLooking forward to your response.\n\nBest wishes,\nMargarita"
+    }
+]

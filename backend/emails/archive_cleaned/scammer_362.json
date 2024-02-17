@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_362",
+        "to": "CRAWLER",
+        "subject": "   Good day. I know that this ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Good day. I know that this message may surprise you, as we have not\nmet or seen each other for the first time. Please, I want you to just\naccept it with good faith and you will not be disappointed.\nI got your Email through foreign business directory here in Nigeria\nand I then picked Keen interest to do this transaction with you if\nacceptable by you.\nI am a staff of Nigeria Centre for Disease Control (NCDC), and we were\nmandated to supply face masks, hand sanitizer and other items to our\ngovernment for protection of the citizens against COVID-19 pandemic.\nThe items have been supplied through a USA firm at the cost of $10.5\nUSD Million only.\nWe influenced the contract amount to the tune of  $15 USD Million for\nthe purpose to enrich ourselves with $4.5 Million. Now the contractor\nduly paid and it remains the over invoiced sum floating in a bank in\nthe USA for the rightful beneficiary to come and claim.\nBasically, we are looking for whom we shall present as the contractor\nto have the remaining balance of US$4.5 Million released to his/her\nbank account since we can not claim it here without a foreign partner.\nFinally,  please kindly delete this message if you are not interested,\nor I will send you more details as soon as I hear from you.\nIf interested, contacts:\nEmail: (\ndrstephenoyeguncare2020@gmail.com\n)\nWith regard,\nDr.Stephen Oyegun.\nHead Contract Award, NCDC.   "
+    },
+    {
+        "from": "baiter_362",
+        "to": "scammer_362",
+        "subject": "Re:    Good day. I know that this ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Oyegun,\n\nI hope this message finds you well. Your email certainly did surprise me, but I'm always open to new opportunities and experiences. It's interesting to hear about your work with the Nigeria Centre for Disease Control, especially during these challenging times.\n\nI must admit, I'm not entirely clear on the details of your proposal. Could you perhaps explain a bit more about how this process works? How would I be presented as the contractor? And what would my responsibilities be in this scenario?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nElla"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1222",
+        "to": "CRAWLER",
+        "subject": "  Dear Sir/Madam, ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Sir/Madam, \n \nYou can apply for the loan while you are in your country. We can assist you from South Africa. \n \nPlease kindly complete the attached loan application form and return back to us by email with the following requirements; \n1. Copy of your ID document.\n2. Your 1-2 months bank statement or proof of income. \n \nPlease kindly send us all requirements via email OR WhatsApp. \n \nUpon receipt of the above cited documents, we shall carefully process your application and notify you with the outcome same day. \n \nFor more info, do not hesitate to contact us. \n \nRegards,\nMichelle Alinda\nLoan Officer\nTel / WhatsApp No: +27 78 565 4277   "
+    },
+    {
+        "from": "baiter_1222",
+        "to": "scammer_1222",
+        "subject": "Re:   Dear Sir/Madam, ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Michelle Alinda,\n\nThank you for your response. However, I would like to clarify a few things before proceeding with the loan application. \n\nFirstly, could you please provide more information about the terms and conditions of the loan? Specifically, I am interested in knowing the interest rate, repayment period, and any additional fees that may be associated with the loan.\n\nSecondly, could you please explain why you need a copy of my ID document and bank statement? I understand that these documents are typically required for credit checks, but I would appreciate if you could confirm this.\n\nLastly, could you please provide your company's physical address and contact number? This is for my personal records and to ensure that I am dealing with a legitimate business.\n\nI look forward to hearing from you soon.\n\nBest wishes,\nAnna"
+    }
+]

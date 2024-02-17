@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1343",
+        "to": "CRAWLER",
+        "subject": "   Greetings,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Greetings,\nCan you kindly email back the swift  payment receipt .\nRegards "
+    },
+    {
+        "from": "baiter_1343",
+        "to": "scammer_1343",
+        "subject": "Re:    Greetings,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nI hope this message finds you well. I'm sorry, but I don't seem to have a swift payment receipt on hand at the moment. Could you possibly provide me with more details about this? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nScott"
+    }
+]

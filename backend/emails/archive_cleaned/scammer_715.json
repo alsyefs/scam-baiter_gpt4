@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_715",
+        "to": "CRAWLER",
+        "subject": "   Sir,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Sir,\n \nI do sincerely hope that you and your lovely families are doing great to the glory of God Almighty.\n \nMy name is Mr Victor Lee, The international remittance director of the Industrial and commercial bank of China (ICBC) African regional office, though previously with the ICBC bank international head office in Beijing China.\n \nI have decided to send to you this brief message just because I can not continue to see you go through all what you have been passing through in the hands of those that you call your partners and in conjunction with some officials of the bank.\n \nAnyway as I said above I am in charge of international fund release and one of your partners approached me for an assistance a long time ago which I obliged him with a promise to show me some appreciation but regrettably he decided to drop me to the cleaners by keeping me blind thereby failed in keeping to his promise.\n \nOn that note therefore I decided to frustrate every move towards the successful completion of his transaction having realized that he collects money from you without doing the required needful.\n \nThis brief message serves therefore to inform you that I can offer assistance to you unnoticed by assisting you to set up an online account with our bank which less stressful, however you can still settle or show appreciation to your partners once your online account is successfully set up and its subsequent usage by you.\nMore details when I hear from you.\n \nRegards,\n \nMr. Victor Lee   "
+    },
+    {
+        "from": "baiter_715",
+        "to": "scammer_715",
+        "subject": "Re:    Sir,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Victor Lee,\n\nThank you for your message and your concern about my situation. I appreciate your offer to assist me in setting up an online account with the Industrial and Commercial Bank of China (ICBC). \n\nHowever, before we proceed, I would like to understand more about this process. Could you please provide more details about how this online account will work and what steps I need to take? \n\nI look forward to hearing from you soon.\n\nBest wishes,\nJames"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_55",
+        "to": "CRAWLER",
+        "subject": "  Good Day",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Good Day\nI know this might come as a surprise to you considering the amount of junk emails we all receive on a daily basis. I can assure you that I am not one of them; I would appreciate it if the content of this email is kept strictly confidential.\nI have decided to contact you due to the urgency of this transaction and the current financial situation of the world at the moment.\nA brief introduction about me, I am Mr. Alfred Palmer a bank manager here in the UK. I have worked here for a little more than 16 years. I am contacting you concerning an abandoned account in the sum of £10million Pounds. I was the account manager to the late Mr. Philemon Juan Smith, a foreign contractor to the department of works and housing who has an investment account with our bank. Late Mr.  Philemon Juan Smith died without any named beneficiary or a WILL to the account. According to practice, the Private banking sector will by the end of 2023 broadcast a request for statement of claim to my Bank, failing to receive viable claims they will probably revert the deposit to the ownership of the UK Government Treasury according to United Kingdom Banking and financial law.\nI am proposing that after a successful execution of the business deal, the funds will be shared in the ratio of 50/50. You will get 50% and I will be entitled to 50%. You know that I must have done my homework already before contacting you. Although the project is CAPITAL INTENSIVE, I know we will be able to pull it through following proper banking and legal Channels with your assistance at your end by standing as the next of kin/Business associate to late Mr. Philemon Juan Smith. This claim will be executed without breaching any UK laws and success is guaranteed if we cooperate on this. The bank will release the account to you as the business associate and my recommendation of you as the business associate to the deceased.\nAn opportunity like this only comes once in a lifetime and I think we need the fund (10million Pounds) to take care of ourselves and family.\nI would like you to think about this and let me know your decision because such a deal happens in the banking industry but only the outside world is not aware. If you give me a positive response, I will give you the relevant INFORMATION for the successful completion of this deal and we both enjoy it in peace. All I require from you is honesty/sincerity; I guarantee that this will be executed under a legitimate arrangement that will protect you from any breach of the law.\nSincerely,\nMr. Alfred Palmer.   "
+    },
+    {
+        "from": "baiter_55",
+        "to": "scammer_55",
+        "subject": "Re:   Good Day",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Alfred Palmer,\n\nI hope this message finds you well. Your email certainly did come as a surprise! I must say, it's not every day that one receives an email of such magnitude.\n\nIt's quite unfortunate to hear about the late Mr. Philemon Juan Smith. It's always sad when someone passes away without leaving a will or any named beneficiaries for their assets.\n\nYour proposal is indeed intriguing, and I appreciate your trust in reaching out to me for this matter. However, I have a few questions if you don't mind:\n\n1) How did you find my contact information and why did you choose me for this endeavor?\n2) Could you provide more details about the legal procedures involved in claiming these funds?\n3) What kind of assistance would you need from me specifically?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nCraig"
+    }
+]

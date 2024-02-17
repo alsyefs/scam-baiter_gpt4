@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_583",
+        "to": "CRAWLER",
+        "subject": "  Namaste ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Namaste \nI write this message from the Federal Bank of India (FBI)  New Delhi.\nWe received a notice from the State Bank of India that you have not claimed your $250,000 compensation Fund from the Max Insurance Company. The State Bank of India indicates that they had\ntransferred the sum of $5000 to you through MoneyGram and the transfer receipt is attached below.\nThe below $5000 transfer was made early last money and needs to be activated before you can cash or withdraw the Fund, This activation will cost you the sum of $125 and this has to be done as\nsoon as possible to enable the Bank to transfer the rest of the amount to your Account directly.\nKindly get back to me and let me know how you can send the Activation fee over to us and we shall order the Activation of the Transfer Ref No.\nThank you, Mrs Grace Koshiega.\nDirector Federal Bank of India (FBI)\nPhone/Whatsapp: +91 93625 40689.    "
+    },
+    {
+        "from": "baiter_583",
+        "to": "scammer_583",
+        "subject": "Re:   Namaste ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mrs. Grace Koshiega,\n\nThank you for your message. However, I must inform you that I have no knowledge of any unclaimed funds from the Max Insurance Company. Could you please provide more details about this matter? \n\nI would also like to know why an activation fee is necessary for this transfer and why it wasn't deducted from the fund itself.\n\nLooking forward to your response.\n\nBest wishes,\nSandra"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_847",
+        "to": "CRAWLER",
+        "subject": "   Good day to you and your fa",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Good day to you and your family.My name is Mrs.Gina Rinehart my reason for contacting you is to donate my late husband $2,500.000.00 USD for the Less privileged people in your region due to Corona Virus.\nGet back to me if you can handle this project.\nRegards,\nMrs.Gina Rinehart.    "
+    },
+    {
+        "from": "baiter_847",
+        "to": "scammer_847",
+        "subject": "Re:    Good day to you and your fa",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Rinehart,\n\nIt's a pleasure to hear from you. Your intention to help the less privileged in my region is truly commendable, especially during these challenging times of the Corona Virus pandemic.\n\nCould you please provide more details about this project? I'm interested in understanding how exactly the funds will be used and what kind of impact we can expect to make.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nCandace"
+    }
+]

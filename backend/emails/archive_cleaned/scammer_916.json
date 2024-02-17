@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_916",
+        "to": "CRAWLER",
+        "subject": "Attention dear /madam I am wri",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attention dear /madam I am writing to inform you that I have manage to\nsecure a facilitated\nchannel for you to receive your ATM VISA CARD, to avoid you paying\ncharges Taxes etc being the nature of the transaction, the ATM VISA\nCARD will be sent via this Company Name: Impex Security Company\nDirector Name: Don Mark\nE-mail Address is: ( \nmpxscrtcompany@gmail.com\n ) by the Crediting Bank by USBank.\nPlease,\n I request that you reconfirm the following details to the\nCompany before they connect to you with a tracking number to track\nyour package.\n(FULL NAME):\n(OFFICE OR HOME ADDRESS):\nTELEPHONE NUMBERS:\n(COUNTRY:\n( STATE:\n( YOUR NEAREST AIRPORT:\nYour Current email:\nYours Faithfully,\nMr. Jack Francis FCB Manager"
+    },
+    {
+        "from": "baiter_916",
+        "to": "scammer_916",
+        "subject": "Re: Attention dear /madam I am wri",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Jack Francis,\n\nThank you for reaching out to me! I'm thrilled to hear about this opportunity with the ATM VISA CARD. It sounds like a fantastic arrangement, and I appreciate your efforts in securing this channel.\n\nHowever, before we proceed further, could you please provide more details about this? For instance, how did you manage to secure this channel? And what exactly does it mean that I won't have to pay charges or taxes?\n\nI'm also curious about the tracking number you mentioned. How will that work? Will it allow me to monitor the progress of my package?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJoan"
+    }
+]

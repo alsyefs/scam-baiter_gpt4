@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_54",
+        "to": "CRAWLER",
+        "subject": "Cancellation Letter",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Cancellation Letter\nATTENTION DEAR BENEFICIARY\nNotification Cancellation Letter from the federal rules of law\nSays that any abandon fund or unclaimed fund should be cancel if the owner\nfails to follow the rules of law, and pay the needed fee to complete\nthis transaction successfully, in the federal Court of law\nany unfinished foreign transaction from 2 mounts to one year have\nto be cancel or the fund owner have to obey the recent law and pay the\nneeded fee.\nIn federal point of view you are to choose and sign if this\npayment of US$4.8,million US dollars should be cancel or not then make\nchoice and sign (Yes ) or (No) (continue) or (stop)or this\napproved payment will be divert into Government account period.\nTry to Confirm your details if you still want your total fund,the\nonly money you will is sum of $200 usd only to sign your ownership\ncertificate, no any kind of fee will ever ask from after this,confirm\nyour details and provide the fee to get successful\nReceiver's Name__\nAddress: ____\nCountry: ____\nPhone Number: ___\nConfirm your Bank details_\nYour ID\n-----------\nBest Regards Dr.\nMrs. Gloria Uba"
+    },
+    {
+        "from": "baiter_54",
+        "to": "scammer_54",
+        "subject": "Re: Cancellation Letter",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mrs. Gloria Uba,\n\nThank you for your message. It's quite interesting to hear about this unclaimed fund situation. I must admit, I'm not very familiar with the federal rules of law regarding such matters.\n\nCould you please explain a bit more about these rules? How does it usually work when someone has an unclaimed fund? And what is the purpose of the fee that needs to be paid?\n\nAlso, could you clarify what you mean by \"signing my ownership\"? What exactly would I be signing and why is it necessary?\n\nI appreciate your help in understanding this better.\n\nBest wishes,\nDoris"
+    }
+]

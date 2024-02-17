@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_46",
+        "to": "CRAWLER",
+        "subject": "  Interim Assistance General M",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Interim Assistance General Manager.\nOperations, Maintenance, Transportation\nNorfolk International Airport\n2200 Norview Ave, Norfolk, VA 23518\nVirginia, United States of America\nYour Abandoned Package For Delivery\nDear \nI acknowledge the receipt of your mail.\nIf you attempted to transfer from my Chase bank branch, what was the response? If it does not work I urge you to take the money and walk into any Bank of America bank close to you and make a cash deposit to the same account and get back to me with a scanned transfer/transaction slip as earlier stated for confirmation.\nAs soon as the officer in charge of issuing the clearance certificate confirms you have made the payment of USD$850.00 for the demurrage fee, I will make my flight schedule available to you to know my time of arrival in your city with the consignment tomorrow.\nI hope you recognise my effort so far in this process, in ensuring safe delivery and to guide against any unforeseen circumstance.\nI wait for your urgent compliance.\nWarmest regards,\nReymond Adams\nInterim Assistance General Manager,\nOperations,Maintenance,Transportation\nNorfolk International Airport\n2200 Norview Ave, Norfolk, VA 23518\nVirginia, United States of America\nGod Bless America  "
+    },
+    {
+        "from": "baiter_46",
+        "to": "scammer_46",
+        "subject": "Re:   Interim Assistance General M",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Reymond Adams,\n\nThank you for your email. I appreciate your efforts in ensuring the safe delivery of my package. \n\nI'm a bit confused about the process though. Could you please explain why I need to pay a demurrage fee? And what exactly is a demurrage fee? \n\nAlso, could you provide more details about this package? I don't recall expecting any deliveries.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAmanda"
+    }
+]

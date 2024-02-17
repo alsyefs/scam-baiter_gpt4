@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1093",
+        "to": "CRAWLER",
+        "subject": "Dear Client customer,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear Client customer,\nWith due respect, I write to inform you about our banking instrument offer.\nI can help you secure a non recourse instrument (BG/SBLC).\nFind attached the relevant documents LOI/DOA of our SBLC/BG procedures and a template to guide your application process on our Lease and purchase\narrangement.\nWe await your soonest response so we can formalize the process and\nkick-start the operation because the provider is capable and I have\nsuccessfully closed transaction in the past with him.\nFor a faster communication, I can be reached on WhatsApp phone contact\nnumber +44 7903115557.\nSincerely,\nPaul Andrew"
+    },
+    {
+        "from": "baiter_1093",
+        "to": "scammer_1093",
+        "subject": "Re: Dear Client customer,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Paul Andrew,\n\nThank you for reaching out and providing such detailed information. I'm intrigued by your offer of a banking instrument. However, I must admit that I'm not entirely familiar with the terms BG SBLC. Could you please explain what these are and how they might benefit me?\n\nAlso, you mentioned attached documents but I didn't find any in your message. Could you kindly resend them? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRandy"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1332",
+        "to": "CRAWLER",
+        "subject": "Attention:Beneficiary,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attention:Beneficiary,\nHave you received your payment which was scheduled to be remitted to you on 27th Janary 2024. You have to confirm back to this investigation office if you have been fully paid and compensated.\nKindly specify the following below:\nFULL NAME:\nAMOUNT TRANSFERRED:\nAMOUNT EXPECTING:\nDIRECT MOBILE NUMBER:\nI will be waiting to hear from you immediately. Get back to me on my direct email address: (\nunitednationassistedprogam@gmail.com\n)\nThank You.\nMr Philip Brown\nFunds investigator"
+    },
+    {
+        "from": "baiter_1332",
+        "to": "scammer_1332",
+        "subject": "Re: Attention:Beneficiary,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Philip Brown,\n\nI'm afraid there seems to be some confusion. I have not received any payment nor was I expecting one. Could you please provide more details about this supposed transaction?\n\nBest wishes,\nTara"
+    }
+]

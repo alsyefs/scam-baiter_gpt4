@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_995",
+        "to": "CRAWLER",
+        "subject": "ATTENDTION, Behold, This is Mu",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "ATTENDTION, Behold, This is Muhammad Buhari GCFR, The outgoing\npresident of the Federal Republic of Nigeria. During my executive\nmeeting with director Central bank, the Minister of Foreign affairs\nand EFCC chairman, I was told that the sum of US$1 billion dollars\nbudgeted to pay all the defrauded victims that your name included was\nstill in the Debts settlement management account and they refused to\ndistribute said funds to the rightful beneficiaries due to greedy and\nselfishness. I have tackled this very issue on my speech last week at\nPresidential forthcoming election campaign where I categorically\nstated that every beneficiary shall receive his/her fund before I\nhandover power to new administration on May 28, 2023\nHowever, I order the banking sector to make these funds available for\nremittance or delivery to beneficiaries and through some collective\nidea I would sincerely apologize for what you have been through and to\nthose using my name, images and various fake documents to extort\npeople’s money shall brought to the book for prosecution and possibly\ngo to jail for making this country (Nigeria) into disrepute before the\nUnited Nations. As the power vested in me as Incumbent president I\nassure you that your fund will be released to you by all legal tenders\nto carry out your transaction respectively. It's the proper time to\nrebuild the trust you have in this country and all your lost hope will\nbe restored back as you are now privileged to communicate directly\nwith me.\nSincerely\nMuhammadu Buhari GCFR\nPresident Federal Republic of Nigeria"
+    },
+    {
+        "from": "baiter_995",
+        "to": "scammer_995",
+        "subject": "Re: ATTENDTION, Behold, This is Mu",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Muhammadu Buhari GCFR,\n\nIt's a pleasure to receive your message. I'm quite surprised to hear about this situation, but I appreciate your efforts in trying to rectify it. \n\nCould you please explain more about how these funds will be distributed? And what steps are being taken to ensure that such fraudulent activities do not occur again in the future?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nCrystal"
+    }
+]

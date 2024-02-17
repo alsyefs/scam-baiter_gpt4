@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_875",
+        "to": "CRAWLER",
+        "subject": "ATTN.beneficiary ..",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "ATTN.beneficiary ..\nIt's a pleasure to informs you that our new president Joe Biden of\nUnited State American\n was on earlier this morning declared and given\norder to release all compensation and Inheritance payments sending\nthrough Bank to bank transfer, Consignment trunk box, ATM Card and\nCashier Check that has been ceased due to beneficiaries inability to\ncomply as law demands which your compensation payment worth\n$4.200,000.00 is inclusive in that matter\nAccording to the general speaker of the US government said on behalf\nof Mr president's speech that every abandoned funds at Bank, custom\ncustody or at Airport shall be released today as soon as they paid as\nsoon as you write back to this new management authorized by the US\ngovernment to handle your payment.\nThank you and remain bless,\nMr Sak Roberto\nEmail Address to contact our office /    \nMrssakroberto2018@gmail.com"
+    },
+    {
+        "from": "baiter_875",
+        "to": "scammer_875",
+        "subject": "Re: ATTN.beneficiary ..",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Sak Roberto,\n\nThank you for your message and the information provided. It's quite interesting to hear about these developments from President Joe Biden's administration.\n\nCould you please elaborate more on this new policy? How does it work exactly? And how does it affect individuals like me?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nPatricia"
+    }
+]

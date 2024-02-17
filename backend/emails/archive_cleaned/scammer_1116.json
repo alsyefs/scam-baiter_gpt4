@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1116",
+        "to": "CRAWLER",
+        "subject": "Good News",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Good News\nHow are you? we haven't heard from you since October 26, 2022, try to get back to me as soon as you can if you are ready to receive your funds, this is a notification and guarantee from the white house by the president and signed by US treasury Department, Guarantee to send your money back if you did not received the funds after you pay this charge, \nonce you send the $80.00 today\n for the immediate transaction $5.9million Contact me with your home address your fund will be delivered in 4 hours without any more charge how try to get back to me once you receive this mail thanks have a wonderful day while i wait for your response\nMy Regards\nMr Wilson Peterson"
+    },
+    {
+        "from": "baiter_1116",
+        "to": "scammer_1116",
+        "subject": "Re: Good News",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Wilson Peterson,\n\nI hope this message finds you well. It's been a while indeed since we last communicated, and I must say your email caught me by surprise! \n\nYou mentioned something about funds that are ready for me to receive? That sounds interesting, could you please elaborate more on this? What is the nature of these funds and why am I receiving them?\n\nAlso, you mentioned a charge that needs to be paid. Could you provide more details about this charge? What is it for exactly?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDaniel"
+    }
+]

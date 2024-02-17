@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_118",
+        "to": "CRAWLER",
+        "subject": "   My dear Beloved ,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   My dear Beloved ,\nI really dont know why printing out the form will trigger your anti virus . As far as i know the document i sent to is totally virus free.\nFind a way to get it done\nGod bless you\nWarmest Regards\nMrs Lisa Bamford   "
+    },
+    {
+        "from": "baiter_118",
+        "to": "scammer_118",
+        "subject": "Re:    My dear Beloved ,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mrs. Lisa Bamford,\n\nI apologize for the confusion, but it seems there was a misunderstanding. I didn't mention anything about a virus or printing out a form. Could you please clarify what you're referring to?\n\nBest wishes,\nAnthony"
+    }
+]

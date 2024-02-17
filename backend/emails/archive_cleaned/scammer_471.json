@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_471",
+        "to": "CRAWLER",
+        "subject": "Global Lottery ©",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Global Lottery ©\n2601 West 7th St. Fort Worth, Texas 76107\nUnited State\nHello Dear \nWe are delighted to inform you of your winning prize of $850,000.00 from the US Global Lottery Programme. Which is \nfully based on an electronics election of winners using their e-mail addresses\n, your E-Mail was attached to:-\nREFERENCE NO 0095109\nLUCKY NO: 5,7,14,17,18,43\nBATCH: 8056490902/188\nYou hereby have been approved a lump sum of $850,000.00 (Eight Hundred and fifty Thousand United state Dollars) in cash.\nAll participants were selected through a computer balloting system drawn from Nine hundred thousand E-mail addresses from Canada, Australia, United State, Europe,Middle East, Africa and Oceania as part of our International Promotions Program which is conducted annually. This Lottery was promoted and sponsored by conglomerate of some multinational companies as part of their social responsibility to the citizens in the communities where they have operational base.\nHOW TO CLAIM YOUR PRIZE,\nSimply Contact Our Fiduciary Agent To File For Your Claim. Quote your reference, batch and winning number to\nName: Frank Itis\nE-mail \nfrankiitis54@gmail.com\n \nThank you for being part of this Promotional Lottery Program.\nYours Sincerely,\nEmma Isabella (online Coordinator)\nCopyright © 2022 Us Global Lottery! All rights reserved!!!"
+    },
+    {
+        "from": "baiter_471",
+        "to": "scammer_471",
+        "subject": "Re: Global Lottery ©",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Emma Isabella,\n\nI am thrilled to hear about my winning prize from the US Global Lottery Programme. This is indeed a pleasant surprise!\n\nAs per your instructions, I am ready to contact the Fiduciary Agent to file for my claim. However, it seems that some details are missing in your message such as the reference number, batch number and the contact information of the Fiduciary Agent.\n\nCould you please provide these missing details so that I can proceed with claiming my prize?\n\nThank you for your assistance.\n\nBest wishes,\nWilliam"
+    }
+]

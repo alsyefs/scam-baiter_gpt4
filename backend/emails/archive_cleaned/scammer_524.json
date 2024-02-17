@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_524",
+        "to": "CRAWLER",
+        "subject": "  ATTN ;BENEFICIARY,  ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  ATTN ;BENEFICIARY,  \nSEQUEL TO OUR PREVIOUS MASSAGE AND THE MEETING HOLD ON THE 15/9/2023,\nIT HAS BEEN CONCLUDED AND AGREED THAT YOUR FUND WILL BE BROUGHT TO YOU\nIN YOUR HOME. MEANWHILE, I WOULD LIKE TO INFORM YOU THAT THE NATIONAL\nSECURITY COMPANY AND HAS PERFECTED ALL ARRANGEMENT FOR THE IMMEDIATE\nDELIVERY OF YOUR AND FOLLOWING IS WHAT WE AGREED ON.THE NATIONAL\nSECURITY COMPANY WILL SEND A REPRESENTATIVE I.E.INTERNATIONAL\nCONSULTANT BANKER TO MEET WITH YOU ONE ON ONE IN COUNTRY BEFORE THEY\nWILL DELIVER YOUR FUND. THEREFORE YOUR QUICK RESPONSE ON THIS MASSAGE\nSO THAT WE CAN NOT MAKE MISTAKE OF TAKING YOUR FUND TO A WRONG PERSON.\nYOU ARE THEREFORE ADVISE TO RECONFIRM THE FOLLOWING\n1, YOUR FULL NAME;.................................…\n2,ADDRESS.;.................................................\n3,PHONE NUMBER;..................................\nTO ENABLE US CONCLUDE. URGENT\nTHANKS.YOUR FAITHFULLY\nMR  MARK  DAVIS   "
+    },
+    {
+        "from": "baiter_524",
+        "to": "scammer_524",
+        "subject": "Re:   ATTN ;BENEFICIARY,  ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Mark Davis,\n\nThank you for your message. It's quite exciting to hear about this fund! I'm curious, how was it decided that the fund would be brought to my home? That seems like a very unique arrangement.\n\nAlso, could you tell me more about the National Security Company and their role in this process? And who is the consultant banker that will meet with me?\n\nI appreciate your request for my full name and number, but I'd feel more comfortable sharing such information once I understand more about this situation. \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nRyann"
+    }
+]

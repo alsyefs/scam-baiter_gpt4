@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1102",
+        "to": "CRAWLER",
+        "subject": "   Kindly send the following i",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Kindly send the following information:\n1. Full Name:\n2. Age:\n3. Sex:\n4. Address:\n5. Occupation:\n6. Private Email Address:\n7. Country of origin:\n8. Country of resident:\n9. Telephone:\n10. Fax Numbers:   "
+    },
+    {
+        "from": "baiter_1102",
+        "to": "scammer_1102",
+        "subject": "Re:    Kindly send the following i",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Marykate Purchia,\n\nThank you for your prompt response. Here are the details you requested:\n\nFull Name: Lewis D. Noogie\nAge: 45\nSex: Male\nAddress: 1234 Novosibirsk Street, Riga, Latvia LV-1001\nOccupation: Hotel Consultant\nPrivate Email Address: lewis.noogie@email.com\nCountry of origin: Latvia\nCountry of resident: Latvia\nTelephone: +371 12345678\nFax Numbers: +371 87654321\n\nI look forward to hearing from you soon.\n\nBest regards,\nLewis D.\n\nBest wishes,\nPatrica"
+    }
+]

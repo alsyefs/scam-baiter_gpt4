@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_588",
+        "to": "CRAWLER",
+        "subject": "  Dear Beneficiary,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Beneficiary,\nThis is to officially inform you that a payment of 25,000,000.00 GBP\n(Twenty Five Million British Pound Sterling) has been approved to be\nreleased to you.\nPlease acknowledge receipt of this message for more details.\nYours Faithfully,\nMrs.Lindsey Whyte\nDirector General, International Finance   "
+    },
+    {
+        "from": "baiter_588",
+        "to": "scammer_588",
+        "subject": "Re:   Dear Beneficiary,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Whyte,\n\nThank you for your message. I am intrigued by the prospect of receiving such a substantial sum. Could you please provide more details about this payment? How did it come to be approved for me?\n\nLooking forward to your response.\n\nBest wishes,\nRuth"
+    }
+]

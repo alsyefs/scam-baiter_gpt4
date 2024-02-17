@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_1118",
+        "to": "CRAWLER",
+        "subject": "Hello,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hello,\nMy email is  about a business proposal we can both be involved in\ntogether.  Reply for further details please.\nMr Peter Wong"
+    },
+    {
+        "from": "baiter_1118",
+        "to": "scammer_1118",
+        "subject": "Re: Hello,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Peter Wong,\n\nI'm intrigued by your proposal and would love to hear more about it. Could you please provide some more details? What kind of business are we talking about here?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nEzra"
+    },
+    {
+        "from": "scammer_1118",
+        "to": "baiter_1118",
+        "subject": "Re: Hello,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "body": "Greetings from Hong Kong, I hope my email reaches you in good health. This\r\nis to acknowledge receipt of your email, and the content of your email was\r\nwell understood. I apologise for the unsolicited letter I sent to you, but\r\nit was as a result of the prevailing circumstances and urgency surrounding\r\nthis inheritance claim that I decided to reach you that way.   I must\r\nexpress my profound gratitude to you for finding the time to respond to my\r\nletter.\r\n\r\nI want to use this great opportunity to assure you that, as far as I am\r\nconcerned, this claims process is 100% risk-free on your side, and if you\r\ncooperate fully with me by adhering to my instructions and advice, there\r\nwould be no hindrance in the execution of this transaction. Inclusively,our\r\ndealings must be kept 100% confidential from both ends because of my\r\nposition in the deal. I guarantee that all modalities will be put in place\r\nto secure all legal backup documents that will register you legally as the\r\nlegitimate next of kin to the late client.\r\n\r\nThe Hong Kong government has established an Independent Commission on\r\nDormant Assets to confiscate all unclaimed funds and dormant accounts. The\r\ncommission has uncovered 2 billion United States dollars in unclaimed\r\nassets across a variety of financial services, including insurance\r\nproducts, stocks and shares, and pensions. The board of directors of our\r\nbank has now adopted a resolution that if the next of kin of our deceased\r\ncustomer does not show up for the payment of this money, the money will be\r\ndeclared an abandoned fund and be forwarded to the Hong Kong government\r\ncoffers as unclaimed funds. Our bank has planned to confiscate the funds\r\nafter the expiration of the period given to me.\r\n\r\nEssentially,your assistance is required to fit you in as the next of kin to\r\nmy late client The fact that your last name matches that of our deceased\r\nclient makes you eligible to stand for claims as his next of kin or\r\nbeneficiary. Please note that at this present time, you are the only person\r\nI have contacted, and I started this research recently because the due date\r\ngiven to apply for claims is fast approaching. As a professional banker\r\nwith many years of banking experience, the required instruments to bring\r\nthis inheritance claim to fruition in adherence to all international\r\nmonetary laws are at my disposal.\r\n\r\nYour role is to be presented as the next of kin to the deceased funds, and\r\nas the credit and investment director, I will provide the evidence to\r\nattest to this. I strongly believe we can conclude this transaction within\r\n21 banking days.\r\n\r\nHow to Proceed:\r\n\r\nFirstly, we must require the services of a reputable financial attorney\r\nhere in Hong Kong, whom I will appoint as your legal representative and who\r\nis an expert in probate-related matters. The Attorney will procure all\r\nlegal backup documents (Affidavit of Oath and Letter of Probate Without\r\nWill) in the High Court here in Hong Kong that will register your name as\r\nthe next of kin to my late client. The appropriate legal backup documents\r\nwill empower you, the next of kin, to claim the deceased funds as his legal\r\nnext of kin. All processes will be perfectly executed in a proper and legal\r\nmanner, and when all necessary documentation for the fund's release is met\r\nand satisfied, approval will be given by the board of our bank for the\r\nfund’s release to you as the next of kin and beneficiary.\r\n\r\nThe above is a very concise explanation of the entire process of this\r\ntransaction. This process will only take a few banking days to complete. As\r\nsoon as I receive your response, I will provide you with the full\r\ninformation of my late client.\r\n\r\nAs a consequence of the funds involved and my identity, please kindly keep\r\nour relationship completely surreptitious until the successful conclusion\r\nof this deal. You must note that the bank management is not aware of my\r\ncommunication with you in regards to the inheritance claim, and as such,\r\nstrict confidentiality must be adhered to at all times until we have\r\nsucceeded.\r\n\r\n\r\nBefore his demise, he deposited the sum of US$69,850,000.00 (Sixty Nine\r\nMillion, Eight Hundred And Fifty Thousand, United States Dollars) placed\r\nunder the management of our bank. The institution, being aware of his\r\ndeath, has mandated me to present a member of his family (heir/inheritor)\r\nor Next of Kin to make claims of his funds with our bank. Otherwise, it\r\nwill be confiscated by the authorities and revert back to the treasury of\r\nthe Hong Kong Government as unclaimed. This action is in conformity with\r\nHong Kong Financial Laws which stipulates that such unclaimed monies become\r\nthe property of the government in the advent of the unavailability of a\r\nnext of kin to lay claims to the estate within a specified time frame.\r\nHowever, this law is unjust and inhuman as it often creates an avenue for\r\nthe top officials of financial institutions to divert such fortunes for\r\ntheir selfish use.\r\n\r\n\r\nYours faithfully, and please kindly reply soon.\r\n\nYour Faithfully,,\r\n\r\nMr.Peter Wong"
+    }
+]

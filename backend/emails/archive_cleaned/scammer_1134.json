@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1134",
+        "to": "CRAWLER",
+        "subject": "Hello xxx,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hello xxx,\nI made it very clear to you that I want to send an ATM card worth of $3million to you by DHL to your house address. And you ask me if I am joking and I told you that I am not I only need a trustworthy person. I was sacked and the only way to move this money is by ATM card, had it been I have enough money i will come in person with the card so that we can start off our investment. Please keep this secret here is my number\n+2349081589379\nPrince"
+    },
+    {
+        "from": "baiter_1134",
+        "to": "scammer_1134",
+        "subject": "Re: Hello xxx,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Prince,\n\nWow, that sounds like an interesting proposition! I'm curious though, why would you choose to send an ATM card by DHL? Is there a specific reason for this method? Also, it must have been tough being sacked. How are you managing things now?\n\nI appreciate your trust in sharing this with me and rest assured, your secret is safe. However, I'd prefer if we continue our conversation here rather than over the phone. Looking forward to hearing more about this.\n\nBest wishes,\nLan"
+    }
+]

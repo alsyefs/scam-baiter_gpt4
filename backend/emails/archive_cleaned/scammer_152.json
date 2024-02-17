@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_152",
+        "to": "CRAWLER",
+        "subject": "   Jacobs Chambers & Solicitor",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Jacobs Chambers & Solicitors\nRoom 12, Block 8\nOffice of the Presidency,\nAso Rock Villa,\nAbuja Nigeria.\nOur Ref: Bar/Bay/Jac/Cham/001                  your Ref:.\nAttention:  Beneficiary,\nThis Office/Chambers write this email, I am the accredited attorney to the Central Bank of Nigeria (cbn) while the Board of Directors of this Apex Bank instructed Audit Department to work on some Beneficiaries file that have not receive their funds, I spotted your file and looked into it with interest and Discovered that you have spent some money, but you are yet to receive your funds, then i Decided to write to you so that you and i will work on the same mind to achieve it so that you will receive part of your funds us$10m. All I need from you is your maximum cooperation so as to enable me to spend my personal money to secure every needed / necessary Documents on your behalf here so that there will be no hitch for you to receive your funds. your own share will be 70% while my share will be 30% after the funds must have been gotten to your possession.\nSincerely Yours,\nBarr Bayo Jacobs\nAttorney at Law   "
+    },
+    {
+        "from": "baiter_152",
+        "to": "scammer_152",
+        "subject": "Re:    Jacobs Chambers & Solicitor",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Barr Bayo Jacobs,\n\nThank you for your email and the information provided. I appreciate your willingness to help me in this matter. However, I would like to understand more about the process and what exactly is required from my end.\n\nCould you please provide more details about the necessary documents that need to be secured? Also, could you clarify what you mean by \"your own share will be while my share will be after the funds must have been gotten to your\"?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nGary"
+    },
+    {
+        "from": "scammer_152",
+        "to": "baiter_152",
+        "subject": "Re: Jacobs Chambers & Solicitor",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "body": "- *[image: Image result for legal symbol]\r\n   <https://www.google.com/imgres?imgurl=https%3A%2F%2Fd2gg9evh47fn9z.cloudfront.net%2F800px_COLOURBOX24205004.jpg&imgrefurl=https%3A%2F%2Fwww.colourbox.com%2Fvector%2Flawyer-icon-justice-scales-laurel-wreath-emblem-vector-24205004&docid=JnXGOfI5i1GYJM&tbnid=bcasccWemzqeEM%3A&vet=10ahUKEwj47ayMpL_WAhXDLFAKHamPBwA4ZBAzCB4oHDAc..i&w=800&h=727&client=firefox-b-ab&bih=691&biw=1280&q=legal%20symbol&ved=0ahUKEwj47ayMpL_WAhXDLFAKHamPBwA4ZBAzCB4oHDAc&iact=mrc&uact=8>*\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Jacobs Chambers & Solicitors Room 12, Block 8 Office of the Presidency,\r\n   Aso Rock Villa, Abuja Nigeria. Our Ref:\r\n   Bar/Bay/Jac/Cham/001                                       your Ref:.*\r\n\r\n   Attention:  Gary,\r\n\r\n   *This Office/Chambers acknowledge the receipt of your email. Print out\r\n   this Letter of Agreement, Sign, Scan and send it back to me so that I will\r\n   proceed with the transaction.*\r\n\r\n\r\n\r\n*                    LETTER OF AGREEMENT / PROMISSORY NOTE\r\n                                 *\r\n\r\n*Date :  February 4th, 2024 This letter shall serve as the \" LETTER OF\r\n   AGREEMENT\" between us, regarding my due payment in the amount of US$10\r\n   million, in one lot which was deposited in the CBN in Nigeria via\r\n   connection of Jacobs Chamber law firm handling on my behalf. that the said\r\n   US$10M has no relationship with other deposit funds in the CBN &/or other\r\n   banks in Nigeria nor any financial Institutions in any other countries. The\r\n   Jacobs Chambers agreed to pay any request  charges and fees. This letter\r\n   refers to the prearranged agreed-upon\" percentages between us, regarding\r\n   the specified US$10M funds in the CBN herein. I Gary **do this day\r\n   solemnly affirm that upon A receipt of my due payment in the amount of $10M\r\n   funds on any mode of payment chosen by me , that I agree to pay the\r\n   percentage below :*\r\n   -\r\n* Barrister Boyo Jacobs       :      30**%*\r\n   - Gary             *:      70%*\r\n\r\n\r\n\r\n\r\n*This agreement to the percentages, as stated above, is confirmed and\r\n   accepted by me and Barrister Bayo Jacobs of the  Jacob Chambers &\r\n   Solicitors, Abuja, Nigeria. This  4th day of February , 2024. Sign:\r\n   ------------------------------*\r\n*-      *\r\n   *By : ---------------------------*\r\n   -\r\n\r\n\r\n\r\n\r\n\r\n*Gary Barrister Bayo Jacobs Jacob Chambers & Solicitors, Nigeria. Sincerely\r\n   Yours, Barr Bayo Jacobs*\r\n   - *Attorney at Law.*"
+    },
+    {
+        "from": "baiter_152",
+        "to": "scammer_152",
+        "subject": "Re: Jacobs Chambers & Solicitor",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "3",
+        "body": "Dear Barrister Bayo Jacobs,\n\nI have received your email and the Letter of Agreement. However, I am unable to print out the document at this time due to some technical issues with my printer. \n\nCould you please provide me with an alternative method of confirming my agreement? Perhaps a digital signature or an email confirmation would suffice?\n\nLooking forward to your response.\n\nBest wishes,\nGary"
+    },
+    {
+        "from": "baiter_152",
+        "to": "scammer_152",
+        "subject": "Re: Jacobs Chambers & Solicitor",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "4",
+        "body": "Dear Barrister Bayo Jacobs,\n\nI have received your letter of agreement. However, I would like to clarify a few points before proceeding further. \n\nFirstly, could you please provide more details about the payment of US$ million? What is the exact amount and what are its origins?\n\nSecondly, you mentioned that I will need to pay any request charges and fees. Could you please specify what these charges and fees are for and how much they will amount to?\n\nLastly, could you please explain the mode of payment that I will need to choose for receiving my due payment?\n\nOnce these points are clarified, I will be able to proceed with signing the agreement.\n\nBest wishes,\nGary"
+    },
+    {
+        "from": "scammer_152",
+        "to": "baiter_152",
+        "subject": "Re: Jacobs Chambers & Solicitor",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "5",
+        "body": "- *[image: Image result for legal symbol]\r\n   <https://www.google.com/imgres?imgurl=https%3A%2F%2Fd2gg9evh47fn9z.cloudfront.net%2F800px_COLOURBOX24205004.jpg&imgrefurl=https%3A%2F%2Fwww.colourbox.com%2Fvector%2Flawyer-icon-justice-scales-laurel-wreath-emblem-vector-24205004&docid=JnXGOfI5i1GYJM&tbnid=bcasccWemzqeEM%3A&vet=10ahUKEwj47ayMpL_WAhXDLFAKHamPBwA4ZBAzCB4oHDAc..i&w=800&h=727&client=firefox-b-ab&bih=691&biw=1280&q=legal%20symbol&ved=0ahUKEwj47ayMpL_WAhXDLFAKHamPBwA4ZBAzCB4oHDAc&iact=mrc&uact=8>*\r\n   Jacobs Chambers & Solicitors\r\n   Room 12, Block 8\r\n   Office of the Presidency,\r\n   Aso Rock Villa,\r\n   Abuja Nigeria.\r\n\r\n   Our Ref: Bar/Bay/Jac/Cham/001                                       your\r\n   Ref:.\r\n\r\n   Attention:  Gary,\r\n\r\n   This Office/Chambers acknowledge the receipt of your email. For more\r\n   clarification. Like the agreement reads, the funds in question origin are\r\n   from Nigeria and the Origin certificate will be included on the huge amount\r\n   of money I will pay on your behalf for all the classified documents that\r\n   will be issued by the offices that is in charge to back the funds. The only\r\n   fees you will pay will be for their accredited attorney that will represent\r\n   you in signing for the release order of the funds US10M, that is if you\r\n   cannot come to Nigeria for the signing of some relevant documents that must\r\n   be signed by the Beneficiary which is you, because the payment receipt must\r\n   bear your name and address which make it to be authentic and will indicate\r\n   that it is from you, because I will not be allowed to sign as it is the\r\n   sole duty of the accredited attorney and i cannot tell the exact amount\r\n   though it will not be much. I will advise that we should go for a Bank to\r\n   Bank transfer which is easier, because it will be deposited in your\r\n   provided account in less than 48 hours.\r\n   -\r\n   Barrister Bayo Jacobs\r\n   Jacob Chambers & Solicitors, Nigeria.\r\n\r\n\r\n   Sincerely Yours,\r\n\r\n   Barr Bayo Jacobs\n- Attorney at Law."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_892",
+        "to": "CRAWLER",
+        "subject": "  Dear Beneficiary",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Beneficiary\nMy Name is Miss Helen Bill Private Attorney to One Late Mrs Ann\nWilliams, she has Cancer, she died this morning after long suffering of\nCancer of the Bone Marrow, it is a pity that she died after a long\nbleeding.\nThe Reason why i contact you is because  she told me that you are\nBeneficiary to her Donation Funds Deposited With Credit Union Bank the\nSum of $15,5Million United States Dollars in your name as her\nBeneficiary.\nShe gave  me all this details before she give up, urging me to make\nsure i contact you to inform you about her donation funds, she also\nexplain that she contacted you on email months ago regarding the\ndonation funds to be release to you, so that you will use it and open\na charity Foundation in her name and that of her late Husband, but as\ntime goes on she did not hear from you any more .\nShe also said that the reason why i must try and contact you to claim\nthis funds from the  Credit Union Bank  is  because  she has already\nmade you her legal registered Beneficiary and can not be change any\nmore.\nI will wait for your reply to enable me explain more to you.\nThanks\nHelen Bill   "
+    },
+    {
+        "from": "baiter_892",
+        "to": "scammer_892",
+        "subject": "Re:   Dear Beneficiary",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Helen Bill,\n\nI am deeply saddened to hear about the passing of Mrs. Ann Williams. She was indeed a kind-hearted woman and her intentions were always for the betterment of others.\n\nHowever, I must clarify that I have not received any prior communication from Mrs. Ann regarding this donation fund. This is the first time I am hearing about it.\n\nCould you please provide more details about this donation fund? How can I access it and what are the legal procedures involved?\n\nLooking forward to your response.\n\nBest wishes,\nJack"
+    }
+]

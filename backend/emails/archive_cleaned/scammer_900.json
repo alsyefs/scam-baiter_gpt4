@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_900",
+        "to": "CRAWLER",
+        "subject": "  From: Mr. Donald Bliss",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  From: Mr. Donald Bliss\nCredit Grand Alliance Bank Plc\n6 Lower Thames Street, London\nGreater London, EC2R 7DU UK\nTel:  44 2038-3553-86\nFax:  44 7092-8593-71\nGood Day Dear!\nHow are you and your family? I hope my letter meets you in your best mood today. My name is Mr. Donald Bliss, I am the Operation/Regional Branch Head Manager of Credit Grand Alliance Bank Plc London. I decided to seek top secret/confidential cooperation with you in the execution of a transaction deal described here-under for our both mutual benefit. During the annual bank audits, I discovered an abandoned/unclaimed fund, sum total of £19.100,000 GBP (Nineteen Million One Hundred Thousand British Pounds Sterling) in an account that belongs to one of our foreign customers (Late David McDowell Brown) an American from Arlington, Virginia, who unfortunately lost his life as a single with the entire crew on February 1, 2003 over the southern United States Space Shuttle Columbia.\n \nI discovered that he did not specify any next of kin or will beneficiary to his account after going through his file in our bank. I sincerely and deliberately seek your consent to present you as the next of kin / will beneficiary to the deceased so that the sum valued at £19.1 Million British Pounds Sterling will be transferred to you, which will be shared in these percentage ratio:  50% for me and 40% to you respectively while 10% is for any expenses incurred during the transaction.\nI need your sincere cooperation, trust and utmost confidentiality to enable us to conduct this transaction successfully. I assure and promise you that this transaction will be executed under a legitimate arrangement that will protect you from any breach of the law both in your country and here in London as the fund is transferred to your nominated bank account. Upon consideration and acceptance of this offer, kindly forward me the following information immediately to my private email address for more confidentiality:  \ndonaldblis623@outlook.com\n1. Your full name:\n2. Your full contact address:\n3. Your direct mobile telephone number:\n4. Your email address:\n5. Your date of birth\n6. Your occupation:\nTo enable me to upload your information in our bank database to reflect in the bank network system that you are the named next of kin/will be beneficiary of this account, then I will guide you on communication with the bank for onward transfer of this fund to you.\nNOTE: We have few banking days to execute this transaction deal.\nThanks in anticipation of your urgent response.\nRegards,\nMr. Donald Bliss   "
+    },
+    {
+        "from": "baiter_900",
+        "to": "scammer_900",
+        "subject": "Re:   From: Mr. Donald Bliss",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Donald Bliss,\n\nI hope this message finds you well. I must say, your letter certainly caught my attention! It's not every day that one receives news of such a large sum of money.\n\nThe story about Mr. David Brown is quite tragic, it's always sad to hear about such accidents. I'm curious though, how did you come across my contact information? And why have you chosen me for this matter?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJames"
+    }
+]

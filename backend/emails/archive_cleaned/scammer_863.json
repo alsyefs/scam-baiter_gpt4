@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_863",
+        "to": "CRAWLER",
+        "subject": "Dear Trusting Friend in God,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear Trusting Friend in God,\nThis is Mrs. Melissa Richardson from London, 58 years an aging widow\nsuffering from long time illness. I have the sum of $17.5M for you to\nuse the fund for God’s work. I found your e-mail address as a real\nChild of God for over a month now that I have been praying about you\nto know if really you are working according to the direction of God so\nafter all my prayers I am convince, and I have decided to contact you,\nPlease if you would be able to use the funds for the Lord’s work, with\ntrust reply me with this e-mail address: ( \nmehards02@gmail.com\n )\nThanks\nYours in the Lord\nMrs. Melissa Richardson."
+    },
+    {
+        "from": "baiter_863",
+        "to": "scammer_863",
+        "subject": "Re: Dear Trusting Friend in God,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mrs. Melissa Richardson,\n\nI am deeply moved by your message and the trust you have placed in me. I assure you that as a devoted servant of God, I will use these funds for the betterment of our community and to spread His word.\n\nHowever, before we proceed, could you please provide more details about how you would like these funds to be used? Are there any specific charitable causes or projects that are close to your heart?\n\nMay God bless you and give you strength during this difficult time.\n\nBest wishes,\nKathleen"
+    },
+    {
+        "from": "scammer_863",
+        "to": "baiter_863",
+        "subject": "My detailed explanations.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "body": "My dear in the lord,\r\n\r\nThanks for your response back to my request. Actually, my first letter may\r\ncome to you as a surprise. i came across your e-mail contact through a\r\nprivate search while in need of your assistance. I'm writing to you now\r\nwith heavy sorrow in my heart, i have chosen to reach out to you through\r\nthe internet because it still remains the fastest medium of communication\r\nand i prayed over it before contacting you as a real child of god. Besides,\r\nI would like to explain myself to you. I am from London but married to an\r\nafrican man from Republic of Benin after I was twenty years old and we live\r\ntogether in London and since I married my beloved husband I did not\r\nconceived since i married which is most important thing of marriage and\r\nbeen my dear husband was a god fearing man also love me so much, he did not\r\ncomplain for any day and for that reasons I made a promised to him that I\r\nwill be with him all the day of my life It's not easy to see a lovely man\r\nwho can tolerate such from a woman he married without giving a child and\r\nreasons of marriage is to build family while I did not, it means fail him\r\nbefore his death.\r\n\r\nBeside, my husband is from a big family here in Benin and after his death I\r\ndecided to leave London and come back to his country to honor him as I\r\npromised, when I came to Benin I fell sick which I did not take it as big\r\nthing and after some months am going down day by day then I went back to\r\nLondon to see my doctor, through there my doctor recognized the point of my\r\nsickness and also said I have few months to live, my dear in lord, I cried\r\nfor one month and ask god is it how you wish to me, if it's how you want me\r\nto end up my life in pain let his wish be done, then I later came back to\r\nmy husband home in Benin to complete my promises and my husband senior\r\nbrother was in Russian for years without coming home I stay with the junior\r\none, that is reason I handle over the money to a foreign in that way you\r\nwas surprised because he is one I trusted to handle my husband wealth as I\r\nwish, but he refused to pick my call or communicate with me since I lost my\r\nhusband.\r\n\r\nSo please my dear In lord, I wish you should bear with me in my wish\r\nbecause I can not do what is not right to whom it may be on the earth\r\nbecause i must answer god at the end if I do. The reason I take this\r\ndecision is that my health has deteriorated so badly, I can not do this by\r\nmyself anymore. I once asked members of my husband Family here in Benin to\r\ndistribute one of my accounts to some charitable organization which they\r\nrefused and kept the money to themselves, so, I do not trust them anymore,\r\nas they seem not to be satisfied with what I left for them. I will wait to\r\nhear from you.\nThanks,\r\nYour sister in the lord.\r\nMrs. Melissa Richardson"
+    }
+]

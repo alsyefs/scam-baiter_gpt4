@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1132",
+        "to": "CRAWLER",
+        "subject": "  ­I am Barrister Thomas Migue",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  ­I am Barrister Thomas Miguel Luis, a solicitor. I was the personal attorney to the late Engr. Greg Famer a national of your country who was a Contractor and Chief Executive officer of {Asian development Oil Company} For 25 years. He has spent most of his life in (Madrid Spain). In January 2020, Engr. Greg fell sick and died due to the Corona-virus pandemic.\nSince then I have made several inquiries in the Embassy to locate any of my client's extended relatives but all efforts were unsuccessful. After these several unsuccessful attempts, I decided to contact you and solicit your assistance as a foreigner because you bear the same last name .To execute the claim of his Estate Which includes cash deposits.\nI have contacted you to assist in repatriating the assets and Capital valued at US$9.8 million Dollars (Nine Million Eight Hundred Thousand United States Dollars) left behind by my client before they get\nconfiscated or declared unserviceable by the bank where these huge deposits were lodged. The said bank has issued me a notice to provide the next of kin or have the account confiscated within the next month.\nSince I have been unsuccessful in locating the relatives.  I seek the consent to present you as the Next of kin to the deceased. The request of a foreigner as the next of kin in this transaction is occasioned by the fact that my client was a foreigner and the money cannot be paid into a local bank here, so it will be better for you to stand as the next of kin to my client. Therefore, on receipt of your positive response, we shall then discuss the sharing ratio and modalities for transfer. I have all necessary information\nand legal documents needed to back you up for claim.\nAll I require from you is your honest cooperation to enable us to see this transaction through. I guarantee that this will be executed under a legitimate arrangement that will protect you from any breach of the law. \nBest Regards,\nBarr. Thomas Miguel  Luis   "
+    },
+    {
+        "from": "baiter_1132",
+        "to": "scammer_1132",
+        "subject": "Re:   ­I am Barrister Thomas Migue",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Barrister Thomas Miguel Luis,\n\nThank you for reaching out and sharing this information with me. I'm sorry to hear about the passing of Engr. Greg Famer, it must be a difficult time for all who knew him.\n\nI'm curious, how did you find my contact information? And why do you think I would be a suitable person to stand as the next of kin to your client?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nLinda"
+    }
+]

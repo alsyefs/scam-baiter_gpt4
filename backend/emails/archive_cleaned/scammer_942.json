@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_942",
+        "to": "CRAWLER",
+        "subject": "   Good News.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Good News.\nFinally, you have been considered as one of the  victim of unpaid,\ninheritance,lottery,contract payment funds owed for many years ago,\nafter empty promises from diffident  corrupt individuals from\ndifferent organizations and so,  finally your prayers has been\nanswered and  you are hereby advise as matter of urgency to contact,\nDirector of payment,Foreign Payment Center LONDON, UK , Mr. Roland\nPeter through their  Private  address below:\nForeign Payment center.\nAddress: London EC1A 2BN, United Kingdom\nPrivate email address: \nmrpeterroland@outlook.com\nDirector: Mr. Peter Roland.\nRegards,\nMr Philip Jacob    "
+    },
+    {
+        "from": "baiter_942",
+        "to": "scammer_942",
+        "subject": "Re:    Good News.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Philip Jacob,\n\nThank you for your email and the good news about the unpaid funds. Could you please provide more details about this matter? Specifically, I would like to know the exact amount that is owed to me, the reason for this payment, and any necessary steps I need to take in order to receive it.\n\nLooking forward to your response.\n\nBest wishes,\nKathryn"
+    }
+]

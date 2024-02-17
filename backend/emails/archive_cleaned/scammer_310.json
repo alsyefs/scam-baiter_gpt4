@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_310",
+        "to": "CRAWLER",
+        "subject": "Welcome to DHL Express Canada ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Welcome to DHL Express Canada Ltd\nADDRESS. Address: 2215 Gladwin Cres Ottawa, ON, K1B 4K9 Canada\nDHL is one of the world’s great success stories, the start-up that\nrevolutionized the delivery of packages and information. In the past\n33years, we’ve grown up and grown into a diverse family of companies\nas DHL that’s bigger, stronger, better than ever.\nAttn: Dear Beneficiary\nOnce again I am Mr. Andrew Williams-Chief Executive Officer DHL\nExpress Company Canada. Country in North America. the management of\nthis company, wishes to inform you that, we received a parcel\ncontaining an ATM Card valued US$12,000,000,000.00 Twelve Billion\nUnited State Dollars with the vital PIN on it, for safety delivery to\nyour residential address This parcel was brought to us this morning by\nMr. David McKay, President and CEO Royal Bank Of Canada's· Here is\nyour ATM CARD PIN Code Number (4461) Note that you are the only one\nthat will know your ATM CARD PIN Number and do not give it to any one\nfor Security reasons. We want you to know that your ATM CARD Package\nis here in our Company with the Shipment Code Awb 72xzs, and \nthe only\nthing holding your ATM CARD Package Delivering here is the shipping\nfee of $75\n because the Insurance & security keeping charge of $250 has\nbeen paid already by Mr. David McKay,\nHowever, every documentation proof for your fund have been packaged\nand seal to be delivery together with your Visa Card to your address\nso that by the time Diplomat agent arrives in Airport no authority\nwill question the funds for the safe and successful delivery of your\nvaluable ATM Package which contains the sum of US$12,000,000,000.00,\nAs soon as we receive the shipping fee today, our international\nDiplomat agent will depart from Canada with your ATM Package and your\ntracking number will be sent to you immediately to track your Package\nto your address within 24 Hours,\nWe are waiting to hear from you as soon as you receive this message to\nenable us to meet up in time. \nYou should buy a Steam Wallet iTunes\nGift Card gently scratch off the label on the back of the gift card\nand send us the attached card\n,Good luck as you act as instructed by\nthis office. God bless you and your family.  Thanks for your\nanticipated co-operations, Treat with dispatch,\nMODE OF DIPLOMATIC DELIVERY\nWe are waiting for your Respond immediately because this is the only\nthing holding your ATM CARD Here with Us.\nThank You\nMr. Andrew Williams\nChief Executive Officer\nDHL Express Company Canada. Country in North America."
+    },
+    {
+        "from": "baiter_310",
+        "to": "scammer_310",
+        "subject": "Re: Welcome to DHL Express Canada ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Andrew Williams,\n\nThank you for your email and the information provided. I am excited to receive the ATM Card valued at US Twelve Billion United States Dollars.\n\nHowever, before proceeding with the payment of the shipping fee, I would like to request some additional details for my records:\n\n1. Could you please provide a detailed breakdown of the shipping fee? \n2. Can you confirm that there will be no additional fees or charges after this payment?\n3. Could you please provide more information about the Steam Wallet Gift Card? How does it work and why is it necessary for this transaction?\n\nI look forward to your prompt response.\n\nBest wishes,\nDaniel"
+    }
+]

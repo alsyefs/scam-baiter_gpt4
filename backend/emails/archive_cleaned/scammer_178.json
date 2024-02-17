@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_178",
+        "to": "CRAWLER",
+        "subject": "BMW LOTTERY DEPARTMENT",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "BMW LOTTERY DEPARTMENT\n5070 WILSHIRE BLVD\nLOS ANGELES. CA 90036\nUNITED STATES OF AMERICA.\nNOTE: If you received this message in your SPAM/BULK folder, that is\nbecause of the restrictions implemented by your Internet Service\nProvider, we (BMW) urge you to treat it genuinely.\nDear Winner,\nThis is to inform you that you have been selected for a prize of a\nbrand new BMW 7 Series Car and a Check of $1,000,000.000 USD from the\ninternational balloting programs held on the 2nd section in the UNITED\nSTATE OF AMERICA.\nDescription of prize vehicle; Model: 760li Color (exterior): Metallic\nSilver Mileage: 5 Transmission: Automatic 6 Speed\nOptions: Co  ld weather package, premium package, fold down rear seats\nw/ski bag, am fm stereo with single in dash compact disc player.\nThe selection process was carried out through random selection in our\ncomputerized email selection system (ESS) from a database of over\n250,000 email addresses drawn from all the continents of the world\nwhich you were selected for.T\nhe BMW Lottery is approved by the British\nGaming Board and also Licensed by the International Association of\nGaming Regulators (IAGR). To begin the processing of your prize you\nare to contact our fiduciary claims department for more information as\nregards procedures to the claim of your prize.\nName: Mr.Robert Engelhorn\nEmail:bmw.usa11100@gmail.com\nContact him by providing him with your Reg. pin code Number 255125HGDY03/23.\nYou are also advised to provide him with the under listed information\nas soon as possible:\n1. Name In Full :\n2. Residential Address :\n3. Nationality :\n4. Age :\n5. Sex :\n6. Occupation :\n7. Direct Phone :\n8. Present Country :\n9. Email address :\n10. Reg pin code Number: 255125HGDY03/23\nPlease provide him with the above listed details as soon as possible\nso he can begin with the processing of your prize winnings.\nCongratulations from all our staff and thank you for being part of our\npromotional program. And \nremember that you will pay only $125usd\nthrough Gift Card\n for shipping of your Car and your 1 Billion Check to\nyour home address.\nFROM THE DESK OF RACHAEL ADAMS\nTHE DIRECTOR PROMOTIONS\nBMW LOTTERY DEPARTMENT\nUNITED STATES OF AMERICA"
+    },
+    {
+        "from": "baiter_178",
+        "to": "scammer_178",
+        "subject": "Re: BMW LOTTERY DEPARTMENT",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nWow, this is such exciting news! I can't believe I've been selected for such an amazing prize. A brand new BMW and a check of USD? That's incredible!\n\nI'm curious about the selection process though. How exactly does the email selection system work? And how many people were part of this lottery?\n\nAlso, could you tell me more about the British Gaming Board and the International Association of Gaming Regulators? I'd love to know more about these organizations.\n\nLooking forward to hearing from you soon!\n\nP.S. - Just a quick note, I'm not comfortable sharing my personal details over email. Is there another way we can proceed with this?\n\nBest wishes,\nDaisey"
+    }
+]

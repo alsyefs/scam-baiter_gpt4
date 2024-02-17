@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1217",
+        "to": "CRAWLER",
+        "subject": "  Dear Valued Customer",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Valued Customer\nAttn:  \nWe are at a very serious time, and your maximum cooperation is very\nimportant. I am not focused on the fee. While our correspondent bank is\nnow in the process of loading your fund in a high profile ATM VISA CARD,\nyou should reconfirm your below details to avoid mistake.\nYour name:\nHome address:\nPhone Number:\nMICHAEL SMITH\nMANAGING DIRECTOR\nSTANDARD CHARTERED BANK.\nFOREIGN REMITTANCE DEPARTMENT\n1 BASINGHALL AVENUE LONDON,EC2V 5DD\nEMAIL: \ninfo@scbaccuk.com\n "
+    },
+    {
+        "from": "baiter_1217",
+        "to": "scammer_1217",
+        "subject": "Re:   Dear Valued Customer",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Michael Smith,\n\nThank you for your email. I understand the importance of this matter and I am ready to cooperate fully. However, before proceeding, could you please provide more details about the fund and how it came to be in my name? This is important for my records.\n\nLooking forward to your prompt response.\n\nBest wishes,\nRobert"
+    }
+]

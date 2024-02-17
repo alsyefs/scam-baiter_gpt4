@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1223",
+        "to": "CRAWLER",
+        "subject": "   Hello,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Hello,\n     How are you doing and your family, well thanks for your response and I assure you that all legal process will be followed, to avoid any breach of laws both in the UK and in your country during and after the fund transfers to your account. Most importantly, it is essential to maintain absolute confidentiality to avoid risky exposure of the deal, due to sensitive details and volume of the fund involved, and to ensure the safety of the money when transferred to your bank account.\nRight now, please send me your full name, contact address and mobile phone number so i can enter your details in our bank database as the foreign beneficiary and opened a payment ticket in your name. NatWest Bank will contact you to process the payment on foreign exchange with your details. Please inform me once you receive any communication from the bank, so I can review the details and guide you on steps to take. Please be very observant from now and monitor your email regularly for the any message from the bank, thank you and i wait for your response soon.\nYours Truly,\nSean.   "
+    },
+    {
+        "from": "baiter_1223",
+        "to": "scammer_1223",
+        "subject": "Re:    Hello,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Sean,\n\nThank you for your message. I'm really excited about this opportunity! However, I'm a bit confused about the process. Could you please explain it to me in more detail? What exactly does opening a payment ticket mean? And how will the bank use my information?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nThomas"
+    }
+]

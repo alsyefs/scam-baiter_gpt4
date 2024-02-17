@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1284",
+        "to": "CRAWLER",
+        "subject": "    DATE: 02/14/2022",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "    DATE: 02/14/2022\nATTN:  \nDEAR SIR,\nI am in receipt of your message of 02/12/2022 and the contents were well noted. Sequel to your request that you want a Government Lawyer to represent to you here, I have gone to the SPANISH JUSTICE MINISTRY today to get you their BASIC APPLICATION FORM and attached herewith is a copy of the FORM and you are required to print it out and go through its contents carefully to avoid mistake, then fill the empty spaces in the FORM, sign the APPLICANT column, put date and send it back to me through the same scanned email attachment.\nDon’t forget to attach the scanned photocopy of your identity card, I.E, international passport or driver’s license when sending the filled and signed FORM back to me as it is part of the vital documents needed here to process for the approval of the Application, so do send it.\nI will give you the receiving details where you will send their Application/processing fee of 550 EUROS (Five hundred and fifty Euros only) as indicated in the attached FORM when I receive the filled and signed document from you and certify it to be alright for the purpose of your request.\nI will be looking forward to your urgent response to this message and if you need further clarification, you can call me on my direct telephone number + 34 637 88 888 316 as soon as you receive this message\nThanks and best regards\nYours in legal services\nMR ALFRED MENSAH\n(LEGAL DEPT OFFICER)\nGHANA HIGH COMMISSION, MADRID SPAIN     "
+    },
+    {
+        "from": "baiter_1284",
+        "to": "scammer_1284",
+        "subject": "Re:     DATE: 02/14/2022",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Alfred Mensah,\n\nThank you for your prompt response and the form. I will fill it out and send it back to you as soon as possible.\n\nHowever, I would like to clarify a few things before proceeding. Could you please provide more details about the processing fee? Why is it necessary and what does it cover?\n\nAlso, could you please explain the process after I submit the form and pay the fee? How long will it take for me to get approval?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nMaria"
+    }
+]

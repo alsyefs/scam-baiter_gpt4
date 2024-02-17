@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_481",
+        "to": "CRAWLER",
+        "subject": "  Attention:Beneficiary.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Attention:Beneficiary.\nIn order to improve on your fund transfer constraints and delay, your outstanding payment is due for payment from our United States Government approved direct paying institution.\nWe have successfully deposited your $9,7 Million USD with the Federal Reserve Payment System for an accessible, safe, and efficient completion of your fund transfer to your nominated bank.\nKindly reverse back to us for further advice and instruction with contact details of Federal Reserve Payment System link and office to contact for your payment processing.\nContact Mr. Tom Frank.\nEmail: \nftom13866@gmail.com\nSincerely,\nJennifer Burns.   "
+    },
+    {
+        "from": "baiter_481",
+        "to": "scammer_481",
+        "subject": "Re:   Attention:Beneficiary.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Jennifer Burns,\n\nThank you so much for your message. It's really exciting to hear about this fund transfer! I'm just a bit confused about the process, could you please explain it a bit more? How does the Federal Reserve Payment System work exactly? And how did my Million USD end up there?\n\nAlso, you mentioned Mr. Tom Frank. Could you tell me more about his role in this process? Is he someone I should be contacting directly?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJohn"
+    }
+]

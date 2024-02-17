@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_791",
+        "to": "CRAWLER",
+        "subject": "  We offer loans to private an",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  We offer loans to private and corporate individuals. We give out loan ranging from $100,000 to $200,000,000 USD, Euro, GBP for an interest rate of 3% per annum for a maximum period of 35 years.\nBorrowing money is sometimes necessary and unavoidable. With business loans up to $100,000 , funding for your small business is now just 24 hours away. Use the funds to invest in infrastructure, expand operations.\nUrgently apply for a loan today.   "
+    },
+    {
+        "from": "baiter_791",
+        "to": "scammer_791",
+        "subject": "Re:   We offer loans to private an",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nThank you for reaching out and sharing this information. It's quite interesting to hear about the loan services you offer. I'm curious, could you tell me more about the process involved in applying for a loan? Also, what are the requirements or qualifications needed?\n\nI'd also like to know more about how the interest rate is calculated. Is it fixed or does it vary depending on certain factors? And what happens if someone is unable to repay within the stipulated time frame?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nTodd"
+    }
+]

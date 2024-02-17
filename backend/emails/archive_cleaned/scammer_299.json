@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_299",
+        "to": "CRAWLER",
+        "subject": "  J.P.MORGAN CHASE BANK & CO.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  J.P.MORGAN CHASE BANK & CO.\nWebsite: http:/ /www.jpmorganchase.com\nE-mail:  \nchase_o51@aol.com\nJP Morgan ChaseTower, 270 Park Avenue, Madison 10017 New York\nDate: 7th February, 2023\nDear Beneficiary,\nThis is Mr. Douglas B. Petno of JPMorgan Chase & Co. New York, U.S.A.\nWe have been directed by the World Bank in conjunction with United\nNations to settle all Outstanding Payments accrued to Individuals or\nCorporations with respect to local and overseas contract payment and\nscam victims with the sum of $10,500,000.00 (Ten Million, Five Hundred\nThousand United States Dollars). International Monitory Fund (IMF)\nplaced an immediate ordered for the Transaction of your fund to be\ncompleted by our bank. However, I want to acknowledged that all the\nnecessary Document, Clearance Certificate's had been cleared by the\nUnited Nations headquarter, so right now you are 100% free to secured\nand safe to claimed your fund without certificate payment A resolution\nhas been made that the listed individuals are to choose an option in\nwhich they wish to receive their funds, the options are as follows\nbelow:\n1) Physical Diplomatic Cashier Check\n2) ATM Debit Card\n3) Bank to Bank Telex Wire Transfer\nGet back us with your Full Name, WhatsApp/Phone number and Your\nState,City/Country as soon as for the payment transfer deposited of\nyour fund. Note that we have just less than 9 bank working days left.\nYours Sincerely\nMr. Douglas B. Petno.\nCommercial Banking Operations.\nJPMorgan Chase & Co.\nEmail: \nchase_o51@aol.com\n "
+    },
+    {
+        "from": "baiter_299",
+        "to": "scammer_299",
+        "subject": "Re:   J.P.MORGAN CHASE BANK & CO.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Douglas B. Petno,\n\nThank you for reaching out to me with this information. It's quite a surprise to hear about such a large sum of money! I'm curious, how was my name selected for this payment? \n\nAlso, could you please provide more details about the options available for receiving the funds? What are the pros and cons of each option?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nKelsey"
+    }
+]

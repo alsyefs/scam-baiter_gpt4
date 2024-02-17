@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_840",
+        "to": "CRAWLER",
+        "subject": "Hello,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hello,\nAre you still using this email? please i need urgent response for confirmation to important update transaction of yours..\nRegards\nMrs. Maria Nastac Alonso"
+    },
+    {
+        "from": "baiter_840",
+        "to": "scammer_840",
+        "subject": "Re: Hello,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mrs. Maria Nastac Alonso,\n\nThank you for reaching out to me. Yes, I am still using this email. Could you please provide more details about the important update you mentioned? I'm all ears!\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRichard"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_550",
+        "to": "CRAWLER",
+        "subject": "  I have a lucrative business ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  I have a lucrative business proposal to discuss with you via email. Anticipating your response If you would please oblige me the opportunity, I shall provide you with details upon your response.\nAnticipating your response\nBest regards,\nHuston Eden   "
+    },
+    {
+        "from": "baiter_550",
+        "to": "scammer_550",
+        "subject": "Re:   I have a lucrative business ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Huston Eden,\n\nThank you for reaching out to me. I'm always interested in hearing about new business proposals. Could you please provide more details about this opportunity? \n\nLooking forward to your response.\n\nBest wishes,\nRichard"
+    },
+    {
+        "from": "scammer_550",
+        "to": "baiter_550",
+        "subject": "DETAILS.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "body": "Dear Mr Richard,\r\n\r\nThanks for responding to my proposal, so I am freely giving you the full\r\ndetails of this transaction which is a sum of $15million USD for your\r\nunderstanding, bearing in mind that you will not betray me, please I am a\r\nvery honest man and I will trust you wholeheartedly.. My name is  Mr Huston\r\nEden, I am located in Dubai , UAE.  The name of the bank I work for is\r\nEmirates Bank Group and presently I am with the Human Resources department,\r\nI will also wish to invest some part of my share into profitable venture's\r\nin your country,i can't involve myself in illegality because of my\r\npersonality.\r\n\r\n\r\nThis transaction requires utmost trust and dedication from your side, since\r\nyou will be receiving the funds as the Next of Kin/ Heir to Mr Mehmet and\r\nshall be in control of the funds, until I come over for my share. Regarding\r\nthe sharing, I am under the belief that my sharing ratio is accepted to\r\nyou, 50/50% is a fair deal. I want you to bear one thing in mind, there is\r\nno risk involved in this transaction.\r\n\r\nIt is 100% risk free and secured once you follow my instructions and keep\r\neverything secret between us. What I have to do is just to place your\r\ninformation in my bank system as the Next of Kin/ Heir to late Mr Mehmet\r\nand I will apply for the claim on your behalf as the accounts officer to\r\nthe deceased here in the U.A.E.  As an Auditing Officer now at the Human\r\nResources dept of my bank, the secret of the bank system is in my hands,\r\nplacing your details in our bank's central database as the Next of Kin/\r\nHeir to late Mehmet is an easy task for me.\r\n\r\n\r\nOnce again, I assure you that there is no risk involved; the transaction\r\nwill be executed under a legitimate arrangement that will protect both of\r\nus from any breach of law.  I will present you as a relation to Mehmet and\r\nthe only proof the bank will need is your identification, where your names\r\nare written. This is a very smooth operation, with me in the bank it will\r\nnot last more than 2 weeks and the funds will be released to you.\r\n\r\nThe information I require to commence the process is as follows;\r\n\r\nYOUR FULL NAMES,MARITAL STATUS,COPY OF YOUR INTERNATIONAL PASSPORT,\r\nOCCUPATION, ADDRESS AND TELEPHONE NUMBER.\r\n\r\nOnce I receive the above-mentioned information and conclude with my inside\r\narrangements and changes, by backdating your information to reflect\r\naccordingly with the time of original clients supposedly registered next of\r\nkin.\r\n\r\nPlease, remember to treat this transaction with utmost confidentiality for\r\nour own good. I await your urgent response.\r\n\r\n\r\nI have an interest in investing most part of my share into the real estate\r\nbusiness.\nRegards,\r\n\r\nMr Huston Eden"
+    }
+]

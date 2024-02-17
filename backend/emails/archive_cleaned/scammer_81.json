@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_81",
+        "to": "CRAWLER",
+        "subject": "Hello There, I am Anna. I work",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hello There, I am Anna. I work in Wells Fargo bank and have been for the past 6 years. But now I want to resign my job for a personal reason. I would like to make a deal with you. But before I begin, let me assure you that the nature of this message is strictly confidential. I am a personal accountant to Mr. Aaraf, a Kuwait depositor who died of Covid 19 pandemic early last year’s January.  He has a deposit of Twenty Million dollars in the Wells Fargo branch I work. We've spent so much time trying to locate his family member, who never contacted us. As Aaraf's personal accountant, I would like to move the fund out of the bank before I resign. Reason being that, in the US, State laws require financial institutions to turn over unclaimed funds to the state treasury department. The escheatment will be held on January 2023\nIf you're interested, I would like to use your name as representative to move the fund out of the bank without all the hassle of trying to locate and contact a family member that doesn't seem to exist anymore. It's the least I can do since I don't have any of Aaraf's family here that I can rely on. We can share it at the ratio of 30 – 20 – 50 I will explain this in my next email\nI will have to send you the certificate of deposit (CD) and other Docs on request so that you can review it before signing it; then we can work out any details via email? If you have any questions, please contact me freely. Awaiting your reply.\nThanks and kind regards\nAnna"
+    },
+    {
+        "from": "baiter_81",
+        "to": "scammer_81",
+        "subject": "Re: Hello There, I am Anna. I work",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Anna,\n\nThank you for reaching out to me with this proposal. I understand the situation you're in and I'm willing to help. However, before we proceed, I would like to know more about the legal implications of this transaction. \n\nI look forward to your next email where you will explain more about this.\n\nBest wishes,\nBobbie"
+    }
+]

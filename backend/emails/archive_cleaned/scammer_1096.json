@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1096",
+        "to": "CRAWLER",
+        "subject": "Attn: Beneficiary.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attn: Beneficiary.\nHave you been Scammed before if YES please contact us for more investigation.\nYou have been dictated by our monitoring system for making fraudulent\nand illegal transactions over internet with so many impostors. You are\nnow instructed to stop every further correspondence with the\nperson(s), failure to do so will lead to further jeopardy with the\nrelease of your approved lottery inheritance compensation funds.\nTherefore, \nwe advice that you send to us every emails you receive from\nthem regarding your pending payment, to enable us confirm it's\nauthentication and guide you accordingly to facilitate your payment.\nContact Email: \npauljanius@gmail.com\nContact phone number: +1 (219) 243 2242\nContact Name: Paul Janus\nYour urgent feed back is needed within 48hours to help our\nverification team authenticate and validate your payment for immediate\nrelease to you without any breach of the law.\nYou are advised to reconfirm the below information for proper\nverification and validation of your payment claims document to\nfacilitate the immediate release of your funds.\nYour Full Names:\nCurrent Address:\nDirect Phone Number:\nOccupation:\nDate of Birth:\nI'D Card\n:\nAnticipating your urgent response today.\nYours faithfully.\nFBI Agent, Paul Janus .\nFEDERAL BUREAU OF INVESTIGATION\nUNITED STATES DEPARTMENT OF JUSTICE\nWASHINGTON, D.C. 20535"
+    },
+    {
+        "from": "baiter_1096",
+        "to": "scammer_1096",
+        "subject": "Re: Attn: Beneficiary.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nWow, this sounds serious! I'm not sure I fully understand though. Could you please explain a bit more about what's going on? What exactly is this about fraudulent activities and impostors?\n\nAlso, you mentioned something about an approved lottery fund. That's news to me! Can you tell me more about that? \n\nI appreciate your help in clearing up my confusion.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nEthel"
+    }
+]

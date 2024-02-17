@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_227",
+        "to": "CRAWLER",
+        "subject": "   Attn: The beneficiary,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Attn: The beneficiary,\nDear Sir,    \nRE YOUR PAYMENT OF $15 MILLION\nThis department of Citibank NA was instructed to remit the total sum of $15 Milion on your behalf as part payment of your inheritance/contract payment held by the Federal Reserve Bank.\nThe transfer takes place immediately for confirmation into your account within 72 banking hours, once you provide us with  the following:\nBANK NAME: ......................\nBANK ADDRESS: ...................\nACCOUNT NUMBER: ....................\nSWIFT CODE: .................\nABA/ROUTING NUMBER: ...........\nIBAN: ....................\nACCOUNT NAME: .........\nBENEFICIARY ADDRESS: .........\nAlso, the contact of your account manager who will confirm the receipt of the $15 Milion in your account.\nLastly, you are advised to make payment of US$1,800 for clearance fee to pave the way for hitch fee gateway access of wire transfer from this bank direct to your designated bank account without any intermediary.\nSincerely,\nMark Mason\nChief Financial Officer\nCitibank, N.A.\n388 Greenwich St, New York,\nNY 10013, USA.  "
+    },
+    {
+        "from": "baiter_227",
+        "to": "scammer_227",
+        "subject": "Re:    Attn: The beneficiary,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Mason,\n\nThank you for your email and the information provided. It's quite exciting to hear about this opportunity! I must say, it's not every day that one receives an email about a large sum of money.\n\nI'm curious though, could you please explain more about this contract payment? How did it come to be held by the Federal Reserve Bank? And why is it being transferred to me?\n\nAlso, could you provide more details about the clearance fee? What exactly does it cover?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nWynell"
+    }
+]

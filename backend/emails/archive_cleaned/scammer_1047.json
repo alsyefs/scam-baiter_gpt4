@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1047",
+        "to": "CRAWLER",
+        "subject": "Greetings to you, this mail is",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Greetings to you, this mail is coming to you from the U.S. Fund\nComptroller's Office. We are contacting you today regarding a\ncompensation payment which you are supposed to receive from this\nOffice last year 2023. I am happy to inform you that your remaining\nfund 136 million dollars ($136,000.000.00) the payment has been\napproved today.\nAfter a brief meeting held yesterday by executive members of this\nOffice, we have concluded to pay the remaining ($136,000.000.00) to\nyou once and for all.\nThe money has been deposited for you to the HSBC Bank USA.\nThe only fee you are required to pay is $50.00 to secure an affidavit\nclaim certificate\n so that you can receive the 136 million dollars\nsuccessful. I repeat, the only fee you are required to pay is $50.00\nto secure an affidavit claim certificate nothing more.\nJust in case you prefer your $136,000.000.00 to be deposited directly\ninto your Bank account from HSBC Bank, you will need to provide your\nbank details where the funds can be transferred to you. But if you\nstill refer the $136,000.000.00 to be paid to you by an ATM Debit card\nor certified check, get back to me as soon as you read this message to\nenable HSBC Bank proceed immediately. You are requested to send $50.00\nto secure an affidavit claim certificate before the $136,000.000.00\npayment can be finalized.\nThe certified check or ATM Debit card can be delivered to you at your\nhome address personally if that is your choice. Take note, the $50.00\ndoes not required by cash you are advised to pay the fee with an Apple\niTunes gift card. \nTake the $50.00 go to any store where they sale\nApple iTunes cards, buy $50 Apple gift card or steam wallet scratch\nthe card send picture of the iTunes card for a confirmation.\nWithin 30-minutes upon receipt of the iTunes card, the affidavit claim\ncertificate will be ready and your $136,000.000.00 payment will be\ncompleted. Kindly go now and buy the Apple iTunes card. As soon as you\nget the iTunes card take picture of the $50 Apple gift card or steam\nwallet send it immediately for a confirmation.\nThank you\nJoseph M. Otting\nChief Executive Officer at U.S. Fund Comptroller's Office"
+    },
+    {
+        "from": "baiter_1047",
+        "to": "scammer_1047",
+        "subject": "Re: Greetings to you, this mail is",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Joseph M. Otting,\n\nThank you for reaching out to me regarding this matter. I must say, it's quite a surprise to hear about this fund. Could you please provide more details about how this fund came into existence and why it is being allocated to me? \n\nAlso, could you explain the process of securing an affidavit claim in more detail? I'm not very familiar with these procedures.\n\nLastly, I'm curious as to why the fee needs to be paid with an Apple gift card or steam wallet. Is there a specific reason for this?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nSusan"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_497",
+        "to": "CRAWLER",
+        "subject": "  Good Morning,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Good Morning,\nThis is an urgent message and you should respond as soon as you receive this email.\nI wish to let you know that you have been compensated by six Gift card companies whose name are below for patronizing them for a few years now and each company compensated you with the sum of $5,000 for Christmas.\n(1) Apple Card\n(2) Steam Wallet\n(3) Google play\n(4) American Express\n(5) Nordstrom\n(6) Amazon\n(7) eBay\n(8) Sephora\nKindly respond back with your names and phone number and also provide your Bank account details where your money will be sent to and your total money is $40,000.00.\nRemember that you are to pay $50 for claiming charge.\nRegard\nKristalina Georgieva   "
+    },
+    {
+        "from": "baiter_497",
+        "to": "scammer_497",
+        "subject": "Re:   Good Morning,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello,\n\nThank you for your message. It's quite exciting to hear about this opportunity! I'm curious, how did these companies come to select me for such a generous gift?\n\nAlso, could you please explain more about the claiming charge? What does it cover exactly?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDaniel"
+    }
+]

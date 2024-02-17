@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_743",
+        "to": "CRAWLER",
+        "subject": "Attention :  Beneficiary",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attention :  Beneficiary\nMy name is Amina J. Mohammed, I am Deputy Secretary-General to the United Nations. I was mandated to come to Nigeria-Africa to investigate frauds that are being committed here in Nigeria at intervals. I am presently working with the Nigerian Investigation Interpol, some FBI and CIA agents to ensure that the perpetrators of this Evil activities are urgently apprehended.\n\"I am very honored to be invited to eradicate fraud completely in Africa which I have vowed to do without any fear or favor,\" but it baffles me to discover that your impending funds from Africa, which was intercepted,has not been released to you till this moment after being cleared by the Nigerian Presidency,Federal Ministry of Justice and the Finance Ministry. It is also clearly indicated that you have made several attempts and spent much money to transfer your funds to your account but to no avail.\nWith the help of the Nigerian Investigation Interpol, special FBI and CIA agents in Nigeria, We have managed to apprehend some scam syndicates who made some confessional statements and indicted Office of Presidency and Ex-Governor of Central Bank of Nigeria( Dr.Lamido Sanusi and his successor Dr.Lamido Sanusi. They have confessed how they have impersonated the names of some UN Executive members to defraud their victims.\nPlease, we have noticed that Nigerians are very ruthless and have defrauded so many foreigners we have also discovered the irregularities in foreign payment files intentionally masterminded by these scammers and urgently called the attention of the World Bank President and Mr.Ajay Banga and they both came to a resolution that the Federal Government of Nigeria must pay a total amount of $10.5M to each of the people whose names were found in the list till this irregularity has been corrected.\nThis approved amount must be made available to all beneficiaries within the next 2 banking days or an Economic Sanction will be placed on Nigeria by the UN and other international Organizations.\nNOTE: On no account must you be requested to pay any fee by any Bank or individual in Nigeria. The only fee you must pay to receive your fund which covers every other fee is a UN TRANSFER  FUND CLEARANCE REPORT FEE.This must be paid directly to my office here for the procurement and endorsement of all your fund approval/release documents by the UN.\nWARNING!!!!!!. The UN has never for once sent any Diplomat to Nigeria for any payment. IF you have any dealings with anyone claiming to be any of these persons, please STOP immediately or we shall cancel this payment of USD$10.5M that has already been approved to you.\nThanks for your anticipated compliance to this message.\nRegards,\nAmina J. Mohammed\nDeputy Secretary-General"
+    },
+    {
+        "from": "baiter_743",
+        "to": "scammer_743",
+        "subject": "Re: Attention :  Beneficiary",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Amina J. Mohammed,\n\nThank you for your email and the information provided. I appreciate your efforts in trying to eradicate fraud and ensure the safety of individuals dealing with financial transactions.\n\nHowever, I must inform you that I have not been involved in any financial dealings or transactions with anyone from Nigeria or any other African country. Therefore, I am quite surprised to receive this email.\n\nCould you please provide more details about this situation? How did my name appear on the list of people who are supposed to receive a payment?\n\nI look forward to your response.\n\nBest wishes,\nJan"
+    }
+]

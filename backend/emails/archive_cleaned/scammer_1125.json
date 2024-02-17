@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1125",
+        "to": "CRAWLER",
+        "subject": "Hello in search for a business",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hello in search for a business partner I got your contact in Google\nsearch .my name is Phillip Wallace from turkey i am willing to invest\n$23.500 million but I need a trusted partner who can meet at the point\nof releasing the fund.can we make a plan for a business relationship?\ncontact me with this email for more details regarding the procedure on\nhow to commence regards Phillip Wallace"
+    },
+    {
+        "from": "baiter_1125",
+        "to": "scammer_1125",
+        "subject": "Re: Hello in search for a business",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Phillip Wallace,\n\nThank you for your email and the opportunity to potentially collaborate on a business venture. I am interested in learning more about your proposal.\n\nCould you please provide more details about the nature of the investment, the type of business you are looking to invest in, and what role you envision for me in this partnership?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRoger"
+    }
+]

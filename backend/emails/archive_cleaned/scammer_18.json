@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_18",
+        "to": "CRAWLER",
+        "subject": "Dear",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear\nIn view of your outstanding profile and location, I decided to write\nto you. I have decided that I seek your assistance in a matters that\nrequires your urgent attention.\nI'm Abu Usman from Afghanistan, and I am contacting you due to the\nongoing takeover by the Taliban in my country.\nI need your urgent response to help me receive some funds for\nInvestment partnership with you in your country.\nYour positive response will be highly appreciated.with the below information\nA) Your Full Name,\nB)Your Full Address,\nC) Your Direct Cell Phone Number\nD. Occupation\n As soon as I receive your response I will get back to you Asap.\nSincerely,\nAbu Usman"
+    },
+    {
+        "from": "baiter_18",
+        "to": "scammer_18",
+        "subject": "Re: Dear",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Abu Usman,\n\nThank you for reaching out to me. It's really nice to hear from you. I'm sorry to hear about the situation in your country, it must be very difficult.\n\nI'm interested in hearing more about this investment opportunity you mentioned. Could you please provide more details? What kind of investment are we talking about? How does it work?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nConcetta"
+    }
+]

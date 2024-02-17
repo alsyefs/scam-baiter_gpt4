@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_491",
+        "to": "CRAWLER",
+        "subject": "  Good day.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Good day.\nThis is to let you know that your non communication/compliance with your funds releasing bank has as a matter of fact delayed or derailed the completion of your payment process and to finally have your funds credited with your activated online bank account.\nUpon the receipt of this final and last reminder message to you, your swift response is\nurgently been awaited.\nYours faithfully,\nBarrister Howells Jones Esq\n{Broker/Financial Consultant Nat-west bank London UK}   "
+    },
+    {
+        "from": "baiter_491",
+        "to": "scammer_491",
+        "subject": "Re:   Good day.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Barrister Howells Jones Esq,\n\nI hope this message finds you well. I appreciate your concern regarding the delay in the completion of my payment process. Could you please provide more details about this? For instance, what exactly is causing the delay and how can it be resolved?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDavis"
+    }
+]

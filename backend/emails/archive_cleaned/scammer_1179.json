@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1179",
+        "to": "CRAWLER",
+        "subject": "Attention:",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attention:\nMy name is ROBERT WILLIAM JR I am the manager of western union money\ntransfer Benin Republic,i am here to inform you that a man came to our\noffice this morning his name is Mr John Hilliard he told us that he is\nyour Brother from your country he said that you are dead.\nMr John Hilliard said that you die this months 27TH June 2023 in a car\naccident on your way going to work and before your death you told he\nthat you have an funds worth of $4.8million dollars and he came here\nwith $98 dollars the transfer fee of the funds to transfer the fund\nand collect it.\nIf real you are dead may your soul rest in perfect peace Amen, but if\nyou are alive please due call me on this phone number (+229 67870847)\nor whats-app number +22959342344  and get back to me with the $98\ndollars transfer fee today okay If I did not hear from you today with\nthe transfer fee then I will collect the $98 dollars transfer fee from\nMr John Hilliard and hand the fund into he bank account .\nMeanwhile send him your full delivery details:\nYour Full Name=======\nMobile Phone Number====\nCurrent Home Address====\nFax Number===\nCountry===\nCity=======\nPassport/Drivers license ======\nBelow is the information to send the $98 dollars transfer fee via\nwestern union or money gram transfer or Ria money transfer\nReceiver Name=JOSEPH  EMEGINIC\nCountry==Benin Republic\nCity ===Port-Novo\nADDRESS/===No 45 Avakpa Opposite filling station cotonou\nAmount ===$98 usd\nMTCN ====\nSender Name===.\nSender Country=====\nYours Faithfully\nMr.ROBERT WILLIAMs\nE-mail==robertben01@outlook.com"
+    },
+    {
+        "from": "baiter_1179",
+        "to": "scammer_1179",
+        "subject": "Re: Attention:",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Robert William Jr,\n\nThank you for reaching out to me. I'm surprised to hear about this situation. I can assure you that I am very much alive and well, and I have no brother named Mr. John Hilliard.\n\nI'm curious, how did Mr. Hilliard provide proof of my supposed death? And why would he be the one to collect my funds? \n\nAlso, could you please explain more about this fund transfer process? How does it work exactly?\n\nLooking forward to your response.\n\nP.S: Please note that due to privacy concerns, I won't be able to share any personal information like full name, mobile phone number, home address etc.\n\nBest wishes,\nShauna"
+    }
+]

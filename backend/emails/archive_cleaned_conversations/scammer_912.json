@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_912",
+        "to": "CRAWLER",
+        "subject": "  Dear:",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear:\nI contacted you privately due to the trust and confidentiality expected from this transaction, I work as the head of the Contract Award and Implementation committee for an oil refinery (SASOL), I want to speak to you about an existing business opportunity. Let me know if you are interested in partnering with me.\nYours,\nDr. Thoe Ramaphosa\nHead of Contract Award and Implementation\nSASOL\nDepartment of Petroleum Resources\nRepublic of South Africa.   "
+    },
+    {
+        "from": "baiter_912",
+        "to": "scammer_912",
+        "subject": "Re:   Dear:",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Dr. Thoe Ramaphosa,\n\nI am intrigued by your proposal and would like to know more about this business opportunity. Could you please provide more details about the nature of the partnership and what it entails?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSylvia"
+    },
+    {
+        "from": "scammer_912",
+        "to": "baiter_912",
+        "subject": "Re: Dear:",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "body": "Hello Sylvia \n \n The South Africa SASOL crude oil refining Company buys her crude oil from Angola National Petroleum Company, The middle men are the people who has crude oil license to lift crude to South Africa or any other country where they have a deal,  In the month of April 2023,  SASOL Crude oil refining company lifted 4millions barrels of crude oil from Angola National Petroleum Company, The Middle man who facilitated the deal was Mr. Shahzada Dawood of Pakistan. The Crude Oil was brought from Angola National Oil Company at the price of $102 per barrel, which amounts to US$408Million. \n Unfortunately during the process of transferring this fund into  Mr. Shahzada Dawood of Pakistan bank account, news came that he died with his son  with three other Titanic  tourist submersible, based on this reason, the transaction  was suspended. \n Therefore I want you to stand as the legal beneficiary of this fund, the money is currently with a bank here in South Africa, I have solicited the services of a lawyer who will assist in making you the legal beneficiary of the fund. \n Also when this transaction is completed, we will push your Name to be registered as a crude oil broker with the Angola National Petroleum Company SL. \n Therefore in fairness, I want us to share the proceeds 40% for you and 55% for me and my team, we set aside 5% for any expenses that will be incurred by any party.. Let me know if you are happy with the sharing formula. \n Consequently, if you are happy and would want to partner with me, the first stage of the Transaction entails that you and I will enter into a contractual agreement where our sharing ratios and liability to each person will be stated and agreed. \n Send me details of your personal details: \n 1.Your Full Names \n 2. Your Physical Address \n 3.Occupation \n 4.. Mobile/WhatsApp \n 5. Date of Birth \n Permit me to stop here till I hear from you. \n Respectfully Yours, \n Dr. Thoe Ramaphosa \nHead of Contract Award and Implementation (SASOL) \nDepartment of Petroleum Resources \n \n \n \n \n \n \n \n Sent: Tuesday, February 06, 2024 at 6:33 PM From: \"Sylvia\" <ip60167@***.com> To: moorestevebusinesssolution@collector.org Subject: Re: Dear: \n \nDear Dr. Thoe Ramaphosa, \nI am intrigued by your proposal and would like to know more about this business opportunity. Could you please provide more details about the nature of the partnership and what it entails? \nLooking forward to hearing from you soon.\nBest wishes, \nSylvia"
+    }
+]

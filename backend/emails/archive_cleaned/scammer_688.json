@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_688",
+        "to": "CRAWLER",
+        "subject": "  I am Stephen Randal, I am a ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  I am Stephen Randal, I am a sick man who was diagnosed for cancer six years ago. my main reason for contacting you is because I want to entrust a charity project to you, I know this may sound so strange to you and also extremely risky for me to offer such proposal to a total stranger on via email but this is my last resort to get this done. I am looking for a\nconfidant, someone to help fulfill my last wish. Hope to read from you. I will appreciate your selfless act towards the less privilege, I don’t mind if you could be of trustful help. I will be waiting to read from you urgently as time is of essence due the limited time I have and my ill health condition.\nThanks,\nStephen  "
+    },
+    {
+        "from": "baiter_688",
+        "to": "scammer_688",
+        "subject": "Re:   I am Stephen Randal, I am a ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Stephen,\n\nI'm really sorry to hear about your health condition. It's indeed a noble cause that you're thinking of, and I appreciate your trust in me. Could you please share more details about this charity project? What kind of help are you exactly looking for?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nHeather"
+    }
+]

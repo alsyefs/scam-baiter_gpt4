@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_228",
+        "to": "CRAWLER",
+        "subject": "Dear:Beneficiary",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear:Beneficiary\nGreeting to you and your household In reference to the signal received\nfrom our Investigative Team concerning overdue payments. We write to\ninform you that some funds have been recovered from some Security\nCompanies, and sub financial houses, meant to be paid out to owners\nbut diverted.\nHowever, it was found after due auditing and vetting of all payment\nfiles, that your name was tagged on unpaid payment list. Thus, we are\ninforming you that all overdue payments have been approved and sum of\n$35,400,000, as shown in our Gazette will be released to you \nafter\nre-confirmation of your details.\n1) Your full name and Address,\n2) Phone, fax or mobile.\nContact this office directly via Email, to speed up payment processing\nand release. Do discard this information, if you are not the intended\nrecipient.\nAll emails are read and attended.\nYours Sincerely,\nMr.Andrew Willson\nDirector, Foreign Matters"
+    },
+    {
+        "from": "baiter_228",
+        "to": "scammer_228",
+        "subject": "Re: Dear:Beneficiary",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Willson,\n\nThank you for reaching out and informing me about this situation. It's quite surprising to hear that my name was tagged on an unpaid payment list. Could you please provide more details about these funds? How did they end up being diverted from their original destination?\n\nAlso, could you clarify what you mean by \"our Gazette\"? Is it a document or a publication where I can find more information about this matter?\n\nI'm looking forward to your response.\n\nBest regards.\n\nBest wishes,\nNancy"
+    }
+]

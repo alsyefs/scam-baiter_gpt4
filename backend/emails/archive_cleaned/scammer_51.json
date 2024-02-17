@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_51",
+        "to": "CRAWLER",
+        "subject": " Attention:",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " Attention:\nMy greetings to you. I am Mr.Alex Costa, I am a private financial consultant, I have a business proposal that I wish to present to you. I am contacting you in regards to my deceased client, who died of a heart attack. In the year 2012, before his death, he deposited the Sum of $14,200,000,00.USD (Fourteen Million Two Hundred Thousand United States of American Dollars). He had no will with the bank, or outstanding instructions in regards to this deposit before his death.\nAfter his death, the bank have informed me as his Financial Consultant representative, to get in contact with his family members or relatives to come forward for this Deposit claim.\nI have carried out every effort, to find his family member or relatives, However because of a lot of reform has been made within the Banking system, this includes the new law on abandoned deposits/claims which indicates a duration in which such deposit can be tolerated. For this reason I decided to contact you to present you as the next of kin family representative to my deceased client since you bear the same surname with my late client.\nAfter my discussion with the head of the accounts department of the bank, I should present someone as the family representative for this claim. After a period of time the bank will confiscate this deposit and the top bank directors will share the deposit among them self’s, since nobody is coming for it.\nI have put in place all necessary documents concerning the release of this deposit funds, and it is my intention to introduce this opportunity to you. Since my late client died without leaving any instructions before his death, and he told me in confidence that nobody else knows about this deposit. He lost his wife 2 years before his death and they had no children.\nI will prepare all the legal documents that will prove you as the family representative. Upon your acceptance to cooperate with me, I agree that 50% of this deposit money will be for you as a foreign partner, while 50% will be for me. For Security & Confidential reasons I strongly advise that you contact me immediately after you receive my email through my\nemails:  \nalexcosta2@yandex.com\n , \nalexcostaa2@aol.com\nD/Line: 0034634126248\nYou should get in touch with me with your contact details, Full Name Private Telephone and Fax Number and your Email Contact. Once I receive your contact details, I will get back to you with more details and next step on how we will proceed with this claim.\nIn conclusion, it’s my utmost concern to demand your ultimate honesty, co-operation and confidentiality. I GUARANTEE that this process will be executed under a legitimate arrangement that will legally protect you from any breach of law.\nThank you and I urgently look forward to hear from you.\nYours, Sincerely.\nMr. ALEX COSTA.    "
+    },
+    {
+        "from": "baiter_51",
+        "to": "scammer_51",
+        "subject": "Re:  Attention:",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Costa,\n\nThank you for your email and the information provided. I must say, this is quite a surprising turn of events. However, before we proceed further, I would like to clarify a few things.\n\nFirstly, could you please provide more details about your deceased client? It's important for me to understand the relationship between him and myself.\n\nSecondly, I would appreciate if you could explain in detail the process that needs to be followed for claiming this deposit. \n\nLastly, as this involves a significant amount of money and legal procedures, I hope you understand that I need to ensure everything is done in a legitimate manner. Therefore, it would be helpful if you could provide some proof of your identity and your professional credentials.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nScott"
+    }
+]

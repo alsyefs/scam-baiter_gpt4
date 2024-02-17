@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_789",
+        "to": "CRAWLER",
+        "subject": "Dear Beneficiary,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear Beneficiary,\n \nThis is to officially inform you that we have written to you before without getting a response from you and we believe that our previous mail did not get to you therefore we are writing you again.\n \n \nWe are contacting you concerning the release of your inheritance / Lottery/contract payment /Cheque /ATM Card which has been delayed for transfer by some officials who claim to be in the position of your payment thereby extorting money from you in one way or the other.\n \n \n \nThe United Nations  Fund Monitoring Unit has finally approved your Funds for transfer. Your funds will be transferred to you via MasterCard ATM which is cashable in any ATM machine or Bank anywhere in the world.\n \nas a result of this inform you that an ATM card worth $ 25 million has been credited in your favor as your inheritance /contract payment which has been delayed by these officers who claim to be in the position of your funds Therefore you are warned to stop any further communication with anybody concerning your payment your ATM\n \n \n \nwill be mailed to your home address via FedEx. Because we have signed a contract with FedEx which will expire by the end of October 2023 \nyou will only have to pay $270 instead of $470 saving you $200 if you Pay before the end of the week you will save $200 and receive your ATM Card\n  you are advised to contact our correspondent officer Mr Lee wing with the information below\n \n \nName: Mr Lee wing\n \nE-mail:   \nleewing@gmail.hu\nSend them the following information for the conclusion of your ATM Card:\n \nFull Name:__________\nDelivery Address:____\nCell phone:_______\nOccupation:_____\nPhone Number:____\nAge:______\nYours sincerely,\nJim  Lawson"
+    },
+    {
+        "from": "baiter_789",
+        "to": "scammer_789",
+        "subject": "Re: Dear Beneficiary,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Jim Lawson,\n\nThank you for your email. I am interested in the release of my Lottery contract payment Cheque ATM Card. However, I would like to clarify a few things before proceeding.\n\nFirstly, could you please provide more details about the United Nations Fund Monitoring Unit and their role in this process? Secondly, I would appreciate if you could explain why there were delays in the transfer of my funds and who these officials are that have been extorting money.\n\nLastly, could you please provide more information about the ATM card worth million that has been credited in my favor? What is the exact amount and how can I access it?\n\nI look forward to your response.\n\nBest wishes,\nLana"
+    }
+]

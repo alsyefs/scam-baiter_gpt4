@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_640",
+        "to": "CRAWLER",
+        "subject": "  Attention:Beneficiary",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Attention:Beneficiary\nDid You Instruct One Ms. Chloé Alexandre, To Claim Your $2,000,000.00.\nThe above-mentioned person visited this Office 10:45A.M yesterday,\nwith a power of attorney given in her favor by your good self,\ngranting her the benefit to process and claim your pending fund valued\n$2,000,000.00 (TWO MILLION  US DOLLARS)for personal reasons.\nShe further stated that you are one of the Coronavirus diseases\n(COVID-19) victims as you did not survive but you grant her a power of\nattorney to claim your pending fund before you pass away. Please\nanswer this very important question, are you (Dead OR Alive). Our\noffice has asked Mrs. Chloé Alexandre, to return back to this office\nwithin  (48) working hours to enable us to have a personal\nconfirmation from you being hitherto the beneficiary.\n(1.) Did you instruct one Mrs. Chloé Alexandre, of 43, rue\nSaint-Placide 75006 Paris, France, to claim and receive your fund on\nyour behalf\nbecause you are dead?\n(2.) Did you sign any 'Deed of Assignment' in her favor thereby\nmaking her the current beneficiary/Next of Kin to receive your pending\nfund?\nNow your new Payment,\nUnited Nation Approval No; UN5685P,\nWhite House Approved No: WH44CV,\nReference No.-35460021,\nAllocation No: 674632,\nPassword No: 339331,\nPin Code No: 55674,\nCertificate of Merit Payment No: 103,\nReleased Code No: 0763;\nImmediate (IMF) Telex confirmation No: -1114433;\nSecret Code No: XXTN013.\nWe have decided to contact you for re-verification because we\nsuspected that Mrs. Chloé Alexandre is trying to divert your FUND\nthrough the sworn affidavit into a new different bank account.\nSincerely,\nDr. Mohad Bashir\nInternational Monetary Fund   "
+    },
+    {
+        "from": "baiter_640",
+        "to": "scammer_640",
+        "subject": "Re:   Attention:Beneficiary",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Dr. Mohad Bashir,\n\nI am writing to clarify that I have not authorized anyone, including Ms. Chlo Alexandre, to claim any funds on my behalf. I am very much alive and capable of managing my own affairs.\n\nI have no knowledge of the pending fund valued at TWO MILLION US DOLLARS you mentioned in your email. Furthermore, I did not sign any document making Ms. Alexandre or anyone else the current Next of Kin to receive any funds.\n\nPlease disregard any claims made by Ms. Alexandre or anyone else purporting to act on my behalf without my explicit written consent.\n\nThank you for bringing this matter to my attention.\n\nBest wishes,\nRonnie"
+    }
+]

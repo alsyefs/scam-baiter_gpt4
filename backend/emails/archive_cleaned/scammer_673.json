@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_673",
+        "to": "CRAWLER",
+        "subject": "  PRIME MINISTER'S OFFICE",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  PRIME MINISTER'S OFFICE\n10 DOWNING STREET,\nLONDON, SW1A 2AA.\nCODE OF PAYMENT(SCHEME-2022)\nFor Your Information.\nThis mail serves as a  NOTIFICATION that you have been short listed\nfor payment/compensation of( £1,000,000),it might interest you to know\nthat we are set to complete your payment immediately as instructed by\nPRIME MINISTER BORIS JOHNSON  AND THE U.K TREASURY who has approved\nthe sum of £1 BILLION POUND STERLING ONLY in conjunction with World\nBank and International Monetary Fund (IMF),to be shared  among the\naffected scam victims who has in one way or the other been  expecting\ntheir Contract payment, lottery winnings, inheritance payment and all\nother forms of payments which the lost to fraud/scam syndicates,from\nEuropean,African and Asian Banks and Security Houses.Therefore you are\namong 50 people/beneficiaries whose name  and email address came up in\nthe GLOBAL COMPENSATION SCHEME/BAIL OUT FUND.\nTherefore,to enable us commence processing of your funds release, do\nre-confirm urgently the under listed info.\nA.Full Names\nB.Contact Phone/Fax Number\nC.Occupation\nD.Contact address.\nE.Scan copy of your ID.\nF.Age and Marital Status.\nWhile waiting for your response, we regret any inconveniences you\nmight/may have gone through to secure your funds release, we urge you\nto stop further communication/s with any one you have been dealing\nwith. You have been notified.\nWe look forward to hearing from you soonest.\nYours Sincerely,\nJames Clark\nCompensation/Bail Out Fund-Coordinator\nLondon-UK   "
+    },
+    {
+        "from": "baiter_673",
+        "to": "scammer_673",
+        "subject": "Re:   PRIME MINISTER'S OFFICE",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear James Clark,\n\nI am writing in response to your email regarding the Global Scheme Bail Out Fund. I am intrigued by this opportunity and would like to proceed further.\n\nHere are my details:\n\nName: Eliza Dane\nPhone Number: +44 20 7946 0532\nAddress: 10 Downing Street, London, SW1A 2AA, United Kingdom\nMarital Status: Single\n\nFor security reasons, I prefer not to send a copy of my ID via email. If necessary, I can present it in person at a later stage.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nGary"
+    }
+]

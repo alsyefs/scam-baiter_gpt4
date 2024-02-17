@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1191",
+        "to": "CRAWLER",
+        "subject": "Top of the day to you. I write",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Top of the day to you. I write for your assistance to make a claim of\nmy funds Ten Million Five Hundred Thousand US Dollars with the Bank of\nAmerica, US.\nI am MARIYA SEMENOVA  from Russia and I work in the official of\nPresident Vladimir Vladimirovich Putin, because of the war between\nRussia and Ukraine the US government is bent on freezing all Russia\ntop officials assets and funds in America and Europe. In respect of\nthis,\nI want to immediately make you my NEXT OF KIN or beneficiary of the\nfunds I have with Bank of America.\nPlease let me know if you are capable of handling this transaction?\nBest regards,\nMariya Semenova."
+    },
+    {
+        "from": "baiter_1191",
+        "to": "scammer_1191",
+        "subject": "Re: Top of the day to you. I write",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mariya Semenova,\n\nI am sorry to hear about your predicament. However, I would need more information before I can commit to assisting you. Could you please provide more details about the nature of this transaction and how it is supposed to work?\n\nBest wishes,\nElvia"
+    }
+]

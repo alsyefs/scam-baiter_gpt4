@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_747",
+        "to": "CRAWLER",
+        "subject": "Dear Sir/Ma",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear Sir/Ma\nGreetings to you and your Family.\nPlease forgive me for approaching you through this media.\n    I’m Miss Kate Robert &  17 Yrs Old (Student) I lost my Dad two yrs\nago and I'm the only Child (Daughter).\nMy Uncle took over my Dad properties. My Dad lawyer inform privately\nthat My Dad has a Fund in a Security Firm and the best way to get it\nis to seek foreign partner  and he or she will be use as my Late\nFather’s partner.\nThe amount available for the investment is over Twenty Eight Million\nUnited States Dollars.($28.000.000.00) and\n I seek for  your swift\nresponse and direct you to my Late Father Lawyer.\n    Name.\n    Address.\n    Occupation.\n    Tel/Fax.\n    Age.\n \nCopy your ID.\n    passport\n.\n    Warmest Regards,\n    Ms.Kate Robert"
+    },
+    {
+        "from": "baiter_747",
+        "to": "scammer_747",
+        "subject": "Re: Dear Sir/Ma",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Robert,\n\nI'm sorry to hear about your loss. It must be a challenging time for you. I appreciate your trust in reaching out to me regarding this matter.\n\nIt's quite interesting that your father had such a substantial fund in a security firm. Could you tell me more about it? What kind of investment was he involved in?\n\nAlso, could you provide more details about the process of transferring these funds? How does having a foreign partner help in this situation?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nErin"
+    }
+]

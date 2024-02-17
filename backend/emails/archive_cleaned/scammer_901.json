@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_901",
+        "to": "CRAWLER",
+        "subject": "  Attention Dear,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Attention Dear,\nI wish to bring to you a high level partnership investment opportunity\nthat requires a capable and successful entrepreneur with sound\nprofessional experience in fund cum investment management. The\ninvestment capital involved in this project is a total of USD 68\nMILLION.\nThe processing and transfer of the investment capital is scheduled to\ntake place in Ghana where the investment capital is domiciled in a\nbank.\nA Round  Ticket with fully paid hotel accommodation for 3 nights in a\nHotel will be arranged\nfor your trip to Ghana where this transaction as described herein will\nbe executed since your presence is required for KYC.\nThe investment capital in question is currently in the coffers of a\nfinancial institution in Ghana and you are required to visit the\nfinancial institution while you are here in Ghana for physical\nverification and confirmation of the availability of the investment\ncapital and be informed that this transaction will be executed within\nthe ambit of the Financial Laws of both countries.\nIf you have the capacity to work with us on this potential\nopportunity, feel free to contact me with a full introduction of\nyourself and Company.\nThanks\nBest Regards,\nMohamed Nassary,    "
+    },
+    {
+        "from": "baiter_901",
+        "to": "scammer_901",
+        "subject": "Re:   Attention Dear,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mohamed Nassary,\n\nThank you for your email and the opportunity. However, I would need more information about the nature of the investment, the expected return on investment (ROI), and the risk involved. \n\nCould you please provide a detailed proposal or business plan? This will help me understand better and make an informed decision.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nBobby"
+    }
+]

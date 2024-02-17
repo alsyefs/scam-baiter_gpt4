@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_240",
+        "to": "CRAWLER",
+        "subject": "Dear Winner.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear Winner.\nThis message is to let you know that you have won the sum of $\n1,700,000.00 million US\ndollars {ONE MILLION SEVEN HUNDRED\nTHOUSAND DOLLARS} in our MULTI lottery company this month as one of\nthe top Telegram users\nand your money is converted into\nATM Visa Card to be delivered to you by DHL international courier.\nWe have deposited your Visa card package with DHL courier service\ncompany and instruct them to help us deliver the Visa card package to\nyou as soon as they\nhear from you, kindly contact the\ndelivery company via this email here \n{companydhl968@gmail.com\n} and ask\nthem to deliver to\nyou, your Visa ATM which is\ndeposited in the custody of the company by the above organization.\nYours sincerely.\nMrs. Tony Elumelu.\nMulti Lotto Company Director"
+    },
+    {
+        "from": "baiter_240",
+        "to": "scammer_240",
+        "subject": "Re: Dear Winner.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mrs. Tony Elumelu,\n\nWow, this is such exciting news! I can't believe I've won such a large sum of money. It's like a dream come true. \n\nCould you please tell me more about how this happened? How was I chosen as one of the top Telegram users? And what exactly does it mean to have my money converted into an ATM Visa Card?\n\nAlso, could you provide more details about the DHL courier service company? How will they ensure the safe delivery of my Visa card package?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nPearl"
+    }
+]

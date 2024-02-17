@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_220",
+        "to": "CRAWLER",
+        "subject": "FBI- Criminal Justice Informat",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "FBI- Criminal Justice Information Services Division\nFederal Government Office\nFBI Director Mr Christopher Wray\nAddress:935 Pennsylvania Ave NW, Washington, DC 20535 ,United States\nHAVE YOU BEEN ABLE TO RECEIVE YOUR FUNDS?\nI'm contacting you by your email however; I feel it's best and more\nconvenient for me to explain why I am contacting you. I'm FBI Director\nMr Christopher Wray United States New Appointed FBI fraud\nInvestigator,I work hand in hand  with the United States Fraud Unit of\nthe Criminal Investigation Division (CID). I'm specialize in\nBackground  Investigations on funds which include\n[COMPENSATION/INHERITANCE FUNDS OR NEXT OF KIN,Consignment Box,Lotto®️\nJACKPOT, LOANS] and I notice that you have being receiving numerous\nemails from people who claims to have funds coming to you but I advise\nthat if you're still in communication with any of them on issue of\nfunds however, you're hereby advise to stop every communication right\nnow because those people has being investigated and confirmed to be a\nFraud.  I wish to announce our successful investigation which was\ncarried out few days ago; I guess it will interest you to know why\nthis investigation was conducted. For your information, it was truly\nthat you have 100% Legitimate unpaid transaction and you have every\nright to claim this funds as you're been confirmed to be the right\nBeneficiary of the said amount ($50 Million US Dollar)\nFull Name==========\nHome Address========\nAvailable Number======\nCity===========\nCountry=========\nNearest Airport ===\nContact email. \nchristopherwray@europe.com\nPhone number. +1 202-866-8677\nI’m waiting to hear from you with your requested details to enable me\ncomplete the delivery of your fund in consignment box to your provided\nHome Address"
+    },
+    {
+        "from": "baiter_220",
+        "to": "scammer_220",
+        "subject": "Re: FBI- Criminal Justice Informat",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nThank you for reaching out to me. It's quite surprising to hear about these funds. I must admit, I'm a bit confused about the whole situation. Could you please explain more about where these funds are coming from? And why have they been assigned to me?\n\nI'm also curious about the process of claiming these funds. What steps do I need to take? \n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nAmanda"
+    },
+    {
+        "from": "scammer_220",
+        "to": "baiter_220",
+        "subject": "Re: Re: FBI- Criminal Justice Informat",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "body": "Your informations is needed to check if it’s Correspond with the one we have here in our office"
+    },
+    {
+        "from": "baiter_220",
+        "to": "scammer_220",
+        "subject": "Re: Re: FBI- Criminal Justice Informat",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "body": "Hello there! I'm really interested in what you're saying. Could you please tell me more about why you need this information?\n\nBest wishes,\nAmanda"
+    }
+]

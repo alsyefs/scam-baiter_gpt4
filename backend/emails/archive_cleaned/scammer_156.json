@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_156",
+        "to": "CRAWLER",
+        "subject": "  Return-Path: < ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Return-Path: < \ncanadacyberpolice@gmail.com\n >\nReceived: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])\nReply-To: \nbeneinfor7@gmail.com\nFrom: \"From; Dr. Edward James\" <canadacyberpolice@gmail.com>\nDate: Tue, 13 Sep 2022 00:06:51 -0700\nMessage-ID: <CAKypk1=VxnRgWJPkX57GWJBeoxeaZucT6nVsXqv4Wrw4aPXVxw@mail.gmail.com>\nSubject: Be warned and comply immediately....   "
+    },
+    {
+        "from": "baiter_156",
+        "to": "scammer_156",
+        "subject": "Re:   Return-Path: < ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Marykate,\n\nThank you for your prompt response. I am very excited about this opportunity and would like to proceed as quickly as possible. Could you please provide me with the next steps in this process?\n\nBest regards,\nLewis D.\n\nBest wishes,\nReba"
+    }
+]

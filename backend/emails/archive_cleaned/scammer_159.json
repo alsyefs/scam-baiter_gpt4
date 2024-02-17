@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_159",
+        "to": "CRAWLER",
+        "subject": "I am Deborah Berg Secretary of",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "I am Deborah Berg Secretary of US Department of Homeland Security\n (ATM Card/ DEBIT Card Number 5061050258799644527)Your Personal\nIdentification Number is 3851. The Card Value is ($5.5M USD has been\npended here for a long time\nand it is not the best way, because the ATM CARD has it validity date\nto be on delivery and once the validity date of delivery is expires\nthe issued ATM CARD will be terminated as the bank here will take it\nthat you the beneficiary is not serious to adhere to the directives to\nhave the ATM CARD be delivered to your address.\nIt is the courier company that demanded the fee of 155$ and am not\nworking with the courier company, so the fee will not been given to me\nor they Bank but to the courier company,i wanted you to send the money\nto ensure your issued ATM CARD get to you doorstep with guarantee safety\ndelivery.\nWaiting your positive response regard getting safety delivery to your door step\nand \nyou should try to re-confirm your contact address to avoid any\nwrongful delivery\nof the ATM CARD, Thanks\nRegards,\nFrom The Desk Of:\nDeborah  Berg\nSECRETARY US (DHS)"
+    },
+    {
+        "from": "baiter_159",
+        "to": "scammer_159",
+        "subject": "Re: I am Deborah Berg Secretary of",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Deborah Berg,\n\nThank you for your email. I understand that there is an ATM card with a significant value pending for me. However, I am a bit confused about the details of this transaction.\n\nCould you please provide more information about the following:\n\n1. What is the exact amount on the ATM card?\n2. What is the validity date of this card?\n3. How much is the courier fee and how should it be paid?\n\nAlso, could you please confirm my contact address as follows:\n\n\n\nI look forward to your prompt response.\n\nBest wishes,\nLaura"
+    }
+]

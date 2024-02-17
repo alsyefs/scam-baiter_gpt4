@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_859",
+        "to": "CRAWLER",
+        "subject": "Good Day,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Good Day,\nI am Mdherakg Bangla and I work with UNITED BANK For AFRICA. Please Can you use an ATM Visa card to withdraw money at ATM cash machines in your country?\nI want to transfer money to you from my country; it’s part of money taken by some old politician that was forced out of power.I will change the account details to\nyours, and apply for a visa card with your details in our bank,\nthey will send the visa card to you and you will be withdrawing money with it and always send my own percentage of the money,\nand the money we are talking about is $11.5Million us dollars about is $11.5Million us dollars. Whatever amount you withdraw daily, you will send 50% to me and you\nwill take 50%, the visa card and the bank account will be in your name,\nI will be waiting for your information as soon as possible.\nYour name..........................\nAge...........................\nSex...........................\nCountry.......................\nOccupation....................\nPhone number........................\nCopy of your passport\n.............\nBest Regards.\nMdherakg Bangla"
+    },
+    {
+        "from": "baiter_859",
+        "to": "scammer_859",
+        "subject": "Re: Good Day,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mdherakg Bangla,\n\nThank you for reaching out to me. Your proposal sounds interesting, but I have a few questions before we proceed further.\n\nFirstly, could you please explain more about the source of this money? You mentioned it was taken by some old politician - is this legal?\n\nSecondly, how exactly does the process work? How will the account details be changed to mine and how will the Visa card be sent to me?\n\nLastly, what percentage of the money would I be expected to send back to you?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nLarry"
+    }
+]

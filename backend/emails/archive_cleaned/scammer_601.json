@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_601",
+        "to": "CRAWLER",
+        "subject": "We are an online pharmacy that",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "We are an online pharmacy that specilizes in private medicine supplies and give information on various medications. We also give counselling and first aid advice as far as certain pharma products are concerned. Most especially, we sell various pharmaceutical products and medications to buyers all over the globe."
+    },
+    {
+        "from": "baiter_601",
+        "to": "scammer_601",
+        "subject": "Re: We are an online pharmacy that",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Customer,\n\nThank you for reaching out to us. We are indeed an online pharmacy specializing in private medicine supplies. We offer a wide range of products and services, including first aid advice and information on various pharmaceutical products.\n\nWe pride ourselves on our global reach, delivering our products to customers all over the world. Please feel free to browse through our website or contact us directly if you have any specific needs or questions.\n\nBest wishes,\nMamie"
+    }
+]

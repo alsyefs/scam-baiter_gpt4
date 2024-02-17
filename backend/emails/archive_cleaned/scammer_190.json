@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_190",
+        "to": "CRAWLER",
+        "subject": "  From: Mr. Godwin I. Emefiele",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  From: Mr. Godwin I. Emefiele <cbn@cbn.local>\nSent: Monday, February 13, 2023 \nSubject: Re: Did you receive my message?..\n \nFROM THE ACTIVE OFFICE OF THE CBN\nGOVERNOR, GODWIN IFEANYI EMEFIELE\n \nATTN:\n \nHow are you today?. Am writing you again categorically to know if you are receiving\nmy mails or not.You should confirm the receipt of this message/mail and indicate if\nyou are ready to receive your outstanding fund or not.\n \nIf you not ready to redeem it now,kindly notify me immediately so that I will close your\npayment file and declare the fund dormant and confiscate it. Am tired of receiving\ncalls and messages from some people who said you sent them to redeem the fund\non your behalf.\n \nThis is very important and annoying at this juncture because you haven't email me\non that regards that you are sending someone to receive it on your behalf. You can\nas well send your whats-app number if your on whats-app to fast track your payment.\n \nI look forward to hearing from you.\n \n \nMr. Godwin I. Emefiele\nCBN Executive Governor.   "
+    },
+    {
+        "from": "baiter_190",
+        "to": "scammer_190",
+        "subject": "Re:   From: Mr. Godwin I. Emefiele",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Emefiele,\n\nI am well, thank you for asking. I must say, your email has taken me by surprise as I was not expecting any funds. Could you please provide more details about this fund and why it is being sent to me? \n\nAlso, I have not authorized anyone to receive any funds on my behalf. If someone is claiming so, they are doing it without my knowledge or consent.\n\nLooking forward to your response.\n\nBest wishes,\nElton"
+    }
+]

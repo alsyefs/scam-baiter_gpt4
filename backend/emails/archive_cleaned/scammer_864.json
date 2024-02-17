@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_864",
+        "to": "CRAWLER",
+        "subject": "Hello my Dear Frinend,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hello my Dear Frinend,\nMy name is Mrs. Melinda Cruz . I am working with one of the prime banks here in Abidjan- Ivory Coast. in this bank existed a dormant account for many years, which belong to one of our late foreign customer.\nThe amount in this account stands at [$ 17,000,000.00]  USA Dollars) I will like to transfer the funds into your bank account, The percentage Ratio IS THUS: 40% for you, 60% for me and my colleagues, if you are interested contact me and all the\ndetails shall be sent to you once I hear from you.\nBest regards,\nMrs. Melinda Cruz"
+    },
+    {
+        "from": "baiter_864",
+        "to": "scammer_864",
+        "subject": "Re: Hello my Dear Frinend,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mrs. Melinda Cruz,\n\nThank you for reaching out to me. I'm intrigued by your message and would like to know more about this situation. Could you please provide more details? For instance, how did you find my contact information and why have you chosen me for this transaction?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nGenevieve"
+    }
+]

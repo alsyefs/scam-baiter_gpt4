@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_704",
+        "to": "CRAWLER",
+        "subject": "  From the Desk Of Manager:",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  From the Desk Of Manager:\nMr.Jamie Dimon,\nJP Morgan Chase Bank New York\n270 Park Ave. New York City\nThis is to bring to your kind notice that your outstanding payment of\n$10,000,000.00 which has been with our central paying office from\nUnited Nations has been signed and Approved for payment after series\nof meeting with our board of directors,also bear in mind that We want\nto conclude all payment before the 3rd quarter of 2023 runs out for\nyou to receive your Fund.\nOn this note, we the management board of JP Morgan Chase & Co. have\nunanimously agreed to set up an account with our bank on your behalf\nso that your total funds $10 Million will be remitted for immediate\nconfirmation. However, for us the management to implement this action\nof setting up the account on your behalf, provide the below requested\ninformation in your next email so that we the management will\nsuccessfully open a new account on your behalf:\nYour Full Name:\nYour Complete Address:\nDirect Tell: Number:\nMobile Number:\nOccupation\nNationality.\nTherefore, to enable us achieve our goal to release your Fund to you,\nyou are advice to reconfirm to us the below information to enable us\nconclude this transaction with you.\nWaiting for your immediate response.\nThanks for your Co-operation.\nMr Jamie Dimon\nChief Executive officer JPMorgan Chase Bank\n270 Park Ave. New York City,\nOffice mail Address:\nWebsite:- /www.jpmorganchase.com\nEmail:  \njohncokne@gmail.com\n "
+    },
+    {
+        "from": "baiter_704",
+        "to": "scammer_704",
+        "subject": "Re:   From the Desk Of Manager:",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Jamie Dimon,\n\nThank you for reaching out to me and providing this information. It's quite a surprise to hear about this payment from the United Nations, I wasn't expecting it.\n\nI'm curious about how this process works. Could you please explain more about how the account setup will be handled by JP Morgan Chase Co.? Also, could you provide more details on why my occupation is needed for this?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nGeorge"
+    }
+]

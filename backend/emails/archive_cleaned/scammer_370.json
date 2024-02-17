@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_370",
+        "to": "CRAWLER",
+        "subject": "CHANGE OF BENEFICIARY",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "CHANGE OF BENEFICIARY\n In Our office  Was  A Presence Of One Mr.  Shem Pullen of 1011 128TH\nST SW  APT C104   Everett, WA 98204 with his ID attached .filing\napplication contrary to your pending fund transfer. The above\nmentioned person visited this Bank yesterday with a power of attorney\ngiven in his favor by your good self, granting him the benefit to\nprocess and claim your inheritance of $5,000,000.00( Five Million\nUnited States Dollars Only) for personal reasons.\nA.s.a.p\nThanks and God Bless,\nMr Godwin Emefiele .\nCentral Bank Governor\nYou Can Reach me On this Line\nEmail:e389852@gmail.com"
+    },
+    {
+        "from": "baiter_370",
+        "to": "scammer_370",
+        "subject": "Re: CHANGE OF BENEFICIARY",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Godwin Emefiele,\n\nThank you for reaching out to me. I'm a bit surprised by this information as I don't recall giving any power of attorney to Mr. Shem Pullen. Could you please provide more details about this situation? When and where was this power of attorney supposedly given?\n\nI would also like to know more about the pending fund transfer you mentioned. How did it come about and why is it in my name? \n\nLooking forward to your response.\n\nBest wishes,\nJodi"
+    }
+]

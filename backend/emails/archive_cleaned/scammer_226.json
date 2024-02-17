@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_226",
+        "to": "CRAWLER",
+        "subject": "CITIBANK OF AMERICA.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "CITIBANK OF AMERICA.\n100 CITIBANK DRIVE,\nSAN ANTONIO,TX 78245 USA.\nAlternative email: \ncitibankin@aol.com\nDear beneficiary,\nCHANGE OF BENEFICIARY\nThis is very urgent and urgent attention is needed.\nIn our office today, was the presence of one Mr. John T. Kehoe of 1200\nFitch Way, Sacramento, Ca. 95864 filing application contrary to your\npending fund transfer. The above-mentioned people visited this Bank\nyesterday with a power of attorney given in his favor by your good\nself, granting him the benefit to process and claim your\nUS$5,000,000.00(Five Million United States Dollars Only) for personal\nreasons.\nHe further Stated that the online account be Terminated while the fund\nshould be wired to his Bank account with Bank Of America, Routing\nNumber 121000358. Our office has asked Mr. John T. Kehoe to return\nback within 48 hours to enable us to have a personal confirmation from\nyou being hitherto the beneficiary.\n1. Did you instruct Mr. John T. Kehoe of 1200 Fitch Way, Sacramento,\nCa. 95864, to claim and receive the payment on your behalf?\n2. Did you sign any 'Deed of Assignment' in his favor thereby making\nhim the current beneficiary?\nIf you did, well, we are sorry to have delayed your instruction in\ngiving out this fund since we must adhere to the procedures of this\nhonorable bank by making sure this request is verified and confirmed\nby the beneficiary.\nYour quick reply via this alternative email will be appreciated:\ncitibankin@aol.com\nYours Faithfully,\nJMark Mason.\nExecutive."
+    },
+    {
+        "from": "baiter_226",
+        "to": "scammer_226",
+        "subject": "Re: CITIBANK OF AMERICA.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Mason,\n\nI am writing to clarify that I have not authorized anyone named Mr. John T. Kehoe to claim or receive any payment on my behalf. I did not sign any document in his favor making him the beneficiary of any funds.\n\nI would appreciate it if you could halt any transactions involving Mr. Kehoe immediately and provide me with further instructions on how to proceed with securing my funds.\n\nThank you for your attention to this matter.\n\nBest wishes,\nEmma"
+    }
+]

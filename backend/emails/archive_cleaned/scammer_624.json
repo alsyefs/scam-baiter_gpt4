@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_624",
+        "to": "CRAWLER",
+        "subject": "  From the Desk Of:",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  From the Desk Of:\nManager: Mr.Jamie Dimon,\nJP Morgan Chase Bank New York\n270 Park Ave. New York City\nThis is to bring to your kind notice that your outstanding payment of\n$10,000,000.00 which has been with our central paying office from\nUnited Nations has been signed and Approved for payment after series\nof meeting with our board of directors,also bear in mind that We want\nto conclude all payment before the 4th quarter of 2022 runs out for\nyou to receive your Fund.\nTherefore, to enable us achieve our goal to release your Fund to you,\nyou are advice to reconfirm to us the below information to enable us\nconclude this transaction with you.\nYour Full Name:\nYour Complete Address:\nDirect Tele: Number:\nMobile Number:\nOccupation\nNationality.\nFinally, Response Should be Made Immediately before it will be too late for you.\nWaiting for your immediate response.\nThanks for your Co-operation.\nManager: Mr.Jamie Dimon,\nJP Morgan Chase Bank New York\n270 Park Ave. New York City,\nOffice mail Address:   "
+    },
+    {
+        "from": "baiter_624",
+        "to": "scammer_624",
+        "subject": "Re:   From the Desk Of:",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nI am writing in response to your email regarding the payment from United Nations. I appreciate your efforts and would like to provide the necessary information for the process.\n\nOccupation: International Hotel Consultant\n\nPlease let me know if you need any additional information or documents from my side. I look forward to a prompt resolution of this matter.\n\nBest Regards,\nLewis D.\n\nBest wishes,\nJonathan"
+    }
+]

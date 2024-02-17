@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1202",
+        "to": "CRAWLER",
+        "subject": "  Hello  ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Hello  \n      Thanks for the reply. Duly noted your bank has been unable to transfer the payment. Usually, we process all payments in the location where the order has been assigned to be shipped from. However, we have approved a secondary payment on your order. So we have revised your proforma invoice since you cannot successfully make the payments outside of the U.S.A. Find attached to this email, your revised proforma invoice to use in making the payment. With this, we will be able to process your payment on the same day and proceed with packaging. Your bank should have no issues now with the payments. We await your reply soon.\nL.K Safety Company.\nWhatsapp: +66 994 846 844\nWebsite: ww w.lksafety.com\nTelephone: +66994846844, 0066638681215\nManaging Director/ Sales Manager  "
+    },
+    {
+        "from": "baiter_1202",
+        "to": "scammer_1202",
+        "subject": "Re:   Hello  ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there, Safety Company! It's a pleasure to connect with you. I'm curious about your roles as Managing Director and Sales Manager. Could you tell me more about what your day-to-day responsibilities look like?\n\nBest wishes,\nRaul"
+    }
+]

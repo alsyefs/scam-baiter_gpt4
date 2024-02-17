@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1310",
+        "to": "CRAWLER",
+        "subject": "  UNITED NATIONS PAYMENT OFFIC",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  UNITED NATIONS PAYMENT OFFICE\n COMPENSATION PAYMENT UNIT.\n WEST AFRICAN REGION OFFICE\n Our Ref: UNO /UN/CTB\n RELEASE CODE No: 0763\n Attention Fund Beneficiary;\n \n YOUR  COMPENSATION PAYMENT\nPlease be informed that your long awaited compensation funds payment to the tune of $7.5M has finally been approved as your email ID is among the list of Beneficiaries that will receive their fund but it has also been  brought to our notice that a gentle man by the name (Micheal laton) has just forwarded a new banking details claiming he is your next of\nkin and that you are dead so here comes the big question:  Did you Authorize the above mentioned name to claim your funds?\nAre you truly dead or alive?\nIs Michael Laton your next of kin?if no kindly get back to us with the below stated information for verification as the wire will be done within 48 hours from this notice:\n \n Your name:\n Current home address:\n Country:\n Occupation:\n Telephone Number:\n Age:\n Gender:\n \nWe await your urgent response so that we can proceed with your $7.5M payment. However as a matter of urgency you are advise to contact the paying bank  which is UNITED BANK FOR  AFRICA {U B A}  for your Fund Transfer Via KTT Wire  transfer or ATM VISA CARD, Attention to : MR.Oliver Alawuba.THE GROUP MANAGING DIRECTOR/CEO,\nEMAIL: \nubabankplc85@aol.com\nGet across to him with all your contact information including copy of your Identification\n \nYours faithfully,\nMRS LINDA DAVID\nUN OFFICE\nWEST AFRICA REGION HEAD OFFICE   "
+    },
+    {
+        "from": "baiter_1310",
+        "to": "scammer_1310",
+        "subject": "Re:   UNITED NATIONS PAYMENT OFFIC",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mrs. Linda David,\n\nI am very much alive and I have no idea who Michael Laton is. He is not my next of kin or in any way related to me. \n\nHere are my details:\n\nFull Name: Lewis D. Noogie\nAddress: 123 Main Street, Novosibirsk, Latvia\nPhone Number: +371 12345678\nEmail: lewis.noogie@email.com\n\nPlease proceed with the payment as planned and disregard any claims made by this Michael Laton.\n\nBest Regards,\nLewis D.\n\nBest wishes,\nEmma"
+    }
+]

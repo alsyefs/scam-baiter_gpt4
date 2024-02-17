@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_230",
+        "to": "CRAWLER",
+        "subject": "Congratulations ID Owner!!",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Congratulations ID Owner!!\nYour payment of US$75 Million recovering in your name from fund donation union has been approval again and endorsed by the United States Government authorities through the help of PNC Internet Online Banking System.\nDue to the incessant scam activities going around the globe, Federal Bureau Investigation (FBI) and Homeland Security Director, MG Timothy J. Weinberg, Adjutant General and Director State Military Department has instructed our Financial Institution to use high Performance in Banking System setup PNC Personal On-line Banking Account worth US$75 Million on your behalf.\nSo the Management has resolved to open Personal On-line Banking Account for you with our bank and then give you the on-line access which will enable you to check and make electronics wire transfer out to any of your bank account in your country by yourself through internet online.\nWe are going to have this account open on your name as soon as you reply to this important e-mail and give you your new open account information’s for your record.\nKindly Send Above information to enable us set the account open for you.\nFull Name:………………………………………………\nFull Address:………………………………………\nEmail :………………………………………………\nDirect Telephone Number:…………\nInternational Passport or any of your ID Card is needed\n:………………………………………………\nPlease, reconfirm your direct cell phone number to enable voice/whatssup communication.\nLooking forward for your next letter to \nclory@technet.it\nThank you for your patient.\nRegards\nBest Regards,\nMr. William S. Demchak\nChairman, President and Chief Executive Officer\nPNC Bank Headquarters Corporate Office\nPLEASE SEND YOUR NAME AS IT IS CLEARLY WRITTEN IN YOUR PASSPORT AND ID CARDS SO THAT WE WILL NOT MAKE MISTAKE IN OPENING OF THE NON RESIDENTIAL BANK ACCOUNT UNDER YOUR NAME"
+    },
+    {
+        "from": "baiter_230",
+        "to": "scammer_230",
+        "subject": "Re: Congratulations ID Owner!!",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. William S. Demchak,\n\nThank you for your message and the information provided. It's quite interesting to hear about this fund donation union and the involvement of the United States Government, PNC Internet Online Banking System, Federal Bureau FBI, and Homeland Security Director, MG Timothy J. Weinberg.\n\nI'm curious to know more about how this process works. Could you please explain a bit more about how this Personal Banking Account will be set up? And what exactly does it mean that I'll be able to check and make wire transfers out to any of my bank accounts in my country by myself through internet online?\n\nAlso, could you clarify why my passport or ID card is needed for this process? I'm just trying to understand everything clearly.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMary"
+    }
+]

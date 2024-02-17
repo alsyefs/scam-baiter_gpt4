@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_822",
+        "to": "CRAWLER",
+        "subject": "Director Investment Project Co",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Director Investment Project Company Of Dubai,\nAddress:Enoc Building Number 1,\nOud Metha Street 28171 Dubai UAE.\nPhone Number:+971 -433 465 400\nEmail :  \nmalikahmada146@gmail.com\nGreetings,\nWe are brokers affiliated to Investment Project Company from the Gulf\nwho are interested and willing to fund your or your company in any\ncurrent project you are undergoing, Investment Project Company is\nprivately seeking means of expanding their investment portfolio.if you\nare in need of loan investment project,As a leading financial\ninstitution among in the world Bank,(EMIRATES INVESTMENT BANK DUBAI)\nHave therefore offer credit support for investment purposes to assist\nmicro businesses/manufacturers,Households and investors of any kind of\nbusiness in this era of corona virus and the Emirates investment Bank\nof Dubai is the facilitator of the credit support.\nShould you be interested in engaging us for a more detailed discussion\non the proposal, we would be happy to do so in whatever medium you\nfind much more appropriate for this engagement. Take note we have 50\nto 100 million US dollars to invest with you so go through this\nmessage and forward to me your full details to proceed if you are\ninterested\nYours sincerely\nAhmed Al Qassim"
+    },
+    {
+        "from": "baiter_822",
+        "to": "scammer_822",
+        "subject": "Re: Director Investment Project Co",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Ahmed Al Qassim,\n\nThank you for reaching out and considering me for this investment opportunity. It's quite intriguing to hear about the Investment Project Company from the Gulf and its intentions to fund projects. \n\nCould you please provide more details about the kind of projects your company is interested in funding? Also, I would like to know more about the terms and conditions associated with these investments.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nFrancis"
+    }
+]

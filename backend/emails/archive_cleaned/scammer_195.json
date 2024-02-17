@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_195",
+        "to": "CRAWLER",
+        "subject": "  Barrister, Mr.Donarld Larry",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Barrister, Mr.Donarld Larry\nInvestment Consultant\nUBS AG Zurich\nOffshore Department\nAttn:\nI am obliged to notify you of your fund that we have tracked through\nour Monitoring unit department which someone has presented another\naccount with an instruction Letter from you authorizing him for\nclearance from our office to release your contract fund valued at\nU$38,8M the following accounts: Funny enough I went into the files\nthat was sent to this office during this lock down period due to the\ncovid 19.And i found out that the claim of this people are very\nquestionable and there are some of the executive officials OF THIS\nBANK, UBS AG Zurich) now that are conniving with this suspected\ncriminals, so as the person in charge of the department, I can assist\nyou MOVE the funds to your account, but it will not come in bulk,\nrather in tranches of like $2m to $5m if you promise to protect my job\nby keeping this information very confidential. Note also that these\nsaid funds belong to one expatriate of one of the oil servicing\ncompanies here with the Chevron organization. The name of this late\nclient is Engr. Manfred. Meanwhile, I am sorry to encroach into your\nprivacy in this manner. Below is the proof of my information to you.\n(1)Bank Name: Northrim Bank\nBank Address: 360 Merhar Ave., Fairbanks, Alaska 99701 USA\nrouting #125200934\naccount #7100589436\naccount name David Dodds\n2)Macon Bank\nPob 1559\nFranklin NC 28744\nAccount Name Allen Campbell\nAccount NO: 0100057101\nRouting NO: 253170486\nCould you please confirm to this office if you are aware of this\nchange or not to enable me stop the payment immediately. Meanwhile, we\nshall give you more details concerning the funds as soon as you\nrespond asap.\nThanks for your time.Have a wonderful day\nYours Faithfully\nBarrister, Mr.Donarld Larry\nUBS AG Zurich   "
+    },
+    {
+        "from": "baiter_195",
+        "to": "scammer_195",
+        "subject": "Re:   Barrister, Mr.Donarld Larry",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Barrister Larry,\n\nI am quite surprised to receive your email. I have no knowledge of the changes you mentioned in your email. I did not authorize any changes to my account nor did I provide any letters for clearance.\n\nI would appreciate it if you could provide more details about this situation, especially regarding the funds and the individuals involved. It is very concerning to hear that there are people attempting to access my funds without my consent.\n\nThank you for bringing this matter to my attention. I look forward to hearing from you soon.\n\nBest wishes,\nJames"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1051",
+        "to": "CRAWLER",
+        "subject": "  America First Credit Union U",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  America First Credit Union USA\nAttention; Sir/Madam,\nHow are you and your families today? I hope all is well.\nI'm obliged to inform you that we received a fax notification from one Ms. Tatyana Cole,  who claimed to be your representative, stating you have been sick, and for that reason you have not been responding to emails messages. Furthermore, she stated you have authorized her to receive the ($10,500,000.00) Ten Million Five Hundred Thousand Dollars on your behalf, and the funds should be transferred to her direct bank account as follows;\nBank Name; Wells Fargo Bank\n Account number; 6338102886\n Routing number; 021000658\n Account name; Tatyana Cole,\nHowever, she is ready to pay the required statutory fee for the fund to be transferred to her bank account now.\nSo please we wish to confirm if truly the woman was your representative or not before we proceed in releasing the $10.5m fund to her bank account mentioned above.\nFailure to hear from you within the next 48 hours, we shall assume she is right with her claims.\nAwaiting your urgent response to this message.( \nofficialmail6789@gmail.com\n)\nYours sincerely,\nMr John Lund\nPresident Chief Financial Officer   "
+    },
+    {
+        "from": "baiter_1051",
+        "to": "scammer_1051",
+        "subject": "Re:   America First Credit Union U",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. John Lund,\n\nI hope this message finds you well. I appreciate your concern and the information you've shared with me.\n\nHowever, I must clarify that I don't know any Ms. Tatyana Cole. It's quite surprising to hear about her claim of being my representative. Could you please share more details about how she got in touch with you? Did she provide any proof or documentation to support her claims?\n\nAlso, could you explain a bit more about the Ten Million Five Hundred Thousand Dollars that she is claiming on my behalf? How did this amount come into play?\n\nI'm looking forward to hearing from you soon.\n\nBest wishes,\nDolly"
+    }
+]

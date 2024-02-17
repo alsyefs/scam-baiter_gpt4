@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_854",
+        "to": "CRAWLER",
+        "subject": "FBI Headquarters",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "FBI Headquarters\n935 Pennsylvania Avenue, NW\nWashington, DC 20535 USA\nDear Beneficiary,\nAfter proper and several investigations and research through banks, Western Union, and MoneyGram, we found your name on the top list of Intermediary bank transfers, in the Western Union/MoneyGram database among unsuspecting individuals that have sent money through the aforementioned sources. This has proven that you have truly been swindled by some unscrupulous persons by sending money to them through Western Union/Money Gram and wire transfers in the course of getting one fund or the other that is not real.\nIn this regard a meeting was held between the Board of Directors of BANKS, WESTERN UNION, MONEYGRAM, and the FBI alongside the Ministry of Finance, As a consequence of our investigations, it has now been agreed that the sum of Nine Hundred Thousand United States Dollars ($900,000.00USD) should be transferred to you from the funds that The United States Department of the Treasury has set aside as compensation payment for scammed victims in a newly passed bill here in America.\nThis case would be handled and supervised by private investigators of the FBI, And We have rightfully notified them of your contact. We are now waiting on your compliance for the full effect of your fund disbursement as supposed. Kindly Contact me to authenticate your participation as due.\nContact Person: Mey Micha\nEmail: \nmayormey9@gmail.com\nYours sincerely,\nCatherine Coennen\nFBI: Internet Relations"
+    },
+    {
+        "from": "baiter_854",
+        "to": "scammer_854",
+        "subject": "Re: FBI Headquarters",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Catherine Coennen,\n\nThank you for your email and the information provided. I am surprised to hear that my name has been found on a list of bank transfers and Western Union transactions. I have indeed been approached by several individuals with various business proposals, but I have always exercised caution.\n\nI am relieved to know that the FBI is taking action against these fraudulent activities. However, before proceeding further, could you please provide more details about this process? How will the sum of Nine Hundred Thousand United States Dollars be transferred to me? What kind of information do you need from me?\n\nLooking forward to your response.\n\nBest wishes,\nRichard"
+    }
+]

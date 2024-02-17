@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_422",
+        "to": "CRAWLER",
+        "subject": "   Attn: ,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Attn: ,\nDear Sir/Madam,\nI am writing this letter to you, In order to put smiles on your face and restore your lost hope. I am Mr. Godwin Duru, The Director Foreign Operations and Finance Dept, In the First Bank of Nigeria Plc, head office, Marina Lagos, Nigeria.\nBe informed that the Federal Government of Nigeria is not to be blamed over the delay of your payment, This is because the Federal Government of Nigeria had approved and released your part payment of your NNPC  Contract/ Inheritance fund valued $15.500.000.00 USD (Fifteen Million, Five Hundred Thousand US Dollars) which was deposited in the central bank of Nigeria through the Federal Government of Nigeria Foreign Reserve and Treasury account.\nThe NNPC contract fund was approved in your favour and has been in the central bank of Nigeria, unclaimed, since 27th Sept, 2011, Ever since the approval of your funds, we have received several emails, claims to be your lawyer representative, some messages stated that you are seriously sick and hospitalized, some claims that you are death and they are your brothers,all trying to receive your fund.  After we have received all these messages, on many occasions we sent messages to you concerning your approval funds and received no reply from you, as a human, we were confused as we do not know who to believe, more confusion is that you have not responded to our email.\nAfter the executive meeting held last week Friday,there was an instruction that we should email you again, if there is no reply from you then your funds should be returned to the Government treasury account as floating funds and close your payment file .\nFinally, as a beneficiary of the approved funds, if you are alive and ready to receive your fund, kindly reply to this email within three working days.\nYours Truly,\nMr.Godwin Duru,\nDirector Foreign Operations and Finance Dept,\nFirst Bank of Nigeria Plc.    "
+    },
+    {
+        "from": "baiter_422",
+        "to": "scammer_422",
+        "subject": "Re:    Attn: ,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Duru,\n\nThank you for your email and the information provided. It's quite surprising to hear about this NNPC Contract fund valued at USD Fifteen Million, Five Hundred Thousand US Dollars. I must admit, I'm a bit confused as I don't recall being involved in any contract with the NNPC.\n\nCould you please provide more details about this contract? When was it initiated and what was its purpose? Also, could you clarify why there have been claims of me being sick or even dead?\n\nI appreciate your patience and look forward to hearing from you soon.\n\nBest wishes,\nMatthew"
+    }
+]

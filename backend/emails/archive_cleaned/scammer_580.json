@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_580",
+        "to": "CRAWLER",
+        "subject": "Crunch Base Trade is a solutio",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Crunch Base Trade is a solution for creating an investment management platform. It is suited for hedge or mutual fund managers and also Forex, stocks, bonds and cryptocurrency traders who are looking at running pool trading system. Crunch Base Trade simplifies the investment, monitoring and management process. With a secure and compelling mobile-first design, together with a default front-end design, it takes few minutes to setup your own investment management or pool trading platform."
+    },
+    {
+        "from": "baiter_580",
+        "to": "scammer_580",
+        "subject": "Re: Crunch Base Trade is a solutio",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nThank you for your information about Crunch Base Trade. It sounds like a comprehensive solution for investment management, particularly beneficial for those involved in hedge or mutual funds, Forex, stocks, and bonds. The idea of a simplified monitoring and management process is certainly appealing.\n\nHowever, I would appreciate more details on how the system works, its key features and benefits. Also, could you please provide some information on the setup process? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKarl"
+    }
+]

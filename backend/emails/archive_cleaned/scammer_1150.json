@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1150",
+        "to": "CRAWLER",
+        "subject": "This is Director DAVID ALBERT,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "This is Director DAVID ALBERT, From The Department of foreign fund affairs, This empowerment fund is approved by the National empowerment forum, The only approved and reputable financial organization appointed by the federal credit Unit In connection with the National Empowerment Fund Act No 105 of 1998 (NEF Act),To carry out this  empowerment PREPAID ATM delivery. We are Writing to confirm the fact if you are (DEAD) or (ALIVE) and failure to reply back in the next 48hrs simply means what Mrs. Lucy Doss said was right that you are dead. Mrs. Lucy Doss has agreed to pay for \nthe  required $50 Release Order charge \nof your reconciliation empowerment fund worth $500.000.00 (five hundred thousand united state dollars only). Mrs. Lucy  Doss has provided one Citibank account, but we can't Release the PREPAID ATM we advice in your own best interest to reply back immediately , \nour direct calls are currently out of service due to high volume of calls but you can reply back to this email.\n--\nRBS OFFICIAL Administrator"
+    },
+    {
+        "from": "baiter_1150",
+        "to": "scammer_1150",
+        "subject": "Re: This is Director DAVID ALBERT,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Director David Albert,\n\nI am very much alive and I have no idea who Mrs. Lucy Doss is. I can assure you that any claims she is making about my death are completely false. \n\nI would appreciate it if you could provide more information about this situation, as I am quite confused about what is happening.\n\nBest wishes,\nGregory"
+    }
+]

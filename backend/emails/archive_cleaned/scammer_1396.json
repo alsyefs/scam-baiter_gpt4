@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1396",
+        "to": "CRAWLER",
+        "subject": "  Bank Name: WOORI BANK",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Bank Name: WOORI BANK\nBank Address: Hoe Hyeon-dong, Jung-gu, Seoul, South Korea\nSIR\nWe received an email and call from the U.N to contact you regarding\nyour long over due contact payment which you have not have received we\ndecided to contact regarding your payment and we are giving you 72\nhours to comply so that we can release this fund to you we are waiting\nfor your respond.\nYours Faithfully,\nCEO: LEE WON-DUK\nBank Name: WOORI BANK\nBank Address: Hoe Hyeon-dong, Jung-gu, Seoul, South Korea   "
+    },
+    {
+        "from": "baiter_1396",
+        "to": "scammer_1396",
+        "subject": "Re:   Bank Name: WOORI BANK",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello,\n\nThank you for reaching out to me. I appreciate your concern about my overdue payment. Could you please provide more details about this? For instance, what is the exact amount that is overdue and from which transaction or service is this related to?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAurora"
+    }
+]

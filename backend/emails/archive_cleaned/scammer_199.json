@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_199",
+        "to": "CRAWLER",
+        "subject": "  Dear beneficiary,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear beneficiary,\nI'm Barr, Carey Edward from the United States, i just want to inform you that I have made a solid arrangement with a trusted financier who will loan you all the money needed to finance your fund $3,500.000 release into your bank account within the next 72 banking hours.i got your email contact from the Debt management office (DMO).\nContact the lender immediately with your bank details, ID and cell number, I want to assure you that you will not spend your hard earned money till you receive your payment\nContact person: Acuna I.O Rene\nEmail: \ninfo.tax.org@gmail.com\nThank you for your Cooperation or our mutual benefits.\nYours in Service,\nCarey Edward & Associate.\nLegal Attorney.   "
+    },
+    {
+        "from": "baiter_199",
+        "to": "scammer_199",
+        "subject": "Re:   Dear beneficiary,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Barr. Carey Edward,\n\nThank you for your email and the information provided. However, I would like to know more about this financier and the terms of the loan before proceeding further. Could you please provide more details?\n\nBest wishes,\nRichard"
+    }
+]

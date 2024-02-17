@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_20",
+        "to": "CRAWLER",
+        "subject": "  Thanks for your message okay",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Thanks for your message okay and to send the fee to account is two small because before i withdrawal that we cost me Big money so going any store iTunes card send it okay.Thank you and more blessing to you and your family   "
+    },
+    {
+        "from": "baiter_20",
+        "to": "scammer_20",
+        "subject": "Re:   Thanks for your message okay",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nThank you for your response. I understand that there might be some costs associated with the withdrawal of the funds. However, I would appreciate if you could provide me with more specific details about these costs and how they should be handled.\n\nBest wishes,\nEvelyn"
+    }
+]

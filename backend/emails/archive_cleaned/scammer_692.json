@@ -1,0 +1,12 @@
+[
+    {
+        "from": "scammer_692",
+        "to": "baiter_692",
+        "subject": "Your ATM Debit Card is activated",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "0",
+        "body": "ATTN  Lana:\r\n\r\n\r\n\r\nPlease contact Mr. Lee wing for your ATM card here is your code  ( Fed/Ex/o9/61/atm/3441 )  he will instruct you on what to do please you will only pay $270\r\n\r\n\r\n\r\nContact person\r\n\r\nNAME   Mr. Lee wing\r\n\r\noffice   4910 Lorong 6. Toa Payoh #09-HDB (Biz 3 Lobby 1) Singapore 310490\r\n\nEmail   mrleewingFedEE@europemail.com\r\n\r\n\r\n\r\nYours sincerely,\r\n\r\n\r\n\r\nJim Lawson"
+    }
+]

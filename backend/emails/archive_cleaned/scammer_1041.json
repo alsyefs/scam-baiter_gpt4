@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1041",
+        "to": "CRAWLER",
+        "subject": "  HIGH COURT OF JUSTICE REPUBL",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  HIGH COURT OF JUSTICE REPUBLIC OF SOUTH AFRICA\nFROM THE DESK OF ARTHUR EITH\nARTHUR EITH CHAMBERS\nSOLICITORS AND ADVOCATES\nATTN:  \nI am in concept of your mail and waiting for your payment slip\nBank Name: Wells Fargo Bank, N.A.\nBank Address: 421 Montgomery Street San Francisco, California 94104 USA\nAccount Name: T. O.\nChecking Account Number is 750742XXXX\nSwift Code: WFBIUS6S\nRouting Number is 101089292\nYours truly,\nMr. Arthur Eith.   "
+    },
+    {
+        "from": "baiter_1041",
+        "to": "scammer_1041",
+        "subject": "Re:   HIGH COURT OF JUSTICE REPUBL",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Arthur Eith,\n\nThank you for your message. It's quite interesting to hear from someone at the High Court of Justice in South Africa! I must say, it's not every day that I receive such an email.\n\nI'm a bit confused about the payment slip you mentioned. Could you please provide more details about this? What is it for exactly?\n\nAlso, I noticed that you've shared some account information. Is there a specific reason for this? \n\nLooking forward to hearing back from you.\n\nBest wishes,\nJanice"
+    }
+]

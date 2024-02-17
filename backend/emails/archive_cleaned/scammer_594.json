@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_594",
+        "to": "CRAWLER",
+        "subject": "  Great, thanks for the update",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Great, thanks for the update.  but if you want to do zelle payment let me know so I can send you the info for zelle\nThanks   "
+    },
+    {
+        "from": "baiter_594",
+        "to": "scammer_594",
+        "subject": "Re:   Great, thanks for the update",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there! \n\nI appreciate your offer to use Zelle for payment. However, I'm not very familiar with it. Could you please explain how it works? And is it safe and secure to use?\n\nBest wishes,\nRobert"
+    }
+]

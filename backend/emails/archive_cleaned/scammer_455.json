@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_455",
+        "to": "CRAWLER",
+        "subject": "First Citizens Bank",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "First Citizens Bank\n239 Fayetteville Str. Raleigh,\nNC 27601 USA.\nSir,\nA contract/Inheritance payment sum of $35million United States dollars\nonly, due for you as a long awaited payment as result of the contract\nyou did long ago out side the country, and was reported to the United\nStates government by the World Bank and after due verification and\nreviewing of your legitimacy to the fund it was certified that the\nfund legally belongs to you as an unpaid contract you did out side the\ncountry years ago.\nSince it has been resolved and agreed by the World Bank and United\nStates authority that your payment sum of US$35million would be\nrelease to you by wire transfer or ATM Card, we are mandated to\nofficiate the payment to you.\nwe hereby request you to send the following information to us for the\nprocess and release of your fund to you by wire transfer or by ATM\nCard.\nYour name\nAddress\nTelephone\nOccupation\nGender\nAge\nID\nBank detail\nWaiting your urgent response.\nRegards,\nFrank Holding, Jr.\nChairman and CEO First Citizens Bank"
+    },
+    {
+        "from": "baiter_455",
+        "to": "scammer_455",
+        "subject": "Re: First Citizens Bank",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Frank Holding, Jr.,\n\nThank you for your email and the information provided. However, I must inform you that I have no recollection of any contract that I would have done outside the country years ago. Could you please provide more details about this contract? \n\nAlso, before providing any personal information, I would like to verify the legitimacy of this transaction. Could you please provide some official documentation or reference number related to this case?\n\nLooking forward to your response.\n\nBest regards,\nLewis D.\n\nBest wishes,\nSara"
+    }
+]

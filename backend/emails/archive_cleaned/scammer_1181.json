@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1181",
+        "to": "CRAWLER",
+        "subject": "THE FREE LOTTO COMPANY",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "THE FREE LOTTO COMPANY\nUK HEAD OFFICE\nSUITE 23-30, LION TOWERS\nCENTRAL LONDON\nENGLAND\nwww. freelotto.com\nDear Winner,\n    We are please to announce you as one of the 10 lucky winners in\nthe Free Lotto draw held on the 14th of July 2021. All 10 winning\naddresses were randomly selected from a batch of 50,000,000\ninternational Emails.Your email address emerged alongside 9 others as\na category 2 winner in this year's Annual Free Lotto Draw.\nConsequently, you have therefore been approved for a total pay out of\n3,000,000 pounds (Three million pounds) only. The following\nparticulars are attached to your lotto payment order:\n(i) Winning numbers: 37-13-43-85-67-11\n(ii) Email ticket number: FL754/22/76\n(iii) Lotto code number: FL09622UK\n(iv) The file Ref number: FL/04/736207152/UK\nPlease contact the under listed claims officer as soon as possible for\nimmediate  release of your winnings:\nMr. Robert Morgan\nChief financial Director\nThe Free lotto Company\nTel: +44-70-319-288-66\nFax: +44-87-125-120-12\nEmail::robertmorgan682@aol.com\nN.B: Steps to claiming your prize;\n1. Please quote your Reference number in all correspondence with the\nclaims officer.\n2. Winners should send to claim officer account detail or address\nWhere they want their prize paid or sent.\n3. Winners must send their names, address, telephone number and means\nof identification (international passport or drivers license) to claim\nofficer to process immediate payment of their prize.Once again on\nbehalf of all our staff,\nCONGRATULATIONS!!!\nSincerely,\nMrs. Thelma Jones\nPromotions Manager\nThe Lotto Company\nUK & Europe.\n-------------------------------------------------\nThe Free Lotto Awards is proudly sponsored by the Microsoft\nCorporation, the Intel Group, Toshiba, Dell computers,Mackintosh and a\nconglomeration of other international IT companies. The free lotto\ninternet draw is held once in a year and is so organized to encourage\nthe use of the internet and computers worldwide. We are proud to say\nthat over 200 Million Euros are won annually in more than 150\ncountries worldwide.\n-------------------------------------------------\nWe also encourage you to visit our website at www. freelotto.com and\ntake your chance to play and become part of our daily winners.\nMillions are won on a daily basis on one of the world's most famous\nfree lotto service"
+    },
+    {
+        "from": "baiter_1181",
+        "to": "scammer_1181",
+        "subject": "Re: THE FREE LOTTO COMPANY",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mrs. Thelma Jones,\n\nI am delighted to receive your email informing me that I have won the Free Lotto draw. This is indeed a pleasant surprise!\n\nAs per your instructions, I am providing my details below:\n\nName: Lewis D. Noogie\nAddress: 1234 Novosibirsk Street, Riga, Latvia\nTelephone number: +371-12345678\n\nFor identification, I will send a scanned copy of my driver's license to Mr. Robert Morgan, the Chief Financial Director at The Free Lotto Company.\n\nThank you once again for this wonderful news.\n\nSincerely,\nLewis D.\n\nBest wishes,\nRobbie"
+    }
+]

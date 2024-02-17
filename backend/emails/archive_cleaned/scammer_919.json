@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_919",
+        "to": "CRAWLER",
+        "subject": "Dear Friend,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear Friend,\nGreetings.\nHow are you doing today i hope fine?\nI came across your e-mail contact prior a private search while in need\nof your assistance. My name Mr. mrahmed ouedraogo  ’ I work with the\ndepartment of Audit and accounting manager here in UBA Bank of Africa,\nThere is this fund that was keep in my custody years ago and I need\nyour assistance for the transferring of this fund to your bank account\nfor both of us benefit for life time investment and the amount is (US\n$27,500. Million Dollars).\nI have every inquiry details to make the bank believe you and release\nthe fund to your bank account in within 7 banking working days with\nyour full co-operation with me after success Note 50% for you while\n50% for me after success of the transfer of the funds to your bank\naccount okay.\nWAITING TO HEAR FROM YOU.\nTHANKS.\nMr. mrahmed ouedraogo ,"
+    },
+    {
+        "from": "baiter_919",
+        "to": "scammer_919",
+        "subject": "Re: Dear Friend,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. mrahmed ouedraogo,\n\nI hope this message finds you well. Your proposal sounds very interesting and I'm intrigued to learn more about it. \n\nCould you please provide me with more details about this fund? How did it come into your custody and why has it been kept there for so many years? Also, could you explain a bit more about the investment that you mentioned?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nCornell"
+    }
+]

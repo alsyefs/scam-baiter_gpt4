@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_330",
+        "to": "CRAWLER",
+        "subject": "  THE UNITED NATION ORGANIZATI",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  THE UNITED NATION ORGANIZATION\nWASHINGTON USA\nUNITED NATION PAYMENT APPROVAL OFFICE\nSpecial Duties/Logistics Department\nFOREIGN CONTRACT/WINNING PAYMENT BUREAU\nU.S.A GOVERNMENT,WORLD BANK,UNITED NATION ORGANIZATION OFFICIAL APPROVAL ACCRUED INTEREST PAYMENT VALUED US$587,491.00.\nAttn: Beneficiary,\nI wish to find out if your accrued interest funds of (US$587,491.00) have been paid to you as reported in our Payment database? Confirm the status to me by E-mail: \njm1086685@gmail.com\nIf I did not receive any response from you within the next 48 hours, we shall assume your accrued interest funds of US$587,491.00 (Five Hundred And Eighty Five Thousand, Four Hundred And Ninety One US Dollars) has been successfully received by you.\nHave a nice day\nRegards\nMrs. Theresa Brown\nUNITED NATION,USA.\nUnited Nation Grant Alleviation Allocation Programme (UNGAAP) Agent.    "
+    },
+    {
+        "from": "baiter_330",
+        "to": "scammer_330",
+        "subject": "Re:   THE UNITED NATION ORGANIZATI",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mrs. Theresa Brown,\n\nI am writing to confirm that I have not yet received the accrued interest funds of US Five Hundred And Eighty Five Thousand, Four Hundred And Ninety One US Dollars as mentioned in your email.\n\nCould you please provide more information on how these funds will be transferred to me? \n\nThank you for your assistance.\n\nBest wishes,\nMaria"
+    }
+]

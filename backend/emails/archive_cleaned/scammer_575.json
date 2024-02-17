@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_575",
+        "to": "CRAWLER",
+        "subject": "  Al Thani Finance House",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Al Thani Finance House\n13 Al Corniche Street,#900,\nZone Number 06,\nOff Salwa Road, Doha.\n \nDear  \n \nI am Mr. Syed Mohammed Ahmed, General Managing Director Al-Thani Finance House.\n \nWe are offering corporate and personal loans at 3% interest rate for the duration of 14 years. We provide a broad range of services to both commercial and private clients. As a major Qatar loan firm, we serve local, regional, national and international customers.\nWe also pay 1.2% commission to brokers who introduce project owners for finance or other opportunities.\nI will await your kind response, if you are interested in more details.\n \nYours faithfully\nMr. Syed Mohammed Ahmed\nDirector Finance & Account\nAl-Thani Finance House   "
+    },
+    {
+        "from": "baiter_575",
+        "to": "scammer_575",
+        "subject": "Re:   Al Thani Finance House",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Syed Mohammed Ahmed,\n\nThank you for your offer. I am interested in learning more about the services you provide, particularly in regards to personal loans. Could you please provide me with more details such as the terms and conditions, repayment plans, and any other relevant information?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRobert"
+    }
+]

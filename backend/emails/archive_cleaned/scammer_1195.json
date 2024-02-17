@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1195",
+        "to": "CRAWLER",
+        "subject": "  Rochester International Airp",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Rochester International Airport (RST) - Rochester Minnesota\nAddress: 7600 Helgerson Dr SW, Rochester, MN 55902, United States\nAttention\nThis is to inform you that your diplomat has arrived with your cash\nconsignment boxes value US$10,500,000.00 (Ten million Five hundred\nthousand united state dollars) in the Rochester International Airport\n(RST) - Rochester Minnesota  USA as on transit on  rout this week, you\nare to call him with this number  or contact me  through this secure\nprivate  email;(\nrstrochester09@gmail.com\n) with your closest\nairport,personal address and cell mobile phone ?\nEndeavor to keep this information confidential until i do arrived at\nyour doorstep exchanged.\nText Sms or call me & watsupp number (+1) 507-476-1715\nsincerely\nMr. Gary Wilson\nHead officer-in-Charge\nAdministrative service inspection unit   "
+    },
+    {
+        "from": "baiter_1195",
+        "to": "scammer_1195",
+        "subject": "Re:   Rochester International Airp",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Gary Wilson,\n\nThank you for your message. I am surprised to hear about the cash boxes as I was not expecting any delivery of such nature. Could you please provide more details about this? Who is the sender and what is this regarding?\n\nLooking forward to your response.\n\nBest wishes,\nEdward"
+    }
+]

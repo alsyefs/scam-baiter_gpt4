@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_997",
+        "to": "CRAWLER",
+        "subject": " Access Bank of Nigeria Plc",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " Access Bank of Nigeria Plc\nPlot 999C. Danmole St, off Adeola\nOdeku/Idejo St, Victoria Island, Lagos Nigeria.\n                                                      US$12.3M CONTRACT/INHERITANCE PAYMENT\n \nAttn: Fund Beneficiary,\nI am Mr. Donald Ekeh, Director Foreign Remittance Department, Access Bank of Nigeria Plc. I resumed to this office on the 2nd of this month as the new Director Foreign Remittance, and during my official research yesterday I discovered an abandoned Contract/Inheritance payment file sum of US$12.3million with file number ''AB78U95227'' belonging to you as the legitimate beneficiary.\n \nI carried out my investigation to know the reason why your payment file was abandoned, and i found out that the former director foreign remittance who left this office two months ago with-held your payment for his own selfish interest while he has paid the rest of the foreign beneficiaries, but little did he know that i will find out his hidden agenda.\nNow that your payment file has been discovered and your US$12.3million is still intact and available for you to claim, get back to me as soon as possible to claim your payment.\nWe have four methods of payment; (1) ATM MasterCard method of payment (2) Diplomatic Delivery method of payment (3) Online Banking method of payment, and (4) Bank to Bank Wire Transfer method of payment.\nKindly provide to me your following details and let me know which of the above listed methods of payment you want to receive your US$12.3million Contract/Inheritance Payment.\nBeneficiary's Full Name:..........\nHome Address:..............\nTelephone Number:.................\nDate of Birth:...................\nOccupation:.....................\nCompany Name (If Any):.....................\nCompany Address:..................\nI.D No:......................\nNext of Kin (If Any):.......................\nAddress of Next of Kin:......................\nThanks for your anticipated understanding. We will serve you better.\nI'm looking forward to your response.\nYours Faithfully,\nMr. Donald Ekeh\nDirector Foreign Remittance Dept,\nAccess Bank of Nigeria Plc\nPlot 999C. Danmole St, off Adeola\nOdeku/Idejo St, Victoria Island, Lagos Nigeria.\nTel: +2348144579447 Call, SMS/WhatsApp    "
+    },
+    {
+        "from": "baiter_997",
+        "to": "scammer_997",
+        "subject": "Re:  Access Bank of Nigeria Plc",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Donald Ekeh,\n\nI am surprised to receive your email regarding an abandoned contract payment file sum of US with file number '' belonging to me. I was not aware of any such contract or payment.\n\nHowever, if there has been some mistake and this money is indeed intended for me, I would like to claim it. \n\nHere are my details:\n\nFull Name: John Doe\nCompany Name: N/A\nAddress: 123 Main Street, Anytown, USA\nNext of Kin: Jane Doe\n\nAs for the method of payment, I would prefer the Bank to Bank Wire Transfer method.\n\nPlease let me know what the next steps are in this process.\n\nBest wishes,\nClarence"
+    }
+]

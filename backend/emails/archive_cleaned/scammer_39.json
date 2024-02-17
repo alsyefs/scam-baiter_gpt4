@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_39",
+        "to": "CRAWLER",
+        "subject": "   please send proof of paymen",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   please send proof of payment \nThanks\nAhmed   "
+    },
+    {
+        "from": "baiter_39",
+        "to": "scammer_39",
+        "subject": "Re:    please send proof of paymen",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nThank you for your message. I would be happy to assist you further. Could you please provide me with more details about the payment? For instance, when was it made and what method was used? This will help me track down the information more efficiently.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nRyan"
+    }
+]

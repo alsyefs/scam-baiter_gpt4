@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_62",
+        "to": "CRAWLER",
+        "subject": "USA IRS AUTHORITY .",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "USA IRS AUTHORITY .\nThis is to inform you that your ATM CARD of $3.6 Million USA Dollars\nwas stop now from delivering to your home address, \nyou are to pay $25\nAPPLE GIFT CARD OR STEAM WALLET /AMAZON CARD for IRS stamp and IRS\nclearance certificate \nbefore your ATM CARD will be immediately release\nfor delivery without any further delay. Attach is your copy of your\nATM CARD\nNote, you have only 24 hours to pay the fee or your fund will be\ntransfer to Government Treasure as on unclaimed fund. Get Back to us,\nYours Agent\nMr.Mike Edward"
+    },
+    {
+        "from": "baiter_62",
+        "to": "scammer_62",
+        "subject": "Re: USA IRS AUTHORITY .",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Edward,\n\nThank you for your email. However, I must inform you that I have not applied for an ATM card nor am I expecting any funds. There seems to be a misunderstanding or mistake. Could you please check your records again?\n\nBest wishes,\nDennis"
+    }
+]

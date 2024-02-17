@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_956",
+        "to": "CRAWLER",
+        "subject": "  Dear Friend,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Friend,\nI am very happy to inform you about my success in getting that fund transferred. Now I want you to contact my secretary on her email address below and receive your compensation of $10,5 Million (CASHIER DRAFT CHECK) from him: her Name is Mrs.Jennifer Duke Email: \nmrsjeyduke12@gmail.com\nKindly reconfirm to her the following below information:\nYour Full name_______________________\nYour Address_________________________\nYour Country _________________________\nYour Age______________________________\nYour Phone Number______________________\nNote that if you did not send her the above information complete, She will not release the Draft cheque to you because she has to be sure that it is you.\nAsk her to send you the total sum of $10,5 Million (CASHIER DRAFT CHECK) ,which I kept for you. am presently I'm in Canada for investment projects with my own share of the total sum and I will be busy till about six months time or a year.\nSee below the scan copy of your cheque,Make sure you ask her to show you the same Draft cheque in your name before she proceed in sending the Draft cheque to you..\nBest Regards,\nBarrister Andrew Williams   "
+    },
+    {
+        "from": "baiter_956",
+        "to": "scammer_956",
+        "subject": "Re:   Dear Friend,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Duke,\n\nI received an email from Barrister Andrew Williams instructing me to contact you regarding a cashier's draft check. Here are my details:\n\nFull Name: Eliza Dane\nAddress: 123 Main Street, Sydney, Australia\nCountry: Australia\nAge: 35\nPhone Number: +61 2 1234 5678\n\nPlease confirm receipt of this information and advise on the next steps.\n\nBest wishes,\nRichard"
+    }
+]

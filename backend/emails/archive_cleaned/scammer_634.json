@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_634",
+        "to": "CRAWLER",
+        "subject": "  From: Mrs.Kristalina Georgie",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  From: Mrs.Kristalina Georgieva IMF Managing Director <innocentekpo91@gmail.com>\nSent: Thursday, June 8, 2023 \nTo: Recipients <innocentekpo91@gmail.com>\nSubject: Re: Attention please, ATM Card Owner.\n \nAttention please, ATM Card Owner.\nThis is to inform you that your total funds has been converted into an ATM card to your name and I have registered your ATM card of $10.5million dollars with UPS Express Courier Company with registration code of ( Shipment Code awb  33xzs).\n \nPlease Contact with your delivery information such as,\nYour Name:===========\nYour Address:===============\nYour Telephone Number:=========\nYour Age:==============\nYour Occupation:===========\nContact Name UPS manager director Mrs.Amina Logan Wyatt\nE-mail: \nups_expresscourierservice@hotmail.com\nI have paid for the delivery fee. The only fee you have to pay is their Insurance fee only. Please indicate the registration number to Mrs.Amina Logan Wyatt and ask her how much is their Insurance fee so that you can pay for it.\nBest Regards,\nMrs.Kristalina Georgieva\nIMF Managing Director   "
+    },
+    {
+        "from": "baiter_634",
+        "to": "scammer_634",
+        "subject": "Re:   From: Mrs.Kristalina Georgie",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nThank you for your message. It's quite exciting to hear about this ATM card! I'm a bit confused though, could you please explain more about how my funds were converted into an ATM card? \n\nAlso, I'd like to know more about this insurance fee. What is it for exactly? And why do I need to pay it?\n\nLooking forward to hearing from you.\n\nBest wishes,\nMaurice"
+    }
+]

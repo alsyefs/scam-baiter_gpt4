@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1278",
+        "to": "CRAWLER",
+        "subject": "    Hello and greetings",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "    Hello and greetings\n.long time, hope you and your family and business all good\nJust want to let you know, we have new production of goods now at more cheaper cost\nSo if you are still interested in buying the mask respirators, do let us know so we give you new quotations\nBet \nDr Sally  "
+    },
+    {
+        "from": "baiter_1278",
+        "to": "scammer_1278",
+        "subject": "Re:     Hello and greetings",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Dr. Sally,\n\nThank you for reaching out and I hope you're doing well too! It's great to hear about the new production of goods. I'm always interested in finding good deals.\n\nCould you please provide more details about these masks? Like what type are they, how many layers do they have, and what materials are used in their production? Also, could you share some information about the manufacturing process?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nPatrick"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_929",
+        "to": "CRAWLER",
+        "subject": "Hope this email finds you well",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hope this email finds you well.\nI am in need of individuals with projects that require funding on a 2% interest rate per annul and on long term investment that can generate high ROI within the period of funding.\nIf you have a project that requires funding and you are interested, do not hesitate to contact me.\nLooking forward to your revert.\nFidel"
+    },
+    {
+        "from": "baiter_929",
+        "to": "scammer_929",
+        "subject": "Re: Hope this email finds you well",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Fidel,\n\nThank you for reaching out and I hope this message finds you in good health. Your proposal sounds interesting, but could you please provide more details? \n\nFor instance, what kind of projects are we talking about here? Are there any specific sectors or industries that you're particularly interested in? Also, could you elaborate on the terms of the investment?\n\nI'm looking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nBonnie"
+    }
+]

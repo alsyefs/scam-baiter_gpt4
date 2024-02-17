@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1323",
+        "to": "CRAWLER",
+        "subject": "DEAR BENEFICIARY :",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "DEAR BENEFICIARY :\nFROM THE U.S AMBASSADOR TO TANZANIA\nBE INFORMED THAT I HAVE RESOLVED WITH THE TANZANIA PRESIDENCY TO\nDELIVER THE SUM OF THE INTEREST FUND ACCRUED FROM YOUR\nCONTRACT/INHERITANCE AND COMPENSATION FUND.I SHALL BE COMING OVER TO\nYOUR COUNTRY FOR AN OFFICIAL MEETING BY NEXT WEEK AND I WILL BRING\nYOUR CONSIGNMENT CONTAINING THE FUND WHICH HAS BEEN PACKAGED AND\nSEALED IN YOUR FAVOR BUT THIS TIME I WILL NOT GO THROUGH CUSTOMS\nBECAUSE AS AN U.S AMBASSADOR TO TANZANIA, I HAVE THE VOTER POWER TO GO\nTHROUGH CUSTOMS.I AM SCHEDULED TO HAVE A MEETING  WITH THE SECRETARY\nOF STATES BY NEXT WEEK.\nYOU ARE ADVICE TO SEND YOUR CELL PHONE NUMBER AND THE ADDRESS WHERE\nYOU WANT YOUR CONSIGNMENT/PACKAGE TO BE DELIVERED TO. I ALSO\nUNDERSTAND THAT YOU HAVE REALLY PAID SO MUCH WITHOUT GETTING ANYTHING\nIN RETURN AS I WAS MADE TO UNDERSTAND AND THAT IS WHY I HAVE\nPERSONALLY INTERVENED AND I MUST SAY THAT YOU ARE A VERY LUCKY PERSON\nBECAUSE I SHALL BRING YOUR PACKAGE BY MYSELF AND THERE IS NOTHING\nANYONE CAN DO ABOUT IT.\nYOUR PACKAGE MUST BE REGISTERED AS AN AMBASSADORIAL PACKAGE FOR ME TO\nDEFEAT ALL ODDS AND THE COST OF REGISTERING IT WILL BE RESPONSIBLE BY\nYOU AS THE BENEFICIARY  OR SHOULD SEND THE FEE DIRECTLY TO THE CARGO\nREGISTRATION OFFICER . MY TRIP WILL BE BY MID WEEK AND I EXPECT YOU TO\nCOMPLY BEFORE THEN SO THAT THE DELIVERY CAN BE COMPLETED. IF YOU DO\nNOT COMPLY, THEN IT WILL NOT BE MY FAULT IF YOU DO NOT RECEIVE YOUR\nCONSIGNMENT PACKAGE.\nREGARDS.\nDR .DONALD J. WRIGHT\nU.S AMBASSADOR TO TANZANIA."
+    },
+    {
+        "from": "baiter_1323",
+        "to": "scammer_1323",
+        "subject": "Re: DEAR BENEFICIARY :",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Dr. J. Wright,\n\nWow, this sounds like a big deal! I'm so excited to hear from you and about this opportunity. It's not every day that one gets an email from an ambassador! \n\nI have a few questions though, if you don't mind me asking. Could you please tell me more about the contract and how it accrued interest? Also, could you explain why my package needs to be registered as an ambassadorial package?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nDelmer"
+    }
+]

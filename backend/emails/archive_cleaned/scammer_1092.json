@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1092",
+        "to": "CRAWLER",
+        "subject": "HELLO",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "HELLO\nThis is to inform you that you have been compensated by the United\nStates Government with a sum of 10 Million Dollars\nWhich has been received in my office yesterday I am sorry to inform\nyou lately because I was very busy\nYou are to choose how you want your fund to be received\n(1) Bank to Bank wire Transfer\n(2) Cash delivery\n(3) Cheque"
+    },
+    {
+        "from": "baiter_1092",
+        "to": "scammer_1092",
+        "subject": "Re: HELLO",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nThank you for your message. I would prefer to receive the funds via a bank-to-bank wire transfer. Could you please provide me with the necessary details to proceed with this?\n\nBest wishes,\nNorma"
+    }
+]

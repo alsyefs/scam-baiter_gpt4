@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_125",
+        "to": "CRAWLER",
+        "subject": "  Santander Plc UK.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Santander Plc UK.\n2 Triton Square, Regent's Place,\nUnited Kingdom, NW1 3AN. England.\nRegistered No: 2294747, Registered in England and Wales\nOFFICE OF THEINTERNATIONAL REMITTANCE OFFICER\nRE: YOUR PLATINUM ATMCARD\nATTN; ELIGIBLE CUSTOMER\nSequel to your message, Kindly send the below requested details today;\nFULL NAMES:\nFULL HOME ADDRESS:\nFULL TEL & FAX: \nThank you for your maximum cooperation and understanding.   "
+    },
+    {
+        "from": "baiter_125",
+        "to": "scammer_125",
+        "subject": "Re:   Santander Plc UK.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nThank you for your response. Here are the details you requested:\n\nFull Name: Eliza Dane\nTelephone: +44 20 7930 4832\nFax: N/A\n\nPlease let me know if you need any further information.\n\nBest wishes,\nMichael"
+    }
+]

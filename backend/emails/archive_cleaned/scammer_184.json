@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_184",
+        "to": "CRAWLER",
+        "subject": "We have been USDA GAP certifie",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "We have been USDA GAP certified yearly \nsince 2005\n.  In 2011 we went a step further and added GLOBAL G.A.P. Certification for all of our products."
+    },
+    {
+        "from": "baiter_184",
+        "to": "scammer_184",
+        "subject": "Re: We have been USDA GAP certifie",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nThat's great to hear! Achieving USDA GAP certification and adding GLOBAL for all your products is indeed a commendable step. This not only ensures the quality of your products but also builds trust with your consumers. \n\nIf there are any specific details or further information you'd like to share about this, please feel free to do so.\n\nBest wishes,\nJohnie"
+    }
+]

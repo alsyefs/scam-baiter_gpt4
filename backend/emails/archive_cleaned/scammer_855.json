@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_855",
+        "to": "CRAWLER",
+        "subject": "  Attn: Sir/Madam",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Attn: Sir/Madam\nDo you need a LOAN? Kind reply for more details.\nDo you or your business need a loan? Contact us, and get approved and funded within 24 hours, at 3% interest rate only.\nKindly respond immediately via to Ms. Margaret Sharon Becker, private email address for more info's:( \nmb111ks@aol.com\n ) \nYours,\nDr. Vladimir.   "
+    },
+    {
+        "from": "baiter_855",
+        "to": "scammer_855",
+        "subject": "Re:   Attn: Sir/Madam",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Dr. Vladimir,\n\nThank you for your offer. However, I am currently not in need of a loan. I appreciate your consideration and will keep your contact information for future reference.\n\nBest wishes,\nEdith"
+    }
+]

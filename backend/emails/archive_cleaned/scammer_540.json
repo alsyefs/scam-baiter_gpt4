@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_540",
+        "to": "CRAWLER",
+        "subject": "Hi,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hi,\nI'm Víctor K. Contreras and i reside in the state of Washington. I\nreceived a loan of $60,000 usd from \nMr\n Howard Loan Firm and he can be\ncontacted on { \nhloanfunds@gmail.com\n } or whatsApp +19033544062. He is\na Genuine and Good Lender. Note: He offer at two percent interest rate\nper annual without collateral. I can guarantee you an absolute\ntransparency in his Lending services. Please make sure all your\nresponse go to \nher email\n below { \nhloanfunds@gmail.com\n } or whatsApp\n+19033544062\nRegards\nVíctor K. Contreras"
+    },
+    {
+        "from": "baiter_540",
+        "to": "scammer_540",
+        "subject": "Re: Hi,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Contreras,\n\nThank you for your message and the information about Mr. Howard's Loan Firm. I appreciate your recommendation and will keep it in mind should I require such services in the future.\n\nBest wishes,\nAdriana"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_11",
+        "to": "CRAWLER",
+        "subject": " This is the only account I ha",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " This is the only account I have  "
+    },
+    {
+        "from": "baiter_11",
+        "to": "scammer_11",
+        "subject": "Re:  This is the only account I ha",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there! \n\nOh, really? That's interesting. Can you tell me more about why this is the only account you have? Do you find it easier to manage just one account?\n\nBest wishes,\nKevin"
+    }
+]

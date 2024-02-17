@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1400",
+        "to": "CRAWLER",
+        "subject": "Good day xxx,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Good day xxx,\nIt is imperative to let you know that this funds aimed at helping very few individuals who have been selected for establishment on some sort of small and medium scale investments. \nYou are by this mail to send the following details for confirmation and prompt processing of the funds.\n(1) Country and state of residence\n(2) Telephone\n3) A vacation destination of your choice.(optional)\n4) Personal details of the second person you wish to take along to a free vacation (optional)\nNB: Please note that items 3 and 4 are optional should you choose to request it in cash to be processed along with your cash sum of Five Million United State Dollars.\n-- \nWorld Bank Group"
+    },
+    {
+        "from": "baiter_1400",
+        "to": "scammer_1400",
+        "subject": "Re: Good day xxx,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nWow, this sounds like an amazing opportunity! I'm really excited to hear more about it. Could you please tell me more about how this selection process works? And what exactly does the fund cover?\n\nAlso, could you provide some more details about the vacation part? It sounds really interesting. Is there a list of destinations to choose from or can we pick any place we want?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nTomas"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1288",
+        "to": "CRAWLER",
+        "subject": "  Attn : Sir / Madam",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Attn : Sir / Madam\nWE PAY VIA TRANSFER OR ATM MASTER CARD\nAPPROVED $15.5m usd\nFirst of all I am very sorry to bounce into your contact without\npermission, I bring you good news if you can follow my instructions,\nyou will be a happy man by next week. I am Mr Paul Clement, the\nexecutive director foreign exchange control department of  FIRST\nATLANTIC BANK NIGERIA PLC\nI assumed office here in foreign exchange control unit on Wednesday\nthe 8th day of November 2022, and I was going through the\nContract/Inheritance files here on my table, and came across your\nfile, I notice that your payment has not been approved for reasons I\ndo not know.\nNow, I  want to let you know that i have approved your fund transfer\nvalued $15.5m usd and this paying office bears the cost of\ntransferring your fund but the only charge required from you is the\nsum of $50 for {ADMINISTRATIVE COST}\nFinally, take my word it is my bound, and I will do as I have said if\nyou can give me audience, and do as I have said,\nYour  required to reconfirm to me the following information\n1. Names\n2. Residential address\n3. Date of Birth\n4. Functional telephone number\n5. Current occupation\n6. Name,  of your next of kin\n7. Scanned copy of YOUR VALID PASSPORT ID\n8..Bank Details\n----------------------------------------------------------------------\nonce i confirm our details i will advise you on how you send the  $50\nfor {ADMINISTRATIVE COST\nCONGRATULATION\nSincerely,\nDr BEN  BOLA\nFOREIGN PAYMENT DIRECTOR\nFIRST ATLANTIC BANK NIGERIA PLC   "
+    },
+    {
+        "from": "baiter_1288",
+        "to": "scammer_1288",
+        "subject": "Re:   Attn : Sir / Madam",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Dr. Ben Bola,\n\nThank you for your email and the good news about the fund transfer. I am ready to proceed with this but I need some clarifications.\n\nFirstly, could you please explain why there is a charge for COST OF TRANSFER? As far as I know, bank transfers are usually free of charge or incur a very minimal fee. Why is it different in this case?\n\nSecondly, could you provide more details about this fund? How did it come about and why has it been approved for me?\n\nLastly, I would like to know more about the security measures in place to ensure that my personal information will be safe once I provide them.\n\nI look forward to your response.\n\nBest regards,\nLewis D.\n\nBest wishes,\nMichael"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_762",
+        "to": "CRAWLER",
+        "subject": "  Hello Sir/Ma,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Hello Sir/Ma,\nHope you are doing great?\nI'm following up on the previous email I sent to you. I understand\nthat you are busy, but I would appreciate it if you could review this\nbrief message and respond to me as quickly as possible. I'm a Mandate\nand International Outsource Personeel. In my long years of work with\ntop financial management companies In Europe/Middle East and Asia, I\npresently have a client who have fundsand good things. She chooses to\ninvest in your Country either on an Equity or Loan basis.Please feel\nfree to reply to me immediately so that we can talk more about it\nsince your Country is the investor’s choice for investments in your\ncare and management.\nKind Regards,\nKhan Nasar Younus\nGet back to me by this Email: \nkhannasaryounus3@gmail.com\n "
+    },
+    {
+        "from": "baiter_762",
+        "to": "scammer_762",
+        "subject": "Re:   Hello Sir/Ma,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Khan Nasar Younus,\n\nThank you for your email and the opportunity to invest in my country. I would like to know more about this investment opportunity. Could you please provide more details about the type of investment, the amount involved, and the expected return on investment? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nTony"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_112",
+        "to": "CRAWLER",
+        "subject": "  Dear Sir/Madam,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Sir/Madam,\nRe: NEXT OF KIN AND PROBATE\nIt is with utmost good faith but a great sense of responsibility I\nsend this offer cum business proposal to you hoping that if you are\nnot interested you may pass it on. Sometimes in June 2022, an\nexpatriate, a foreign national attached to the Nigerian Gas Company\nwas kidnapped and brutally murdered in Yenogoa, the capital of the\nrestive Niger Delta state of Bayelsa was kidnapped and brutally\nmurdered off the Coast of the Atlantic.\nHowever, prior to his kidnap and eventual murder he had deposited with\nus in SAFE DEPOSIT WITH PASSWORD, the sum of 20 MILLION US DOLLARS.\nThis we were informed by the expatriate was proceeds from Illegal\nbunkering of BONNY LIGHT crude oil from the terminal in Bonny.\nSince his death, we have made spirited efforts to locate his family or\nNEXT OF KIN to collect this box and the funds therein, all to no\navail. Under our laws after one year such funds will be forfeited to\nthe government which we do not want to happen, hence this proposal.\nWith your kind permission, we want to front you as the Next of kin to\nthe deceased, and have these funds LEGALLY delivered to you, but for\nour mutual interest. It does not really matter where you are from\nprovided you are a foreigner.\nOur proposal therefore, is that if you successfully claim the funds,\nyou can keep 50% of it and transfer the other 50% to an account we\nwill nominate to you. Note that all probate laws as it applies to\nforeigners who died intestate in Nigeria, will be strictly complied\nwith, to avoid any risk to all the parties concerned.\nShould you be interested, kindly contact the undersigned for further\ninformation and requirements moving forward.\nI look forward to hearing from you as time is of the essence and we\nare racing against time.\nWith kind regards,\nKingsley Moghalu   "
+    },
+    {
+        "from": "baiter_112",
+        "to": "scammer_112",
+        "subject": "Re:   Dear Sir/Madam,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Kingsley Moghalu,\n\nI hope this message finds you well. I must say, your email has certainly piqued my interest. The situation you've described is quite unfortunate and it's a shame that such things happen in the world.\n\nHowever, I'm curious about a few things. How did you come across my contact information? And why have you chosen me for this particular task? \n\nAlso, could you please elaborate on the process of claiming these funds? What would be required from my end?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRenee"
+    }
+]

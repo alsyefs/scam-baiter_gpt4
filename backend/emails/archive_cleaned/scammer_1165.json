@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1165",
+        "to": "CRAWLER",
+        "subject": " This is to inform you that i ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " This is to inform you that i have canceled your payment \nGood bye   "
+    },
+    {
+        "from": "baiter_1165",
+        "to": "scammer_1165",
+        "subject": "Re:  This is to inform you that i ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nI'm sorry to hear that my payment has been cancelled. Could you please provide more information on why this happened and what steps I need to take to rectify the situation?\n\nBest regards,\nLewis D.\n\nBest wishes,\nDouglas"
+    }
+]

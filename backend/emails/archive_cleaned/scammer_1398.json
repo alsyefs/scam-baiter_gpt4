@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1398",
+        "to": "CRAWLER",
+        "subject": "  Attn: scam victims,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Attn: scam victims,\nWe are pleased to bring to your notice that your name is among 15 scam victims listed for compensation by WORLD BANK/IMF and in conjunction with ECOWAS MONETARY AGENCY.\nECOWAS MONETARY AGENCY has been given the responsibility to super head the payment of your compensation payment of (US$1.5 Million ) through Automated Teller Machines payment system (ATM CARD).\nYou are advised to contact Mr. Paul Smith, your payment officer through his direct E-mail ( \nworldbanbj04@outlook.com\n ) for fodder directive on your compensatory payment. Be kind enough to reconfirm your details as follows.\nYour Full Name, Address, Telephone Number. Your Age ,Your Occupation\n \nYours Sincerely\nMr. Victor Kenneth\nEcowas Monetary Agency\nHouse, room 974 Ecowas Plaza\nCentral business district of Cotonou\nRepublic of Benin.   "
+    },
+    {
+        "from": "baiter_1398",
+        "to": "scammer_1398",
+        "subject": "Re:   Attn: scam victims,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Victor Kenneth,\n\nThank you for your email and the information provided. I am glad to hear that my name is listed for compensation by the World Bank, IMF, and ECOWAS Monetary Agency.\n\nHere are my details as requested:\n\nFull Name: John Doe\nAddress: 123 Main Street, Anytown, USA\nTelephone Number: +1-555-555-5555\nAge: 45\nOccupation: Software Engineer\n\nI look forward to hearing from Mr. Paul Smith regarding further instructions on how to receive my payment through the Automated Teller Machines payment system (ATM CARD).\n\nBest wishes,\nMonique"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_204",
+        "to": "CRAWLER",
+        "subject": "The same fraudster also operat",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "The same fraudster also operates few other domain names used only for the email address:\n...\nfrbnj.com\n..."
+    },
+    {
+        "from": "baiter_204",
+        "to": "scammer_204",
+        "subject": "Re: The same fraudster also operat",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there! I hope you're having a great day. I'm really excited to share some information with you. Can we start discussing it?\n\nBest wishes,\nLeslie"
+    },
+    {
+        "from": "scammer_204",
+        "to": "baiter_204",
+        "subject": "Re: The same fraudster also operat",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "body": "GO AHEAD I AM ALL EYES AND EARS"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_783",
+        "to": "CRAWLER",
+        "subject": "ATTENTION MY DEAR BENEFICIARY,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "ATTENTION MY DEAR BENEFICIARY,\nThis is to inform you that we have succeeded on the delivery of your fund.\nSimply contact Diplomat Mr LARRY WILLIAM with your full delivery address And\nyour nearest airport to land, on this information below so that he can deliver\nyour consignment box worth $2.5Million ;Contact Name: Mr Douglas Davidson\ncontact Email:( \nlarywilliam353@gmail.com\n ) \nI advice you to reconfirm\nthe following\ninformation below to him,So that he will deliver your consignment that\ncontained your fund as soon as possible.\n(1)Your Full Name=========\n(2)Mobile Phone Number======\n(3)Current Home Address=====\n(4)Fax Number==============\n(5)Country=================\n(6)City====================\n(7)Nearest Airport ==========\nAs he is at Airport right now because of the Searching and Scanning of the\nconsignment which made him to misplace your address, so contact him now.Be\ninform that to open the consignment the secret code;is 84707, and the diplomat\ndid not know the code due to i registered the box as Africa cloth and personal\nbelong to avoid not to delaying the consignment.\nRegards,\nMr Eto Ricky\nNew director DHL secure office."
+    },
+    {
+        "from": "baiter_783",
+        "to": "scammer_783",
+        "subject": "Re: ATTENTION MY DEAR BENEFICIARY,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Eto Ricky,\n\nThank you for your email. I am glad to hear that the delivery of my fund has been successful. Here are the details you requested:\n\nFull Name: John Doe\nMobile Phone Number: +1-202-555-0172\nCurrent Home Address: 1600 Pennsylvania Ave NW, Washington, DC 20500, USA\nFax Number: N/A\nCountry: United States\nCity: Washington D.C.\nNearest Airport: Ronald Reagan Washington National Airport\n\nPlease let me know if there is anything else you need from me.\n\nBest wishes,\nCharles"
+    }
+]

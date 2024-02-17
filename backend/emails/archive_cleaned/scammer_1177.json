@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1177",
+        "to": "CRAWLER",
+        "subject": "Attn: Funds Beneficiary,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attn: Funds Beneficiary,\nWith the ongoing abandoned payment exercise conducted by the U.S Dept of\nthe Treasury, a memo has been sent to its consulate global offices that\nthey should henceforth advise every foreign fund beneficiary to present\ntheir details for Supervisory Authorization/Order to legalize 2022\nimmediate Payment Release.\nYou are required to quickly respond to this e-mail by providing your\ndetails as requested below\n1. Your Full Name:\n2. Your Physical Address:\n3. Your Phone Number:\nSend your above requested details to this e-mail address <\nrobbertcclement6@citromail.hu\n >\nThanks\nMr. Robert Clement."
+    },
+    {
+        "from": "baiter_1177",
+        "to": "scammer_1177",
+        "subject": "Re: Attn: Funds Beneficiary,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Robert Clement,\n\nThank you for your email. However, I would like to clarify a few things before providing my personal details. Could you please provide more information about the nature of this abandoned payment exercise? What is the source of these funds and why have they been abandoned? \n\nI look forward to your response.\n\nBest wishes,\nCary"
+    }
+]

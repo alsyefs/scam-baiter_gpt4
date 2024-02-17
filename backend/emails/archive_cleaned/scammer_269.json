@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_269",
+        "to": "CRAWLER",
+        "subject": "  Dear Beneficiary",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Beneficiary\nIt might Interest you to know that the sum of $8.8M had been set aside\nfor compensation which will be paid to you via Online Banking by the\nBANK CENTRAL ASIA, Indonesia,  It was Endorsed by the American\nGovernment and In Conjunction with the Homeland Security Service\nduring a meeting today 20=01=2023.\nMeanwhile you are to contact the Director in charge in respect of Dr.\nDavid Benson with the details below\n  Name: Dr. David Benson\n  Bank Email: \ndavidbenson@accountant.com\n  Private email : \ndbenbb19@gmail.com\nMeanwhile this Compensation department has been mandated by the IMF\nand the United Nations to transfer your compensation funds to you\nthrough Online Transfer Payment which is 100 % Guarantee for payment\nto you.\nRegards\nBarrister George  Melvin   "
+    },
+    {
+        "from": "baiter_269",
+        "to": "scammer_269",
+        "subject": "Re:   Dear Beneficiary",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Barrister George Melvin,\n\nThank you for your message. It's quite intriguing to hear about this sum of money that has been set aside. I must admit, I'm not entirely sure how this came about. Could you perhaps provide a bit more context or explanation?\n\nYou mentioned the involvement of BANK CENTRAL ASIA, Indonesia, the American Government and Homeland Security Service. That sounds very official! How did they all come to be involved in this matter?\n\nAlso, you've asked me to contact Dr. David Benson. May I ask what his role is in all of this? And could you please provide his contact details?\n\nI appreciate your assistance with these questions.\n\nBest wishes,\nTeresa"
+    },
+    {
+        "from": "scammer_269",
+        "to": "baiter_269",
+        "subject": "Re: Dear Beneficiary",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "body": "Dear Mrs. Teresa \nThis is to acknowledge receipt of your email and its content well noted and Understood, be informed that your approved Inheritance fund is with our Bank the Bank Central Asia, Jakarta Indonesia and we shall transfer the fund to your destination as soon as you furnish us with your fund details. \nHowever, before we can proceed further, You are advised to fill and return to us the attached official bank form with your receiving account details and also your direct mobile number, Upon receipt of the information we shall proceed immediately with the transfer procedures in making sure the transfer is made directly to your account in your country. \nThanks for Banking with us and congratulations in Advance.\nRegards \nDavid Benson \nInternational Remittance Director \nBank Central Asia \nJakarta Indonesia."
+    }
+]

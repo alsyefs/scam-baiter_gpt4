@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_621",
+        "to": "CRAWLER",
+        "subject": "Transvez Logistics LLC was ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Transvez Logistics LLC was \nestablished in 1955\n and has been under new management since 1996 as an international logistics company offering such services as freight forwarding, cargo shipping, and warehousing for air and ocean freight. Transvez Logistics LLC is a fully-licensed freight forwarding company, a TSA certified Indirect Air Carrier, an IATA (International Air Transport Association) agent, and an FMC licensed NVOCC (Non-Vessel Operating Common Carrier)."
+    },
+    {
+        "from": "baiter_621",
+        "to": "scammer_621",
+        "subject": "Re: Transvez Logistics LLC was ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nThank you for providing information about Transvez Logistics LLC. It's great to know that your company offers a wide range of services including freight cargo shipping, air and ocean freight. As a TSA certified Indirect Air Carrier, an IATA Air Transport agent, and an FMC licensed NVOCC Operating Common Carrier, it's clear that your company is well-equipped to handle various logistics needs.\n\nI look forward to learning more about how your services can benefit my business operations. Please feel free to share any additional information or details regarding your service offerings.\n\nBest wishes,\nTammie"
+    }
+]

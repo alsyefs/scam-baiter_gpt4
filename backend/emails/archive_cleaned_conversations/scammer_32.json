@@ -1,0 +1,52 @@
+[
+    {
+        "from": "scammer_32",
+        "to": "CRAWLER",
+        "subject": "Dear  Sir,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear  Sir,\n \nI am Adnan Menderes Yayla, Chief Financial Officer & Executive Vice President QNB Finansbank, Istanbul office Turkey, I am pleased to get across to you for a very urgent and profitable business proposal which I believe will profit the both of us after completion, I contacted you after going through your profile  that you might be capable of handling this business transaction without betrayal, There is this client of mine Mr. Roger Ian Wright a US businessman, founder of a Sao Paulo-based investment company and Owner of  ENGEN OIL AND GAS COMPANY LTD made a fixed deposit with my bank in January 2009 for 36 calendar months, valued at (US$ 20,500,000)Sixty Seven Million, Five Hundred Thousand United State Dollars Only, The due date for this deposit contract was the 2nd of April 2012,Mr. Roger Ian Wright, his wife and his two children all died in a plane crash in Sao Paulo Brazil.\n \nYou can find below the links pertaining to this accident\n \nhttp: // www. abc.net.au/news/stories/2009/05/23/2579118.htm?section=justin\n \nAll attempts to trace his next of kin were fruitless, My position here at my office requires me to investigate and provide the Next of Kin or Business Partner, I therefore made further investigations and discovered that Mr. Roger Ian Wright did not declare any next of kin or relation in all his official documents including his deposit documents in my bank, According to Turkish Law the money will be reverted to the ownership of the Turkish government after 12 years if nobody applies to claim the fund, To prevent this from happening I have decided to seek your assistance to have you stand as his Business Associate so that the said fund (US$ 20.5 Million USD) would be released in your name as the next of kin and paid into your account, All documents and proof that will have you claim this funds without stress will be forwarded to you upon your response to this mail.\n \nYour immediate response will be appreciated.\n \nSincerely,\nChief Financial Officer & Executive\nVice President QNB Finansbank Turkey"
+    },
+    {
+        "from": "baiter_32",
+        "to": "scammer_32",
+        "subject": "Re: Dear  Sir,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir,\n\nI am intrigued by your proposal and would like to know more about it. However, I must express my concerns regarding the legality and ethical implications of this transaction. \n\nCould you please provide more details on how this process would work? Specifically, I would like to understand how I can legally claim these funds as the next of kin without any familial relation to Mr. Roger Ian Wright.\n\nI look forward to hearing from you soon.\n\nBest wishes,\nJoseph"
+    },
+    {
+        "from": "scammer_32",
+        "to": "baiter_32",
+        "subject": "Re: Dear Sir,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "body": "Dear  Sir,\r\n\r\nI am Adnan Menderes Yayla, Chief Financial Officer & Executive Vice\r\nPresident QNB Finansbank, Istanbul office Turkey, I am pleased to get\r\nacross to you for a very urgent and profitable business proposal which I\r\nbelieve will profit the both of us after completion, I contacted you after\r\ngoing through your profile  that you might be capable of handling this\r\nbusiness transaction without betrayal, There is this client of mine Mr.\r\nRoger Ian Wright a British-born businessman, founder of a Sao Paulo-based\r\ninvestment company and Owner of  ENGEN OIL AND GAS COMPANY LTD. Made a\r\nfixed deposit with my bank in January 2009 for 36 calendar months, valued\r\nat ($5,500,000)Five Million Five Hundred Thousand United State Dollars\r\nOnly, The due date for this deposit contract was the 2nd of April 2012, Mr.\r\nRoger Ian Wright, his wife and his two children all died in a plane crash\r\nin Sao Paulo Brazil.\r\n\r\nYou can find below the links pertaining to this accident\r\n\r\nhttps://www.dailymail.co.uk/news/article-1187181/Plane-crash-kills-Briton-family.html\r\n\r\nAll attempts to trace his next of kin were fruitless, My position here at\r\nmy office requires me to investigate and provide the Next of Kin or\r\nBusiness Partner, I therefore made further investigations and discovered\r\nthat Mr. Roger Ian Wright did not declare any next of kin or relation in\r\nall his official documents including his deposit documents in my bank,\r\nAccording to Turkish Law the money will be reverted to the ownership of the\r\nTurkish government after 12 years if nobody applies to claim the fund, To\r\nprevent this from happening I have decided to seek your assistance to have\r\nyou stand as his Business Associate so that the said fund ($5,500,000)\r\nwould be released in your name as the next of kin and paid into your\r\naccount, All documents and proof that will have you claim this funds\r\nwithout stress will be forwarded to you upon your response to this mail.\r\n\r\nYour immediate response will be appreciated.\r\n\nSincerely,\r\n\r\nAdnan Menderes Yayla\r\nChief Financial Officer & Executive\r\nVice President QNB Finansbank Turkey"
+    },
+    {
+        "from": "baiter_32",
+        "to": "scammer_32",
+        "subject": "Re: Dear Sir,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "3",
+        "body": "Dear Mr. Yayla,\n\nI am intrigued by your proposal and would like to know more about it. However, I must stress the importance of transparency and legality in this matter. \n\nCould you please provide me with more details about the process? How can we ensure that this transaction is legal and ethical? What are the steps involved?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJoseph"
+    },
+    {
+        "from": "scammer_32",
+        "to": "baiter_32",
+        "subject": "Re: Dear Sir,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "4",
+        "body": "Good day Mr Joseph,\r\n\r\nI want you to know that everything about this transaction is very legal and\r\nethical. I want you to know that you don't have anything to worry about as\r\nfar as this transaction is concern.\r\n\r\nThe steps involved is for me to get your personal details to put into our\r\nbanking system as the next of kin to Mr. Roger Ian Wright, once that is\r\ndone i will give you our bank email address for you to contact them for the\r\nclaim of the funds and if they can verify that your details has been in the\r\nbanking system the funds will be released to you.\r\n\r\nPlease if you are still very interested let me know so that we can proceed\r\nwith the transaction."
+    }
+]

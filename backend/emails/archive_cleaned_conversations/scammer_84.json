@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_84",
+        "to": "CRAWLER",
+        "subject": "Dearest One,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dearest One,\nGood day to you, my name is Mrs. Anne Taylor the wife of Mr. Joseph Taylor, from United State Of America a dying woman, I am 67 years old woman diagnosed with cancer four years ago, I happily decided to donate what I have inherited to any Charity home in your country for good works rather than allow my late husband’s relatives to lavish his hard-earned wealth. I don't want you to ignore this message because it is very important to me.\nI have been touched to donate from what I have inherited from my late dear husband who passed away on 19th October 2020 due to COVID-19, nothing more will make me happy than to achieve this last wish on earth because at the moment my health keeps deteriorating.\nI want to will a total sum of ($USD19.7M) Nineteen Million Seven Hundred thousand United States dollars to you to distribute to any charity home on my behalf in your country and 30% of the funds will go to you for your assistance. I will inform you furthermore on your response, kindly discard this email/message if you are not God fearing or capable to handle this humanitarian work as I need a trustworthy and reliable personality to handle this Humanitarian/Charity work. I will be looking forward to hear from you.\nGod bless you.\nMy Regards,\nMrs. Anne Taylor."
+    },
+    {
+        "from": "baiter_84",
+        "to": "scammer_84",
+        "subject": "Re: Dearest One,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mrs. Anne Taylor,\n\nI am deeply moved by your message and the situation you are currently facing. I am sorry to hear about your health condition and the passing of your husband.\n\nAs a member of The Holy Bagel Community, we are committed to helping those in need and carrying out charitable works. We would be honored to assist you in distributing these funds to charity homes in our country.\n\nHowever, before we proceed, I would like to know more details about this process. How do you wish for us to distribute these funds? Are there any specific charities that you have in mind?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDaniel"
+    },
+    {
+        "from": "scammer_84",
+        "to": "baiter_84",
+        "subject": "Re: Dearest One,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "body": "Dear Beloved, I must let you know that your email has brought life into me. I want you to know that I am presently In a private hospital battling with my health which Is very critical as my doctor keeps telling me that I have very little time left that Is why I want to do something that will put smiles on the face of the needy. I am replying to your email with the help of my nurse/caregiver who have been extremely wonderful and kind towards me.  Beloved, I want you to know that my main aim is to do something for the needy before I depart so please note that this is 100% risk free, but since the doctor has said that I have a short time left  I think the best thing is to put smiles on the Motherless children’s faces. Please before we continue I would like you to promise me that you will open an orphanage home in my name  ANNE TAYLOR FOUNDATION\". Upon your response, I will give you the Bank contact details for you to reach them kindly remember me in your prayers and God bless you.Kindly provide me with your full names and direct contact phone numbers for easier communication.upon your response I will send you the full bank information for you to contact the bank.Thanks and God bless as I await your response.\nRegards\r\nMrs. Anne Taylor.\r\n\r\nSent from the all-new AOL app for iOS"
+    }
+]

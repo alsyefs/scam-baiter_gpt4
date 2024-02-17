@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1321",
+        "to": "CRAWLER",
+        "subject": "  Hello,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Hello,\nHow are you doing today? I have been expecting to hear back from you\nto know if you received the earlier message I sent you explaining my\nintention to present you to the  Credit Union Bank London,  as the\nbonafide / rightful Next of Kin and Inheritor of an Inheritance sum of\n£12,870,900.00 (Twelve Million Eight Hundred and Seventy Thousand Nine\nHundred Pounds) under their custody. I am wondering why I have not\nreceived any response from you till now regarding this issue.\nThe reason why I contacted you is  to seek your genuine collaboration\nwith me so that I can present you to the bank as the rightful next of\nkin and inheritor of the inheritance sum left behind by Susan\nOrwel-Brown with the Credit Union Bank, London.\nThe inheritance law of the United Kingdom gives a maximum of 10 years\nwithin which assets left behind by deceased family should be\nre-possessed or be forfeited to the Treasury of the United Kingdom. I\ndo not belong to the school of thought that suggests such assets of an\nunfortunate family be lost to the possession of a few individuals.\nRather it should be used as vehicle for investment to benefit the less\nprivilege in the society. Here is the main reason I contacted you so\nthat you can stand to receive this fund for onward investment purposes\nthat will be beneficial to all parties involved.\nKindly find attached a copy of the Death Certificate of the deceased\nand last Statement of Account indicating the existence of the fund\nwith the Bank. This is for your perusal only, do not divulge to third\nparty as these are sensitive documents.\nI wait to hear your opinion on this.\nYours faithfully,\nBarr. Reece Jason\nSt. Mary's Chambers    "
+    },
+    {
+        "from": "baiter_1321",
+        "to": "scammer_1321",
+        "subject": "Re:   Hello,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Barr. Reece Jason,\n\nI hope this message finds you well. I must say, your email caught me by surprise! It's not every day that one receives news of such a significant inheritance from an unknown source.\n\nI'm curious about how you found my contact information and why you believe I could be the rightful next of kin to Susan. Could you please provide more details on this matter? \n\nAlso, I would like to know more about the process involved in claiming this inheritance. What are the steps that need to be taken?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAmber"
+    }
+]

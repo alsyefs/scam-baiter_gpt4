@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1287",
+        "to": "CRAWLER",
+        "subject": "Hello, my dearest",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hello, my dearest\nMy name is Mrs. Theresa Brown. I am a dying woman who has decided to donate what she has to a reliable individual who will act as I will instruct her here.\nI am 69 years old and was diagnosed with cancer about 3 years ago. I have been touched by God to donate what I have inherited from my late father to you for the good work of God rather than allow my uncle to use my father's hard-earned funds ungodly.\nI will be undergoing an operation in London, and I pray that I survive the operation. I have decided to will the sum of USD 7,000,000.00 (seven million United States dollars only) deposited in De Nederlandsche Bank to you for the good work of the Lord, the orphanage, the needy, and to help the motherless.\nPresently, I have informed my doctor, Dr. John Kelvin, about my decision to give this fund to a reliable individual. You are to get back to me immediately if you are interested in carrying out this task so that I can instruct you on how to get in touch with my doctor.\nLastly, I know I have never met you, but to fulfill this, which borders me most, and because I got your email address through my search on the Internet, my mind tells me to inform you about this, and I hope you act sincerely. Please get back to me immediately.\nGod bless you.\nMrs. Theresa Brown"
+    },
+    {
+        "from": "baiter_1287",
+        "to": "scammer_1287",
+        "subject": "Re: Hello, my dearest",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mrs. Theresa Brown,\n\nI am deeply moved by your email and the situation you are currently facing. I admire your courage and your desire to help others even in such difficult times.\n\nI would be honored to assist you in this noble cause. Please provide me with further instructions on how to proceed with this task.\n\nMay God bless you and give you strength during your operation.\n\nBest wishes,\nEvelyn"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1027",
+        "to": "CRAWLER",
+        "subject": "Attention Dear Customer,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attention Dear Customer,\n \nThis is to bring to your notice that your long awaited fund of USD$ 4,800.000.00) Four Million Eight Hundred Thousand United State Dollars has been deposited with MoneyGram Global Money Transfer Services. \nNew Delhi, INDIA\n. After cross-checking your record last week Friday, we noted that your record is clear and you are free to receive your long awaited fund without delay. Be advised to contact MoneyGram Global Money Transfer Services Manager NEW DELHI INDIA immediately for urgent access to your payment file so that you will start receiving your daily amount today.\n \nFind their contact email below:\n \nMR HASSANAND MASAND/ Manager MoneyGram\nAddress: 13&14 OLD MARKET TILAK NAGAR NEW DELHI\nE-mail: \nofficedesk2@gmx.us\n \nPlease you have to contact the MoneyGram Office immediately you receive this message because your payment files are on their desk right now. They are waiting to hear from you to give you more details on how you will receive your daily payment.\n \nThanks for your time and patience.\nMr Louis Holland.\nMoney-Gram Payment Notification!"
+    },
+    {
+        "from": "baiter_1027",
+        "to": "scammer_1027",
+        "subject": "Re: Attention Dear Customer,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Hassanand Masand,\n\nI received a message from Mr. Louis Holland informing me about my long-awaited fund of USD Four Million Eight Hundred Thousand United State Dollars that has been deposited with Global Money Transfer Services in New Delhi, India.\n\nCould you please provide me with more details on how I can access this payment and start receiving it daily?\n\nLooking forward to your prompt response.\n\nBest wishes,\nCorey"
+    }
+]

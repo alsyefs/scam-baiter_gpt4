@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_697",
+        "to": "CRAWLER",
+        "subject": "Do you need a loan ? A simple ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Do you need a loan ? A simple and straightforward loan offers for your Personal needs and the projects you care about. contact us now"
+    },
+    {
+        "from": "baiter_697",
+        "to": "scammer_697",
+        "subject": "Re: Do you need a loan ? A simple ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there! \n\nThank you for reaching out to me with this offer. It sounds interesting, but I would like to know more about it. Could you please provide some more details? Like what are the terms and conditions of the loan? And what kind of projects do you usually support?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nGlen"
+    }
+]

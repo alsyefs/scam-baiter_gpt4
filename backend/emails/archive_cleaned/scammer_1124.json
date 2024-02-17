@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1124",
+        "to": "CRAWLER",
+        "subject": "The Chairman of the Board",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "The Chairman of the Board\nand Chief Executive Officer\nOf Bank of America\nAttention: my good friend ?\nThe attached file here is the copy of your  Payment Interest tax\nrefund sum of US$870,000.00  through International Certified Bank\nDraft, that issued to you by the world bank and America government and\nclear it in any bank of your choice over there  without any problem\nimmediately you receive it\n I will advise you to please and confirm\nyour information again to us your full name and your house address and\nyour telephone\nnumber and \nthe copy of your passport\n to us so that we can able to use\nit and not with the one who have hair in our office and know whether\nyou are the real beneficiary of this bank Draft check\nOn behalf of\nBank of America\nFrom Mr. Phillips  Edward\nThe Chairman of the Board\nand Chief Executive Officer\nOf Bank of America"
+    },
+    {
+        "from": "baiter_1124",
+        "to": "scammer_1124",
+        "subject": "Re: The Chairman of the Board",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Phillips Edward,\n\nThank you for reaching out to me. I'm thrilled to hear about this Payment Interest tax refund. It's not every day that one gets such good news!\n\nI'm curious, how was my name selected for this? And could you please explain a bit more about the process of clearing the Certified Bank Draft in my local bank?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nUrsula"
+    }
+]

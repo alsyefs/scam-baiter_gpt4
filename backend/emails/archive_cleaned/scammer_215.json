@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_215",
+        "to": "CRAWLER",
+        "subject": "Hello Sir/Madam",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hello Sir/Madam\nwe are very interested on funding lucrative business/Projects for\npartnership with you.Can you provide us with a business plan and your\nexecutive project Summary.our company is an investment and loan\ncompany with interest in oil prospecting and allied businesses and\nalso in real-estate.\nwe have some business interests which might also be of great interest\nto you.i think we work together to make more profits,hence my\ncontacting you.We offer loans to businesses,organizations and\nindividuals at very low interest rates of 3% to 5% depending on the\namount of capital request.our time duration ranges from 1 year to 15\nyears max.\nWe also do partnership investment with individual who has good\nbusiness that has good propensity to yield profit. We can partner with\nyou in any good/Legal business or project that has the propensity to\ngenerate profit or has the potentiality to do so. Get back to me with\na project or business that you think we can work together on and make\ngood profit, we are ready to provide the required capital for such\nbusiness as a loan or as equity partnership investment.Contact\nEmail=chrisjmasahito10@yahoo.com\nYours Truly,\nMr Chris James"
+    },
+    {
+        "from": "baiter_215",
+        "to": "scammer_215",
+        "subject": "Re: Hello Sir/Madam",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Chris James,\n\nThank you for reaching out and expressing your interest in funding business projects. It's great to hear that your company is involved in various sectors, including oil and allied businesses.\n\nI'm curious about the types of projects your company has previously funded or invested in. Could you provide some examples? This would help me understand the kind of ventures that align with your interests.\n\nAlso, could you elaborate more on the terms of your loans? You mentioned low interest rates and a time duration ranging from 1 year to 5 years max, but I'd like to know more about any potential requirements or conditions attached to these loans.\n\nLastly, I'm intrigued by your offer to partner with individuals who have good business ideas. What does this partnership typically look like?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nCathy"
+    }
+]

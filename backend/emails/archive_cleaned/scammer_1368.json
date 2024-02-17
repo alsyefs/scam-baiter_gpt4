@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1368",
+        "to": "CRAWLER",
+        "subject": "  Received: from 10.197.33.136",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Received: from 10.197.33.136\nReturn-Path: < \nmarkkoval003@gmail.com\n >\nX-Originating-Ip: [209.85.166.50]\nReply-To: \nwanagac@yahoo.com\nFrom: Collins Mbano Wanaga <markkoval003@gmail.com>\nDate: Wed, 24 Aug 2022 14:00:13 +0000\nMessage-ID: <CAHNYP3Rde9rx73Cc2suHdZjOfz-sk4Jbq4K2jhfAoj6z7kaLhg@mail.gmail.com>\nSubject: Dear Sir, From The Wanaga's Family... Please View Attachment !!   "
+    },
+    {
+        "from": "baiter_1368",
+        "to": "scammer_1368",
+        "subject": "Re:   Received: from 10.197.33.136",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nI hope this message finds you well. I'm really excited to share some information with you. I've recently come across something that might interest you. \n\nHowever, before we dive into it, could you please tell me a bit more about your interests? This will help me tailor the information to suit your needs better.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nPamila"
+    }
+]

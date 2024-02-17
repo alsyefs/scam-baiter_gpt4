@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1421",
+        "to": "CRAWLER",
+        "subject": "FROM THE DESK OF DR: ALBERT KE",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "FROM THE DESK OF DR: ALBERT KESSEN.\nOPERATIONAL MANAGER\nECOBANK GHANA LTD.\nACCRA GHANA\nATTENTION: SIR/MA\n \nPAYMENT TRANSFER NOTIFICATION.\nWE HEREBY FORMALLY INFORM YOU OF THE APPROVAL OF YOUR PAYMENT WITH ECOBANK GHANA.\n \nWE THEREFORE URGE YOU TO INFORM US OF HOW YOU WISH TO RECEIVE YOUR PAYMENT CLAIM OF $1.5M (ONE MILLION, FIVE HUNDRED UNITED STATE DOLLARS), EITHER BY TELEGRAPHIC TRANSFER,ATM VISA CARD OR CASH.\nYOUR PROMPT RESPONSE TO THIS MATTER WILL BE USEFUL FOR THE COLLECTION OF YOUR FUND.\nYOURS FAITHFULLY,\nDR:ALBERT KESSEN\nCALL  ME ON : +233 50124  6773"
+    },
+    {
+        "from": "baiter_1421",
+        "to": "scammer_1421",
+        "subject": "Re: FROM THE DESK OF DR: ALBERT KE",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Manager,\n\nThank you for your email. I would prefer to receive my payment claim of One Million, Five Hundred United States Dollars via Visa Card.\n\nPlease let me know the next steps in this process.\n\nBest wishes,\nSteven"
+    }
+]

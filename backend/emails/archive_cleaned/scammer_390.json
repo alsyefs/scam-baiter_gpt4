@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_390",
+        "to": "CRAWLER",
+        "subject": "  Hello,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Hello,\nDo you have any reputable and reliable company with good ROI that needs funding. Contact me for further details if you are interested.\nRegards \nJin Reyes   "
+    },
+    {
+        "from": "baiter_390",
+        "to": "scammer_390",
+        "subject": "Re:   Hello,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Jin Reyes,\n\nThank you for reaching out. I'm always interested in learning about new opportunities, especially those that involve reputable and reliable companies. Could you please provide more information about the company? What industry is it in? What kind of funding does it require?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nCaroyln"
+    }
+]

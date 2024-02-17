@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1114",
+        "to": "CRAWLER",
+        "subject": "Good day ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Good day \nCongratulation, your among the beneficiary that they funds is approved to release in this end of the year \nwe have tried to call your phone number  but is not going through kindly reconfirm to us your full name and address\nfor more info Reply me  on this email, \npeterjameschwd@gmail.com\nBest regards\nPeter James"
+    },
+    {
+        "from": "baiter_1114",
+        "to": "scammer_1114",
+        "subject": "Re: Good day ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Peter James,\n\nGood day to you too! I'm thrilled to hear about the funds being approved for release. That's such exciting news!\n\nI'm sorry for any inconvenience caused by my phone number not working. However, I would love to know more about this process. Could you please explain how it works? And why do you need my full name and address?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nLaronda"
+    }
+]

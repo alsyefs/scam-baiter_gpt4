@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_691",
+        "to": "CRAWLER",
+        "subject": "   Attn:  ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Attn:  \nWhat is going on ? .\nSigned and Authorized by:\nSIR, LOUIS B. ECKELKAMP, III\n(CHIEF EXECUTIVE OFFICER)BANK OF WASHINGTON\nADDRESS: P.O. BOX 377 WASHINGTON, MISSOURI 63090\nTel:1 (917) 936-4401\nTel:1 (636) 231-5105   "
+    },
+    {
+        "from": "baiter_691",
+        "to": "scammer_691",
+        "subject": "Re:    Attn:  ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Sir Louis B. Eckelkamp, III,\n\nIt's a pleasure to have you here. I'm curious about what's happening at the Bank of Washington these days? Any new initiatives or projects that you're currently working on?\n\nBest wishes,\nDoris"
+    }
+]

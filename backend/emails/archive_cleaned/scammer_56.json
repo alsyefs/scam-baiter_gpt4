@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_56",
+        "to": "CRAWLER",
+        "subject": "  CAN I TRUST YOU",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  CAN I TRUST YOU\nReceiving this message might sound as a surprise to you, please do\naccept it as a blessing from God made possible through a man with a\ngood and sincere heart towards the poor orphans.\nI am Mr. Alfred Wilton a great citizen of the LONDON UK  , I bring to\nyou a proposal which I want you to assist me with. It is painful now\nto let you know that I have been suffering from a Coronary artery\ndisease for the past 12 years and just few weeks ago my Doctors\nnotified me that I won't get past another 5 months.\nI want you to help me distribute some funds I kept aside for charity\npurposes, to Charity Homes and the poor in your state Please kindly\nreply to this email if you are willing to help me carry out this task\nand i'd feed you with more details, You'd be compensated for carrying\nout this mission.\nThanks,\ni hope to read from you soon.\nSincerely,\nMr. Alfred Wilton   "
+    },
+    {
+        "from": "baiter_56",
+        "to": "scammer_56",
+        "subject": "Re:   CAN I TRUST YOU",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Alfred Wilton,\n\nI am deeply moved by your message and the unfortunate situation you find yourself in. I would be honored to assist you in distributing funds to charity homes and the less fortunate in my state.\n\nPlease provide me with more details on how we can proceed with this noble mission.\n\nBest wishes,\nEugene"
+    }
+]

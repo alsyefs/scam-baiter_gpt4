@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_347",
+        "to": "CRAWLER",
+        "subject": "  I  am  surprised  that  the ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  I  am  surprised  that  the account  number  i sent  did  not go  through. What  do  you think we  should do urgently.\nWaiting  to  read  from you,\nDr. Ben Morgan   "
+    },
+    {
+        "from": "baiter_347",
+        "to": "scammer_347",
+        "subject": "Re:   I  am  surprised  that  the ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Dr. Ben Morgan,\n\nI'm sorry to hear that the account number didn't go through. Could you please double-check the details and resend them? If there's still an issue, we might need to consider an alternative method of transfer.\n\nBest wishes,\nDavid"
+    }
+]

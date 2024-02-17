@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_960",
+        "to": "CRAWLER",
+        "subject": "Hello, I'm sorry for this kind",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hello, I'm sorry for this kind of contact.  I just feel to contact you\nbecause I thought you were the person I needed.  I don't know you and\nyou don't know me, but the Spirit of God has brought me to you.\nAnyway, my name is Mrs. Laddie Jones. I live in northern Massachusetts\nstate USA.  I'm\nsuffering from a serious illness, which has condemned me to certain\ndeath, It is throat cancer that I have been suffering from for years. And\nAccording to my severally diagnosis from many hospitals, It has been\ndiscovered that I can never be cured. between God and man. So I decided\nto discharge all my personal belongings to the living. before I face\ndeath. I have an amount of 58.5 million USD that I would like to\ndonate to a reliable and honest person so that he can make good\nuse of it. I own a red oil import company in Germany, and I lost my\nhusband 20 years ago which affected me a lot and I was not able to\nremarry until today, I  had no children.  I want to give this amount as\na gift before I die Because my days are numbered due to the presence\nof this disease for which I had no cure but a sedative to relieve my\npain.  I would like to ask you if you can benefit from this donation\nof this 58.5 million USD.\nIf you are interested forward your information such as:\nYOUR FULL NAME________\nYOUR HOME ADDRESS______\nYOUR NEAREST AIRPORT ADDRESS_____\nYOUR ID CARD\n________________\nYOUR EMAIL ADDRESS_________\nForward the above-requested information directly to my personal Gmail or\nhere (\nmrsladyj009@gmail.com\n)"
+    },
+    {
+        "from": "baiter_960",
+        "to": "scammer_960",
+        "subject": "Re: Hello, I'm sorry for this kind",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mrs. Laddie Jones,\n\nI'm deeply moved by your message and I'm sorry to hear about your health condition. However, as a representative of the Holy Bagel Community, I must inform you that we are not in a position to accept personal donations.\n\nWe suggest that you consider donating to established charitable organizations who can ensure that your funds will be used for the benefit of those in need.\n\nMay God bless you and give you strength during this difficult time.\n\nBest wishes,\nRose"
+    }
+]

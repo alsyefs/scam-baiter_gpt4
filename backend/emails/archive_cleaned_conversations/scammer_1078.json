@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_1078",
+        "to": "CRAWLER",
+        "subject": "  Attn:Dear Esteemed customer,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Attn:Dear Esteemed customer,\nReply to this Email \npacific_courier@live.fr\nThis is official notice to you that your (CONSIGNMENT OF 25,9MILLION USD) which was sent for over one month now was returned. I know that you have been waiting for the arrival of your ATM CARD since, it is unfortunate that it was returned this week due to wrong address which was provide by your representative (Mrs Rosemary STUART BLUM). And the same Man came again and trying to make us believe that you are dead and even explained that you entered into an agreement with him, to help you in receiving your (CONSIGNMENT). So did you sign any Deed of Assignment in favor of (Mrs Rosemary STUART BLUM) thereby making him the current beneficiary,In view of this development, you are requested to confirm to us if you are alive and also furnish us with your full Information,\nYOUR FULL NAME ____\nYOUR ADDRESS____\nYOUR AGE______\nYOUR CITY_______\nYOUR COUNTRY_____\nYOUR CURRENT OCCUPATION___\nYOUR HOME PHONE_______\nYOUR CELL PHONE_____\nYOUR:WHATASPP NUMBER\nYOUR GENDER_______\nA COPY OF YOUR IDENTIFICATION _____ to enable us deliver this CONSIGNMENT to your door step:Meanwhile,be rest assured that upon receipt of the above information  we will proceed in delivering your (CONSIGNMENT) And for security reason endeavor to indicate this CODE N° (PACIFIC COURIER-BJ/XXL14160) this code shows that you are the rightful owner of the box.\nRespectfully submitted,\nDirector General  Rev.Dr Ijemaka Godwin\nPacific Courier Services\nCell Number+ 234-701-511-9133\nCountry Republic Of Nigeria\nReply to this Email \npacific_courier@live.fr\n "
+    },
+    {
+        "from": "baiter_1078",
+        "to": "scammer_1078",
+        "subject": "Re:   Attn:Dear Esteemed customer,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Director General Ijemaka Godwin,\n\nI am writing to confirm that I am alive and have not entered into any agreement with Mrs Rosemary STUART BLUM. Here are the details you requested:\n\nFULL NAME: John Doe\nADDRESS: 123 Main Street, Anytown\nAGE: 45\nCITY: Anytown\nCOUNTRY: USA\nCURRENT OCCUPATION: Software Engineer\nHOME PHONE: (555) 555-5555\nCELL PHONE: (555) 555-5555\nGENDER: Male\n\nUnfortunately, I cannot provide a copy of my ID via email for security reasons. \n\nPlease note the CODE PACIFIC XXL as requested.\n\nBest wishes,\nJason"
+    },
+    {
+        "from": "scammer_1078",
+        "to": "baiter_1078",
+        "subject": "Mr John Doe Attn:Dear Esteemed customer,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "body": "My Dear Mr John Doe,\r\n\r\n  Thank God you are Still Alive and your Details for the Deliver Has Been Received to us this Morning And Mrs. Rosemary Will be Arrested as Scammer Act OK,\r\n\r\nTherefore, We are Ready to Deliver it But All that Remaining is Security Keeping Fees and Deliver Fees Which is just 250.00 Usd As soon as We get it within 72Hrs We will Arrive in your Doorstep OK\r\n\r\nSo, We are waiting to get it from you\r\n\r\nReverend Ijemaka Godwin"
+    }
+]

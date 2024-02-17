@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_469",
+        "to": "CRAWLER",
+        "subject": "   sorry then  , we cannot pro",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   sorry then  , we cannot proceed. we keep our record in WhatsApp   "
+    },
+    {
+        "from": "baiter_469",
+        "to": "scammer_469",
+        "subject": "Re:    sorry then  , we cannot pro",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there! I understand that you need to keep records, but I'm afraid I can't provide any personal information. However, I'd love to learn more about what you're offering. Could you tell me more about it?\n\nBest wishes,\nDonald"
+    }
+]

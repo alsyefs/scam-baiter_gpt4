@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_181",
+        "to": "CRAWLER",
+        "subject": "Dear Sir/Madam,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear Sir/Madam,\nLoan Offer.\nAt Capital Finance we offer loans at low interest rates and with no credit check, we offer Personal loans, Debt Consolidation Loan, Venture Capital, Business Loan, Education Loan and Home Loan.\nOur company is based in the United Kingdom as we've been into the financial business for over 20 years now with a low interest rate of 3% per Annum. We give out loans to people from America, Europe, Asia, New Zealand, Australia and Africa within a maximum of 5 days depending on the seriousness of the applicant.\nWe would like you to get back to us immediately when you receive this message for further information on the loan process.\nRegards,\nMs. Jennifer Mcnichols."
+    },
+    {
+        "from": "baiter_181",
+        "to": "scammer_181",
+        "subject": "Re: Dear Sir/Madam,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Ms. Jennifer Mcnichols,\n\nThank you for your offer. However, at this time, I am not in need of a loan. I appreciate your consideration and will keep Capital Finance in mind for any future financial needs.\n\nBest wishes,\nTimothy"
+    }
+]

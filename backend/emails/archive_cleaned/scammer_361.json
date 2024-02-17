@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_361",
+        "to": "CRAWLER",
+        "subject": "  Dear Sir,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Sir,\nIt is with great regret to inform you that your  outstanding Cashier\nCheck has returned undelivered due to incomplete or incorrect\nrecipient address. We are sorry you did not receive your parcel as\npromptly as you expected.\nPlease write down your real and correct name and shipping address,\nincluding your mobile phone number, carefully and completely.\nWith kindest regards,\nDr. Souley Amadou\ndrsouleyamadou15@gmail.com\nGeneral Counsel and Director of the Legal Service Department,   "
+    },
+    {
+        "from": "baiter_361",
+        "to": "scammer_361",
+        "subject": "Re:   Dear Sir,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Dr. Souley Adou,\n\nI appreciate your prompt response and concern regarding the issue with my Cashier Check. It's quite unfortunate that there was a mix-up with the recipient address.\n\nHowever, I'm a bit confused about how this could have happened as I usually double-check all my details before sending them out. Could you please provide more information on what exactly was incorrect or incomplete? This would help me avoid such mistakes in the future.\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nKimberly"
+    }
+]

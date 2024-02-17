@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_541",
+        "to": "CRAWLER",
+        "subject": "   Hello,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Hello,\nI greet you with warm regards. I earn a living in the oil industry as leader of the Procurement Unit in a refining outfit owned by a Sao Tome and Principe government. I currently reside in the United Kingdom and work as a liaison officer to the government\nOn my desk is a mandate to arrange for crude oil purchase for up to 500,000 barrels on every other month basis for 2 calendar years. The essence of my reaching out to you is the fact that as a staff, it is against Sao Tome government operational ethics to profiteer from any dealings with any oil purchasing firm hence the reason I need a trustworthy middle person outside my work circle to stand as the oil AGENT or BROKER so we can get all the commission paid to us for all the oil purchases.\nI will guide you as an insider to obtain the required oil License certification from the National Petroleum Agency of Sao Tome and Principe (NPA-STP) .If you are interested to partner with me on this, we can achieve this license and registration with the NPA-STP in your name in less than 10 working days once the application is submitted. Worry less about purchases as I already have some firms who are ready to purchase oil but do not have any credible licensed agent to broker for them as required.\nAs soon as I hear from you today confirming your interest, I shall prepare and send to you a draft copy of the MOU between you and I before we can start the process of acquiring the Oil Agency/ Brokerage License.\nPlease ensure that you reply to this email address:  \nengr.sacramentobandeira2021@gmail.com\nThank you and Kind regards.\nEngr.Sacramento Bandeira   "
+    },
+    {
+        "from": "baiter_541",
+        "to": "scammer_541",
+        "subject": "Re:    Hello,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Bandeira,\n\nThank you for your email and the opportunity to work with you. I am interested in this venture and would like to know more about it. \n\nCould you please provide me with more details about the process of acquiring the Oil Agency Brokerage License? Also, I would appreciate if you could explain more about my responsibilities as an oil agent or broker.\n\nLooking forward to hearing from you soon.\n\nBest regards,\nLewis D.\n\nBest wishes,\nKimberly"
+    }
+]

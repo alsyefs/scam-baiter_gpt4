@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_92",
+        "to": "CRAWLER",
+        "subject": "  Attn:",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Attn:\nYour message was received and noted, you can use below account details, since you could not use the previous one I gave you.\nACCOUNT DETAILS:\nBANK NAME:WELLS FARGO BANK.\nADDRESS:302,S 1ST ST,TUCUMCARI,NM 88401\nACCOUNT NO:220854XXXX\nROUTING NO:107002192\nACCOUNT NAME: M. G. R.\nFurnish me with the deposit slip document after making the payment.\nMR.CLEMENT NELSON,\nTHE DIRECTOR FOREIGN PAYMENT OPERATION OFFICER.TANGERINE BANK OF CANADA,MONCTON OFFICE:ADDRESS:TERMINAL STATION, 1234 MAIN ST, MONCTON,NB E1C 1H7,CANADA   "
+    },
+    {
+        "from": "baiter_92",
+        "to": "scammer_92",
+        "subject": "Re:   Attn:",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Nelson,\n\nThank you for providing the account details. However, I would like to clarify a few things before proceeding with the payment. Could you please provide more information about the purpose of this payment and how it will be used? \n\nI look forward to your response.\n\nBest wishes,\nMarcus"
+    }
+]

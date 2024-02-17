@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_458",
+        "to": "CRAWLER",
+        "subject": "FIRST NATIONAL BANK TEXAS.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "FIRST NATIONAL BANK TEXAS.\nFOREIGN REMITTANCE DEPARTMENT\n901 E. Cen. Tex. Expy,\nKilleen, TX 76541.\nUSA.\n Dear Beneficiary,\nFollowing the agreement reached by U.S President Joe Biden and the\nPresidents/Heads of States of other countries, The government of\nUnited States of America and other world Presidents through the office\nof the U.S DEPARTMENT OF STATE has granted express receipt to all\nbeneficiaries of Funds to receive their payments being delayed or\ndenied by various authorities and countries.\nYour expected Revenue according to available information in our file\nis $10.5M (Ten Million, Five Hundred Thousand United States Dollars)\nonly, representing the amount unpaid to you from your\nCompensation/Inheritance funds\n As a matter of urgency, \nplease provide us all the listed information\nbelow to enable us proceed with the transfer of your\nCompensation/Inheritance funds into your bank account without any\ndelay..\n(1) Your Full Names   ;..................\n(2) Your Contact Address : ...............\n(3) Your Contact Phone numbers :...........\n(4) Account numbers: ..................\n(5) Your Bank Details for the Transfer:,............\n(6) \nYour Means of Identification\nHowever, be informed that this INFORMATION is real and not contrary to\nany breach of law . There is a committee set-up by the US government\nin power to monitor this arrangement/payments to make sure that all\napproved beneficiaries like you dully receive their delayed payments\nfrom this bank.\nThanks\nMr. Terry Tuggle\nFIRST NATIONAL BANK TEXAS\n901 E. Cen. Tex. Expy,\nKilleen, TX 76541.\nUSA."
+    },
+    {
+        "from": "baiter_458",
+        "to": "scammer_458",
+        "subject": "Re: FIRST NATIONAL BANK TEXAS.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Terry Tuggle,\n\nThank you for reaching out to me from the FIRST NATIONAL BANK TEXAS. It's quite surprising to hear about this agreement reached by President Joe Biden and other world Presidents. I must say, it's a significant step towards resolving delayed or denied payments.\n\nThe amount mentioned, Ten Million, Five Hundred Thousand United States Dollars, is indeed a substantial sum. However, I'm curious as to why my funds were unpaid in the first place? Could you provide more details on that?\n\nAlso, could you please elaborate on the role of the committee set up by the US government? How do they monitor these payments?\n\nI appreciate your assistance and look forward to hearing from you soon.\n\nBest wishes,\nKayla"
+    },
+    {
+        "from": "scammer_458",
+        "to": "baiter_458",
+        "subject": "Re: FIRST NATIONAL BANK TEXAS.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "body": "*FIRST NATIONAL BANK TEXAS.FOREIGN REMITTANCE DEPARTMENT901 E. Cen. Tex.\r\nExpy,Killeen, TX 76541.USA.*\r\n\r\n*         Thank you for your urgent response. Please note that the delay of\r\npayment is cost by some greedy authorities which is why you were not able\r\nto receive your funds. The committees that have been set up by the\r\ngovernment are to follow up and make sure you receive your funds. *\r\n\r\n\r\n*Meanwhile, you are to provide the following information for reconfirmation\r\nprocesses*\r\n\r\n\r\n\r\n\r\n\r\n*(1) Your Full Names   ;..................(2) Your Contact Address :\r\n...............(3) Your Contact Phone numbers :...........(4) Your Means of\r\nIdentification*\r\n\r\n\r\n\r\n\r\n\r\n*Regards,Mr. Terry TuggleFIRST NATIONAL BANK TEXAS901 E. Cen. Tex.\r\nExpy,Killeen, TX 76541.USA.*"
+    },
+    {
+        "from": "baiter_458",
+        "to": "scammer_458",
+        "subject": "Re: FIRST NATIONAL BANK TEXAS.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "body": "Hello Terry,\n\nThank you for reaching out to me. It's quite surprising to hear about the committees set up by the government. I'm curious, could you tell me more about these committees? How do they operate and ensure that people receive their funds?\n\nAlso, I would like to know more about this process you mentioned. Could you provide some details on what it entails?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nKayla"
+    }
+]

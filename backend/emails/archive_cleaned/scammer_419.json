@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_419",
+        "to": "CRAWLER",
+        "subject": "  The Federal Bureau of Invest",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  The Federal Bureau of Investigation , Mali,African Unit\nin collaboration with the\nCentral Intelligence Agency(CIA) and the\nInternational Monetary Fund (IMF) Bamako Mali.\nAddress: Avenue Du Mali Hamdalaya ACI 202, Bamako,\nTel +2239088762273\nDear --Email Owner-- this is to inform you that, we have been working towards the eradication of fraudsters and scam Artists in Africa and beyond with the help of the African Union (AU), Federal Bureau of Investigation FBI, Central Intelligence Agency CIA and the International Monetary Fund (IMF) and we have been able to track down so many of this scam artist in various parts of African countries and Europe, and they are all in custody under the supervision of the African Union AU Bamako Mali Unit.\nDuring the course of our investigation, we have discovered that you are one of the persons defrauded of so much money by this group. Meanwhile we are ready to submit the criminal to your country to face the charge over there if only you will identify yourself properly and request for the submission of the criminal to your country.The United Nations Anti-Crime Commission and the International Monetary Fund (IMF) have ordered that the money recovered from the Scammers must be returned to the rightful owner as soon as the person or persons clarified us about his or her dealings with the scammer/s.\nThis Email/Letter has been directed to you because your email address and country name was found in one of the scammer Artists file and computer hard-disk while the investigation was going on and we came to the conclusion that maybe you have been scammed.\nTherefore you are advised to respond to us immediately with your full name, age and phone number for further communication.\nYours in Service. Mr. Nelson Ambrose.\nThe Federal Bureau of Investigation unit, Bamako Mali.   "
+    },
+    {
+        "from": "baiter_419",
+        "to": "scammer_419",
+        "subject": "Re:   The Federal Bureau of Invest",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Nelson Brose,\n\nThank you for reaching out and informing me about this situation. I must say, it's quite surprising to hear that my email address and country name were found in one of the scammer's files. \n\nCould you please provide more details about how my information was discovered? Also, could you elaborate on what kind of dealings these scammers might have had with me?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nWilliam"
+    }
+]

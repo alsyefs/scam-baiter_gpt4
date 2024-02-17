@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_1024",
+        "to": "CRAWLER",
+        "subject": "Hello xxx,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hello xxx,\n    I am very sorry I have to reach you through this medium. I am a member of the debt reconvene (debt collection experts) and I am aware of your ordeal about your unpaid fund.\n    It may interest you to know that not long after the Debt Management Office (DMO) completed the merger and acquisition process of all pending payments occasioned through the petition raised by the international community about their unpaid funds. I discovered that their boss connived with some top officials to divert funds approve to settle unpaid inheritances, email lottery winners, Internet scam victims, unclaimed consignments (concealed funds), and International Contractors.\n     The DMO has already given the approval to pay your fund but they deliberately withheld your payment file and continue to demand fees from you through their associates from different unassigned affiliates mostly from Africa, the US, Spain, and the Netherlands all in trying to frustrate you into giving up on it so they can finally enrich themselves. I wonder why you haven't noticed all this while.\n    You may choose to disbelieve this email as inconceivable but my doctrine does not let such an act, the reason I have to open up to you is to seek the right channel. DMO was authorized to release your fund via their asset management firm with claim code numbers, supposedly to have been issued to you.\n    Upon your response, I shall guide you through and offer you details to contact the assigned affiliate who will immediately ease the release of your fund.\nThanks and have a wonderful day.\nBe Safe.\nYours Faithfully,\nAdmin Staff."
+    },
+    {
+        "from": "baiter_1024",
+        "to": "scammer_1024",
+        "subject": "Re: Hello xxx,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nThank you for reaching out to me. I must admit, this is quite a surprise! It's not every day that one receives an email about unpaid funds. \n\nI'm curious, how did you come across my contact information? And could you please elaborate more on the Debt Management Office and their role in this situation? \n\nAlso, what exactly does the claim code number represent? Is it some sort of identification or verification code?\n\nLooking forward to your response.\n\nStay safe and have a great day!\n\nBest wishes,\nMiguel"
+    },
+    {
+        "from": "scammer_1024",
+        "to": "baiter_1024",
+        "subject": "Re: Info About your Payment",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "body": "Hello Steve,\r\n\r\nIt's excellent you responded to my email concerning your delayed \r\npayment. You never wanted to reveal their falsehoods, unfairness, and \r\nunjust treatment of you.\r\n\r\nI realize you've invested much in this, and I understand that the \r\ndisappointment and frustration you've experienced for this long have \r\nmade you never trust or believe anybody in the actualization of this \r\npayment, but my goal is to have this fund released to your account \r\nwithin the next few days.\r\n\r\n From now on, several persons will call or email you to gather \r\ninformation on the progress of your payment and prolong the payment \r\nprocedure by creating extra difficulties.\r\n\r\nYou must immediately cease all payment-related communications with third \r\nparties. I guarantee that you will receive your authorized fund within \r\ndays.\r\n\r\nIn the first step, you would have to reconfirm your full claim \r\ninformation such as:\r\n\r\nYour Full Name:\r\n\r\nCurrent Address:\r\n\r\nA copy of your International Passport, driver's License, or National ID \r\nCard for identification.\r\n\r\nCompany name, address & position (if any):\r\n\r\nTel:\r\n\r\nExpected Amount:\r\n\r\nExpenses made so far:\r\n\r\nAfter I obtain this information and find your authorized claim code in \r\nthe database, I will transmit it and refer you to the accredited \r\nEuropean claim office that will help release your fund.\r\n\r\nI'm awaiting specifics.\r\nYours Faithfully,\r\n\r\nKelly David\r\nGroup Director.\r\nTEL:+447471243954 (Calls, Voice or SMS)\r\n\r\nEuropean Debt Recovery Unit (Debt Collection Experts). 58-60 Carter \r\nLane, London EC4V 5EQ, United Kingdom. We provide the best debt recovery \r\nsolutions for businesses across the UK and internationally in Europe, \r\nAmerica, Australia, and beyond. Our fully regulated & accredited debt \r\ncollection experts with over 10 years of professional experience and \r\nethical approach offer comprehensive services to recover outstanding \r\ndebts, improve credit control, and even help your business to avoid \r\nfuture problems."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1197",
+        "to": "CRAWLER",
+        "subject": "  Anti Terrorism ADMINISTRATIO",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Anti Terrorism ADMINISTRATION OFFICER - United Nations.Principal organs of the United Nations. Under the direct supervision of the Director of UNU-INRA, and functional guidance by the Deputy Director of Administration at UNU-HQ, the Finance and Administration Officer will generally oversee the effective and efficient financial, administrative and in accordance with United Nations’ Financial Regulations and Rules.\nDear Fund Beneficiary.\nWe have been receiving reports from several individual complaining that after paying for Anti Terrorism certificate that most fund beneficiaries of fund payment like you are being asked to pay certain irrelevant charges by some bank officials, custom department, security and other government agencies, thereby making it very difficult for beneficiaries to meet such obligations which is contrary to Section '37' Subsection 'C' of the Article XII of Banks and other financial decree of 1995 as amended in 1998.   In view of this, the United Nations and IMF have directed the Anti Terrorism department to scrutinize and oversee an immediate release of such payments that has met the requirements for effectiveness without any further delay.\nAny beneficiary certified by the Anti Terrorism Department will receive his / her fund within Three (3) working days from the date of the final authentication of his / her contractual date.  Furthermore, certification and unconditional payment release orders have been invested on us and any beneficiaries cleared by the department will not be asked for upfront payment and this will bring an end to your nightmare and long delay in receiving your payment.\nPlease if you are one of these fund beneficiaries kindly reply with immediate effect with your vital information to enable this department to follow up your request without further delays.\nBest Wishes\nMs. Angela Yayra Kwashie\nAnti Terrorism Department Administrative Coordinator.    "
+    },
+    {
+        "from": "baiter_1197",
+        "to": "scammer_1197",
+        "subject": "Re:   Anti Terrorism ADMINISTRATIO",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Ms. Angela Yayra Kwashie,\n\nThank you for your detailed message. It's quite concerning to hear about these reports of individuals being asked to pay irrelevant charges by various officials. I'm glad to know that the United Nations and IMF are taking steps to address this issue.\n\nCould you please elaborate more on what the Anti Terrorism Department's role is in this process? And how does the department ensure that the release of such payments is carried out efficiently?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nGwen"
+    }
+]

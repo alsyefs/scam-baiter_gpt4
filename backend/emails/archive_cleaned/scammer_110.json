@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_110",
+        "to": "CRAWLER",
+        "subject": "Greetings From Mrs Helen Giamm",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Greetings From Mrs Helen Giamma\nWith Due Respect and Humanity, I was compelled to write to you under a\nhumanitarian ground. My names are Mrs Helen Giamma am 58 years old, I\nam married to Rick Giamma ; We were married for 27 years without a\nchild. He died after Before my husband died last year there is this\nsum of £70 millions pounds that he welded with a Cardiac Arteries\nOperation. Bank here and presently the fund is still with the Bank.\nHaving known my condition I decided to donate this fund to individual\nthat will utilize I want somebody that will use this fund according to\nthe desire of my late husband to help less privileged people,\norphanages, widows. I took this decision because I don't have any\nchild that will inherit this fund, and I don't want in a way were this\nfund will be used in wrong way.If you wish to help me actualize this\nvision, please indicate your readiness immediately you received this\nproposal. I need all your full name information and address right now\nYour information and address only OK,\n1Your First Name ........\n2Your Second Name .........\n3Your Country ..........\n4Your City ..............\nTelephone ......\nYour id card\n,\nHome Address: Age:\nRemain blessed you as you listen to the voice of reasoning.\nYour beloved sister\nMrs Helen Giamma\nEmail; \nayab76994@gmail.com"
+    },
+    {
+        "from": "baiter_110",
+        "to": "scammer_110",
+        "subject": "Re: Greetings From Mrs Helen Giamm",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mrs. Helen Giamma,\n\nI'm deeply moved by your story and the noble cause you're pursuing. It's truly admirable that even in such a difficult time, you're thinking about helping others. I would be more than happy to assist in any way I can.\n\nHowever, before we proceed, could you please provide me with more details about how this fund will be used? What are some of the specific projects or initiatives that you have in mind? Also, could you tell me more about your late husband's vision for this fund?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nBrian"
+    }
+]

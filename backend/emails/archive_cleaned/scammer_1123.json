@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1123",
+        "to": "CRAWLER",
+        "subject": "Hi dear ,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hi dear ,\nI am Mr. Philippe Yann, I work with the Bank of Africa in Abidjan Cote d'Ivoire. I am contacting you in regards to a fund transfer.\nI will appreciate your willingness to handle this with maturity. I will give you all the details you need to know regarding this transaction. It is 100% legal and risk free. I am interested to invest in these areas (Real Estate Management / Construction, Land and Multifamily Housing, Hospital / Laboratories Equipment's, Agricultural Equipment's and other lucrative business which you can advice on as you will assist me to handle it. I will give you all the details you need to know regarding this transaction.\n It is 100% legal and risk free\n.\nPlease reply with your direct phone number.\nThanks and God bless you.\nMr. Philippe."
+    },
+    {
+        "from": "baiter_1123",
+        "to": "scammer_1123",
+        "subject": "Re: Hi dear ,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Philippe,\n\nThank you for your email and the opportunity to assist you with your investment plans. I am indeed interested in helping you invest in Real Estate Management, Land and Housing, Hospital and other lucrative businesses.\n\nHowever, before we proceed further, I would like to know more about the fund transfer that you mentioned. Could you please provide me with more details about it? \n\nYou can reach me at this number: +44 20 7946 0000\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nBridget"
+    }
+]

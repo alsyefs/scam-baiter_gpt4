@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1063",
+        "to": "CRAWLER",
+        "subject": "Hi,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hi,\nHow are you? I sent a mail to you, but I haven't seen your reply, It is\nsomething very important, please reply me ok, from Olivia."
+    },
+    {
+        "from": "baiter_1063",
+        "to": "scammer_1063",
+        "subject": "Re: Hi,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Hello Olivia,\n\nI'm doing well, thank you. I apologize if I missed your previous email. Could you please provide more details about the important matter you mentioned? \n\nLooking forward to hearing from you.\n\nBest wishes,\nMary"
+    }
+]

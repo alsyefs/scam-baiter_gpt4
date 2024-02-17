@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_922",
+        "to": "CRAWLER",
+        "subject": "Dear  xxx ,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear  xxx ,\nThanks for your email, kindly proceed with the below account and make\nsure you complete the payment and send me the transfer confirmation copy\nonce it is done.\n$585\nBank details:\nReceiver : M. R.\nIBAN: LT84 3250 0040 06xx xxxx\nBIC: REVOLT21B\nbank Name Revolt\nAddress: xxx 7655 Verdal Norway\nBank Address WESTFERRY CIRCUS, 7 THE COLUMBUS BUILDING FLOOR 4, LONDON.\nSend me the bank transfer confirmation copy, it is very important."
+    },
+    {
+        "from": "baiter_922",
+        "to": "scammer_922",
+        "subject": "Re: Dear  xxx ,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nThank you so much for your email. I'm really excited to proceed with this, but I have a few questions before we move forward. \n\nFirstly, could you please explain why the bank transfer copy is so important? I'm not very familiar with these processes and would appreciate some clarification.\n\nSecondly, could you provide more details about what exactly the payment is for? It's always good to know what I'm getting into.\n\nLastly, are there any other steps or requirements that I should be aware of?\n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nKaren"
+    },
+    {
+        "from": "scammer_922",
+        "to": "baiter_922",
+        "subject": "Re: Dear xxx ,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "body": "Dear\r\n\r\nMany thanks for the quick response. As you already know, you need to\r\ncontact the processing bank and request details about receiving your\r\npayment. Also, note that you only have to pay the Notarization fee of $585\r\nto complete the transfer process. Make no mistake, you can find the bank's\r\ncontact details below.\r\n\r\nContact the processing bank at the email below for quick and further action:\r\ninfo.ubs@ubswiss.com\r\nBank: UBS Bank\r\n\r\nContact them now and make sure you get back to me for more directives to\r\nfollow, you need to be guided.\r\n\r\n\r\nSincerely yours,\r\nMr. Ben Swanson, Assistant Secretary-General\r\nThe United Nations Office of Internal Oversight Services\r\nUnited Nations Headquarters, New York City\r\nResponsible for Internal Audits, Investigations, and Program Evaluation ,"
+    }
+]

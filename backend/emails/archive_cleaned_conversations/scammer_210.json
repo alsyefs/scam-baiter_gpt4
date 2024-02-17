@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_210",
+        "to": "CRAWLER",
+        "subject": "  Federal Ministry of Finance ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Federal Ministry of Finance (FMF) \nAhmadu Bello Way, Central Business District \nAbuja, Nigeria PMB 14, Abuja, Nigeria \nAbuja FCT 00234 Nigeria\n16th, March 2023\n \n \nAttn: \n \nThis is to inform you that we are now processing your transfer payment  as approved for remittance into your account by the Senate Committee on Foreign Debt Settlement  . On this therefore, you are requested to kindly reconfirm your receiving details and current address with your direct mobile number for easy reach .\nRight now, all your payment documents need to be re-validated to enable the telex unit to remit to your account and  you are required  to come and sign your payment release order at our CBN telex Credit department in person  to enable final transfer to you as approved . \n \nIf you can not make it down here in person due time constraints, I will get  an attorney appointed to act on your behalf and represent you in all legal requirements and sign all the necessary transfer payment documents , while you pay his legal fee . \nThis is all that we need now to complete your payment  release \n      Thank you \n      Mrs, Zainab Ahmed \n      Finance Minister   "
+    },
+    {
+        "from": "baiter_210",
+        "to": "scammer_210",
+        "subject": "Re:   Federal Ministry of Finance ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nThank you for your message. I am glad to hear that the transfer payment is being processed. However, I am currently unable to travel due to personal reasons. \n\nCould you please provide more information about appointing an attorney on my behalf? What would be the cost of their legal fee and how can it be paid?\n\nLooking forward to your response.\n\nBest wishes,\nCameron"
+    },
+    {
+        "from": "scammer_210",
+        "to": "baiter_210",
+        "subject": "Re: Federal Ministry of Finance",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "body": "Federal Ministry of Finance (FMF)\r\nAhmadu Bello Way, Central Business District\r\nAbuja, Nigeria PMB 14, Abuja, Nigeria\r\nAbuja FCT 00234 Nigeria\r\nDate : 7th Feb,  2024\r\n\r\n\r\nDear,  Mr Cameron\r\n\r\nYour email has been received and noted and  I wish to also inform you that\r\nyou can receive this payment in an ATM Card and since you can not fly down\r\nhere in person to do the required validation of your payment documents  , I\r\nwill get you an attorney from the legal department to represent you in\r\nprocessing the re-validation and legalization of all your payment documents\r\nso you can be issued with the following clearance certificates before the\r\nrelease of your payment  :\r\n\r\n1. Fund Origin Certificate of Ownership\r\n2, Payment Certificate of Legality\r\n3. Money Laundry and Drug/Anti-terrorist clearance Cert .\r\n4. Non-Resident Payment Permit\r\n\r\nThese above documents are the documents the lawyer will be processing for\r\nvalidation upon your response and thereafter I will issue your ATM Card\r\nwith a custom based PIN for your daily withdrawals or better still you\r\nreceive direct transfer into your account . This validation/legalization\r\nwill cost you $750 only which is the legal processing fee of the attorney\r\n\r\nOn this note therefore it is important you arrange the  legal fee between\r\nnow and tomorrow and get back to me for the payment details, you have to\r\nsend this fee by bank transfer or by MoneyGram as the case may be to aid\r\nthe re-validation of your payment documents as required  .\r\n\r\nI have been in touch with your representing attorney and he will be in my\r\noffice tomorrow morning to take your details for processing so kindly\r\nreconfirm your details and also your receiving account and then get this\r\nready and get back to me for instructions on how to send it to the attorney\r\nto enable the processing so we can remit to you accordingly  .\r\n\r\n       Thank you\r\n       Dr Wale Edun\r\n      Finance Minister"
+    }
+]

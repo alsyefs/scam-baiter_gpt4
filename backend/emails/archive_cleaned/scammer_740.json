@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_740",
+        "to": "CRAWLER",
+        "subject": "Receive Your ATM Card Worth $6",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Receive Your ATM Card Worth $6,200,000.00 USD From FedEx Office Print\n& Ship Center  St Louis Missouri, Mo, USA\nFedEx Office Print & Ship Center\nSt Louis Mo, Mo, USA\nOpen until 9:00 PM\nContact: julia Nicole via Email on (\njulianicole0109@gmail.com\n)\nDear Beneficiary,\nThe management of this company,wishes to inform you that, we received\na parcel containing an  (ATM VISA Card) valued $6,900,000 for safety\ndelivery to your residential. This parcel was brought to us  by the\nVisa Card payment office of Federal Reserve Bank, \nplease\nreconfirm the below information to us to avoid a wrongful delivery.\n(1) YOUR Full names............\n(2) YOUR Parcel owner address......\n(3) YOUR Country/State..............\n(4) YOUR Cell Number...........\nWe will register your package and send you the tracking before we\nproceed for safety delivery of your package as soon as you reconfirm\nthe required information’s for safety delivery, Contact the delivery\nofficer julia Nicole Email via (\njulianicole0109@gmail.com\n)\nPlease make a Choice of delivery for the FedEx Shipping and Airport\nclearance charge of your  (ATM VISA Card) as they are as charges\nBelow;\n(1)24hrs/$100\n(1)48hrs/$75\n(2)72hrs/$50\nFedEx Office is your local delivery company in  St Louis  Missouri,\noffering a wide range of Delivey services,  ship with FedEx®."
+    },
+    {
+        "from": "baiter_740",
+        "to": "scammer_740",
+        "subject": "Re: Receive Your ATM Card Worth $6",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Office Print Ship Center,\n\nI am writing in response to your message regarding the delivery of an ATM VISA Card. I appreciate your efforts in ensuring the safe delivery of this parcel.\n\nHere are my details for confirmation:\n\nFull Name: Lewis D. Noogie\nParcel Owner Address: Novosibirsk, Latvia\nCountry: Latvia\nCell Number: \n\nPlease proceed with the registration of my package and provide me with the tracking information at your earliest convenience. \n\nAs for the choice of delivery, I would prefer the most secure and fastest option available. Please let me know how to proceed with the payment for shipping and airport clearance charges.\n\nLooking forward to hearing from you soon.\n\nBest Regards,\nLewis D.\n\nBest wishes,\nMatilda"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_185",
+        "to": "CRAWLER",
+        "subject": "  There is an important propos",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  There is an important proposal to your name, for more updates respond\nvia this email; \ncarlfianma@gmail.com\n or \ncarlanfiama@gmail.com\nRegards\nCarl Fianma   "
+    },
+    {
+        "from": "baiter_185",
+        "to": "scammer_185",
+        "subject": "Re:   There is an important propos",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Carl Fianma,\n\nI received your message regarding an important proposal. Could you please provide more details about this proposal? I'm interested to know more.\n\nBest wishes,\nRobert"
+    }
+]

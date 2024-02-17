@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_962",
+        "to": "CRAWLER",
+        "subject": "  Greetings and Prosperous New",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Greetings and Prosperous New Year to you and your entire family, I hope this message meets you in  good condition.\nI write to inform you that you have been compensated with USD$1M, this compensation is a program organized by the European Union in collaboration with Standard Chartered Bank.\nYou happen to be selected for this program of funds compensation scheme that is why you are receiving this message.\nKindly contact Standard Chartered Bank, Mr. S.G,on this email (  \nstandardchartredstev@firemail.at\n )\nKindly send him your full name, home or office address, and phone number, and your winning code ( YYP2023) with this code he will identity its you\nBest Regards\nMadam Lee   "
+    },
+    {
+        "from": "baiter_962",
+        "to": "scammer_962",
+        "subject": "Re:   Greetings and Prosperous New",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Madam Lee,\n\nThank you for your kind wishes and I hope the New Year brings prosperity to you as well. It's quite exciting to hear about this program organized by the European Union in collaboration with Standard Chartered Bank. \n\nCould you please tell me more about how I was selected for this funds scheme? And what is the purpose of this program? Is there any specific project or cause that these funds are meant to support?\n\nI appreciate your guidance on contacting Mr. at Standard Chartered Bank. However, before I proceed, could you provide some more details about him? Like his full name or position at the bank? This would help me feel more confident in reaching out.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLaura"
+    }
+]

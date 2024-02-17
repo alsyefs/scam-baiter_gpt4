@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_897",
+        "to": "CRAWLER",
+        "subject": " Dear. ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " Dear. \nOUR SECRET CODE IS ONE MIND\nThank you for your mail  and information's   and understand\neverything  is ready  all the flash software diskette information's\nwell packaged and sealed by me  , because is secret me and you  so do\nnot expose to anybody please keep secret,\nyou have choose the agent courier for delivering of your  diskette,\ncan  be able to send the shipment and insurance fee  to my country\nlet me know, this is only cost from you,\nother things has taking here by me secret,\nAttache is the flash diskette payment scan copy, the original will be\ncoming  with  the courier  as soon you send the fee, When i hear from\nyou i will give receiver name by money gram or western union,  can you\nsend it there, i have no much experiences of send money\nplease my government  and manager bank i keep secret, do not expose\npls for my safety,\nOUR SECRET CODE IS ONE MIND\nMary  Akinbo  "
+    },
+    {
+        "from": "baiter_897",
+        "to": "scammer_897",
+        "subject": "Re:  Dear. ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mary,\n\nThank you for your email. I understand the importance of keeping this matter confidential and I assure you that I will not expose any information to anyone.\n\nBefore we proceed, could you please provide me with more details about the shipment and insurance fee? How much is it and how should I send it?\n\nLooking forward to hearing from you soon.\n\nBest regards,\nLewis D.\n\nBest wishes,\nHerschel"
+    }
+]

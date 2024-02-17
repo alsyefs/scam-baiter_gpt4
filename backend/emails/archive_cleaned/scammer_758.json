@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_758",
+        "to": "CRAWLER",
+        "subject": " Attention  ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " Attention  \nMy name is  Kevin Earl from United Nations Abandon Consignment Recovery  Unit. l am contacting you in regard to your consignment that contains 3.6 Million USD and 12 kilo gram Gold Bar that is in our Custody  which was Abandoned by greedy U N Diplomat. Right now all arrangements have been made to release your consignment. So please get back to me immediately\nTAKE NOTE; This consignment is free of any illegal threat, \nthe UN has mapped out this consignment to be delivered to you.\nName:  Kevin Earl\nI await your positive acknowledgment.   "
+    },
+    {
+        "from": "baiter_758",
+        "to": "scammer_758",
+        "subject": "Re:  Attention  ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Kevin Earl,\n\nThank you for reaching out to me. I am surprised to hear about this abandoned package containing a large sum of money and gold bars. Could you please provide more details about this situation? How did the package end up in your custody and why was it abandoned?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nKaren"
+    }
+]

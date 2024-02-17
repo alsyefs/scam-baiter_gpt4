@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_272",
+        "to": "CRAWLER",
+        "subject": "Dearest Friend,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dearest Friend,\nI am called David Duke,Please my parents are late leaving behind a big inheritance for me but they stated that i will not have access to it until i am at the age of 35, but if i must move it, I have to get a foreign partner who will stand on my behalf and help me invest the fund while i continue my Education over there, I will let you know how much is the is the inheritance and quantity of Gold left behind.\nPlease kindly send me your information below if you have accepted to help me and if you agree, i will give you 30% f the total amount, so the info needed is below\n1) Your Full name :\n2) Your Direct cell phone number:--\n3) Your occupation :\n4) Identification ID:\n5) Your residential address;\nRegards\nDavid Duke"
+    },
+    {
+        "from": "baiter_272",
+        "to": "scammer_272",
+        "subject": "Re: Dearest Friend,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear David,\n\nI'm sorry to hear about your situation. However, I must inform you that I am not in a position to assist you with this matter. I would recommend seeking the help of a trusted adult or legal professional in your area.\n\nBest wishes,\nArlen"
+    }
+]

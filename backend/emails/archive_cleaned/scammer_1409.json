@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1409",
+        "to": "CRAWLER",
+        "subject": "  Dear Beloved,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Beloved,\nI am Reverend Fr. Anthony Xavier from All Saint Catholic Church here in the\nUSA, it's very pathetic that we lost Rev. Sister Tracy Jones of All Saint Catholic Church. Late Rev. Sister Tracy Jones died on 28th\nJanuary 2023 and before she died, she made a will and instructed me to\ncontact you on your email when she dies as the next of kin of the fund as\nher spirit directed.\nI am glad to inform you that late Rev. Sister Tracy Jones  made you the\nbeneficiary of her will a sum of USD$12,000,000.00 and a huge trunk of gold through your e-mail\naddress, you might be wondering how late Rev. Sister Tracy Jones  made\nyou the beneficiary of her will.\nLate Rev. Sister Tracy Jones  made a random sampling of many people's\ne-mail addresses by the help of Microsoft international firm and among the\npeople email addresses, yours came out as a draw and this is how late\nSister Tracy Jones  made you the beneficiary of her will and instruct\nthat you can only be informed when he pass on and memorial service\nCompleted.\nI await your response, message on (\nxavieranthony679@gmail.com\n).\nGod bless you\nRev. Fr Anthony Xavier   "
+    },
+    {
+        "from": "baiter_1409",
+        "to": "scammer_1409",
+        "subject": "Re:   Dear Beloved,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Reverend Fr. Anthony Xavier,\n\nI'm sorry to hear about the loss of Rev. Sister Tracy Jones. It must be a difficult time for your community at All Saint Catholic Church.\n\nI'm quite surprised to receive this message, as I don't recall ever meeting or communicating with Rev. Sister Tracy Jones. Could you please provide more details on how she came across my email address? And why would she choose me, a complete stranger, as the beneficiary of her will?\n\nAlso, could you tell me more about Rev. Sister Tracy Jones? What kind of person was she? How did she serve in your church?\n\nThank you and God bless.\n\nBest wishes,\nKayla"
+    }
+]

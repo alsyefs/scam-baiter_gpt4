@@ -1,0 +1,52 @@
+[
+    {
+        "from": "scammer_1401",
+        "to": "CRAWLER",
+        "subject": "  WORLD BANK GROUP",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  WORLD BANK GROUP\nWashington DC.\nConfidential mail.\nPAYMENT 2023.\nAttention: \nThis is World Bank Group Washington DC together with the American First Credit Union; we wish to inform you that you have been verified for the refund of your contract payment.\nYour name was mentioned as one of the Scam victims, so we have mapped out $45musd for you, based on the United Nations refund committee resolution.\nThe UN also has given instruction to remit your fund through the below bank once you are able to comply with our directives.\nYour fund will be remitted to you through our affiliated Bank (Allied Investment Bank)\nBut your document was signed by someone who claims to be your next of kin. We expect to hear from you immediately as Mr. Santos William, who claims to be your representative, has sent an account details:\nVARO BANK\nACCOUNT NUMBER 32088864\nROUTING NUMBER 124303201\nHe also reported that you died of Covid-19 last year, advising us to release your payment to him.\nIf you're still alive please kindly reconfirm your name, banking details, contact phone number, address together with your id. On this email:  (\nworldbankwc@currently.com\n)    "
+    },
+    {
+        "from": "baiter_1401",
+        "to": "scammer_1401",
+        "subject": "Re:   WORLD BANK GROUP",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nThank you for reaching out to me. I must say, this is quite a surprising piece of news! I wasn't aware that my name was mentioned as one of the scam victims. Could you please provide more details about this situation? \n\nYou mentioned someone named Mr. Santos William who claims to be my next of kin and has provided account details. I'm not familiar with this person. Can you tell me more about how he is connected to me?\n\nAlso, it's quite alarming to hear that someone reported my death last year! Rest assured, I am very much alive and well.\n\nI appreciate your efforts in trying to remit my fund through Allied Investment Bank. However, before we proceed further, could you please explain the process in detail? What are the steps involved and what kind of compliance do you need from me?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKevin"
+    },
+    {
+        "from": "scammer_1401",
+        "to": "baiter_1401",
+        "subject": "Re:  WORLD BANK GROUP",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "body": "Attention.\r\nWe are glad to hear from you Kevin, it is so bad that someone is trying to claim your fund.We will report the matter to the FBI. And Thanks for your prompt response, you have to  forward your details to us right away.\r\nThanks for understanding looking forward to your response.\r\n\r\nSent from AT&T Yahoo Mail for iPhone"
+    },
+    {
+        "from": "scammer_1401",
+        "to": "baiter_1401",
+        "subject": "Re: WORLD BANK GROUP",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "body": "Hello Sir Your response is needed.\r\n\r\n\r\nSent from AT&T Yahoo Mail for iPhone"
+    },
+    {
+        "from": "scammer_1401",
+        "to": "baiter_1401",
+        "subject": "Re: WORLD BANK GROUP",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "body": "Hello KevinHow are you doing today we have been expecting your response until now.\r\n\r\n\r\nSent from AT&T Yahoo Mail for iPhone"
+    }
+]

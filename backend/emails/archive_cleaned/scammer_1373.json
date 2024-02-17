@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1373",
+        "to": "CRAWLER",
+        "subject": "  Acct Name.Austin A.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Acct Name.Austin A.\nAcct Number.436652XXXX\nRouting number.026013673\nName of bank. TD Bank \nBeneficiary address. Brooklyn NY  11208\nBank address.957 Marcy Ave, Brooklyn NY 11216\nSwift code.NRTHUS33l  "
+    },
+    {
+        "from": "baiter_1373",
+        "to": "scammer_1373",
+        "subject": "Re:   Acct Name.Austin A.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nThank you for providing the bank details. I will proceed with the necessary steps to facilitate the transaction. Please ensure that all provided information is accurate to avoid any delays or complications.\n\nBest wishes,\nLois"
+    }
+]

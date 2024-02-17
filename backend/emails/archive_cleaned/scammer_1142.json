@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1142",
+        "to": "CRAWLER",
+        "subject": "I am surprised you locked up ,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "I am surprised you locked up , stop email and telephone communication,\nYou stop answering  or responding  Have you finally giving up not to\nreceive and for us to share funds together anymore as agreed reach me\ncontact on cell mobile number  507-476-1715"
+    },
+    {
+        "from": "baiter_1142",
+        "to": "scammer_1142",
+        "subject": "Re: I am surprised you locked up ,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nI apologize for any confusion, but I believe there may be a misunderstanding. I have not stopped responding or given up on our agreement. However, I would appreciate if you could provide more details about the situation and the funds you are referring to.\n\nBest wishes,\nScott"
+    }
+]

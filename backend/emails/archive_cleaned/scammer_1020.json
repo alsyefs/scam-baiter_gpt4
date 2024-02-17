@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1020",
+        "to": "CRAWLER",
+        "subject": "HELLO ACCOUNT OWNER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "HELLO ACCOUNT OWNER\nCompliment of the Season\nHOW are you doing today this is FBI special agent from FBI headquarter\nWashington DC , during our investigation work we find out that you\nhave a funds that stop on the way\nand return back to bank of America , and you have lost a lot to\nscammers, all I need from you now is to sincerely tell me what happen\nand the year it happen,\nyou have the sum of $6.5 million here right now, I will conclude\neverything if I received a tangible reason from you thank you\ncontact information ,\n please remember to reconfirm your information ,\nwe might surprise you\nEmail: [ofbi235@gmail.com} i will be waiting\nfor your responds so that all this can be finalized\ninformation to send\nNAME: ==================\nCOUNTRY===\nstate====\nADDRESS: ===============\nMOBILE NO of your text message.:=============\nNAME OF YOUR NEAREST AIRPORT:===="
+    },
+    {
+        "from": "baiter_1020",
+        "to": "scammer_1020",
+        "subject": "Re: HELLO ACCOUNT OWNER",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nI appreciate your concern and the effort you are putting into this matter. However, I must inform you that I have not lost any funds or been involved in any transactions that would result in such a situation. \n\nIf there has been some misunderstanding or error, I would be happy to assist in resolving it. Please provide more details about the issue at hand so that we can proceed accordingly.\n\nBest wishes,\nWanda"
+    }
+]

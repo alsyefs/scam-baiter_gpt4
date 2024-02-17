@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_853",
+        "to": "CRAWLER",
+        "subject": "   Xup bro How your side na   ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Xup bro How your side na   "
+    },
+    {
+        "from": "baiter_853",
+        "to": "scammer_853",
+        "subject": "Re:    Xup bro How your side na   ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Hello! Everything is fine over here. How about you?\n\nBest wishes,\nJane"
+    }
+]

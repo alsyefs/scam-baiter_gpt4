@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_728",
+        "to": "CRAWLER",
+        "subject": "  Dear Sir/Ma,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Sir/Ma,\n.I am one of the Assistant Regional Managers with the\nNigeria National Petroleum Cooperation (NNPC). My official\nresponsibility relates to contract review and payment. Fortunately,\nI'm privileged to know about pending contract payments that have\nremained unclaimed over the years. Such pending payments are subject\nto further review and re-assignment, as the need arises. If we have a\nreliable group or company or person for such re-assignment exercise,\nwe can proceed with the necessary machinery that can warrant payment\nto this new reliable party/ beneficiary. We need your understanding,\ninterest and cooperation to realize this objective.\nThis reassignment will entail your making available to us the following:\n1, Your company name, office and home address.\n2, Your confidential phone line.\n3, Your bank details, where you enjoy the confidentiality of your\nbankers.\nPlease be informed that we have pending unclaimed contract\nsums, ranging from US$10 Million to over a $100 Million Dollars.\nPlease inform me in honesty the amount or volume of cash that your\ngiven account can absorb without any query or questions.\nLooking forward to your sincere and urgent reply.\nBest Regard,\nMr. Joseph Kalu\nNOTIFICATION   "
+    },
+    {
+        "from": "baiter_728",
+        "to": "scammer_728",
+        "subject": "Re:   Dear Sir/Ma,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Joseph Kalu,\n\nThank you for reaching out to me with this interesting opportunity. It's not every day that one gets a chance to be involved in such large-scale financial matters.\n\nI'm curious about the nature of these unclaimed contract payments. Could you please provide more details? For instance, why have they remained unclaimed over the years? And what would my role be in helping to claim them?\n\nAlso, I'd like to understand better how the process works. What kind of machinery is needed to warrant payment to a new party? And what does it mean for an account to absorb cash without any query or questions?\n\nI look forward to hearing more about this intriguing proposition.\n\nBest wishes,\nCarolyn"
+    }
+]

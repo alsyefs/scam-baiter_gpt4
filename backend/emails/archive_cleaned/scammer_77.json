@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_77",
+        "to": "CRAWLER",
+        "subject": "  Good day",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Good day\ninvestment/business opportunities with you. We represent high profiled\nclients that are interested to explore investment / business\nopportunities with you.Kindly permit us to discuss these\npossibilities.\nWarm regards,\nAndrey Borovisky   "
+    },
+    {
+        "from": "baiter_77",
+        "to": "scammer_77",
+        "subject": "Re:   Good day",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Andrey Borovisky,\n\nThank you for your email and the interest in exploring investment business with me. I am open to discussing potential opportunities. Could you please provide more details about the nature of the investments your clients are interested in? \n\nLooking forward to hearing from you.\n\nBest wishes,\nMark"
+    }
+]

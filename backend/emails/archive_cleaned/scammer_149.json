@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_149",
+        "to": "CRAWLER",
+        "subject": "Attn Sir/Ma,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attn Sir/Ma,\nGood day to you hoping you are doing well.\nMy name is Oliver Marcus, a representative of the World Bank on foreign claim payment.\nI know you have spent more than 10 years so far in this struggle and yet you can not receive a cent. I equally know you may have received an empty ATM card, unexisting online payment, fake cash payment, etc. All these are a waste of time, you can never receive any money from there.\nA lot of things are currently going on regarding foreign inheritance payment which I know you are a beneficiary. I do not want you to continue to suffer in vain, wasting your money on useless expenses and yet at the end of the day you cannot receive your payment. A payment re conciliatory office has been set up for the purpose of this and a cash sum of $11B dollars have been released and approved by the world bank for this payment.\nI am a risk management specialist and a banker who has dealt with a lot of long overdue foreign payments ranging from contract payment, next of kin, Inheritance, lottery payment, compensation payment, etc. I have worked with the IMF, WB, ADB, European Union as a financial consultant, and will tell you why you have not been able to receive a cent after more than 10 years and what to do.\nGet back to me immediately with this Email: \nadebanjiadeni@gmail.com\nKind regards,\nMr. Adebanji Adeni\nDirector, Debts Re conciliatory office"
+    },
+    {
+        "from": "baiter_149",
+        "to": "scammer_149",
+        "subject": "Re: Attn Sir/Ma,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Adebanji Adeni,\n\nI hope this message finds you well. I must say, your email has certainly piqued my interest! It's not every day that one receives an email from someone associated with the World Bank.\n\nYou mentioned something about a struggle and years of trying to receive payment. Could you please elaborate on this? I'm not sure I fully understand what you're referring to.\n\nAlso, you mentioned a cash sum of dollars that has been released and approved by the World Bank for payment. That sounds quite intriguing! Could you provide more details about this?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nBrenda"
+    }
+]

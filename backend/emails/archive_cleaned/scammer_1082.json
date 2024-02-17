@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1082",
+        "to": "CRAWLER",
+        "subject": " From: \"parcels@keystonedelive",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " From: \"parcels@keystonedelivery.com\" <parcels@keystonedelivery.com>\nTo: \nCc:\nSubmitted: Thursday, Nov. 22, 2018  \nSubject: CUSTOMS CLEARANCE REQUIRED\nAttn:   \nSequel to your package delivery, you can now proceed to make payments for your clearance.\nBANK NAME: ZIRAAT BANKASI\nACCOUNT NO: 80395626XXXX\nACCOUNT NAME: PASCAL CHIKWENDU C.\nIBAN: TR48000100248080395626XXXX\nBANK ADDRESS: 2480 AKSARAY / ISTANBUL SUBESI, TURKEY\nBANK PHONE NUMBER: 212-5866928\nBRANCH CODE: 2480\nSwift code: TCZBTR2AXXX\nAmount: $ 2,200 (Two Thousand Two Hundred USD)\nNotes: You are sending a payment slip for confirmation by the account department and further processing.\nRegards,\nMaria Kozicova\nCustomer Care Unit,\nKeystone Delivery Company,\nww w.keystonedelivery.com   "
+    },
+    {
+        "from": "baiter_1082",
+        "to": "scammer_1082",
+        "subject": "Re:  From: \"parcels@keystonedelive",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Maria Kozicova,\n\nThank you for your message. I'm excited about receiving my package! Could you please provide me with more details about the clearance process? What does it involve exactly?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMichael"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1086",
+        "to": "CRAWLER",
+        "subject": "My Name is Patience and i have",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "My Name is Patience and i have an investment funds,of 64 Million\nDollars looking for a partner.\nif interested get back to me for details\nPatience  Goodluck Jonathan"
+    },
+    {
+        "from": "baiter_1086",
+        "to": "scammer_1086",
+        "subject": "Re: My Name is Patience and i have",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Patience Goodluck Jonathan,\n\nThank you for your message. I am interested in hearing more about this investment opportunity. Could you please provide me with more details?\n\nBest wishes,\nCraig"
+    }
+]

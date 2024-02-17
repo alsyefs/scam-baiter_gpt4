@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_694",
+        "to": "CRAWLER",
+        "subject": "Hello dear, I have deposited t",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hello dear, I have deposited the check of the whole of $1.7Millions\nUSD as we agreed with western union.\nAll you have to do now is to contact the western union\nat:(\njjonh2188@gmail.com\n) they will give you direction on how you will\nbe receiving the funds daily.\nMy agreement with them is 5,000 USD daily until the whole of\n$1.7Millions USD is fully transferred to you.\nSend him your information such as\n1,Receiver name and address........\n3,Country......................\n2,phone number............\nEmail them with the above address: ( \nbankofafrica1@iname.com\n ) or\njjonh2188@gmail.com\n the\ncontact person is Ms.LORA ELIAS,\nThe only money to pay for the transfer\nis just 79 usd for renewal of transfer fund file\n.\nTheir phone number; +22968298749\nThank you.\nMensah Sally."
+    },
+    {
+        "from": "baiter_694",
+        "to": "scammer_694",
+        "subject": "Re: Hello dear, I have deposited t",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mensah Sally,\n\nThank you for your message. It's great to hear that the process is moving along smoothly. I'm a bit confused about some parts of your message though, could you please clarify?\n\nYou mentioned contacting Western Union for directions on receiving the funds daily. Could you provide more details on how this works? \n\nAlso, you mentioned an agreement for a certain amount daily until the whole amount is transferred. Could you specify what this total amount is?\n\nLastly, you mentioned a contact person named Elias and a fee for renewal of transfer fund file. Could you explain more about who Elias is and what this fee is for?\n\nLooking forward to hearing from you.\n\nBest wishes,\nCarlos"
+    }
+]

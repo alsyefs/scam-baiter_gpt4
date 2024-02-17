@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_1236",
+        "to": "CRAWLER",
+        "subject": "   Secure Logistics Company",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Secure Logistics Company\n89 Upton Lane, Forest Gate,\nLondon E7 9PB.\nEmail : \nslcltd6@gmail.com\nCall #: + 44 (0) 704 576 8435\nFax #: + 44 (0) 843 564 4779\nAttn:  \nThanks for your mail. I am sorry we are not kidding here because if you had known the level of security /Insurance Bond on the very consignment in question you will not ask such a question . but following my previous email , note that there is no way one can lay hands on the funds as it is already in the security Volt and cannot be touched by any individual here in the UK following the high level of insurance coverage on the consignment.\nIf you really know that you are still interested in this consignment then try everything you can to raise the fee that you were ask to pay cause we don't really have much time to waste.\nPlease let me know when you get in contact with him.\nAwaiting further\nSincerely\nMrs. El Sy (MME)\nSecure Logistics Company\nAdmin. Personnel\nPhone#: +44 871 358 3451\nSecure Logistics Company\n----------------------------------------Disclaimer--------------------------------------------\nThis email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed.Internet communications are not secured and therefore Secure Logistics Company  does not accept any legal responsibility for the contents of this message. If you have received this email in error please notify us immediately. This message contains confidential information and is intended only for the individual named. If you are not the named address you should not disseminate, distribute or copy this e-mail.   "
+    },
+    {
+        "from": "baiter_1236",
+        "to": "scammer_1236",
+        "subject": "Re:    Secure Logistics Company",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mrs. El Sy MME,\n\nThank you for your prompt response and the detailed explanation about the security measures in place for the funds. I must say, it sounds like a very secure system indeed.\n\nI understand that there is a fee involved to proceed further with this matter. Could you please provide more information about what this fee covers? Also, could you clarify who I should be getting in contact with regarding this?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJanie"
+    },
+    {
+        "from": "scammer_1236",
+        "to": "baiter_1236",
+        "subject": "Re: Secure Logistics Company",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "body": "Hello Janie,\r\n\r\nYou should act fast in contacting her for further instruction.Kindly find\r\nbelow her contact information:\r\n\r\n\r\n\r\n\r\n\r\n*Contact Name: Mrs EL SY(MME)Email Address: slcltd6@gmail.com\r\n<slcltd6@gmail.com>Phone#: +44 871 358 3451Secure Logistics Company*\r\nRespectfully,\nSgt Judy Barnes Richardson."
+    }
+]

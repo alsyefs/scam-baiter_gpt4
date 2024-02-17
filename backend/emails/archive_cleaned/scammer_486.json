@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_486",
+        "to": "CRAWLER",
+        "subject": "  Hi sir, yes i think i misund",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Hi sir, yes i think i misunderstood you.\nHere is another company account you can pay through. \nHopefully this one is good.\nTD Bank\nAccount Name: XX XXX\nAccount Number: 825-907-XXXX\nRouting number: 031-101-266\nSwift code: NRTHUS33XXX\nBusiness Address:   Randolph MA, 02368\nBank Address: Wire to TD BANK\nWilmington, DELAWARE\nDo keep me updated.  "
+    },
+    {
+        "from": "baiter_486",
+        "to": "scammer_486",
+        "subject": "Re:   Hi sir, yes i think i misund",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir,\n\nThank you for providing the account details. I will proceed with the payment and keep you updated on the progress.\n\nBest Regards,\nLewis D.\n\nBest wishes,\nTheresa"
+    }
+]

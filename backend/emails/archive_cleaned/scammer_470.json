@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_470",
+        "to": "CRAWLER",
+        "subject": "Hello my dear,  ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hello my dear,  \nHow are you once again , i hope you remember me? i am miss,Masudah\nI'm very much glad to inform you about my success in getting the fund transferred under the cooperation of a new partner from India. Presently we are in London for some investment.\n  So, I am very happy that finally I get assess to the money. \nMeanwhile, I didn't forget your past efforts despite that it failed us some how.\nI left an ATM VISA CARD that contains $250, 000, (Two hundred and fifty thousand US dollar) for you, just to appreciate your past effort. \nFeel free to contact United Bank For Africa (UBA) \nemail:  (\nubaunitedbankf@gmail.com\n)\ncontact them for the ATM VISA CARD, \nAsk the bank to post the card to you, with the card you can withdraw the money from any bank there in your country or any where in the world.  \nI do appreciated your efforts that is why i decided to compensate you. so feel free to get in touch with the bank, direct them where or how to post it for you. \nPlease do let me know immediately you receive it so that we can share our joy together and forget all the sufferings. I am very busy here because of the investment projects which I and my partner is having at hand. Though I have given instruction to the bank on your behalf,\ntherefore establish contacts with them for the delivery of the ATM VISA CARD,  to you without any delay. Take care and remain Blessed.\nMiss, Masudah  "
+    },
+    {
+        "from": "baiter_470",
+        "to": "scammer_470",
+        "subject": "Re: Hello my dear,  ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Miss Masudah,\n\nI'm glad to hear about your success and I appreciate your kind gesture. However, I would need more details about the bank and how to contact them for the ATM VISA CARD. Could you please provide me with their contact information?\n\nBest wishes,\nNicolas"
+    }
+]

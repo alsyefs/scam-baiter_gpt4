@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1145",
+        "to": "CRAWLER",
+        "subject": "Hello Dear,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hello Dear,\nWe have finally arranged to deliver your due compensation worth $5.2\nMillion USD. The Diplomat is already in Lax International Airport in\nCalifornia, USA with your consignment.We were able to accomplish this\nthrough the help and intervention of INTERNATIONAL MONETARY FUND boss,\nKristalina Georgieva. Every necessary arrangement has been made\nsuccessfully with Diplomat Ramos Greg. Contact him quickly with your\ndelivery information such as 1.Your full name, 2.Your Cellular phone\nno, 3.Your home address,4.nearest airport and \nyour ID photo\n. Contact\nhim through his email (\nramosgreg569@gmail.com\n ) for more directives.\nYours Sincerely,\nSteve Smith"
+    },
+    {
+        "from": "baiter_1145",
+        "to": "scammer_1145",
+        "subject": "Re: Hello Dear,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Steve Smith,\n\nWow, that's quite a surprise! I wasn't expecting such news. It's really amazing how you managed to arrange this with the help of Kristalina Georgieva. \n\nCould you please tell me more about how this came to be? How was my name chosen for this? And who is Diplomat Ramos Greg? Is he someone I should know?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAnn"
+    }
+]

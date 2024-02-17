@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_180",
+        "to": "CRAWLER",
+        "subject": "JDTC is a leading diamond manu",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "JDTC is a leading diamond manufacturer with over two decades  of experience. Our company carries the most extensive inventory, from 0.20 to 20 carat Diamonds in all shapes and sizes."
+    },
+    {
+        "from": "baiter_180",
+        "to": "scammer_180",
+        "subject": "Re: JDTC is a leading diamond manu",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nThank you for your message. It's great to hear about JDTC's extensive inventory and long-standing experience in the diamond industry. I'm interested in learning more about your offerings, particularly in the range of 1 to 2 carat diamonds. Could you please provide more details on this?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nTeddy"
+    }
+]

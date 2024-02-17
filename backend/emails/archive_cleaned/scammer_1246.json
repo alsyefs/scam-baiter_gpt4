@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1246",
+        "to": "CRAWLER",
+        "subject": "Greetings!",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Greetings!\nI have registered your ATM VISA CARD of (1.500,000,00 USD) with FedEx\ncourier service with registration code of ( Shipment Code awb 33xzs).\nPlease Contact with your delivery information such as:- Your Name,\nYour Address and Your Telephone Number.\n  Name of Dir: Mrs. Stephanie Smith\n  E-mail: (\nsmithmrsstephanie3@gmail.com\n)\nI have paid for the Insurance & activation. The only fee you have to\npay is their delivery fee only. Please indicate the registration\nNumber and \nask Her how much is their delivery fee so that you can pay\nit and receiver your fund\n.\nBest Regards,\nMr David UNYAMEE."
+    },
+    {
+        "from": "baiter_1246",
+        "to": "scammer_1246",
+        "subject": "Re: Greetings!",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. David Unyamee,\n\nThank you for your message. I'm really excited about this ATM VISA CARD! Could you please tell me more about it? How does it work? And how did I get selected for this?\n\nAlso, could you provide me with the contact details of the courier service? I would like to know more about their delivery process and fee.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nGale"
+    }
+]

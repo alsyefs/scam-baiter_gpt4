@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_598",
+        "to": "CRAWLER",
+        "subject": "Thai Global Logistics Company ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Thai Global Logistics Company LTD is an established and proven global provider of customized transportation and consulting services. Through our full-service menu we help clients across the globe transport their products with care, precision and speed.\nOur success is supported by multiple customer testimonies and enormous satisfaction. However, through this growth we have maintained our small business values and principles, providing our clients with personalized, quality service – such as guaranteeing that our clients will speak to a live person throughout the entire shipping cycle.\nOur work is made smooth further with our established working collaboration and partnership with the Maersk line, CMA CGM S.A.and Evergreen shipping lines."
+    },
+    {
+        "from": "baiter_598",
+        "to": "scammer_598",
+        "subject": "Re: Thai Global Logistics Company ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nThank you for sharing this information about Thai Global Logistics Company LTD. It sounds like a well-established and reliable company in the logistics industry. I'm intrigued by the fact that despite its growth, it has managed to maintain its small business values.\n\nCould you please tell me more about the customized services that your company offers? Also, how does your partnership with Maersk line, CMA CGM Evergreen shipping lines contribute to your operations?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nTimothy"
+    }
+]

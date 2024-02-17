@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_532",
+        "to": "CRAWLER",
+        "subject": "  From the Desk of Mrs. Helen ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  From the Desk of Mrs. Helen Ubah\nZenith Bank PLC\nAddress: Plot 87 Ajose Adeogun St,\nLagos Victoria Island,\nDear: ,\nThis is to quickly inform you that we received a message from one Mr. Andrew McCaul from U.S.A., stating that you authorized him to receive your compensation fund $350,000.00 USD as your next of kin and the United Nations said we should confirm from you if this is true before releasing the fund to him.\nAll we need from you is to tell us if you authorize Andrew McCaul from U.S.A., to receive your fund as your next of kin so that we will proceed and send the fund $350,000.00 USD to him as soon as possible.\nWe are waiting to hear from you to enable us know if this is true or false.\nYour urgent response is required\nThanks,\nMrs. Helen Ubah\nPhone: +2348108930898  "
+    },
+    {
+        "from": "baiter_532",
+        "to": "scammer_532",
+        "subject": "Re:   From the Desk of Mrs. Helen ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mrs. Helen Ubah,\n\nI did not authorize anyone named Andrew to receive any funds on my behalf. I am not sure how he could claim to be my next of kin as I have no relatives by that name. \n\nPlease do not release any funds to this person. I would appreciate it if you could provide me with more information about this situation.\n\nThank you for your attention to this matter.\n\nBest wishes,\nMichael"
+    }
+]

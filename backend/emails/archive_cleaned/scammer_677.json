@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_677",
+        "to": "CRAWLER",
+        "subject": "  Attention my dear beneficiar",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Attention my dear beneficiary I'm Mr  Jeffrey Thompson the president\nof bank of America . I'm here to inform you about your unpaid fund\nworth of 30 million dollars by ATM card and consignment box, your ATM\ncard contain 10 million dollars while your consignment box contains 20\nmillion dollars.\nThis is to let you know that everything guiding your fund fund has\nbeen declared and you fund is very legitimate and genuine therefore\nyou will receive your fund immediately today\nYou have to choose any delivery method of your choice below and follow\nthe instructions for easily delivery .\n(1) DHL courier company delivery charges ($150)\n(2) FedEx courier deliver company charges ($250)\n(3) UPS courier delivery company charges ($300)\n(4) Arimax courier delivery company charges ($350)\nBest regards Mr jeffrey Thompson\nYou have to follow up my instructions by paying this payment so that\nit can able us proceed with your delivery to your provided information\nimmediately with out any delay of your time\nI'm expecting to hear from you as soon as possible   "
+    },
+    {
+        "from": "baiter_677",
+        "to": "scammer_677",
+        "subject": "Re:   Attention my dear beneficiar",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Jeffrey Thompson,\n\nThank you for reaching out to me. I'm quite surprised to hear about this unpaid fund worth millions of dollars. Could you please provide more details about how this came to be? \n\nAlso, could you explain a bit more about the delivery methods and their charges? It would be helpful if you could break down the costs associated with each courier company.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nSharon"
+    }
+]

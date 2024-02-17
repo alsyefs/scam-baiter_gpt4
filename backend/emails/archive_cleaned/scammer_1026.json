@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1026",
+        "to": "CRAWLER",
+        "subject": "    My name is Gilbert Masarat",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "    My name is Gilbert Masarati, a Tanzanian/US citizen by birth, I was approached for assistance by the widow of our late President Mrs. Janet .Magufuli, over certain transaction in which you were a beneficiary.\nI took time out to carry out thorough investigation concerning this business, in my resolve to find out the veracity of this claim, much to my amazement, you were deeply involved\nPlease, tell me the little you know about this transaction, I intend to help the widow in any way possible but your advice will be helpful at this point.\nI look forward to hearing from you, I will treat this information with utmost secrecy and confidentiality. I am enclosing my Phone number, we can always chat or send WhatsApp messages and few calls\nMy number is +1 (662) 740 0087, WhatsApp is available on this platform.\nGilbert Masarati     "
+    },
+    {
+        "from": "baiter_1026",
+        "to": "scammer_1026",
+        "subject": "Re:     My name is Gilbert Masarat",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Gilbert Masarati,\n\nIt's a pleasure to make your acquaintance. I must admit, I'm a bit surprised by the information you've shared. It seems like quite an intriguing situation involving Mrs. Janet and the late President.\n\nCould you please provide more details about this business matter? What exactly is it that Mrs. Janet needs assistance with? And how did you come to find out about my involvement?\n\nI'm always willing to lend a helping hand where I can, but I'd need more information before I could offer any advice or assistance.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMark"
+    }
+]

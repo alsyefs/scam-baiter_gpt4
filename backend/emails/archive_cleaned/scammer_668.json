@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_668",
+        "to": "CRAWLER",
+        "subject": " Happy New Year, Esteem Benefi",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " Happy New Year, Esteem Beneficiary,\nYou are advise to re-confirm your preferred choice of receiving your payment that is with the U.S.Bank ,and get your US$12,800,000.00 release to you through your choice of receiving payment on or before 29th February 2024, as \nadvised by the Financial Services Director for International Settlements Authority for Contract/Inheritance Fund from the \nUnited Nation/IMF financial support.\nYour preferred choice of receiving payment\n(A) Bank to Bank wire transfer:\n(B) ATM Cash Card:\n(C) Cashier Check\n(D) Online Banking\nYours in service\nMrs Janet Yallen\nUs Treasury Department      "
+    },
+    {
+        "from": "baiter_668",
+        "to": "scammer_668",
+        "subject": "Re:  Happy New Year, Esteem Benefi",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mrs. Janet Yallen,\n\nHappy New Year to you too! I hope this year brings you lots of joy and prosperity.\n\nThank you for reaching out to me regarding the payment options. It's quite a surprise, I must say! Could you please provide more details about this? How did I qualify for this payment from the United Nation IMF financial support?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nLinda"
+    }
+]

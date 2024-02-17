@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1169",
+        "to": "CRAWLER",
+        "subject": "Assalamu alaykum.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Assalamu alaykum.\nI'm Mr. Rahman Habibullah work with the Dubai Petroleum finance department.\nWould you be interested in a possible business partnership? I have all it will take to move the fund to any of your accounts designated as a contractual Fund to avoid every query by the authority in your Country\nI will give you more details upon receipt of your response my email:  \nrhmnhbbllh@gmail.com\nSincerely\nMr. Rahman Habibullah\nDubai Petroleum   "
+    },
+    {
+        "from": "baiter_1169",
+        "to": "scammer_1169",
+        "subject": "Re: Assalamu alaykum.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Rahman Habibullah,\n\nIt's a pleasure to meet you! I'm intrigued by your proposal, although I must admit, I don't know much about finance or business. Could you please explain more about this opportunity? What kind of business are we talking about here?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJimmie"
+    }
+]

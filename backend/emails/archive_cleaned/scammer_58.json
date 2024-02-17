@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_58",
+        "to": "CRAWLER",
+        "subject": "Dear  Sir ,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear  Sir ,\nI hope this message finds you in good health.listen , I have sent you this proposal before. I am surprised  you did not receive it , I am sending it again. I am  contacting you regarding our company's Urgent need for Salmolena Liquid  oil ,it is a dietary food supplement used by veterinarian doctors and medical doctors and it is mainly produced. Our company is currently buying this  Salmolena  liquid oil from a supplier in Australia at a very high price.\n Recently I found out that this same Salmolena  oil is sold in India at a cheaper price than (Australian prices)  and I do not wish to let anyone in our company know about this price in India because of my interest in this business. I want us to do this business together so that  at the end of the supply you and I will share the profit. Act\nthe end of this transition Reply Me.\nRegards Mr Hussan"
+    },
+    {
+        "from": "baiter_58",
+        "to": "scammer_58",
+        "subject": "Re: Dear  Sir ,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Hussan,\n\nI hope you're doing well. Your proposal sounds interesting, but I have a few questions before we proceed further.\n\nFirstly, could you please provide more details about the Salmolena Liquid oil? What are its uses and benefits? \n\nSecondly, how did you find out about the cheaper prices in India? Do you have any contacts or suppliers there?\n\nLastly, what would be my role in this business venture? How do we plan to share the profit?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nJames"
+    }
+]

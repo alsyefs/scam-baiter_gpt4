@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1048",
+        "to": "CRAWLER",
+        "subject": "Dear,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear,\nWe write to inform you the interceptions of your funds valued at\nEighteen Million United State Dollars (US$18,000, 000.00) by our\nInternational Monitoring Funds Unit (I.M.F), After the discovery of\nthe said wire transfer from RIA Money Transfer  to your Name and\nrequired that your comply with the release condition stated hereunder.\nPursuant the information received from the authority with regards to\nthe funds investigation has been granted and the (I.M.F))  has been\nkeeping a close eye on the funds movement from the origin and our\n(I.M.F)) policy on payment of funds as stipulated in section\n48,sub-section 21a paragraph III of the 2006 Acts that for\ninternational funds payment in favor of a third party does not allow\nan individual with such huge sum of money without proper declaration\nand clearance of funds hence, we request for all the document that\nback up the funds as follow\nAnti-Money Laundering Clearance certificate Anti-Drug Clearance Upon\nreceipt of the above for our perusal, we shall grant the funds\nreflection / delivery into your nominated Information with Ria Money\nTransfer ,However,though our policy is in accordance with the\nmulti-lateral agreement by the (IMF), the united state and European\nUnion, Asia Continent considering the issue of September 11,2001\nbombing of the world trade center (WTC) and London bombing that\ntrigger the treat to life and prosperity of every individual, Thereby\ngiven raise to adequate Security alert System. Nevertheless, \nyou are\nrequired to pay the sum of Five Hundred and Fifty Dollars ($550) for\nthe required two  Documents; otherwise we shall commence investigation\nas regard the source of funds and its legitimacy.\nNote that the (TWO DOCUMENT) must to be secured from the US Ambassador\noffice in Porto Novo  and like we said before the Two document is\ngoing to cost you the sum of $550 dollars for the issuing of the (TWO\nDOCUMENTS), because that is the only office that will issue you the\noriginal copies of Those (TWO CERTIFICATES) of this funds. However \nwe\nshall be waiting for your swift compliance prior to when we shall\ncommence our investigation as you stand the chance of forfeiting your\nfunds and face arrest for attempted money laundering.\nWe shall be waiting for your swift response\nTHANKS FOR YOUR CO-OPERATION.\nMr.Johnson Friend"
+    },
+    {
+        "from": "baiter_1048",
+        "to": "scammer_1048",
+        "subject": "Re: Dear,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Friend,\n\nThank you for your detailed message. I must say, it's quite a surprise to hear about this large sum of money associated with my name. \n\nI'm curious, how did you come across this information? And why is it that the funds are being held by RIA Money Transfer? \n\nYou mentioned some documents that need to be provided for clearance. Could you please elaborate on what these documents are and why they are necessary?\n\nAlso, I noticed that there's a fee of Five Hundred and Fifty Dollars for these documents. Is there any way to waive or reduce this fee? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nThomas"
+    }
+]

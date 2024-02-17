@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_30",
+        "to": "CRAWLER",
+        "subject": "    Alliance Ancient Forest Co",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "    Alliance Ancient Forest Company\n                           Peace and Unity\nTo Beneficiary  \nFROM THE DESK OF THE MANAGING DIRECTOR\nMr. Adrian Ramirez,\n \n \n                   Good day to you Sir. as regards to the Final Remittance Form sent to you lastly which is the final processing prior to fund release to you. if you remember vividly on the form it appears you are to pay $1000USD for the change of ownership/authorization before the British Government will approve the release of your beneficiary fund to you. you have said in one of your email that to us that you can not send Western Union or Money Gram, we will u this media to require from you if you can make your payment via Paypal or Zelle Pay? kindly find attachment of this message is the form again, fill it out or write out the required details on it and get back to us.                             \n \n \n  Best Regards.\n                                         Alliance Ancient Forest Company\n                                                Managing Director\n                                                Mr Adrian Ramirez     "
+    },
+    {
+        "from": "baiter_30",
+        "to": "scammer_30",
+        "subject": "Re:     Alliance Ancient Forest Co",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Adrian Ramirez,\n\nI received your message but it seems to be incomplete. Could you please provide more details or context? I look forward to hearing from you.\n\nBest wishes,\nHazel"
+    }
+]

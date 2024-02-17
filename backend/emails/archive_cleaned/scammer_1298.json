@@ -1,0 +1,12 @@
+[
+    {
+        "from": "scammer_1298",
+        "to": "baiter_1298",
+        "subject": "Thank you",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "0",
+        "body": "Hello Katie or John Doe \nThank you for your email \nWhat a Funny Address and phone number look at it again \nContact Address: 123 Main St, Anytown, USA \nTelephone: +1-555-555-5555 \nVery Funny to me Thank you Which City is this or is Anytown found????"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_142",
+        "to": "CRAWLER",
+        "subject": "  Subject: Request For Legal R",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Subject: Request For Legal Representation To Secure Your Payment\nPlease read the attached letter and get back to me as quickly as possible.\nI Look forward to working with you for your immediate payment.\nRegards\nBarrister Tunde Obasanjo   "
+    },
+    {
+        "from": "baiter_142",
+        "to": "scammer_142",
+        "subject": "Re:   Subject: Request For Legal R",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Barrister Tunde Obasanjo,\n\nThank you for reaching out to me. I've read the attached letter, but I must admit, some parts of it are a bit confusing to me. Could you please clarify what this immediate payment is for? And how does this process usually work?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nSara"
+    },
+    {
+        "from": "scammer_142",
+        "to": "baiter_142",
+        "subject": "Re: Subject: Request For Legal R",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "body": "Dear Sara\r\n\r\nThanks for your prompt responds and be assured that you have made a\r\nvery wise choice in choosing me to represent you as your local lawyer and\r\nto secure your overdue payment unjustly held.\r\n\r\nNote that I would not have involved myself if I have  any iota of  doubt on\r\nmy ability to secure your payment.\r\n\r\n I have carried out due diligence on your payment file  and I make bold to\r\nassure you that I shall secure your payment within 7\r\nbanking days and  to your satisfaction.\r\n\r\nMy terms are as follows: You shall pay me 15% of whatever funds your are\r\npaid as a result of my work as your lawyer. I need  you to write back  to\r\nconfirm your acceptance of the above term so as  to enable me commence the\r\nprocesses.\r\n\r\nNote the two major steps I shall take to get you paid without delay is to\r\nsecure the court and presidential  order in  favor  of your immediate\r\npayment. I have already concluded consultations towards these directions\r\nand I assure you that Mr. President payment consent can be taken for\r\ngranted through his chief of staff who happens to be me my former classmate.\r\n\r\nI await your consent before I proceed with more details.\r\nstay blessed\nBarrister Tunde"
+    },
+    {
+        "from": "scammer_142",
+        "to": "baiter_142",
+        "subject": "Re: Subject: Request For Legal R",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "body": "Thanks for your prompt response and be assured that you have made a\r\nvery wise choice in choosing me to represent you as your local lawyer and\r\nto secure your overdue payment unjustly held.\r\n\r\nNote that I would not have involved myself if I have  any iota of  doubt on\r\nmy ability to secure your payment.\r\n\r\n I have carried out due diligence on your payment file  and I make bold to\r\nassure you that I shall secure your payment within 7\r\nbanking days and  to your satisfaction.\r\n\r\nMy terms are as follows: You shall pay me 15% of whatever funds you are\r\npaid as a result of my work as your lawyer. I need  you to write back  to\r\nconfirm your acceptance of the above term so as  to enable me commence the\r\nprocesses.\r\n\r\nNote the two major steps I shall take to get you paid without delay is to\r\nsecure the court and presidential  order in  favor  of your immediate\r\npayment. I have already concluded consultations towards these directions\r\nand I assure you that Mr. President payment consent can be taken for\r\ngranted through his chief of staff who happens to be my former classmate.\r\n\r\nI await your consent before I proceed with more details.\r\nstay blessed"
+    }
+]

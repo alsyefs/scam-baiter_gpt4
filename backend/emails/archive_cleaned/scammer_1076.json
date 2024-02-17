@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1076",
+        "to": "CRAWLER",
+        "subject": "  Dear Humble Beneficiary,  Th",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Humble Beneficiary,  This is to inform you that your  online bank account is ready for immediate release to you in good faith  to enable you to start making withdrawals from your online bank account  to any bank account of your choice around the world. Kindly get to me  asap from more details on how you can have access to your overdue  inheritance funds part payment online bank account containing the sum of  $10.500,000.00. I look forward to your quick response.  Dr. Mrs Mercy Philip (O.P)   "
+    },
+    {
+        "from": "baiter_1076",
+        "to": "scammer_1076",
+        "subject": "Re:   Dear Humble Beneficiary,  Th",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Dr. Mrs Mercy Philip,\n\nThank you so much for your message! I'm thrilled to hear that my online bank account is ready. Could you please provide me with more details on how I can access these funds? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJerome"
+    }
+]

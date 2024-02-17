@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_171",
+        "to": "CRAWLER",
+        "subject": "  Greetings,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Greetings,\nI have information that needs your urgent attention.\nPlease kindly Contact me for details on the below provided email\naddress as soon as possible..\nEmail(\nbrommel32@yahoo.com\n)\nRegards,\nRommel Bautista.\nManila, Philippines   "
+    },
+    {
+        "from": "baiter_171",
+        "to": "scammer_171",
+        "subject": "Re:   Greetings,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Rommel Bautista,\n\nI hope this message finds you well. I'm intrigued by your message and would like to know more about the matter that needs my urgent attention. Could you please provide me with some more details? \n\nLooking forward to hearing from you soon.\n\nPlease note, for security reasons, I prefer to keep our conversation here rather than switching to email. I hope that's okay with you.\n\nBest regards.\n\nBest wishes,\nKenneth"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_985",
+        "to": "CRAWLER",
+        "subject": "  Attn: ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Attn: \nThe agreement shall be receiving payments for our supplies strictly by Bank Transfer. For effectiveness and efficiency reasons, I have been Charged to recruit, short list and employ an administrative Part-Time Representative/Book-keeper for the company so as to eliminate the Discomfort we are encountering on transfer charges here at our local bank and as-well the delay before payments are processes.\nYou don't have to chase after anyone for payments, We are in charge of all that.\nThe details of the position is described and summarized below.\nPLEASE NOTE: Primarily, what you will be doing for the company is receiving payments from our clients within USA , Get it duly processed . Deduct your\ncommission (10%), and forward the balance to the company through the company's accountant and strictly according to the company's instructions.\nFill and return the application form below and return as soon as possible and thereafter, you will be notified if short listed and employed for the position.\nFULL NAME:\nADDRESS:\nCITY:\nSTATE:\nZIP CODE:\nCOUNTRY:\nPHONE NUMBER:\nGENDER:\nMARITAL STATUS:\nAGE:\nNATIONALITY:\nOCCUPATION:\nATTACH I.D / PASSPORT:\nWe anticipate your earliest response in this regard.\nBest Regards,\n \nPeter J. Stelter\nTony Wang (PRESIDENT/CEO).\nGraphic/ArtWorks Steel Metal Import & Export Corporation\nMUSE DESIGN COMPANY LIMITED\n134 Soi Thien-Talay 19, Bangkhunthein-Chaytalay Rd., Tha-Kham,\nBangkhunthien, Bangkok 10150 Thailand, indonesia, vietnam, U.K   "
+    },
+    {
+        "from": "baiter_985",
+        "to": "scammer_985",
+        "subject": "Re:   Attn: ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Peter J. Stelter and Tony Wang,\n\nThank you for your email and the opportunity to work with Graphic Steel Metal Import Export and Muse Design Company Limited. I am interested in the position described, however, I would like to clarify a few details before proceeding.\n\n1. Could you please provide more information about the specific responsibilities of this role? \n2. What is the commission structure for this position?\n3. How often will I be receiving payments and what is the method of payment?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nLeila"
+    }
+]

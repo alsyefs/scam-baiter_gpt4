@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_223",
+        "to": "CRAWLER",
+        "subject": "  hello how are you doing can ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  hello how are you doing can you fill out the information   "
+    },
+    {
+        "from": "baiter_223",
+        "to": "scammer_223",
+        "subject": "Re:   hello how are you doing can ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Hello,\n\nI'm doing well, thank you. Could you please specify which form or information you need me to fill out? \n\nBest regards,\nLewis D.\n\nBest wishes,\nMary"
+    }
+]

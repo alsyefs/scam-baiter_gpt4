@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_905",
+        "to": "CRAWLER",
+        "subject": "  Atten:  ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Atten:  \nThe International Monetary Fund (IMF) together with the Coris Bank, the Reconciliation Committee, agreed to pay you a total amount of $850,000.00 USD in compensation.\nThe compensation fund has been signed up to get you paid for all the money you have lost to scammers. Your name appeared on our list of payment schedule beneficiaries who will receive funds in this second payment quarter of the year in accordance with our compensation regulation. We apologize for the delay in your payment.\nThe total sum of $850,000.00 USD or its equivalent in your local currency will be transferred to you via online banking system as your compensation for your loss, please reply back if you are ready to receive the payment via online banking system transfer.\nYours sincerely,\nMr. George Allbrook\nManaging Director\nInternational Monetary Fund Office Lome-Togo,\nTel: +22897191532   "
+    },
+    {
+        "from": "baiter_905",
+        "to": "scammer_905",
+        "subject": "Re:   Atten:  ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. George Allbrook,\n\nThank you for your email and the information provided. I am indeed ready to receive the payment via online banking system transfer. Please provide me with the necessary details to proceed.\n\nBest wishes,\nPatrick"
+    }
+]

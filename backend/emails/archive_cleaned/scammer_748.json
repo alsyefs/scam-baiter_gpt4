@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_748",
+        "to": "CRAWLER",
+        "subject": "  From: Toril Marie Lien <Tori",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  From: Toril Marie Lien <Toril.Marie.Lien@ahk.no>\nSent: Friday, March 15, 2019 \nTo: Toril Marie Lien\nSubject: SV: Grant\n \nYou have been gifted contact (\nkattmos12@gmail.com\n) for info "
+    },
+    {
+        "from": "baiter_748",
+        "to": "scammer_748",
+        "subject": "Re:   From: Toril Marie Lien <Tori",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Oh wow, that sounds interesting! Can you tell me more about this gift? What kind of contact is it?\n\nBest wishes,\nMatthew"
+    }
+]

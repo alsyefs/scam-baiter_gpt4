@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1175",
+        "to": "CRAWLER",
+        "subject": " Dear Beneficiary:",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " Dear Beneficiary:\nI am sorry it has to take me this long to contact you in regards to your pending\npayment, we realize that this payment has taken longer than expected and that is why we have put it upon ourself to get this payment realized to you as soon as possible without any further delay.\nPlease all you have to do now is get back to us with your full details along\nside a valid id card of yours and account details where your payment will be sent to in other to reconfirm your information in our system to enable the account unit effect your payment to your given account after final confirmation please act fast as this need to be concluded before the next 72hours as instructed by the finance minister and chief accountant of the IMF\nPlease get back to the office of the account manager Mr Simon Bradbury on his email below with the requested details for the final clearance as his phone number is also below you can also call or text him as it is a matter of urgency\nEmail: \nsimonimfpayunit@gmail.com\n  Chief Accountant\nRegards\nSeman Halim\nRemittance Department IMF    "
+    },
+    {
+        "from": "baiter_1175",
+        "to": "scammer_1175",
+        "subject": "Re:  Dear Beneficiary:",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Seman Halim,\n\nThank you for reaching out to me. I appreciate your efforts in trying to resolve this matter as quickly as possible. \n\nI am curious about a few things though, if you don't mind me asking. Could you please explain why my payment has been delayed? Also, could you provide more information about the process that will be followed once I provide my details?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nVaughn"
+    }
+]

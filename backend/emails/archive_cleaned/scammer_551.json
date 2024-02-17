@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_551",
+        "to": "CRAWLER",
+        "subject": "Dear Friend,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear Friend,\nI'm Mr. Huston Ali, from west africa, I'm sorry to intrude into your\nprivacy I got your email address through internet via computerized search\nafter my prayers so I bring to you this transaction which I notify from our\nbank an abandon fund which belongs to one of our late foreign customer who\ndeposited the sum of 10.2 million USD but he died at of cancer and ever\nsince then no one has applied to claim the fund so I write to you with\nconfidence that you can be a help so we can get the fund out of the bank, I\nwant you to apply to the bank as his foreign business partner note that\nonce the fund is been release to your wish bank account in your country it\nwill be shared among us in the ratio of 60%40 if you are interested please\nkindly forward your details so we can move towards it.\nYour Full Name....\nYour Bank Name...\nYour Telephone Number ...\nYour Age And Six....\nYour Marital  Status....\nYour Occupation....\nYour Country City...\nThanks\nMr Huston Ali..."
+    },
+    {
+        "from": "baiter_551",
+        "to": "scammer_551",
+        "subject": "Re: Dear Friend,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Huston Ali,\n\nI'm quite intrigued by your message and the opportunity you've presented. It's not every day that one receives such an interesting proposition! I must say, it's a bit of a surprise to hear about this situation.\n\nCould you please tell me more about this late foreign customer? How did he come to have such a large sum of money in your bank? And why has no one claimed it yet?\n\nAlso, could you explain more about the process of applying to the bank as his foreign business partner? What does that entail exactly?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nRandall"
+    },
+    {
+        "from": "scammer_551",
+        "to": "baiter_551",
+        "subject": "Re: Dear Friend,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "body": ""
+    }
+]

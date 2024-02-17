@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_836",
+        "to": "CRAWLER",
+        "subject": " Hello ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " Hello \ni got your cell number\ni shall call you shortly and we discuss on this further\nThank you\nProf Bunc    "
+    },
+    {
+        "from": "baiter_836",
+        "to": "scammer_836",
+        "subject": "Re:  Hello ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Prof Bunc,\n\nThank you for reaching out. I'm looking forward to our discussion. However, I prefer to keep our conversation here for now. Could you please share more details about what we will be discussing?\n\nBest wishes,\nPhillip"
+    }
+]

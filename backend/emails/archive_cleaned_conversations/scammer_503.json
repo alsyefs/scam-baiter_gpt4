@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_503",
+        "to": "CRAWLER",
+        "subject": "WE ARE REGISTERED PRIVATE LEND",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "WE ARE REGISTERED PRIVATE LENDER, INVESTOR, FINANCE TRADER, DIRECT PROVIDER OF BANK GUARANTEES(BG), STANDBY LETTERS OF CREDIT(SBLC), LETTER OF CREDIT (LC), NON RECOURSE LOAN, PROJECT FUNDING FROM TOP RATED BANKS WORLDWIDE AT DISCOUNT RATE..\nAPPLY NOW!!! FOR CASH LOAN OR BANK INSTRUMENT TO START A NEW BUSINESS OR TO EXPAND EXISTING BUSINESS FROM HONGKONG, CHINA, INDIA, USA, UNITED KINGDOM, UNITED ARAB EMIRATES OR ANYWHERE WORLDWIDE.\nPLEASE APPLY THROUGH EMAIL: \nGLOBALFINANCELTDHK@GMAIL.COM\n "
+    },
+    {
+        "from": "baiter_503",
+        "to": "scammer_503",
+        "subject": "Re: WE ARE REGISTERED PRIVATE LEND",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nThank you for reaching out and sharing this information. It sounds like a very interesting opportunity. I'm curious, could you tell me more about how the process works? How does one apply for these loans or bank instruments? And what are the typical terms and conditions associated with them?\n\nI'm also interested in understanding more about your organization. Could you share some details about your company's history and track record in providing these services?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJeffrey"
+    },
+    {
+        "from": "scammer_503",
+        "to": "baiter_503",
+        "subject": "Re: WE ARE REGISTERED PRIVATE LEND",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "body": "Dear Sir,\r\nThis is to acknowledge that your message was duly received.\r\nPlease download attached GFL - APPLICATION FORM which you are required to\r\nfill and return to us for review and approval.\r\nThank you.\r\n\r\nRegards,\r\nFREDY OUSEPH/DIRECTOR\r\nGLOBAL FINANCE LIMITED\r\n5659 Jefferson St NE,\r\nAlbuquerque, 87109, New York,\r\nUnited States of America.\r\nEmail: globalfinanceltdhk@gmail.com\r\nEmail: globalfinanceltdhq@gmail.com\r\nEmail: globalfinanceltdhq@yahoo.com\r\n\r\nHONG KONG - HEAD QUARTER\r\nCOMPANY CIS AND REGISTRATION DETAILS\r\nhttps://www.hkgbusiness.com/en/company/Global-Finance-Limited-3\r\nCompany Name: GLOBAL FINANCE LIMITED\r\nCompany Address: 7 Nathan Road, Tsimshatsui, Kowloon, Hong Kong.\r\nCompany Registration No.: 1916478\r\nCompany Type: Private Company Limited By Shares\r\nDate of Incorporation: 31 May 2013\r\nwww.globalfinanceltdhk.blogspot.com"
+    }
+]

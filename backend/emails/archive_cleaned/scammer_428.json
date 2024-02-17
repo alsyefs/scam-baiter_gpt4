@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_428",
+        "to": "CRAWLER",
+        "subject": "  FEDERAL RESERVE BANK OF NEW ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  FEDERAL RESERVE BANK OF NEW YORK\nADDRESS: 33 LIBERTY STREET,\nNEW YORK, N.Y 10038.\nATTN: FUND BENEFICIARY,\n                  Re: ATM Card payment notification.\nThis is to officially inform you that the bank Federal Reserve Board\nNew York Branch  has concluded in the meeting today over your long\noverdue contract payment and agreed that your payment worth\nUS$10.500,000.00 will be released to you through ATM Master Card which\nwill be delivered to you directly to your home address.\nHowever, you are further advised to know that all arrangement has been\ncompleted long ago for the immediate dispatch to your residency, you\nhave to reply back to us as soon as possible with the below DATA’ to\nenable the Ups shipping department proceed with the immediate dispatch\nnext tomorrow been Monday dated 3rd of April 2023 on your behalf.\nFinally, this is very urgent and important the bank are waiting to\nhear from you right away today, Bear in mind that the tracking number\nof your parcel will be given to you immediately the Processing charge\nand Stamp fee which will not cost you much is received to avoid any\nimmediate STOP ORDER from the United Nation office.\nNote That Because Of Impostors, We Hereby Issued You Our Code Of\nConduct, Which Is (ATM-2023) So You Have To Indicate This Code When\nreplying back to us By Using It As Your Subject. Get back to us with\nthis information needed,\nFull Names:\nYour Address:\nCountry:\nDirect Number:\nYour Age And Occupation:\nA scan copy of your ID card or passport:\nReply back to us accordingly; The bank Wait For Your Expedite Response.\nYours in Service,\nMr. Jerome H. Powell\nChairman Federal Reserve Board New York\nEmail: \nfederalreservebank@iname.com\n "
+    },
+    {
+        "from": "baiter_428",
+        "to": "scammer_428",
+        "subject": "Re:   FEDERAL RESERVE BANK OF NEW ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Jerome H. Powell,\n\nThank you for reaching out to me and informing me about this exciting opportunity. I am thrilled to hear that the Federal Reserve Board New York Branch has concluded a meeting regarding my overdue contract payment.\n\nI understand that an ATM Master Card will be delivered to my home address, which is quite convenient for me. However, I have a few questions before we proceed further.\n\nFirstly, could you please provide more details about the processing charge and stamp fee? How much would it cost exactly? \n\nSecondly, you mentioned a STOP ORDER from the United Nations office. Could you elaborate on what circumstances might lead to such an order?\n\nLastly, could you explain more about the Code of Conduct ATM? Is it something I need to remember or use frequently?\n\nLooking forward to your response.\n\nBest wishes,\nOscar"
+    }
+]

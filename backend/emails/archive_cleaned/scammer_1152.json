@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1152",
+        "to": "CRAWLER",
+        "subject": "Citibank Europe Plc. Financial",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Citibank Europe Plc. Financial services company\nHeadquarters: 1 North Wall Quay; Dublin 1; Republic of Ireland.\nAttention: Dear Beneficiary,\nThis is to congratulate you and officially inform you that your\noverdue payment of €18.5million euro has been approved to you via\n(T/T) Transfer, conformable in 3 working days.\nYour payment with the other beneficiary's payment was approved by the\nWorld Bank Group/European Union (EU) and International Monetary Fund\n(IMF).\nYou are required to reconfirm your full details and account details\nfor onward transfer of your funds, because we will not be held\nresponsible for wrong crediting.\nAs soon as we receive your details, we will issue you the fund\nownership certificate of your payment which will prove that you are\nthe rightful beneficiary of the funds.\nTreat as urgent.\nThanks,\nYours Faithfully,\nCecilia Ronan,\nManaging Director,\nCitibank Europe Plc."
+    },
+    {
+        "from": "baiter_1152",
+        "to": "scammer_1152",
+        "subject": "Re: Citibank Europe Plc. Financial",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Cecilia Ronan,\n\nThank you for reaching out to me. I'm thrilled to hear about the approval of my overdue payment. It's great news indeed! \n\nCould you please provide more details about this process? For instance, how was my name selected for this payment? Also, could you explain a bit more about the role of the World Bank Group, European Union (EU), and Monetary Fund (IMF) in this?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nBrittany"
+    }
+]

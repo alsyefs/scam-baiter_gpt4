@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_741",
+        "to": "CRAWLER",
+        "subject": "Thank you for visiting.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Thank you for visiting.\nWe are happy to serve you"
+    },
+    {
+        "from": "baiter_741",
+        "to": "scammer_741",
+        "subject": "Re: Thank you for visiting.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there! I'm so glad you've reached out. How can I assist you today?\n\nBest wishes,\nAllen"
+    }
+]

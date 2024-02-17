@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1007",
+        "to": "CRAWLER",
+        "subject": "  Greetings Dear Beneficiary!",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Greetings Dear Beneficiary!\nI am Binta Ndoye Touré and Chief Executive Officer of Orabank Benin Republic.\nIt is with good spirit of heart I opened up this great opportunity to you. Your overdue payment of  10,500,000.00 (US$10.5M) have been approved by BCEAO | Banque Centrale des Etats de l'Afrique de l'Ouest (Central Bank of West African States) The meeting held with the bank Executives and his Excellency, President Patrice Talon in Paris-France.\nTherefore, your payment file have been posted to Madrid-Spain due to your payment allocation region and you are granted to visit them for the collection of your fund in person and also to enable you sign some back-up documents.\nKindly get back to me for more details and your complete information as well as a scan copy of identity card of yours for identification!.\nEnclosed mail attachment is a scan copy of your identity for your perspective record.\nForward all your complete information as was requested to my private E-Mail contact Address below ( \nndoyebtoure@gmail.com\n )\nYours sincerely\nBinta Ndoye Touré\nRue du Gouverneur Général Ponty\nE-Mail Address ( \nndoyebtoure@gmail.com\n )\n01 BP 2700 Cotonou\nTel: (+229) 64 60 34 55/ (+229) 96 74 81 11\nFax: 00(+229) 21 21 01 01  "
+    },
+    {
+        "from": "baiter_1007",
+        "to": "scammer_1007",
+        "subject": "Re:   Greetings Dear Beneficiary!",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Binta Ndoye Tour,\n\nThank you for reaching out to me. It's a pleasure to hear from you. I'm intrigued by the information you've shared about the overdue payment and the involvement of BCEAO Banque Centrale des Etats de l'Afrique de l'Ouest.\n\nCould you please provide more details about this situation? For instance, how did this payment come to be overdue? And what kind of documents would I need to sign?\n\nI appreciate your time and look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nWilliam"
+    }
+]

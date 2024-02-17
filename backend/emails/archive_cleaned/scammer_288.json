@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_288",
+        "to": "CRAWLER",
+        "subject": "Dear Sir/ Madam,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear Sir/ Madam,\nAre you a resident in South Africa, and owing between R200,000.00 to R2,000,000.00, on Personal or Business loans?\nOur Debt Mediation team will settle your accounts within 14 days, without upfront fees, after a full valuation on your account is made and condition of settlement is agreed upon.\nSend us an Email to: \nDebtMediationTeam@aol.com"
+    },
+    {
+        "from": "baiter_288",
+        "to": "scammer_288",
+        "subject": "Re: Dear Sir/ Madam,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nThank you for reaching out to me. Your offer sounds quite interesting! I'm curious, how does your Debt Mediation team manage to settle accounts within days? That seems like a very quick turnaround time. Also, could you please explain more about the process of full valuation on an account?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nGlenn"
+    }
+]

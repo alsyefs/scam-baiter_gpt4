@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_136",
+        "to": "CRAWLER",
+        "subject": "I am Barr. Adanson Hilbert an ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "I am Barr. Adanson Hilbert an attorney of law and a personal attorney to Late Mr. Michael Harris an American who was an Immigrant here in the UK and has an inheritance fund amounting to $15.5million based here in the U.K, also referred to as my client. On the 25th of July 2000, my client, his wife, and their two Children died in a Boeing Air France Concorde plane crash bound for New York. They were on their way to a world cruise.\nPrior to that accident and since then, I have been trying to locate my Late client's extended relatives and his next of kin but proved abortive because he did not make any will prior to his death. I have contacted you initially to assist me in repatriating this huge fund before it  will automatically revert back to her majesty's government treasury and be declared unclaimed. However, the legal procedure to activate this takes about three months, of which there are just about two months left.\nThe bank has recently issued me a notice to provide details of any of my late clients next of kin within a short period of time, this thereby triggers off the procedure of reverting the funds to her majesty's government treasury account. My Late client's inheritance is valued at fifteen million, five hundred thousand U.S dollars ($15.5m). Since I have been unsuccessful in locating any relatives of my late client in the last twenty two years; and with the bank indicating that they now wish to shortly start the procedure of reversion of the funds to the state, I now seek your consent to present you as the next of kin of the deceased, so that the proceeds of this amount can be paid to you. And then, you in turn can send me my share of the money. The ratio for the sharing of the funds will be fifty per cent (50%) to me, forty per cent (40%) to you, and ten per cent (10%) for miscellaneous expenses that might arise. I have all the necessary information that will be used to back up any claim we may make.\nAll I require is your honest co-operation and confidentiality to enable us to seal this deal through. \nI guarantee that this will be executed under a legitimate arrangement that will protect you from any breach of the law. Trust me, as my late client attorney; this is a risk-free transaction. \nPlease get back to me if you are interested in assisting me to enable us to discuss this matter further. \nbarristeradansonh@gmail.com\nRegards,\nBarr. Adanson Hilbert."
+    },
+    {
+        "from": "baiter_136",
+        "to": "scammer_136",
+        "subject": "Re: I am Barr. Adanson Hilbert an ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Barr. Adanson Hilbert,\n\nThank you for reaching out and sharing this information with me. I'm sorry to hear about the tragic accident that befell Mr. Michael Harris and his family, it must have been a terrible shock.\n\nI'm curious though, how did you find my contact information? And why do you think I could be presented as the next of kin of the deceased? \n\nAlso, could you please explain more about the legal procedure to activate this fund? I'm not very familiar with these kinds of procedures.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAmy"
+    }
+]

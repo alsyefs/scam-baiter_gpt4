@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_68",
+        "to": "CRAWLER",
+        "subject": "  Hello",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Hello\nI'am Mr. Anderson Clark I represent a good Investor as a financial\nconsultant. We need a good and viable project that can generate a good\nrio within the period of funding on a 3.05% interest rate within the\nperiod of 10 years. from a capable company all over the world My\nPrincipal Investor can invest on your behalf in a viable Project I\nfeel great to contact you after going through your company profile I\nyour company welcomes our business proposal both parties will meet\nface to face and have a round-table meeting together and after that\nthe investor will visit you to see your project site in your country\nbefore putting down his fund After that a good documentation will be\ncarried out between your company and the Investor If you are\ninterested, get back to me as soon as possible.\nRegards.\nAnderson Clark   "
+    },
+    {
+        "from": "baiter_68",
+        "to": "scammer_68",
+        "subject": "Re:   Hello",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Anderson Clark,\n\nThank you for reaching out and considering my company for your investment. It's great to hear that you have a keen interest in viable projects.\n\nCould you please provide more details about the kind of projects your Principal Investor is interested in? Also, it would be helpful if you could share some information about the expected return on investment (ROI) and the duration of funding.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDon"
+    }
+]

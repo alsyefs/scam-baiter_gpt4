@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_2",
+        "to": "CRAWLER",
+        "subject": "  Dear Compliment of the day",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Compliment of the day\nThis is to inform you that the Governor of the Central Bank of Nigeria (CBN) Mr. Godwin Emefiele  and  Mr. Abdulrasheed Bawa the Chairman of the Economic and Financial Crimes Commission (EFCC) have been sacked  by the New President of Nigeria Mr. Bola Ahmed Tinubu.for being too corrupt in handling our Contract awarded Fund, Inheritance Fund and diplomatic consignment Fund ,.\n \nYou are hereby advised to stop any form of communications with whoever you are communicating  with regarding your contract fund /  Inheritance Fund.    The new President of Nigeria Mr. Bola Ahmed Tinubu has directed that all pending  Contract awarded Fund, Inheritance Fund and diplomatic consignment Fund should be reviewed and released to their Beneficiary within three working days without them paying any illegal upfront fee .\nAs a matter of urgency send your current direct telephone number as you replied for better secure communications .\nYours Sincerely\nOlisa Mba\nSpecial Duties / International debts verification Unit\nOffice of the President\nFederal Government of Nigeria    "
+    },
+    {
+        "from": "baiter_2",
+        "to": "scammer_2",
+        "subject": "Re:   Dear Compliment of the day",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Olisa Mba,\n\nThank you for your email and the information provided. I appreciate your efforts in ensuring transparency and efficiency in handling these matters.\n\nHowever, I must inform you that I have not been involved in any contract or fund with the Central Bank of Nigeria or any other entity. Therefore, I believe there may be a misunderstanding or mistake.\n\nPlease verify the details and let me know if there is anything else required from my end.\n\nBest wishes,\nDustin"
+    }
+]

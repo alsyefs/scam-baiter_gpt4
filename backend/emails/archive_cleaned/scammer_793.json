@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_793",
+        "to": "CRAWLER",
+        "subject": "  Dear Beneficiary,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Beneficiary,\nMy name is Mrs Lilia Nichole, I am a store keeper with Custom department at\nJohn Kennedy Airport United State of America. I discover an abandon consignment\nin your name and address. If you are interested in your claim let me\nknow so that i can hand it over to reliable diplomatic agent to\ndeliver it to you, after the delivery you can settle me 5%, because i\ndiscover that the consignment is loaded with money.\nReply Asap\nMrs Lilia Nichole   "
+    },
+    {
+        "from": "baiter_793",
+        "to": "scammer_793",
+        "subject": "Re:   Dear Beneficiary,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mrs. Lilia Nichole,\n\nThank you for your message. I am intrigued by your discovery and would like to know more about this abandoned item that is apparently in my name and address. Could you please provide more details about it? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSidney"
+    }
+]

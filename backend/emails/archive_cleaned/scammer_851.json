@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_851",
+        "to": "CRAWLER",
+        "subject": "This is Mr. Ahote STEPHEN the ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "This is Mr. Ahote STEPHEN the general manager of Citibank of America.\nI am glad to inform you that your compensation funds which values the\ntotal sum of $5.5 million USD was deposited here in my Bank on the 20th of\nAugust 2023 with your files from the US Government Custody.\nI went thorough your files and discovered that it has been in the US\nGovernment Custody for few months and have made every arrangement for\nyou to start receiving your funds today with any of the payment\noptions stated below so you have to choose how you want your funds to\nbe delivered, or transfer to you from the three options.\nChoose how you want to receive your funds below and we will proceed with\nyour request immediately.\n1. ONLINE BANKING: I will open an online bank\naccount in your name and deposit your funds in your online account then\nsend you the username and password to access your funds then you can\nmake transfer from your online account to any bank of your choice.\n2. ATM CARD DELIVERY: I will credit your total funds into an ATM card and\nmy Agent will deliver your ATM CARD to your home address, this will take 48\nto 72 hours for your ATM CARD to get to you depending on the distance.\n3. Bank Transfer, you will send your full Bank Details and I will make the\ntransfer in it,\nSo get back to me as soon as possible with any of the options above so we\ncan proceed immediately.\nDon't forget to send your full information to proceed with any option\nyou choose:\nFull Name..\nFull Address..........\nPhone Number..........\nID Card or Passport\n.......\nThanks\nSincerely;\nMr Ahote STEPHEN the general manager of Citibank of America."
+    },
+    {
+        "from": "baiter_851",
+        "to": "scammer_851",
+        "subject": "Re: This is Mr. Ahote STEPHEN the ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Ahote Stephen,\n\nThank you for reaching out to me and providing such detailed information about the funds. It's quite a surprise to hear about this, as I wasn't expecting any funds from the US Government.\n\nBefore we proceed, could you please clarify a few things for me? How did my name come up in connection with these funds? And why were they held in custody by the US Government?\n\nI'm also curious about the three options you've mentioned for receiving the funds. Could you provide more details on how each of them works? For instance, if I choose online banking, how secure would my account be? \n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nJames"
+    }
+]

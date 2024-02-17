@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_153",
+        "to": "CRAWLER",
+        "subject": "UNITED NATION RESIDENT CO-COOR",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "UNITED NATION RESIDENT CO-COORDINATOR\nOFFICER (UNRCO)\nTHIS IS TO BRING TO YOUR NOTICE THAT UNITED NATION IN CONJUNCTION WITH\nFEDERAL GOVERNMENT OF NIGERIA HAS DECIDED TO COMPENSATE ALL SCAM\nVICTIMS WITH THE SUM OF 1 MILLION USD, (ONE MILLION UNITED STATE\nDOLLARS ONLY) FOR FURTHER INFORMATION CONTACT OUR PRIVATE OFFICER: MR.\nUBAKA EDWARD:\nName: Mr. Ubaka Edward,\nE-mail: \nmr.ubakaedward@gmail.com\nTel: +234 8084 091729:\nYOU WILL RECEIVE YOUR COMPENSATION PAYMENT THROUGH ATM VISA CARD\nPAYMENT. YOU WILL BE DETAILED WITH MODALITIES AS SOON AS YOU CONTACT\nTHE PRIVATE OFFICER OF THE UNITED BANK FOR AFRICA.\nSINCERELY YOURS,\nMR. EDWARD KALLON"
+    },
+    {
+        "from": "baiter_153",
+        "to": "scammer_153",
+        "subject": "Re: UNITED NATION RESIDENT CO-COOR",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Edward Kallon,\n\nWow, this is such an unexpected surprise! I can't believe the United Nation and the Federal Government of Nigeria are doing such a generous act. It's really heartwarming to know that there are organizations out there looking out for people like me.\n\nI'm curious though, how did you guys decide on compensating with exactly one million USD? And why through an ATM Visa Card payment? Is it because it's more secure or convenient?\n\nLooking forward to hearing from you soon!\n\nP.S. Please note that I won't be able to provide any personal information online due to security reasons. I hope you understand.\n\nBest wishes,\nRoy"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_232",
+        "to": "CRAWLER",
+        "subject": "Secretary-General António Gute",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Secretary-General António Guterres UNITED NATIONS COMPENSATION UNIT,\nIN AFFILIATION\nWITH WORLD BANK.\nAttention:\nHow are you today? Hope all is well with you and family?, You may not\nunderstand why this mail came to you.\nWe have been having a meeting for the passed 7 months which ended 2 days ago\nwith the then secretary to the UNITED NATIONS. \nThis email is to all the people\nthat have been scammed in any part of the world, the UNITED NATIONS have agreed\nto compensate them with the sum of US$2.500,000.00 each.\nThis includes every foreign contractors that may have not received their\ncontract sum, and people that have had an unfinished transaction or\ninternational businesses that failed due to Government problems etc.We found\nyour name and email in our list and that is why we are contacting you, this\nhave been agreed upon and have been signed.\nYou are advised to contact Mr.Eleanora Moorer, of our paying center in\nIndonesia, as he is our representative in Indonesia, contact him\nimmediately for your\ncheque worth of USD $2.500,000.00 This funds are in Certified International Bank\nDraft for security purpose OK? so he will send it to you and you can cash it in\nour bank in your country.Therefore, you should send him your full Name\nand telephone number your correct\nmailing address where you want him to send the Cheque to you.\nContact Mr.Eleanora Moorer, immediately for your Cheque. Person to Contact:his\nphone No. +62 85736480732\nMr Eleanora Moorer.Email:(\neleanoramoorer48@gmail.com\n)\nHoping to hear from you as soon as you receive your Cheque.\nThanks and God bless you and your family.\nRegards.\neleanoramoorer48@gmail.com"
+    },
+    {
+        "from": "baiter_232",
+        "to": "scammer_232",
+        "subject": "Re: Secretary-General António Gute",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nThank you for reaching out to me. I hope you're doing well too. It's quite surprising to receive such an email, but it's also intriguing.\n\nI'm curious about the meetings you mentioned that have been going on for the past few months. Could you tell me more about them? What was discussed and what were the outcomes?\n\nAlso, I'd like to understand better how my name and email ended up on your list. Was there a specific criteria used in selecting the people who would be compensated?\n\nLastly, could you provide more details about this cheque worth of USD? How does it work exactly? And why is it in Certified Bank Draft?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDorthy"
+    }
+]

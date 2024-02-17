@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1300",
+        "to": "CRAWLER",
+        "subject": "Dear Mr. xxx,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear Mr. xxx,\nSir,\nCould you as a matter of urgency and utmost importance give definite reason(s) if any your continue silence to my mails and state suitable modus operandi that will be legally binding by both parties.\nHowever, I have already forwarded our communication to the sending Bank facilitators that will execute the smooth transfer of the fund to your receiving account\n. The Bank's facilitators, advise that till that Personal Identification/Account Form is filled , signed and returned, further actions should henceforth be suspended to this payment advise. \nKindly acknowledge receipt of this mail.  \nThank you.\nYours faithfully,\nT J. Gomwalk Al-Hassan."
+    },
+    {
+        "from": "baiter_1300",
+        "to": "scammer_1300",
+        "subject": "Re: Dear Mr. xxx,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Gomwalk,\n\nI hope this message finds you well. I must apologize if my silence has caused any inconvenience, it was not intentional.\n\nRegarding your email, I'm a bit confused about the process you've mentioned. Could you please explain more about this Personal Account Form? What is its purpose and how does it affect the transfer of funds?\n\nAlso, could you provide more details about the sending bank? It would be helpful to know their procedures and requirements for such transactions.\n\nI appreciate your patience and look forward to hearing from you soon.\n\nBest wishes,\nMatthew"
+    }
+]

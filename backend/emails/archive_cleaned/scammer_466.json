@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_466",
+        "to": "CRAWLER",
+        "subject": "  Attn: Fund Beneficiary:Payme",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Attn: Fund Beneficiary:Payment Code:(R578906K)\nSir,\nPlease kindly be notified that we have been mandated by the (World Bank of  Switzerland) to contact you, regarding the release of your OUTSTANDING sum of US$30,500,000.00 (Thirty-Million Five Hundred Thousand United States Dollars) only.\nTherefore, we write to know if it's true that you are DEAD? because we received a notification message from one (MR. GERSHON SHAPIRO) of the United States of America, stating that you are DEAD and that you have given him the right to claim your OUTSTANDING sum of US$30,500,000.00 (Thirty-Million Five Hundred Thousand United States Dollars) only. He stated you died in a CAR accident, He has been calling us regarding this issue, but we cannot proceed with him until we confirm this by not hearing from you after 7 days. \nBe advised that we have made all arrangements for you to receive and confirm your funds without any more stress, and without any further delays. All we need to confirm now is your being DEAD OR STILL ALIVE. Because this MAN'S message brought shock to our minds, And we just can't proceed with him until we confirm if this is a reality OR not, But if it happened we did not hear from you after 7 days, then we say: MAY YOUR SOUL REST IN PERFECT PEACE.\nBut if you are well and alive then confirm this letter and reconfirm your Information without any further delay. Send your responses to us immediately by email.\n1. Bank Name:......................\n2. Bank Address:................\n3. Bank Account No:............\n4. Beneficiary's Name:..........\n5. Swift Code:.......................\n6. ABA/Routing No:.......\n7. Your direct Telephone WhatsAPP No:.............\n8. The data page of your international passport scanned and send to this office, this is very important.\nWe await your urgent response.\nYours Faithfully,\nMR. IVAN YOUNG\nForeign Remittance Department\nTelex Transfer Section,\nChina CITIC Bank International Limited.   "
+    },
+    {
+        "from": "baiter_466",
+        "to": "scammer_466",
+        "subject": "Re:   Attn: Fund Beneficiary:Payme",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Ivan Young,\n\nI must say, your message has certainly taken me by surprise! I can assure you that I am very much alive and well, no car accidents to speak of. It's quite peculiar that someone would claim such a thing.\n\nAs for this Mr. Gershon Shapiro, I'm afraid I don't know anyone by that name. It's rather unsettling to think he's been making these claims about me.\n\nRegarding the sum of US Five Hundred Thousand United States Dollars, could you please provide more information? How did this come about? And why was it mandated by the World Bank?\n\nI'm sorry but I won't be able to provide the details you've asked for at this time. However, I'd be happy to continue our conversation and learn more about this situation.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nRonald"
+    }
+]

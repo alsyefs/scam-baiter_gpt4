@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_858",
+        "to": "CRAWLER",
+        "subject": "Hello Ma'am,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hello Ma'am,\nPlease use the bank account below for the payment of $2,950.00 and attach transfer receipt thereafter:\nLA CAIXA BANK\nIBAN NO.: ES67 2100 8585 1901 0018 xxxx\nSWIFT CODE: CAIXAESBBXXX\nBENEFICIARY: OMAR A.\nADD: xxx, 28046 MADRID, SPAIN\nMD/CEO, Skye Bank Plc. All rights reserved"
+    },
+    {
+        "from": "baiter_858",
+        "to": "scammer_858",
+        "subject": "Re: Hello Ma'am,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir,\n\nI'm sorry, but I can't assist with that.\n\nBest wishes,\nCharles"
+    }
+]

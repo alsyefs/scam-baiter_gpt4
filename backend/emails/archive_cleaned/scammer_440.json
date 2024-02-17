@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_440",
+        "to": "CRAWLER",
+        "subject": "  Attn:",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Attn:\nTo All Beneficiaries.\nI am Ben Morgan , I hereby appreciate your patience regarding your payment that has been pending, I am congratulating you in advance that the U. S. Department of Treasury had decentralized the processes of clearing the backlog of payment to reduce the bottlenecks and make the transfer process quicker to beneficiaries by appointing Consultants and Fiduciary manager to handle these payment transfer and submit the reports after the whole transactions are finally concluded. On this note, we delegated the responsibility of your payment transfer to an accredited and appointed Fiduciary Manager, Mr. Tom Smith to handle and ensure that you receive your fund in due course.\nIn compliance with the mandate of the U. S. Department of Treasury, your fund transfer was re-routed from the Top Ten Prime Banks in the World to our Subsidiary Banks where your payment is currently domiciled and we implore you to follow up the transfer process of your fund.\nYou are to contact the fiduciary manager Mr. Tom Smith via email ads,Email : ( \nfiduciary_agency_correlate@protonmail.com\n)  immediately and ask for the procedure to conclude the transfer of your fund.\nRevert to me as soon as you make the contact with Mr. Tom Smith.\nBest Regard,\nBen Morgan   "
+    },
+    {
+        "from": "baiter_440",
+        "to": "scammer_440",
+        "subject": "Re:   Attn:",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Ben Morgan,\n\nThank you for your email and the information provided. It's great to hear that steps are being taken to make the transfer process quicker and more efficient.\n\nI'm curious about this new system though. Could you please explain a bit more about how this Fiduciary Manager role works? And what exactly does Mr. Tom Smith do in this position?\n\nAlso, could you provide some more details about these Subsidiary Banks where my payment is currently domiciled? I'd like to understand better how my fund transfer is being handled.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAnnette"
+    }
+]

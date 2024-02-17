@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_243",
+        "to": "CRAWLER",
+        "subject": "FROM UNITED NATIONS OFFICE OF ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "FROM UNITED NATIONS OFFICE OF INTERNATIONAL OVERSIGHT SERVICES\nINTERNAL AUDIT, MONITORING, CONSULTING AND INVESTIGATIONS DIVISION ON\nFINANCIAL MATTERS.\nFROM: MRS. MARY JOHNSON(.SECRETARY UN AUDIT MONITORING UNIT ON\nFINANCIAL MATTERS)\nAttention Beneficiary,\nWe are hereby informing you regarding to the transaction concerning\nyour outstanding  fund which you are having with the Bank in Ivory\nCoast which was discovered through our network gazzet .\nHowever,  during our last meeting of this first quarter of the year\ndue to certain reports from the International  Communities , European\nUnion , World Bank Auditors concerning the Foreign debts after so many\ninvestigations we discovered that a lot of foreigners that awarded\ncontracts, Inheritance, Lottory Winning in west Africa Region which\nyou are among  those has not been paid due to certain uneccessary\ndemands of fees from the  banks and some government bodies.\nMeanwhile any bank  that faild to release the fund as instructed will\nbe penalised by the Int' banking laws under (IMF) and world bank\nAuditors , Pls for your information ignor any mail or telephone call\nfrom any part of the world  unless from our office or the paying bank\nFor this reason, the United Nation has approved to compensated you\nwith the sum of $750,000. 00 Dollars  with 7 among others In This\nUnited Nation West Africa Head Office The Payment will Be Issued into\nATM Visa Card And Will Be Send to You From The BANK in Cote DiVoire\nWe Need Your current Address \nPassport Copy, First And Second Pages\n,\nYour Private Telephone Number So That You Will Be Easily Be Reached\nWhen The Parcel Arrived Your Home Door Step.\nAs Soon As We Received Those Information Needed and your response, We\nshall then  Now send to you the  Contact Of The Paying Bank For The\nDelivery Of Your ATM Visa Card Or Any Other Means You Want It To Be\nYours Sincerely\nMRS. MARY JOHNSON"
+    },
+    {
+        "from": "baiter_243",
+        "to": "scammer_243",
+        "subject": "Re: FROM UNITED NATIONS OFFICE OF ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mrs. Mary Johnson,\n\nThank you for reaching out to me and providing such detailed information about the fund. It's quite interesting to hear about these developments from the United Nations Office of Oversight Services.\n\nI'm curious, how was my name selected among others for this fund? Also, could you please provide more details about the ATM Visa Card? How does it work exactly?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRaymond"
+    }
+]

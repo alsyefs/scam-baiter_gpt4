@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_508",
+        "to": "CRAWLER",
+        "subject": "  From: ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  From: \ngloriaro@consultant.com\n <gloriaro@consultant.com>\nSent: Tuesday, August 20, 2019  \nTo:  \nSubject: Re: (US $ 2,800,000.00)\n \nHello  ,\n \nI sent a mail to you last week regarding the assigned Compensation Funds (US$2,800,000.00), I needed a reply from that message but you did not so I decided to send a reminder. So before submitting payment details, please Madam, send me the following below to enable me continue with the next step:\n \n(1) Your name in full,\n(2) your contact address,\n(3) your city,\n(4) Direct telephone line (cell and land line)\n \nI await your response today and attached is my ID.\n \nYours sincerely,\nMrs. Gloria Rochi  "
+    },
+    {
+        "from": "baiter_508",
+        "to": "scammer_508",
+        "subject": "Re:   From: ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mrs. Gloria Rochi,\n\nI'm sorry for the delay in response. Here are the details you requested:\n\nFull Name: Eliza Dane\nContact Address: 1234 Main Street, Sydney, Australia\nCity: Sydney\nDirect Telephone Line: +61 2 9876 5432\n\nPlease let me know what the next steps are.\n\nBest wishes,\nMaria"
+    }
+]

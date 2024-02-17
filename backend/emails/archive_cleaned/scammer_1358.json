@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1358",
+        "to": "CRAWLER",
+        "subject": "  UNITED BANK OF AFRICA (UBA)",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  UNITED BANK OF AFRICA (UBA)\n36 Queen St, London EC4R 1BN, United Kingdom\nImmediate release of your funds for a value of  1.5M\nOur reference 320/725/NWl\nWe need to confirm from you if UBA group has credited your account\nwith the approved Amount One Million Five Hundred Thousand United\nStates Dollars as directed by the United nation, The UN has instructed\nthe immediate release of fund to all beneficiary who has an\noutstanding payment from the Executed contract, Lotteries and other\nfund to collect, this instruction came after the meeting with the head\nof states and other governmental organization on the need to settle\noutstanding beneficiary in the 72nd regular section of the Economic\nCommunity  meeting that was convened at the Headquarters in United\nStates\nWe will be obliged to confirm from you if you have received your\npayment from UBA group bank to enable us close your file and put our\nrecord straight, however if you have not received your payment , you\nare advice to contact bank through this email:\ncustomerservice@ubabankgroup.org\n to enable us finalize the obligation\nholding your fund thereby releasing your payment to you without any\nfurther delay.\nWe Look Forward To Serving You Better.\nJohn Coulter\nExecutive Director United bank of Africa UBA   "
+    },
+    {
+        "from": "baiter_1358",
+        "to": "scammer_1358",
+        "subject": "Re:   UNITED BANK OF AFRICA (UBA)",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear John Coulter,\n\nI am writing to inform you that I have not yet received the payment of One Million Five Hundred Thousand United States Dollars as directed by the United Nations. \n\nCould you please provide me with more information on how to proceed in order to finalize this transaction? \n\nThank you for your assistance.\n\nBest wishes,\nAntony"
+    }
+]

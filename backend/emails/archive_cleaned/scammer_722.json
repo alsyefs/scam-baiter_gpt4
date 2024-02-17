@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_722",
+        "to": "CRAWLER",
+        "subject": "Attention:,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attention:,\nI am Senator Godswill Akpabio Senate President of Nigeria writing this urgent message concerning the final meeting we hard with Nigeria President to compensate every foreigner scam victims with the sum of US$10 Million which Nigeria Government has approved BANK OF AFRICA (UBA) without any further delay,\n you are adivce to fill up your account details immediately for urgent crediting of your Foreign Scam Victims Fund worth US$10 Million.\nFILL THE INFORMATION BELOW:\n(1) Account Name:\n(2) Account Number:\n(3) Bank Name and Address:\n(4) SWIFT Code:\n(5) Your International Passport:\nFurthermore, Immediately you receive this message contact BANK OF AFRICA (UBA) through their Bank information below:\nName: Bank of Africa\nE-mail: \njohnwilli1@proton.me\nTelephone number: 234-807-789-1845\nFinally, contact BANK OF AFRICA (UBA) now with your Bank account details let them carry on the urgent crediting of your Foreign Scam Victims Fund worth US$10 Million immediately without any delaying.\nFOLLOW UP  IMMEDIATELY NOW.\nThanks\nYours faithfully,\nSenator Godswill Akpabio\nSenate President of Nigeria."
+    },
+    {
+        "from": "baiter_722",
+        "to": "scammer_722",
+        "subject": "Re: Attention:,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Senator Godswill Akpabio,\n\nThank you for your message. It's quite surprising to hear about this compensation from the Nigerian Government. I must say, it's a very generous gesture.\n\nHowever, before proceeding further, could you please provide me with more details about this scheme? How was it decided who would be the beneficiaries of this fund? Also, how did you get my contact information?\n\nI'm looking forward to hearing more about this. \n\nBest regards.\n\nBest wishes,\nBrian"
+    }
+]

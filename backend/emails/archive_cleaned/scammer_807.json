@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_807",
+        "to": "CRAWLER",
+        "subject": "Attn Dear Beneficiary;",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attn Dear Beneficiary;\nComplement of the season; I hope all is well together with your\nfamily? if so Glory be to GOD almighty, We are here to inform you\ntoday, that your total Compensation funds payment valued of\n($4.5 Million USD) has been credited in ATM Master card payment by the\nEco Bank Authorize payment department at ratio withdraw payment of\n$5,000.00usd daily.\nNote; You are advise to contact the Diplomatic delivery Agent via\ne-mail address bellow:(  \nlouisegelineau042@yahoo.com\n   ) and text his\nMobile number; +229 5427_7265 to request for your ATM Master Card\npackage delivery status, to enable you receive it and start\nwithdrawing your daily programmed fund payment as the Bank issued on\nyour payment file in the Eco Bank Operation Authorize payment\ndepartment.\nMake sure you get in-touch with the Hon. Diplomatic delivery Agent now\nand instruct him where to deliver your ATM Master card package to you.\nThis is the information's you will send to him about your ATM Master\nCard package delivery status.\nYour full Name......................\nYour Home Address...................\nYour Occupation.....................\nYour Mobile Telephone number........\nMake sure you receive your total Compensation funds payment valued of\n($4.5Million USD) in ATM Master card package by contacting the Hon.\nDiplomatic Agent  Mr Micheal Williams  and he will deliver your\npackage to your noted address successful.\nBest Regards\nMrs.Louise Gelineau"
+    },
+    {
+        "from": "baiter_807",
+        "to": "scammer_807",
+        "subject": "Re: Attn Dear Beneficiary;",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nI hope this message finds you well. I'm delighted to hear about the funds payment valued in Million USD credited in an ATM Master card by Eco Bank. That's quite a surprise!\n\nCould you please provide me with more details about this? How did this come about? And why was I chosen for this?\n\nAlso, could you explain how the daily programmed fund payment works? It sounds interesting but I would like to understand it better.\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nEbony"
+    }
+]

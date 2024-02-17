@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_750",
+        "to": "CRAWLER",
+        "subject": "Attention!",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attention!\nThis is. Mr  john Kelly i am contacting you from the Department of the\nState Government of America to notify you.\nCongratulations to you and your household, you have been selected\namong the nation that will earn 8.5 million Dollars, each; however,\nthis Compensation fund is coming to you from the United Nations\nfinancial institution as a result of Corona virus AIDS. We want you to\nchoose the below options on how to claim your funds as we acknowledge.\nOptions (1) Mail of ATM Card: Service fee $150 dollars only;\nOptions (2) Mail of Check: Service fee $200 dollars only;\nOptions (3) Bank to Bank Transfer: Service fee $110 dollars only;\nChoose one of the options you prefer to have your fund and you have 48\nhours to make the payment. Inquire how to send the service fee and\nyou'll be directly on how to send it to us so that we can proceed to\nensure that you receive your fund as we all agree?\nthe managing director of cancellation inheritance funds\nName : Mr john Kelly"
+    },
+    {
+        "from": "baiter_750",
+        "to": "scammer_750",
+        "subject": "Re: Attention!",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. John Kelly,\n\nThank you for your email and the opportunity to receive this fund. I would like to choose the Bank to Bank Transfer option. Could you please provide me with more details on how to proceed with the payment of the service fee?\n\nLooking forward to your response.\n\nBest wishes,\nHomer"
+    }
+]

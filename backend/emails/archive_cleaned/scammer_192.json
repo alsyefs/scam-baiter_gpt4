@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_192",
+        "to": "CRAWLER",
+        "subject": " From Mr. John Amadi",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " From Mr. John Amadi\nInternational Payment Settlement Dept\nCentral Bank of Nigeria (CBN)\nTelephone number: 234-\nEmail:\n \nAttention: Beneficiary,\nIMMEDIATE ATM CARDS PAYMENT DECLARATION\nWe received ATM Card Payment instructions in your favor from  His Excellency President Elect Bola Ahmed Tinubu GCFR,in conjunction with the Federal Ministry of Finance Nigeria after the Federal Executive meeting held in Abuja State House. Meanwhile your name and your contact details was also forwarded to me today in respect of your USD $10.million ATM Cards issuance to you by the apex bank Central Bank of Nigeria (CBN) and your ATM Cards will be programmed with the total sum US$10.million with original serial number and Pin Access number as directed by the Federal Ministry of Finance (FMF).\n \nThe Central Bank of Nigeria (CBN)will deliver your ATM Card to you immediately after the processing and registration which you will use to withdraw your money in any ATM Automatic Inter Switch Board Machine in any part of the world, so if you like to receive your ATM Card the Central Bank of Nigeria (CBN) will help you, please let us know immediately and carefully submit your delivery information which will cover the USD $10.million payment and contact us back.\n \nNote, due to the new government in Nigeria, your chances of receiving your funds overdue has been given by the new elected President Bola Ahmed Tinubu GCFR,and Federal ministry of Finance Nigeria has mandated us to issue and deliver your ATM card credited with total sum immediately to your home address as soon as you pay the sum of USD$55 as ATM Card processing fee hence the Government has taking care of the delivery and documentation charges. If you know that the Nigeria government has owed you money for the past years, the time is now to put a claim and you will be paid.\nReconfirm the below information to avoid any mistake\n1. Valid Delivery Address:\n2. Full Names:\n3. Phone Number:\n4. Occupation:\n5. Age:\n6. Sex:\n \nThanks for your cooperation\n \nYours faithfully,\n \nMr. John Amadi\nInternational Payment Settlement Dept\nCentral Bank of Nigeria (CBN)    "
+    },
+    {
+        "from": "baiter_192",
+        "to": "scammer_192",
+        "subject": "Re:  From Mr. John Amadi",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. John Adi,\n\nThank you for reaching out to me. I must say, this is quite an unexpected surprise! I'm intrigued by the prospect of receiving an ATM card from the Central Bank of Nigeria.\n\nI do have a few questions though, if you don't mind. You mentioned that my name and contact details were forwarded to you - may I ask who provided these details? Also, could you please explain more about how this ATM card works? Is it similar to regular bank cards?\n\nFurthermore, you mentioned a processing fee for the ATM card. Could you provide more information on what this fee covers? \n\nLooking forward to your response.\n\nBest wishes,\nKevin"
+    }
+]

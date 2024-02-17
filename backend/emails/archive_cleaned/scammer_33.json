@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_33",
+        "to": "CRAWLER",
+        "subject": "Good Day,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Good Day,\nWe offer private, commercial and personal loan at very low interest rate as low as 3% within a 1 year to 20 years Repayment duration period to any part of the world. We give the loan in range from $5.000 to $10,000,000,00 USD. Our loan are well insured for maximum security is our priority, Are you having sleepless nights worrying how to get a legit Loan Lender? Are you Biting your fingernails to the quick? you can call the host now apply now, credit specialists to help Stop Bad Credit History, to a win-win solution that is our mission.\nInterested persons should fill out the registration form. contact us for moreinfo, The application is available for applicants who are 18 years and above.\nPlease, provide the following:\n1. Name of Applicant:\n2. Age:\n3. Location:\n4. Amount Needed:\n5. Duration:\nE-mail: \nafrojackloan@gmail.com\nSincerely,\nMr. Afro Jackson\nLoan Consultancy"
+    },
+    {
+        "from": "baiter_33",
+        "to": "scammer_33",
+        "subject": "Re: Good Day,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Afro Jackson,\n\nThank you for your offer. However, at this time, I am not in need of a loan. I appreciate your consideration and will keep your information on file for future reference.\n\nBest wishes,\nElla"
+    },
+    {
+        "from": "scammer_33",
+        "to": "baiter_33",
+        "subject": "Re: Good Day,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "body": "Hi Ella,\r\n\r\nThanks for your reconfirmation, We welcome you anytime in future if need be\r\nit that you need a loan or knows anyone that is interested. You can refer\r\nanyone, Either family or friends as referrer bonus will be granted.\r\n\nSincerely,\r\nAfro Jackson"
+    }
+]

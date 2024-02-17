@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_114",
+        "to": "CRAWLER",
+        "subject": " Dear Sir / Madam,            ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " Dear Sir / Madam,                  \nI am Ahmed Zaheer, a GOLD dealer, residence above noted, I have a ledge quantity original Powder golds and tablet golds well refine and ready for sale from our Gold males refine company which i am looking for a capable buyers with 20% discount per a kilogram. If you are interested to buy our golds, please feel free to contact me through the above listed information for more details and directive on how it will be executed.\nBest Regard,\nFull Name: Mr. Ahmed Zaheer.\nAttached Companies: koumbora Serl Gold Limited\nLocated in the West African region\nIvory Coast, Mali and Burkina Faso\nE-Mail: \na_ahmedzaheer@yahoo.com\n "
+    },
+    {
+        "from": "baiter_114",
+        "to": "scammer_114",
+        "subject": "Re:  Dear Sir / Madam,            ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Ahmed Zaheer,\n\nThank you for your offer. However, I am not in the market for purchasing gold at this time. I wish you the best of luck in finding a suitable buyer.\n\nBest regards,\nLewis D.\n\nBest wishes,\nEllen"
+    }
+]

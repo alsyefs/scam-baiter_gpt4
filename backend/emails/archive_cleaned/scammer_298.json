@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_298",
+        "to": "CRAWLER",
+        "subject": "  Attention All,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Attention All,\nConclusion was made yesterday that all victims must be paid through their country branch offices, but before that all victims must be identified with their valid obtained ID cards before any victims can be compensated.\nPlease re-confirm to me the following details below;\nApplication Process:\n(a) Name :\n(b) Residential address :\n(c) Direct telephone number :\n(d) Your means of Identification or passport :\n(e) Email address :\n(f) Occupation\nThose who are not yet with their ID cards should hurry up and do so, because without your ID card you will never participate in the compensation exercise.\nFinance Disbursement Unit\nDirector.\nNick Beresford\ndepartmentfundsrecoveryagency@gmail.com\n "
+    },
+    {
+        "from": "baiter_298",
+        "to": "scammer_298",
+        "subject": "Re:   Attention All,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Nick Beresford,\n\nThank you for your email. However, I would like to clarify a few things before proceeding. Could you please provide more details about the nature of this exercise and why it is necessary for me to provide my personal information? \n\nI look forward to hearing from you soon.\n\nBest wishes,\nMelissa"
+    }
+]

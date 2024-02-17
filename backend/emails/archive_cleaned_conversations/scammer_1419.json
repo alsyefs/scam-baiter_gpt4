@@ -1,0 +1,52 @@
+[
+    {
+        "from": "scammer_1419",
+        "to": "CRAWLER",
+        "subject": "  Dear Sir",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Sir\nYour overdue payment of $15m which has been approved for immediate release to you.\nkindly respond for next procedures.\nMr Zakky Ali   "
+    },
+    {
+        "from": "baiter_1419",
+        "to": "scammer_1419",
+        "subject": "Re:   Dear Sir",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Zakky Ali,\n\nThank you for your message. I'm glad to hear about the approval of the overdue payment. Could you please provide more details about this? For instance, what is this payment related to? And how was it approved?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nSamantha"
+    },
+    {
+        "from": "scammer_1419",
+        "to": "baiter_1419",
+        "subject": "Re: Dear Sir",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "body": "Samantha\r\n\r\nits your overdue inheritance fund as the next of in and sole beneficiary of\r\nthe fund and you are required to go to amsterdam holland to pick up the\r\nfund by cash payment in person.\r\n\r\nlet me know if you are ready to proceed.\r\n\r\nmr zakky ali"
+    },
+    {
+        "from": "baiter_1419",
+        "to": "scammer_1419",
+        "subject": "Re: Dear Sir",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "body": "Hello Mr. Zakky Ali,\n\nThank you for reaching out to me. I'm quite surprised to hear about this overdue fund. Could you please provide more details? How did this situation come about and why is the fund located in Amsterdam, Holland? \n\nLooking forward to your response.\n\nBest wishes,\nSamantha"
+    },
+    {
+        "from": "scammer_1419",
+        "to": "baiter_1419",
+        "subject": "Re: Dear Sir",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "body": "Samantha\r\n\r\nyou dont have to be surprised becasue you are the next of in and sole\r\nbenefiairy of this fund from Jessica Karen Saunders a former contractor to\r\nfederal govermment of Nigeria on crude oil supply and maintancenace befor\r\nher death years back.\r\n\r\nthis fund was relocated to amsterdam holland so it can be easy for you to\r\npick up in person and by cash payment.\r\n\nMr Zakky Ali"
+    }
+]

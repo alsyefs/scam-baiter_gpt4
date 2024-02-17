@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1280",
+        "to": "CRAWLER",
+        "subject": "Good Day,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Good Day,\nI'm Mr Teddy Maynard,I have a business proposal that I will love to\nshare with you.\nKindly reply to me with your private/personal mail address at\nteddymaynard251@gmail.com\n.\nRegards,\nMr Teddy Maynard"
+    },
+    {
+        "from": "baiter_1280",
+        "to": "scammer_1280",
+        "subject": "Re: Good Day,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Teddy Maynard,\n\nThank you for your message. I am interested in hearing more about the business proposal you mentioned. You can reach me at this email address.\n\nBest wishes,\nKathleen"
+    }
+]

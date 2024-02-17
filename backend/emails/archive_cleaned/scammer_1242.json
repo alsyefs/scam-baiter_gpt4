@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1242",
+        "to": "CRAWLER",
+        "subject": "  Received: from 10.222.142.14",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Received: from 10.222.142.149\nReturn-Path: <steven9999james@gmail.com>\nX-Originating-Ip: [209.85.221.42]\nReply-To: \nsj205242@gmail.com\nFrom: steven james <steven9999james@gmail.com>\nDate: Thu, 20 Oct 2022 14:25:39 +0100\nMessage-ID: <CAFQC2uiVxB1xYfS-+A4sF4s+Zsr8jBCu0qUHhrYEO2zWpyTOeQ@mail.gmail.com>\nSubject: This is to Inform you  "
+    },
+    {
+        "from": "baiter_1242",
+        "to": "scammer_1242",
+        "subject": "Re:   Received: from 10.222.142.14",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear SJ,\n\nI received your message but it seems to be incomplete. Could you please provide more details or clarify what you need?\n\nBest regards,\nLewis D.\n\nBest wishes,\nPamela"
+    }
+]

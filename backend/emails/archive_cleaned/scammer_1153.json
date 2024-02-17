@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1153",
+        "to": "CRAWLER",
+        "subject": "  Hello,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Hello,\n \nI am Ramon Domingo and I live in the Philippines. I have a business proposal for you and I want you to be my partner in funds investment and also assist me to invest in a profitable business in your country.\nI will give you more details upon your response to this proposal.\n \nBest Regards,\nRamon Domingo   "
+    },
+    {
+        "from": "baiter_1153",
+        "to": "scammer_1153",
+        "subject": "Re:   Hello,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Ramon,\n\nThank you for reaching out to me with this interesting proposal. I'm always open to new opportunities and ideas. Could you please provide more details about the type of business you're interested in investing in? Also, what kind of partnership are you envisioning?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRuben"
+    }
+]

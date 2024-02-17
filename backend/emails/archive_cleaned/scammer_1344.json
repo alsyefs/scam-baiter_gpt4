@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1344",
+        "to": "CRAWLER",
+        "subject": "  The World Bank",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  The World Bank\nAvenue de la Paix 7 bis,\n1202 Genève, Switzerland\nDear Beneficiary,\n                                                PAYMENT INSTRUCTION\nAs a result of the multilateral agreement which we recently entered into with the EU, IMF,African Union and the United Nations (Global Intervention Fund Unit), we are therefore contacting you with details of the Memorandum of Understanding (MOU).Your unpaid inheritance, contracts and compensation money which has stood in the balance for so many years has been directed to be released to you through ORABANK BENIN. Note that you were contacted because your name was shortlisted among those yet to be paid off.\nYou are advised to contact Orabank via email: \norabkbjdept@gmail.com\n ) for your payment release and they will RESPOND BACK to you via THEIR officially EMAIL contact  \nYou are  advised for your own good and interest to comply with the bank due process and procedures that will ultimately aid them in the speedy processing of your payment release. This appointment/mandate to the bank does not in any way STOP the bank from observing due processes.\nRegards,\nAnshula Kant\nManaging Director\nand World Bank Group Chief Financial Officer.\nanskantwbk@gmail.com\n "
+    },
+    {
+        "from": "baiter_1344",
+        "to": "scammer_1344",
+        "subject": "Re:   The World Bank",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Anshula Kant,\n\nThank you for your email and the information provided. I am surprised to hear about this unpaid contract and money, as I was not aware of any outstanding payments due to me.\n\nCould you please provide more details about this contract? Specifically, I would like to know when and how it was entered into, the parties involved, and the nature of the services or goods provided under it.\n\nI look forward to your response.\n\nBest wishes,\nRobin"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_939",
+        "to": "CRAWLER",
+        "subject": "  Debt Management Office Niger",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Debt Management Office Nigeria\nDEBT MANAGEMENT OFFICE NIGERIA\nDear Sir.\nBe inform i was  ask to release your payment in the next 48 hrs\nAmount $17.5 Million U.S  Dollars To this regards we strictly advice\nyou to forward all  needed  information your account and your ID.On\nBehalf of the entire staff Debt Management Office Nigeria the Debt\nManagement Office remains confident in the nation’s debt servicing\nFinancial  system is been achieved.\n“Our Federal Government is mindful all contractors must be paid in the\nnext 48 hrs.\nManagement Team - Debt Management Office Nigeria\nMr. Miji Amidu   "
+    },
+    {
+        "from": "baiter_939",
+        "to": "scammer_939",
+        "subject": "Re:   Debt Management Office Niger",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Miji Idu,\n\nThank you for your email. However, I believe there may be a misunderstanding as I am not expecting any payment from the Debt Management Office Nigeria. Could you please provide more details about this matter?\n\nBest wishes,\nMary"
+    }
+]

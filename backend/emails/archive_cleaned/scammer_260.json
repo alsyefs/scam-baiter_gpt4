@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_260",
+        "to": "CRAWLER",
+        "subject": "  Dear Friend,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Friend,\nI am very happy to inform you about our success in getting those\nfunds transferred after series of meetings the pendulum swing in your\nfavor. Now, make contact with this office to procure your allocation\nwith your full name for veracity verification of document Dox-Dynamic\nOffice-U.S.A will ensure the transfer of your money into your\nnominated or designated local or foreign bank account with quick\nteller money transfer the total sum of ($9.5M) which was kept for your\ncompensation.\nThanks\nMaureen Queendasa\nPublicity Secretary Dox-dynamic Office.\nCaixa in Collaboration with Bankers Committee International   "
+    },
+    {
+        "from": "baiter_260",
+        "to": "scammer_260",
+        "subject": "Re:   Dear Friend,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Maureen Queendasa,\n\nI'm thrilled to hear about the success you've had in securing those funds! It's always great to see hard work pay off. I'm curious, though, could you provide a bit more detail about these meetings and how they led to this outcome? \n\nAlso, I'd love to understand better how the quick teller money transfer works. Is it a new technology or something that's been around for a while? And what makes it the preferred method for this transaction?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDerrick"
+    }
+]

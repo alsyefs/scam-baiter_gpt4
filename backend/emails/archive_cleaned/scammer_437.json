@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_437",
+        "to": "CRAWLER",
+        "subject": "Greetings,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Greetings,\nCompliment, My Name is Fred Mark , I have a very business investment  that will benefit both of us. If you are interested, come back to me for more details.\nGod bless you,\nBest Regards\nFred Mark\n+17153882602\nInvestment Consultant\nTime-Board Investments\n28 Church Road\nStanmore\nLondon HA7 4XR"
+    },
+    {
+        "from": "baiter_437",
+        "to": "scammer_437",
+        "subject": "Re: Greetings,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Fred Mark,\n\nThank you for your message. I'm interested in hearing more about this business investment opportunity that you mentioned. Could you please provide me with more details?\n\nBest wishes,\nAllison"
+    },
+    {
+        "from": "scammer_437",
+        "to": "baiter_437",
+        "subject": "acknowledgement",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "body": "dear   Allison\r\nThanks for your email,  I have decided however to give you a very brief\r\noverview of our company (Colonial Funding Group, LLC)\r\n An Investment, Financial and Wealth Management Company with a whole lot of\r\npackages which could be found on our website.\r\n\r\n\r\nOur staffs consists of consultants who have many years of experience in\r\nInvestment, Loan, Finance and Wealth Management that reside in major cities\r\naround the globe. These Consultants/Professionals have vision, drive and\r\nproven track records in multiple market environments and they are uniquely\r\ncapable of delivering on any opportunity given to them.\r\n\r\nAlso we have clients (Investors) which comprise mostly of business\r\nentrepreneurs (business men and women) looking for alternatives sources of\r\nincome with a niche for investment in stable economy in countries around\r\nthe world that has a solid business environment that encourages foreign\r\ninvestors..\r\n\r\nWHAT WE ARE LOOKING FOR\r\n\r\nWe are looking for companies/individuals  that wants    personal Loans,\r\ncompanies or people with good, viable and legitimate Business Proposal that\r\nneeds funding to start up or even an existing business that needs funds to\r\nstabilize or resurrect, also we can negotiate an acquisition where\r\nnecessary, we are open to listen to any proposal on these plans cos we\r\noffer both Joint Venture/Partnership business relationship and also grant\r\nBUSINESS OR PERSONAL LOANS depending on the customer's need.\r\n\r\n We have various packages but to make this introductory email as brief as\r\npossible let us limit the services to this few\r\n. We always want to know what will be done with the funds if granted, if we\r\nfind your proposal interesting/viable,.\r\n\r\nwhen you tell us the kind of loan you want then I will send you  our Loan\r\nApplication form for you ,\r\n\r\nHope we addressed most of your questions here but if you have any\r\nquestion/s or if our explanation does not relate to the package you want,\r\nfeel free to ask for more clarifications.\r\n\r\nWhile on it please get back to us so that we will know that you received\r\nour email, so tell me if you want individual loan or company loan so that\r\nwe will process the loan\r\n\r\n\r\n\nFred Mark"
+    }
+]

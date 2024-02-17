@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_326",
+        "to": "CRAWLER",
+        "subject": "HSBC LONDON UK BANK PLC.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "HSBC LONDON UK BANK PLC.\nAddress: 28 Borough High St,\nLondon SE1 1YB, United Kingdom\nPhone: +44 345 740 4404\nHello.?\nI am Dr Andrew Makinson. The Managing Director of HSBC bank of London\nUK and i am contacting you regarding to the  insertion we received\nfrom the World Bank  to release your funds sum 10.5 Million \nUnited\nState Dollars\n to you through ATM Visa Card  immediately\nSo \nyou are advice to resend your information below to  receive your\nATM Visa Card from our agent to your doorstep  immediately\nFULL NAMES: _______________\nCITY: ________________\nSTATE: ______________\nZIP: __________\nCOUNTRY_______________\nAGE: _____\nTELEPHONE NUMBER: _________\nWaiting for your urgent reply.\nWe bank in your response.\nYours in service,\nRegards,\nBEST REGARDS,\nManaging Director/HSBC UK\nDr Andrew Makinson"
+    },
+    {
+        "from": "baiter_326",
+        "to": "scammer_326",
+        "subject": "Re: HSBC LONDON UK BANK PLC.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Dr. Andrew Makinson,\n\nI am surprised to receive your email regarding the release of funds through an ATM Visa Card. However, I would like to clarify a few things before proceeding further.\n\nFirstly, could you please provide more details about this transaction? How did the World Bank come to select me for this fund release?\n\nSecondly, I would appreciate if you could explain the process in detail. How will the funds be transferred to my ATM Visa Card and what are the security measures in place?\n\nLastly, I would like to know about any fees or charges associated with this transaction.\n\nLooking forward to your response.\n\nBest wishes,\nKevin"
+    }
+]

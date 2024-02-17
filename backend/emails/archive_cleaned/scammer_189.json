@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_189",
+        "to": "CRAWLER",
+        "subject": "Attention: Beneficiary,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attention: Beneficiary,\nFollowing the just concluded meeting this morning,The senate committee\non foreign payment have today sign a deed of payment release agreement\nwith the office of the presidency to pay all outstanding foreign\nbeneficiary's funds before the next coming presidential election which\nis schedule to take place on 25th of February 2023.\nI wish to inform you that your name has been shortlisted in the second\nbatch payment release of 20 foreign beneficiary's to be paid through\nthe Central Bank Of Nigeria by 72hrs swift wire transfer confirmation.\nThe office of the presidency and the senate committee on foreign\npayment have decided to raise an Irrevocable Payment Guarantee to\ndetermine the immediate and final settlement of all approved\nContract/inheritance payment.\nPlease Note That You Have Less Than 48hrs To Get Back To This Office\nfor the fund transfer processing of your approved Contract/Inheritance\nfunds.\nDo Respond To This Email Immediately.\nBest Regard\nDr Kingsley Obiora\nFinancial Economic Policy Directorate\nCentral Bank Of Nigeria"
+    },
+    {
+        "from": "baiter_189",
+        "to": "scammer_189",
+        "subject": "Re: Attention: Beneficiary,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Dr. Kingsley Obiora,\n\nThank you for your email and the information provided. I am interested in understanding more about this process and how to proceed with it.\n\nCould you please provide me with more details regarding the next steps, any necessary documentation I need to prepare, and how long this process might take?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nWilliam"
+    }
+]

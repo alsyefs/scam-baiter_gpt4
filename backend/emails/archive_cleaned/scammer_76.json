@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_76",
+        "to": "CRAWLER",
+        "subject": "  Dear sir/ma,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear sir/ma,\nHow are you today sir/ma?.\nPlease do not ignore this vital information.\nSome rich and highly influential Saudi businessman wants to steal your\ncontract/Inheritance fund. It is not actually his fault because some\ntwo desperate and corrupt Nigeria government officials told him you\nare dead, so he is pushing the process as your heir (next-of-kin) with\na wrong belief. I am revealing this to you because I think it is not\nright what they are doing to you, and you should not be trampled upon\nand oppressed by the supper rich and the highly connected.\nI will give you more details upon your response; that is if you will\npermit me to direct you on how best to approach this situation. He has\nalready paid all the processing fees and is now awaiting Foreign\nExchange approval for the fund to be released and wired to his bank\naccount in Switzerland. But there is a delay now due to National\nrevenue drop caused by the dwindling Crude oil prize which is the\nmajor source of the country’s revenue.\nThe Saudi man is even in the country as I write this message, but you\nwill surely beat him to his games because his contacts at the\nPresidency will fail him the leadership baton has changed at the\npresidency following the defeat of his close friend (former president\nMuhammadu Buhari) by the Opposition in the just concluded Presidential\nElection.  Just get back to me very quickly, and I will guide you on\nsimple things to do to retrieve this fund immediately.\nThanks,\nAwaits your urgent response.\nRegards,\nAndrew Moss   "
+    },
+    {
+        "from": "baiter_76",
+        "to": "scammer_76",
+        "subject": "Re:   Dear sir/ma,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Andrew Moss,\n\nI hope this message finds you well. Your email certainly caught my attention, it's quite a story! I'm curious to know more about this situation. How did you come across this information? And why have you decided to share it with me?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJanice"
+    }
+]

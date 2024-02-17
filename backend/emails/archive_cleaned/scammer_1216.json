@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1216",
+        "to": "CRAWLER",
+        "subject": "  Sir / Madam ,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Sir / Madam ,\nI am writing you in respect to a contract with the Nigerian National\nPetroleum Company (NNPC). A new management has just taken over and we\ndiscovered that there is an unfinished contract with the Nigerian\nNational Petroleum Company which was due to be completed in 2018 by a\nnational of your country. The contract is worth $20.3 Million USD. We\nhave tried reaching the initial contractor but all efforts proved\nabortive. Acting with the orders of the Presidency, we had to go\nthrough your country chamber of commerce and industry to look for a\nreputable and capable individual/company to execute the completion of\nthe contract so had to contact you for this confidential information.\nDo acknowledge the receipt of this message by signifying your interest\nfor further briefing.\nKind regards,\nH.M.Sanusi\nEmail: \nhmsanusi7@gmail.com\n "
+    },
+    {
+        "from": "baiter_1216",
+        "to": "scammer_1216",
+        "subject": "Re:   Sir / Madam ,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello,\n\nThank you for reaching out and providing this information. It's quite interesting to hear about the situation with the Nigerian National Petroleum Company. I'm curious, could you tell me more about what this contract entails? What kind of work is involved in completing it?\n\nAlso, how did you come across my contact information through my country's chamber of commerce and industry? I'm just a simple individual, not a company owner or anything like that.\n\nLooking forward to hearing more from you.\n\nBest regards.\n\nBest wishes,\nMelanie"
+    }
+]

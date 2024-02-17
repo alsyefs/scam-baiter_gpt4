@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1052",
+        "to": "CRAWLER",
+        "subject": "From BANK OF AMERICA",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "From BANK OF AMERICA\nATTENTION BENEFICIARY ($2.5 Million)\nWe sent you mail several times and no respond, so Note The transfer of your funds has commenced today  as ordered by the world bank and What is required from you is only $50 for activation  of your Online transfer details which will be released to you to enable you start withdraw, For security reasons, you are advised not to expose this or the total amount of money you are receiving to Anyone else\nWe shall be provided with necessary documents covering your funds as soon as the activation fee is confirmed paid over here as we are not allowed to release vital documents without receiving your fee and commencing the transfer. \nThe $50 activation fee covers all the transfer of your full funds\n and you shall start receiving your funds from this office as soon as the payment is confirmed from you today.\nThe Federal Ministry of Finance also mandated that on no account shall any form of money be deducted from your total funds as it has to be receive in exact amount as it is recorded to avoid mistakes so you will be WITHDRAWING $10,000.00 usd daily until it completes the total amount of Two Million Five Hundred Thousand United State Dollars ($2.5 Million) as we have in our file here In addition.\nPlease i will like you to give me a Call (501) 380-729 as soon as you send the $50 to avoid delays on this transaction as we have no excess time and as you know that your funds has lasted for a very long time than given, to avoid transferring your funds into government account due to failure to comply.Hope you understand my point? So your urgent response is highly needed. You are to send the fee with CARDS mentioned below.\n(\nYOU CAN SEND IT $50 BY AMAZON CARD OR GOOGLE PLAY GIFT CARD OR ITUNES CARD\n)\nI swear If I fail to release your payment after you send the $50 as I promise don't count on me again, I cannot fail you, I promise you, don’t fear as soon as you send the $50. Today please leave the rest to me and see if I am lie to you because I can not use my life swear because of $50. how can I swear against my life because of this small amount? it is to show you that I am telling you the truth.\nREGARDS\nMR GARRY JOHN"
+    },
+    {
+        "from": "baiter_1052",
+        "to": "scammer_1052",
+        "subject": "Re: From BANK OF AMERICA",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Garry John,\n\nThank you for your email. I must say, it's quite an exciting prospect to be receiving such a large sum of money! I'm just a little confused about some parts of your message.\n\nYou mentioned something about an activation fee that needs to be paid. Could you please explain more about this? How much is the fee and why is it necessary?\n\nAlso, you mentioned sending the fee with CARDS like AZON CARD, GOOGLE PLAY GIFT CARD or ITUNES CARD. I'm not very familiar with these methods of payment. Could you please provide more details on how they work?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nMisty"
+    }
+]

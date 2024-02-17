@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1019",
+        "to": "CRAWLER",
+        "subject": "   Hello  ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Hello  \nOur words makes us who we are. Yes I did call the number the same say you returned the incomplete contract meaning not mentioning your passport details.\nEither you travel to Conakry and buy the gold or you pay for the gold and we ship to your designated address because we do ship worldwide once payment is done.\nLast week we received a lot of buyers from the United States of which I can send you their visas copies . There is nothing like Covid-19 restrictions. Americans tou do your test in your country and you will be issue a certificate that testifies that you have done your Covid-19 test. You are allow on the plane once you have that and at your final destination Guinea Conakry it will also be checked and once ok you go out of of the airport and a cross section of our staffs will be there to pick you up. We are receiving buyers from UK, Sweden, USA, Dubai, Saudi Arabia and more of which we have copies of their visas. \nSo  I found it very difficult to agree with your points you are making.\nRegards\nOliva Obrien.  "
+    },
+    {
+        "from": "baiter_1019",
+        "to": "scammer_1019",
+        "subject": "Re:    Hello  ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Oliva Obrien,\n\nThank you for your detailed response. It's fascinating to hear about the global reach of your operations, with buyers from all over the world. I'm curious, how do you manage such a diverse clientele? \n\nAlso, could you please elaborate on the process of buying gold and shipping it? I'm not very familiar with this process and would appreciate some more information.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nChris"
+    }
+]

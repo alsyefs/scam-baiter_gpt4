@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1010",
+        "to": "CRAWLER",
+        "subject": "  Dear Friend,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Friend,\ncompensation to all your lost funds that you have been scammed to get them back thoroughly bitcoin if you want your money back just get back to me for more information.\nWorld Bank Fraud Department and BTC Satoshi Nakamoto\nI await to hear from you back.\nMark Patrick\nManager Bitcoin    "
+    },
+    {
+        "from": "baiter_1010",
+        "to": "scammer_1010",
+        "subject": "Re:   Dear Friend,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mark Patrick,\n\nThank you for reaching out. However, I must clarify that I have not been a victim of any scam nor have I lost any funds. Therefore, there is no need for me to retrieve any money.\n\nI appreciate your concern and the work you are doing to help those who have been scammed.\n\nBest wishes,\nLisa"
+    }
+]

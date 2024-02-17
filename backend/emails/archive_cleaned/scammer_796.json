@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_796",
+        "to": "CRAWLER",
+        "subject": "My Dear I wish to establish a ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "My Dear I wish to establish a charity foundation to help the poor in\nyour country under your care, Can you help to build this project in\nyour country?I am willing to donate my late husband's funds to the\nless privileges for the help of mankind. All i need from you is your\nsincerity to use this funds to do this project as i desired to use it\nfor less privileged ones and orphanage homes, We are the one who will\nmake the world a better place when we help the needies,Let me read\nfrom you today and know your opinion in doing this project for the\nbenefit of mankind in your country,Remain blessed,Mrs Lina Gabriel"
+    },
+    {
+        "from": "baiter_796",
+        "to": "scammer_796",
+        "subject": "Re: My Dear I wish to establish a ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Lina Gabriel,\n\nI'm truly touched by your noble intentions to help the less privileged and orphanage homes. It's indeed a great initiative to make the world a better place. I would love to hear more about this project.\n\nCould you please share more details about how you envision this charity foundation? What are some of the specific areas or issues that you want this project to address?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMichael"
+    }
+]

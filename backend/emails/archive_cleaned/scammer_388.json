@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_388",
+        "to": "CRAWLER",
+        "subject": "   We noticed that some prize ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   We noticed that some prize remain unclaimed and your email ID appeared to be among the lucky winners who have not filed for the claim of their award prize.\n \nYour email ID  won during the Mega Millions International Lottery, Megamillions, Monthly Play, Thunder ball, Hot picks which is an internet giveaway program whereby email addresses extracted from the internet, and the winners selected from a ballot draw.\n \nNote, that tickets are not sold anywhere for this program; hence, your e-mail address subsequently won you in the 3rd category, i.e. match five plus bonus.\n \nYou have been approved for over two months to claim a total sum of One Million United States Dollars, credited to file GOLDEN/9GM/327752.\n \n \nSincerely yours,\nElizabeth Lyons\nMega Millions International Lottery\nInternational claims agent.   "
+    },
+    {
+        "from": "baiter_388",
+        "to": "scammer_388",
+        "subject": "Re:    We noticed that some prize ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Elizabeth Lyons,\n\nWow, this is such exciting news! I can't believe my email ID won in the Mega Millions Lottery. I've never been this lucky before. Could you please tell me more about how this works? How was my email selected and what does \"match five plus bonus\" mean?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nSusan"
+    }
+]

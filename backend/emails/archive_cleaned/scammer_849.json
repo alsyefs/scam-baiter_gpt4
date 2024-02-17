@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_849",
+        "to": "CRAWLER",
+        "subject": "    Hello Beneficiary,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "    Hello Beneficiary,\nI'm Mrs. Mavis Wanczyk, the mega winner of $758 Million in Mega\nMillions Jackpot, I am donating to 5 random individuals if you get\nthis email then your email was selected after a spin ball. I have\nspread most of my wealth over a number of charities and organizations.\nI have voluntarily decided to donate the sum of $17.5 Million USD to\nyou as one of the selected 5, to verify my winnings via YouTube page\nbelow.\nWATCH ME HERE: https:/ /www.youtube.com/watch?v=IC2AbaOmpBQ\nTHIS IS YOUR DONATION CODE: FE207162\nPlease reply with the DONATION CODE along with your account details\nwhere your donation fund will be send. And kindly note that the payout\npolicy allows you to receive this donation via bank to bank transfer\nto your personal account, or in the form of check or atm debit card in\nyour name delivered to your address. Kindly choose one of the\navailable options and get back to me so that your donation fund can be\nsend to you.\nOption 1: Via ATM debit card or CHECK\nYour Full Name:\nYour Address:\nYour Telephone:\nOption 2: Via bank to bank transfer\nYour Full Name:\nYour Address:\nYour Telephone:\nBank Name:\nBank Address:\nAccount Number:\nAccount Name:\nSwift Code:\nRegards,\nMrs. Mavis L. Wanczyk\nmavwanczyk@outlook.com\n "
+    },
+    {
+        "from": "baiter_849",
+        "to": "scammer_849",
+        "subject": "Re:     Hello Beneficiary,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mrs. Mavis Wanczyk,\n\nI am truly humbled and grateful for your generous offer. It's not every day that one receives such a life-changing opportunity from a complete stranger.\n\nHowever, I would like to clarify a few things before we proceed. Could you please provide more information about the organization or charity through which you are making this donation? Also, could you please explain why my email was selected?\n\nOnce again, thank you for considering me for this donation. I look forward to hearing from you soon.\n\nBest wishes,\nPhillip"
+    }
+]

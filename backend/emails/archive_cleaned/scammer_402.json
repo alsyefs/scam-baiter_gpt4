@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_402",
+        "to": "CRAWLER",
+        "subject": "  Attention",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Attention\nSir\nHow are you?\niam  Barrsiter  charles williams   appointed to supervise  and release all over due fund  this jan 2024 that have  not received there fund in which your is among.\nonce more very sorry for the past experance and delayed.\nyour fund have been released  , cross check and confirm receipt of your released fund  as to avoid\nwrong receipt. once more  very sorry and confirm. congratulations\nalways reply to ; \nesqhumanright@gmail.com\nsincerely\nCharles williams  Esq   "
+    },
+    {
+        "from": "baiter_402",
+        "to": "scammer_402",
+        "subject": "Re:   Attention",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Charles Williams Esq,\n\nI hope this message finds you well. I'm quite intrigued by your email, although I must admit, it's a bit unexpected. Could you please provide more details about this overdue fund? How was my name associated with it?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nDennis"
+    }
+]

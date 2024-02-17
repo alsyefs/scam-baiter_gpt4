@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_403",
+        "to": "CRAWLER",
+        "subject": "    Euroclear, Press Relations",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "    Euroclear, Press Relations\nCorporate Communications & Investor Relations Manager\nOffice Address: 40 Wall St # 39, New York, NY 10005 USA.\nUrgent Attention Dear Beneficiary\nMy name is Mr. Thomas Churchill, the newly appointed Euroclear Bank\nManager in the New York Branch. This is to bring the good news to you that\nI have been mandated by the United States President Joe Biden in\nconjunction with the United Nations secretary General Mr. Antonio\nGuterres the US Congress Committee on Foreign Debts Reconciliation and\nImplementation Panel on contract/inheritance/compensation funds to\ncomplete all the unpaid Contract/inheritance/lottery fund. You are\nrequired as a matter of urgency to reconfirm your information\nincluding your Name, telephone Number E-mails and address for\nverification and immediate payment within 24 hours.\nTo this effect, the sum of THREE MILLION, FIVE HUNDRED THOUSAND UNITED\nSTATES DOLLARS (US$3.5M) has been approved for you. I wish to inform\nyou that all matters relating to the release of this payment is now\nunder my control and supervision. This development has become\nnecessary due to the activities of unpatriotic government of  many\nAfrican Asian and some European Countries officials and impostors who\nkeep on frustrating every effort to settle clients by making requests\nfor unauthorized fees and levies from them.\nWe apologize for any delay you might have encountered in the past your\npayment is now 100% Guaranteed\nKindly provide your personal information listed below:\nFull Name\nAddress\nDate of Birth -\nTelephone Number\nRegards,\nMr. Thomas Churchill\nEuroclear, Press Relations\nCorporate Communications & Investor Relations Manager\nOffice Address: 40 Wall St # 39, New York, NY 10005 USA.\nEmail: \neuroclearinvestment7@gmail.com\n "
+    },
+    {
+        "from": "baiter_403",
+        "to": "scammer_403",
+        "subject": "Re:     Euroclear, Press Relations",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Thomas Churchill,\n\nThank you for your email and the good news it contains. I am glad to hear that my payment is now guaranteed.\n\nHere are the details you requested:\n\nFull Name: Eliza Dane\nAddress: 1234 Main Street, Sydney, Australia\nDate of Birth: 01/01/1980\nTelephone Number: +61 2 1234 5678\n\nI look forward to hearing from you soon regarding the next steps in this process.\n\nBest wishes,\nBlanche"
+    }
+]

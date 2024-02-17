@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_69",
+        "to": "CRAWLER",
+        "subject": "  Attention",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Attention\nI write to inform you that your name is among the beneficiaries that\nwill receive their funds of US$10.5 Million (Ten Million Five Hundred\nThousand United States Dollars Only) this third quarter of the fiscal\nyear 2022.   "
+    },
+    {
+        "from": "baiter_69",
+        "to": "scammer_69",
+        "subject": "Re:   Attention",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nI received your message regarding the funds of US $10.5 Million that I am supposedly set to receive this fiscal quarter. However, your message lacks specific details and a proper signature. Could you please provide more information about this matter? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJessica"
+    }
+]

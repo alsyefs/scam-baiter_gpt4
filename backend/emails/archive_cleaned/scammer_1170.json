@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1170",
+        "to": "CRAWLER",
+        "subject": "  Address Street:N0,5 Ådalen C",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Address Street:N0,5 Ådalen City: Frederiksberg C\nState/province/area:Region Sjaelland\nZip code 1900 Country Denmark.\nAttn,\nThanks For Choosing Our Investment Firm,\nWith Due Respect,   \nWe are into project financing, if you have any good projects that need funding Kindly contact us for financing your investment. We also give loans to both Corporate and private entities at a low interest rate of  3% ROI Per Annum. We also pay 2% commission to brokers, who introduce project owners for finance or other opportunities.\nOur investment funding can provide direct loans of more than US$10 Billion with flexible repayments structure that's tailored to resuscitate your business.\nWe provide investment loans to many sectors and geographies, these include; energy, agriculture,oil,real estate, pharmaceutical , tourism, start-ups, mining, manufacturing sectors  and more.I would be delighted to discuss further with you as we are open to offer direct lending to any interested *borrower.\nOur website and contact details will be forwarded to you as soon as we hear from you.\nYour sincere response will be highly appreciated.   \nRegards.\nMr.Richard Fairbank.   "
+    },
+    {
+        "from": "baiter_1170",
+        "to": "scammer_1170",
+        "subject": "Re:   Address Street:N0,5 Ådalen C",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Fairbank,\n\nThank you for your message and the offer to finance projects. I am currently involved in a few ventures that could benefit from additional funding.\n\nBefore we proceed, I would like to know more about your firm and its investment criteria. Could you please provide me with more information about the sectors you are most interested in, the typical size of investments you make, and any other requirements or conditions?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nGlenn"
+    }
+]

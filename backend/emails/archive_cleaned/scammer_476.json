@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_476",
+        "to": "CRAWLER",
+        "subject": " Dear Sir,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " Dear Sir,\nYou mean you are not ready to claim your fuds??\nThanks\nFrederick Williams   "
+    },
+    {
+        "from": "baiter_476",
+        "to": "scammer_476",
+        "subject": "Re:  Dear Sir,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Frederick Williams,\n\nThank you for reaching out to me. I'm not quite sure what you mean by \"claiming my fuds\". Could you please provide more details about this? I'm always eager to learn new things.\n\nLooking forward to your response.\n\nBest wishes,\nSummer"
+    }
+]

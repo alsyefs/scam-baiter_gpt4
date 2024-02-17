@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_757",
+        "to": "CRAWLER",
+        "subject": "   Delivery of Your ATM (MASTE",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Delivery of Your ATM (MASTER) Card,\nBe informed that after the investigations into some irregular payments\nby the bank, the government of federal republic of Nigeria in\nconjunction with the apex Bank of America, has formalized arrangements\nto commence the payment of your outstanding payment of $1,500,000.00\n(One million five hundred thousand United State Dollars only) to you\nthrough this esteem bank, by ATM master card.\nBy this new payment arrangement, you are to enjoy less costs as your\npayment has already been approved to be loaded into a MASTER (ATM)\ncard which will be delivered to you at your preferred destination in\nyour country. The ATM card you will access your funds from any ATM in\nover 170 countries and can be used at P.O.S  globally.\nSo go ahead and furnish us with the following information below for\naccurate delivery without mistakes:\n1. Your full names....................................................\n2. Delivering address P.O.BOX not accepted............................\n3. Country/State......................................................\n4. Occupation.........................................................\n5. Telephone number...................................................\n6. Age................................................................\n7. Have you ever receive ATM card before..............................\nThe receipt of the above-listed requirements by our ATM master Card\nUnit assures safe delivery of your loaded ATM card to your destination\nwithin 72 hours.Take note that as soon as the parcel is on transit\nyour tracking number will be forward to you so that it will enable you\nto track your package over there and know when it will get to your\naddress. Let me repeat again, try and reconfirm your delivery\ninformation as soon as you receive this email to avoid any further\ndelay and take note that your pin code of your ATM master card is\n(((7864))) do not expose it to anybody. And try to call me, as soon as\nyou receive this email, so that I will be rest assured that this\nmessage get to you safety. Accept our congratulations.\nFaithfully yours\nMR.KEN TAYLOR  "
+    },
+    {
+        "from": "baiter_757",
+        "to": "scammer_757",
+        "subject": "Re:    Delivery of Your ATM (MASTE",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Taylor,\n\nThank you for your email. I am excited to hear about the ATM Master Card. However, I would like to clarify a few things before we proceed.\n\n1. Could you please provide more details about the irregular payments by the bank that led to this decision?\n2. How was my name chosen for this payment? \n3. What security measures are in place to ensure that my ATM Master Card will be delivered safely and only used by me?\n\nOnce these questions are answered, I will be happy to provide the information you requested.\n\nBest wishes,\nJustin"
+    }
+]

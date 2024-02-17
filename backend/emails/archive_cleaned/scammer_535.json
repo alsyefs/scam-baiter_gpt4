@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_535",
+        "to": "CRAWLER",
+        "subject": "We are an automotive logistics",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "We are an automotive logistics services company specialising in Vehicle Transportation, Vehicle Processing Services, Fleet Services and Dealer Services. We take the time to deliver superior results with every service. Our company provides all types of car shipping, including motorcycle and vintage collector car transport. We move vehicles with open and enclosed carriers. Whether they run or not, we can get the job done."
+    },
+    {
+        "from": "baiter_535",
+        "to": "scammer_535",
+        "subject": "Re: We are an automotive logistics",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Valued Customer,\n\nThank you for reaching out to us. We are indeed a leading automotive logistics services company, offering a wide range of services including Vehicle Processing Services, Fleet Services and Dealer Services. \n\nWe pride ourselves on delivering superior results with every service we provide. Our comprehensive car shipping services cater to all types of vehicles, including motorcycles and vintage collector cars. Whether your vehicle is operational or not, we have the expertise and resources to get the job done.\n\nWe offer both open and enclosed carriers to suit your specific needs and ensure the utmost safety of your vehicle during transit. Our team of professionals is committed to providing you with a seamless experience from start to finish.\n\nPlease feel free to contact us if you need more information or if you would like to schedule a service. We look forward to serving you.\n\nBest wishes,\nJohnnie"
+    }
+]

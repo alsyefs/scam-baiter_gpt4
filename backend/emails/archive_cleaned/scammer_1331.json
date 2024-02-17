@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1331",
+        "to": "CRAWLER",
+        "subject": "  FROM THE DESK OF MR.MOHAMMED",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  FROM THE DESK OF MR.MOHAMMED UMAR ABBA EXECUTIVE CHAIRMAN ECONOMIC AND FINANCIAL CRIMES COMMISSION (E.F.C.C) IN CONJUNCTION WITH THE FEDERAL BUREAU OF INVESTIGATION (F.B.I) N0.15A AWOLOWO ROAD,IKOYI LAGOS-NIGERIA.WEST-AFRICA.\nDear Sir/Madam,\nFRAUD PREVENTION / FINAL PAYMENT NOTICE.\nTo begin, we'll introduce the Economic and Financial Crimes Commission (EFCC). In Africa, America, and London, we tackle cyber crime, Internet fraud, scams, and money laundering (United Kingdom). Our commission has been around since 2004, and our aim is to combat Internet fraud.\nI'm not sure what you think of me because \nI can guarantee you that this is not one of those scam emails you get;\n I'm giving you my word on it. All you have to do is provide the required information to the CONTACT PERSON: Mr.Tony Elumelu (chairman of Heirs Holdings). I must state that all we are doing is for your benefit and to ensure that your payment reaches you without delay.\nCONTACT PERSON: Mr. Tony Elumelu (\nmrtonye63@gmail.com\n) with the following data of yours immediately as we intend finalizing this payment in a few days’ time.\nYOUR NAME:\nYOUR HOUSE ADDRESS:\nYOUR DIRECT MOBILE NUMBER:\nOCCUPATION:\nVALID ID:\nDATE OF BIRTH:\nPlease notify me as soon as you receive email from PERSON TO CONTACT: Mr. Tony Elumelu (PAYMENT DIRECTOR), as his bank is the only one authorized by the government to pay you the sum of $8,500,000.00, please contact him.\nRegards,\nMr. Mohammed Umar Abba.\nEFCC Executive Chairman.   "
+    },
+    {
+        "from": "baiter_1331",
+        "to": "scammer_1331",
+        "subject": "Re:   FROM THE DESK OF MR.MOHAMMED",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Mohammed Umar Abba,\n\nThank you for your email and the work that your commission is doing to combat internet fraud, scams, and money laundering. It's reassuring to know that there are organizations like yours working tirelessly to ensure the safety of individuals online.\n\nHowever, I would appreciate if you could provide more details about the payment you mentioned in your email. I am not aware of any pending payments on my end.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nPortia"
+    }
+]

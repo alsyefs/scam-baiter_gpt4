@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_745",
+        "to": "CRAWLER",
+        "subject": "  Hello Sir/Madam,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Hello Sir/Madam,\nI only got your contact details from the South Africa Exchange Information On-line Service on my personal programmed search on the internet for a reputable company or individual to assist me sincerely & confidential which your information & profiles were very satisfactory, so I decided to contact you immediately.\nIt is my great pleasure to write you this letter. Within the Eskom Holdings Limited where I work as a Director of Audit and Project Implementation, I have in my possession an overdue payment in US funds.\nThe said funds represent a certain percentage of the total contract value executed on behalf of my Department by a foreign contracting firm, which, I the official over-invoiced to the amount of US$45,000, 000.00 (Forty Five Million United States Dollars). Though the actual contract cost has been paid to the original contractor leaving the excess balance unclaimed. Since the present elected Government is determined to pay foreign contractors all debts owed, so as to maintain a good relationship with foreign governments and non-government agencies, I included the bills for approvals with the Department of Finance and the South Africa Reserve Bank (SARB).\nI am seeking your assistance to front as a beneficiary of the unclaimed funds since I am not allowed to operate foreign accounts, details, and change of beneficiary information upon application for claim to reflect payment and approvals will be secured on behalf of you/your Company. I have to propose that should you be willing to assist me in this transaction your share as compensation will be (35%), and the balance of (65%) will be for me. The business is completely safe and secure, provided you treat it with the utmost confidentiality. It does not matter whether you/your Company does contract projects, as a transfer of powers will be secured in favor of you/your Company. Also, your area of specialization is not a hindrance to the successful execution of this transaction.\nI have reposed my confidence in you and hope that you will not disappoint me.\nFor more information’s kindly direct reply to me immediately.\nThanks for your co-operation.\nKindest Regards,\nMr.Simone Kante.   "
+    },
+    {
+        "from": "baiter_745",
+        "to": "scammer_745",
+        "subject": "Re:   Hello Sir/Madam,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Kante,\n\nThank you for your email and the opportunity. However, I would need more information about this business proposal before I can make a decision. Could you please provide more details about the nature of the contract, how the funds became unclaimed, and what exactly would be required of me in this process?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nSteven"
+    }
+]

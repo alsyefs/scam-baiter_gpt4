@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_590",
+        "to": "CRAWLER",
+        "subject": "PJ PAPER Company Thailand is d",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "PJ PAPER Company Thailand is distributor, wholesale supplier and exporters of A4 Copy Papers in the worldwide market. We have successfully reached a huge clientele with our qualitative product range. PJ PAPER Company Thailand is THAILAND based company. We have long years of experience in paper industry. The CEO of PJ PAPER Company Thailand, has some principle and has gained huge success in the paper industry. We have long expertise and resources to provide our clients with a complete range of products and services with 100% satisfaction. 100% Client Satisfaction Competitive Prices 24X7 Support\nhttps: // pronnpiphatsuppliescoltd.com/\nrojanapaper@gmail.com\nPage created - December 25, 2018"
+    },
+    {
+        "from": "baiter_590",
+        "to": "scammer_590",
+        "subject": "Re: PJ PAPER Company Thailand is d",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nThank you for sharing this information about PJ PAPER Company Thailand. It's interesting to know that your company has a long history in the paper industry and has achieved great success under the leadership of your CEO.\n\nI'm curious, what kind of products does your company specialize in? And could you tell me more about the \"Client Prices Support\" service you mentioned?\n\nLooking forward to hearing from you.\n\nBest wishes,\nMorris"
+    }
+]

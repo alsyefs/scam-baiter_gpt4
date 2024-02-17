@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_737",
+        "to": "CRAWLER",
+        "subject": "  BANK OF CHICAGO",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  BANK OF CHICAGO\nDear beneficiary,\nThis is to acknowledge receipt of your message. Chicago company is eradicating poverty and the scam victims  and you're among the 3 Lucky\npeople listed.Your ATM MASTER CARD of $50 million dollars was registered with TNT Express Delivery. You will receive it within 12 hours.Your ATM\nMASTER CARD will be handed over to you in person at the address you will\nprovide below. Note, that ATM MASTER CARD must get to your address\nwithin 12 hours once you reconfirm your receiving address as demanded\nbelow.\nCONFIRM YOUR DELIVERY ADDRESS BELOW AND LET US KNOW IF THERE IS ANY\nCHANGE:\nRECEIVER'S NAME:_\nDELIVERY ADDRESS:___\nDIRECT CELL NUMBER:_\nCOUNTRY:___\nOCCUPATION:____\nE-MAIL (1):___\nE-MAIL (2):___\nSEX:____\nWORKING ID:____\nAsk him how you can get your ATM CARD of $50 million dollars\nFrom Chicago company World Bank Group   "
+    },
+    {
+        "from": "baiter_737",
+        "to": "scammer_737",
+        "subject": "Re:   BANK OF CHICAGO",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nI am grateful for your message and the opportunity to receive the ATM Master Card. However, I would like to clarify a few details before proceeding further.\n\nCould you please provide more information about the Chicago company World Bank Group? Also, could you specify the exact amount that has been registered on the ATM Master Card?\n\nHere is my delivery address:\n\n\n\n\n\nPlease let me know what the next steps are in this process.\n\nBest wishes,\nHenry"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1316",
+        "to": "CRAWLER",
+        "subject": "  Dear Beneficiary.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Beneficiary.\nWe received a memo from the relevant authority in IMF directing that\nwe  should calculate all accumulated interest from your outstanding\ninheritance fund of US$25million\nand effect payment to you without delay through our affiliate\nbank,Commonwealth Bank Australia.\nIn view of this ,we have made the calculation and the accrued interest\nfrom your fund stands at USD2,750. only.\nWe have worked out three modes of payment with regard to this accrued\ninterest payment.\nThus,we have  (1) Payment by Cashiers Check (2) Payment by ATM  Debit\ncard and (3) Payment by Bitcoin.\nYou are advised to chose any option of payment through which you want\nto receive this accrued interest and get back to us as soon as\npossible.\nWhile replying,please include your address,your phone number and copy\nof your valid ID.\nYour urgent response will be appreciated. Please reply to :\nbaronwilliams.equity@gmail.com\n.\nContact person: Baron Williams. Phone:+1716 562 6397.\nThank you\nMr. Max Fletcher.\nOperations Department (UNFCC)\nOfficer In-Charge   "
+    },
+    {
+        "from": "baiter_1316",
+        "to": "scammer_1316",
+        "subject": "Re:   Dear Beneficiary.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Max Fletcher,\n\nThank you for your email and the information provided. I would like to proceed with the payment by ATM Debit card. \n\nPlease find attached a copy of my valid ID and my phone number is +1-234-567-890.\n\nLooking forward to your prompt response.\n\nBest wishes,\nDenise"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_368",
+        "to": "CRAWLER",
+        "subject": "  Dear Sir,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Sir,\nThe purpose of this business proposal is to alert you of the Global\ndiversification quest which you have the opportunity to take advantage\nof, if you have a business investment project that lacks funding.\nMy clients are presently seeking international portfolio\ndiversification as a business expansion strategy. They are currently\ninterested in debt finance only [pure loan] without any sector or\nregional restrictions and ready to facilitate and fund any business\nthat is capable of generating at least 3% annual return on investment.\nBelow are brief on the Investment Portfolio:\n  Minimum and Maximum Funding: $1 Million to $400 Million USD\n  Placement Opens to: Entrepreneurs, Corporations and Investors\n  Funding Type: Loan Investment\n  Term: 2-15 years - Repayment/ Renewable tenure\nBased on the above information, we shall be glad to receive your\nProject Plan/Executive Summary in a compatible format\n(PDF-recommended) for our review. if you have any project funding need\nand interested to discuss further\nRegards\nMr. Ashley Barley\nChief Operating Officer\nCaspian Point One, Pierhead Street,\nCadiff CF10 4DQ,\nUnited Kingdom\n/www.creditsafe.com   "
+    },
+    {
+        "from": "baiter_368",
+        "to": "scammer_368",
+        "subject": "Re:   Dear Sir,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Ashley Barley,\n\nThank you for reaching out and sharing this intriguing business proposal. It's quite interesting to hear about your clients' willingness to fund projects that can generate a substantial annual return.\n\nCould you please provide more details about the kind of projects your clients are interested in? Are there any specific industries or sectors they prefer? Also, what is the minimum and maximum amount they are willing to invest?\n\nI'm looking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJune"
+    }
+]

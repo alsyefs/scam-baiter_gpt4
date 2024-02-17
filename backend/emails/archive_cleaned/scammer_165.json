@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_165",
+        "to": "baiter_165",
+        "subject": "Payment Transfer Update",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "0",
+        "body": "U.S.A GOVERNMENT,WORLD BANK,UNITED NATION ORGANIZATION OFFICIAL APPROVAL\r\nACCRUED INTEREST PAYMENT VALUED US$587,491.00.\r\n\r\n            Appreciations on your quick response.\r\n\r\nAttention; Melanie\r\n\r\nAn error was discovered in our payment database and we sincerely apologize\r\nfor the mix-up for not have received your accrued interest fund while\r\nnoting strongly that course it,\r\n\r\nIn a nutshell, we will pay your funds through our paying bank here in\r\nAmerica.\r\n\r\nYou are advised to provide a copy of your id,Address and Phone number to\r\nreach you for the processing of your payment.\r\n\r\nAwaiting for your urgent response while we trust that you will cooperate\r\nwith us to finally receive your fund.\r\n\r\nThanks in anticipation.\r\n\r\nSincerely,\r\n\r\nTheresa Brown (Ms.)\r\nUNITED NATION,USA.\r\nUnited Nation Grant Alleviation Allocation Programme (UNGAAP)"
+    },
+    {
+        "from": "baiter_165",
+        "to": "scammer_165",
+        "subject": "Re: Payment Transfer Update",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Theresa Brown Ms.,\n\nThank you for reaching out to me. I'm quite surprised to hear about this accrued interest fund. Could you please provide more details about it? How did this error occur in your payment database?\n\nAlso, could you explain a bit more about the United Nation Grant Allocation Programme (UNGAAP)? I'm not familiar with it and would love to understand better.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMelanie"
+    },
+    {
+        "from": "scammer_165",
+        "to": "baiter_165",
+        "subject": "Clarification",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "body": "U.S.A GOVERNMENT,WORLD BANK,UNITED NATION ORGANIZATION OFFICIAL APPROVAL\r\nACCRUED INTEREST PAYMENT VALUED US$587,491.00.\r\n\r\nAttn: Melanie.\r\n\r\nAcknowledged is the receipt of your message.\r\n\r\nYour accrued interest fund emanated from your original total principal fund\r\nthat you were unable to claim for a very long time now due to you're\r\nfinancially incapacitated.\r\n\r\nNow, we deem it necessary to calculate from your principal total sum, the\r\naccumulated interest since it started being in the bank custody till date\r\nand we came to the total of US$587,491.00 as your total interest fund.\r\n\r\n Hence, the interest fund was now approved for you to receive it first via\r\nour paying bank (GOLDEN BANK OF AMERICA) and then use it to claim your\r\ntotal principal sum that is still in the bank.\r\n\r\nHowever, do make haste for us to start processing your accrued interest\r\nfund because it has a specific time frame for us to start off now and it is\r\nonly the IMF CLEARANCE required from you to claim this funds,so i urge you\r\nto make sure you provide clearance or you pay a token of $3,250 to obtain\r\nit to enable a lawyer procured the clearance and you receive your payment\r\nfrom the bank without paying any fee.\r\n\r\nThanks for your understanding.\r\n\r\nSincerely,\r\n\r\nTheresa Brown (Ms.)\r\nUNITED NATION,USA.\r\nUnited Nation Grant Alleviation Allocation Programmed (UNGAAP)"
+    }
+]

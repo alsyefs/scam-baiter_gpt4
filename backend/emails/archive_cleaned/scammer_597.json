@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_597",
+        "to": "CRAWLER",
+        "subject": "  On Tue, 11 Jun 2019,  ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  On Tue, 11 Jun 2019,  \nSYZ PRIVATE BANK, <info@syzpbank.com> wrote:\nFrom The Desk Of Mr. Eric Max Charles\nSYZ PRIVATE BANK\nSWITZERLAND BRANCH\nRe: Fund Transfer Your message dated 11/06, 2019 refers.\nDEAR VALUED CUSTOMER,\nThis is to inform you that all directive has been accorded to your file except you have not taken it upon yourself to finalize possible conclusion to this transaction as its policies stipulates.\nThis is a reliable institution and we cannot bend the policies base on one man's decision, you need to follow procedures as demand. The only pending situation as stated on your file is the normalization of your coordinates to facilitate the process of your outstanding payment. All you need do is to fulfill the sum of 1800$ as expressed in  terms.\nTalking in circles at this point is uncalled for since the regulation and policies on ground can not be shifted based on sentiment. The decision is left with you to make and have your long outstanding payment released accordingly.\nThanks.\nYours faithfully\nGroup Chief Executive Officer\nName: Mr. Eric Max Charles\nTel:+41-44-586-4119\n-------------------------------------------------------------------------- --------------------------------------------------------------------------------\nThis email and any attachments are confidential and are intended solely for the addressee. If you are not the addressee tell the sender immediately and destroy it. Do not open, read, copy, disclose, use or store it in any way, or permit others to do so. Emails are not secure and may suffer errors, viruses, delay, interception, and amendment. SYZ PRIVATE BANK SWITZERLAND and its subsidiaries do not accept liability for damage caused by this email and may monitor email traffic\n "
+    },
+    {
+        "from": "baiter_597",
+        "to": "scammer_597",
+        "subject": "Re:   On Tue, 11 Jun 2019,  ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Eric Max Charles,\n\nThank you for reaching out to me and providing this information. I appreciate your time and effort in explaining the situation.\n\nI understand that there are certain procedures that need to be followed, as per the policies of SYZ PRIVATE BANK. However, could you please elaborate on what exactly is required from my end? You mentioned a sum that needs to be fulfilled, but I'm not quite sure about the specifics.\n\nAlso, could you provide more details about the payment process? How long does it usually take and what are the steps involved?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMarcus"
+    }
+]

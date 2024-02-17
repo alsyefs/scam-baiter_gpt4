@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1297",
+        "to": "CRAWLER",
+        "subject": "  Hello",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Hello\nHow are you doing today? I have a business proposal for you and I will\nlike us to\ndiscuss more so that I can give you more details. It is 100% legal.\nI patiently wait for your response.\nRegards.\nTom Benson   "
+    },
+    {
+        "from": "baiter_1297",
+        "to": "scammer_1297",
+        "subject": "Re:   Hello",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Hello Tom,\n\nI'm doing well, thank you. I'm intrigued by your business proposal. Could you please provide more details about it?\n\nBest wishes,\nLuz"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_374",
+        "to": "CRAWLER",
+        "subject": "  ATTN: BENEFICIARY,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  ATTN: BENEFICIARY,\nThis is to officially inform you that we have verified your inheritance file and found out that why you have not received your payment is because you have not fullfilled the obligations given to you in past in respect of your inheritance payment.\nSecondly, we have been informed that you are still dealing with the non officials of this Department. We wish to advice you that such an illegal act like these have to stop if you wish to receive your payment since we have decided to bring solution to your problem. Right now we have arranged your payment through Our SWIFT CARD PAYMENT CENTER ASIA PACIFIC of CAPITAL TRUST BANK PLC that is the latest instruction from  Finance Minister FEDERAL REPUBLIC OF BENIN. This card center will send you  ANY ATM CARD worth your inherited fund of $1.2,000 000usd which you will use to withdraw your money in any ATM  MACHINE in any part of the world but the maximum withdrawal pay day is $10,000usd,so if you like to receive your fund this way please let us know by contacting THE PAYMASTER GENERAL CARD PAYMENT CENTER  DR JERRY PETER\nOn this  Email address: \necobankplc0@seznam.cz\nDirect Open Tel/fax:\nAnd also send the following informations:\n1. Your full name......\n2. Phone ........\n3.whatsA-PP number.....\n6.Your country.........\n7. Address where you want them to send the ATM SWIFT CARD.\n8. Your age......\n9. occupation..............\n10. Please note that the only money you will pay is the activation fee.\nThe ATM CARD PAYMENT CENTER has been mandated to issue out USD1.2,000 000$ as your full payment for the fiscal year 2014. Also for your information, You have to stop any further communication with any other person(s) or offices(s) to avoid any hitches in receiving your payment. For oral discussion, Call or email me back as soon as you receive this important message for further direction and also update me on any development from the above mentioned office.\nNOTE THAT BECAUSE OF IMPOSTORS, WE HEREBY ISSUED YOU OUR CODE OF CONDUCT,WHICH IS (ATM-822) SO YOU HAVE TO INDICATE THIS CODE WHEN CONTACTING THE CARD CENTER BY USING IT AS YOUR SUBJECT.\nRegards,\nMr.John George   "
+    },
+    {
+        "from": "baiter_374",
+        "to": "scammer_374",
+        "subject": "Re:   ATTN: BENEFICIARY,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear George,\n\nThank you for your email and the information provided. I am interested in receiving my payment through the SWIFT CARD PAYMENT CENTER ASIA PACIFIC of CAPITAL TRUST BANK PLC as you suggested.\n\nHere are my details:\n\nFull Name: John Doe\nPhone: +1-555-555-5555\nAddress: 123 Main Street, Anytown, USA\nAge: 45\n\nPlease let me know what the next steps are and how much the activation fee will be.\n\nBest wishes,\nSheila"
+    }
+]

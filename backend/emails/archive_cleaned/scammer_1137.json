@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1137",
+        "to": "CRAWLER",
+        "subject": "  Dear",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear\nComplement of the season, how are you, is it true that you are\nplanning to Abandon your fund? please get back to this office.and tell\nus the reason.\nThanks,\nMr. A. Thompson   "
+    },
+    {
+        "from": "baiter_1137",
+        "to": "scammer_1137",
+        "subject": "Re:   Dear",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. A. Thompson,\n\nI hope this message finds you well. I'm not sure where you heard that information, but it's always good to double-check these things, isn't it? Could you please provide more details about the fund you're referring to? \n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nDennis"
+    }
+]

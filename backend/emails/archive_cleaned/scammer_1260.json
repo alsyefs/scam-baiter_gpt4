@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1260",
+        "to": "CRAWLER",
+        "subject": "Amalgamated Finance Limited is",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Amalgamated Finance Limited is a leading Financial Services provider that is based in United Kingdom to provide Non Recourse Loans, Business Loans, SME Loan, Investment Loan, Project Financing, Bank Guarantees, SBLCs, Letters of Credit, Monetization of BG/SBLC and funding for all kinds of viable projects locally and internationally."
+    },
+    {
+        "from": "baiter_1260",
+        "to": "scammer_1260",
+        "subject": "Re: Amalgamated Finance Limited is",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nThank you for your message and the information about Finance Limited. I am interested in learning more about the services you offer, particularly in relation to project financing and investment loans. \n\nCould you please provide more details on the terms and conditions of these services? Also, it would be helpful if you could guide me through the application process.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAdam"
+    }
+]

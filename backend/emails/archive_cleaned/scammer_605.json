@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_605",
+        "to": "CRAWLER",
+        "subject": "For over 35 years Woodforest N",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "For over 35 years Woodforest National Bank® has successfully stood among the strongest community banks in the nation, proudly offering outstanding quality customer service since 1980. "
+    },
+    {
+        "from": "baiter_605",
+        "to": "scammer_605",
+        "subject": "Re: For over 35 years Woodforest N",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nFor over the years, Woodforest National Bank has stood among the strongest community banks in the nation, proudly offering quality customer service since its inception. Our commitment to providing personalized customer service and convenient banking solutions has made us one of the top-performing banks in the industry.\n\nWe understand that our customers are our most valuable asset, which is why we continually strive to provide them with best-in-class services. We offer a wide range of financial products and services including checking and savings accounts, business accounts, mortgage loans, auto loans, personal loans, credit cards, and more.\n\nOur team of dedicated professionals works tirelessly to meet the needs of our customers. We believe in building long-term relationships based on trust and mutual respect. \n\nThank you for choosing Woodforest National Bank as your trusted financial partner. We look forward to serving you for many more years to come.\n\nBest wishes,\nSteven"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_60",
+        "to": "CRAWLER",
+        "subject": "  FROM THE DESK OF:DR Aloma Jo",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  FROM THE DESK OF:DR Aloma Johnson.\nDIRECTOR,INTERNATIONAL REMITTANCE\nFOREIGN OPERATIONS DEPT,\nUNITED BANK FOR AFRICA (UBA),\nLAGOS-NIGERIA.\nATTENTION: BENEFICIARY.\nYOUR INHERITANCE FUNDS OF $10.5MUSD THIS IS TO NOTIFY YOU THAT YOUR OVER\nDUE INHERITANCE FUNDS HAS BEEN GAZETTED TO BE RELEASED,VIA KEY TELEX\nTRANSFER (KTT)-DIRECT WIRE TRANSFER TO YOU BY THE SENATE COMMITTEE FOR\nFOREIGN OVER DUE FUND TRANSFER.\nMEANWHILE,A WOMAN CAME TO MY OFFICE FEW DAYS AGO WITH A LETTER, CLAIMING\nTO BE YOUR TRUE REPRESENTATIVE.\nHERE ARE HER INFORMATION:\nNAME JANET WHITE\nBANK NAME: CITI BANK,YORK.\nACCOUNT Number: 6503809428.\nPLEASE,DO RECONFIRM TO THIS OFFICE ,AS A MATTER OF URGENCY IF THIS WOMAN\nIS FROM YOU SO THAT THE FEDERAL GOVERNMENT WILL NOT BE HELD RESPONSIBLE\nFOR PAYING INTO THE WRONG ACCOUNT NAME.\nTHE RESERVE BANK GOVERNOR,EXECUTIVE, BOARD OF DIRECTORS AND THE SENATE\nCOMMITTEE FOR FOREIGN OVER DUE INHERITANCE FUND HAVE APPROVED AND\nACCREDITED THIS REPUTABLE BANK WITH THE OFFICE OF THE DIRECTOR,INTERNATIONAL\nREMITTANCE/ FOREIGN OPERATIONS,TO HANDLE AND TRANSFER ALL FOREIGN\nINHERITANCE FUNDS FOR THIS SECOND QUARTER PAYMENT OF THE YEAR.\nHOWEVER,WE SHALL PROCEED TO ISSUE ALL PAYMENTS DETAILS TO THE SAID\nMRS.WHITE,IF WE DO NOT HEAR FROM YOU WITHIN THE NEXT SEVEN WORKING DAYS\nFROM TODAY.\nRE-CONFIRM THE FOLLOWING.\nYour Full Name.......................... .\nYour Sex........................... ........\nYour Age........................... .....\nYour Country....................... .........\nPassport / Driver\"s License......\nMarital Status......................\nYour Occupation.................... ........\nYour Personal Mobile Number....................\nYour Personal Fax Number..................\nCONGRATULATIONS IN ADVANCE.\nBEST REGARDS,\nDr Aloma Johnson\nDIRECTOR, INTERNATIONAL REMITTANCE\nFOREIGN OPERATIONS DEPT,\nUNITED BANK FOR AFRICA (UBA)\nDirect Line: +2348125386376   "
+    },
+    {
+        "from": "baiter_60",
+        "to": "scammer_60",
+        "subject": "Re:   FROM THE DESK OF:DR Aloma Jo",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Dr. Aloma Johnson,\n\nI am writing to confirm that I have received your message regarding the overdue funds. However, I must clarify that I do not know any Janet White and she is not authorized to claim any funds on my behalf.\n\nHere are the details you requested:\n\nFull Name: Lewis D. Noogie\nAddress: 123 Main Street, Novosibirsk, Latvia\nPhone Number: +371 12345678\nFax Number: +371 87654321\nMarital Status: Single\nOccupation: Hotel Consultant\n\nPlease let me know what the next steps are in this process.\n\nBest regards,\nLewis D.\n\nBest wishes,\nMichael"
+    }
+]

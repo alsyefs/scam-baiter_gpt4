@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1402",
+        "to": "CRAWLER",
+        "subject": "  Attention: Beneficiary,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Attention: Beneficiary,\nI wish to find out if your ATM Card has been receive as reported in\nour database that your $60.8 Million US Dollars has been Delivered to\nyou last week.\nIf I did not receive any response from you within the next 20hrs , we\nshall assume your $60.8 US Dollar has been successfully received by\nyou and if you do not receive your $60.8 Million US Dollars get back\nto me immediately, so that company will delivered your ATM Card to\nyour door step, send your required information and the address of your\nhouse were we will meet you , get back to us.\nReconfirm your information here.\nFULL NAME\nOCCUPATION\nCOPY OF YOUR ID CARD AGE\nTEL-PHONE NUMBER\nADDRESS OF YOUR HOME\nNEAREST AIRPORT\nThanks   "
+    },
+    {
+        "from": "baiter_1402",
+        "to": "scammer_1402",
+        "subject": "Re:   Attention: Beneficiary,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm quite surprised to hear about this Million US Dollars and an ATM card. It's a bit confusing as I don't recall participating in any event or activity that would result in such a reward.\n\nCould you please provide more details about this? How did my name come up in your database? What company are you representing? And what is the purpose of this delivery?\n\nI'm looking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nNancy"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_903",
+        "to": "CRAWLER",
+        "subject": "   Attention: Sir/Madam,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Attention: Sir/Madam,\nCompliments of the season.\nI am Mr Mohammed Ouedraogo a senior staff of Computer Dept of central\nbank of Nigeria.\nI decided to contact you because of the prevailing security report\nreaching my office and the intense nature of polity in Nigeria.\nThis is to inform you about the recent plan of federal government of\nNigeria to send your fund to you via diplomatic immunity CASH DELIVERY\nSYSTEM valued at $10.6 Million United states dollars only, contact me\nfor further details.\nRegards,\nMr Mohammed Ouedraogo.   "
+    },
+    {
+        "from": "baiter_903",
+        "to": "scammer_903",
+        "subject": "Re:    Attention: Sir/Madam,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Mohammed Ouedraogo,\n\nThank you for reaching out to me. It's quite interesting to hear about the plan of the federal government of Nigeria. Could you please provide more details about this diplomatic immunity cash delivery system? How does it work exactly?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nHoward"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_480",
+        "to": "CRAWLER",
+        "subject": "  From: william dudley <frpaym",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  From: william dudley <frpaymentoffice@presidency.com>\nDate: Thu, 13 Jun 2019  \nSubject: REF;GIL/019-F.C.2/099 (US$32, 000, 000.00)/ FEDERAL RESERVE\nBANK NEW YORK/ LETTER OF PRIVELEGE\nTo: \nFROM THE DESK OF WILLIAM DUDLEY, CHAIRMAN\n(PAYMENT VERIFICATION COMMITTEE)\nATTN; \nAPPROVAL CODE: ZMFRD 39226-2019 CTOP.\n\"RECEIVERS SEAL, FUND CTOP, CONFIRMATION OBTAINED,\nINVESTIGATION CONCLUDED,\nPOWER OF ATTORNEY EXECUTED\nCTOP. NO SUBSIDIARY CTOP.\nORGAO 301-AG.SOYO\nTRANS CODE: DF/FRD/RSA CTOP.\nGood day,\n Your fund transfer will be approved and commence with immediate\neffect immediately we receive the needed fund allocation fees of\n$859.61cents. We hope you will co-operate with us at this fiscal time\nof completion. Through hence you `should fill the forms along with\nyour payment slip.\nWe crave your indulgence to this development and advise that you send\nthe requested fees transfer slips attached with the signed forms.\nIMPORTANT NOTICE!\nFailure to have your fund transfer on or before the scheduled date,\nthe International and Local financial monitors will demand your fund\ntransfer audit history which will bring the fund from the scratch.\nTransfer with the information below with our senior cashier’s`\ninformation bellow and this is the account information for the fee\n$859.61cents:\nBank name: bank of America\nAccount name: Vivian F.\nAccount number: 44604268XXXX\nSwift code: Bofaus3n\nAddress: 7515 annapolis rd,Hyattsville md 20784.\nBeneficiary address:   Hyattsville. Md.\nScan email attachment your payment slip to this office along with the 2 forms.\nThis is a time-sensitive process so please respond promptly.\n    Treat very urgent.\n       Regards,\n Williams Dudley\n President and Payment Verification Committee\n TEL/FAX: (+1)315-636-0195\nTEL: (+1)205-543-5753\nEmail: \nfrpaymentoffice@presidency.com\nPAYMENT VERIFICATION COMMITTEE OF THE FEDERALRESERVE BANK NEW YORK\nTEL: (+1)205-543-5753\nTEL/FAX: (+1)315-636-0195\n------------------------------ --------------------\nThis is a confidential and privileged message from the Payment\nVerification Committee of the Federal Reserve Bank New York (FRD). If\nyou know you received it in error or if you are not the intended\nrecipient, please discard immediately or contact the Payment\nVerification Committee on any of the Telephone or Fax numbers above\nfor clarification. Thank you for your cooperation.  "
+    },
+    {
+        "from": "baiter_480",
+        "to": "scammer_480",
+        "subject": "Re:   From: william dudley <frpaym",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello William Dudley,\n\nThank you for your message. I'm a bit confused about the fund allocation fees you mentioned. Could you please explain more about what these fees are for? \n\nAlso, could you clarify what forms I need to fill out? You mentioned that I should attach them with my payment slip, but I'm not sure which forms these are.\n\nI appreciate your patience and look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nBetty"
+    }
+]

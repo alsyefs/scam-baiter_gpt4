@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1200",
+        "to": "CRAWLER",
+        "subject": "Dear Valued Beneficiary,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear Valued Beneficiary,\nWe use this medium to inform you that due to several ways some\nagencies mandated to facilitate the payment of beneficiaries\noutstanding contractual amount have turned around to make the process\nof payment difficult thereby causing unnecessary delays, government\nhas decided to eliminate the bottlenecks delays caused by these\nagencies by mandating the Presidential Task Force Committee on\nContract Payment to take over all payment of outstanding contractual\namounts to the various beneficiaries.\nWe are mandated to work with beneficiaries according to their own\npreferred method of payment.\nTherefore, anyway you feel will make you comfortable in the receipt of\nyour fund is okay by us. We will work with you but only on the ground\nthat you discontinue every other communication you are having with all\nother government agencies. Agreed?\nIf yes, then send a confirmation of the amount due to you and your\nbanking information. We also need your suggestion on the ways you feel\nwe can serve you better on the above subject matter.\nFather information will be after receiving your response to this email\n: \nsadiqmohammed90003@yahoo.com\nYours faithfully,\nSadiq Mohammed\nChairman, Presidential Task Force Committee on Contract Payment.\nEmail: \nsadiqmohammed90003@yahoo.com"
+    },
+    {
+        "from": "baiter_1200",
+        "to": "scammer_1200",
+        "subject": "Re: Dear Valued Beneficiary,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Sadiq Mohammed,\n\nThank you for reaching out and providing this information. It's interesting to hear about the changes in the payment process. I'm sure it's a big task for the Task Force Committee on Contract Payment.\n\nCould you please elaborate more on how these changes will affect me? And what exactly is my role in this new process? \n\nAlso, could you clarify what you mean by \"anyway you feel will make you in the receipt of your fund is okay by us\"? I'm not quite sure I understand that part.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDenise"
+    }
+]

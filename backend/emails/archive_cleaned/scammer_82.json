@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_82",
+        "to": "CRAWLER",
+        "subject": "Good day,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Good day,\nI hope you are in good health today? My names are Jeff Lacey; I am an investment General Counsel of our company. I have a profitable proposal to you as someone I suggest to be a trusted person and an experienced investment manager.\nWe are into loan/investment of funds with low interest rate. My investors has mapped out about 250 million USD for loan/investment, so I am tasked to look for a reliable and competent fund managers who can handle the funds or generate interest for the company.\nWe offer loan with interest of 4%, for a duration of 10 years and can continue if the agreement is maintained. And we can disburse funds according to the individual/company's capacity and capability.\nI would like to know if we can form a reliable partnership on this subject as we are looking forward to make significant annual returns by next year.\nI am looking forward to hear from you.\nBest regards,\nJeff Lacey\nMayfair Capital.\nwww. mayfair.co.uk"
+    },
+    {
+        "from": "baiter_82",
+        "to": "scammer_82",
+        "subject": "Re: Good day,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Jeff Lacey,\n\nI hope this message finds you well. It's a pleasure to make your acquaintance. Your proposal sounds quite interesting and I appreciate the trust you've placed in me.\n\nCould you please provide more details about the loan investment? For instance, what is the interest rate for the loan? And how long is the duration of years for this agreement?\n\nAlso, could you clarify what you mean by \"disburse funds according to the individual company's capacity\"? How would that work exactly?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRuth"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1408",
+        "to": "CRAWLER",
+        "subject": "Attention please ,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attention please ,\nA consignment box contain your compensation payment is right here in Our\nOffice, for over 3 month ago, and the fiscal Cash payment is sealed and \npackage with a security proof box, the amount is $1.2 Million US Dollars\nonly. Quickly forward your full information to the Diplomat delivering\nagent to deliver your package to your home immediately,\nForward your full name: …………,\nCurrent resident address:…………,\nYour Mobil phone number:……,\nName of your nearest airport,: ………,\nThe consignment code is: (PR8114TX) forward it to below information:\nDiplomat name: Mr. James Floyd,\nE-mail: (\nwwmrjamesfloyd@usa.com\n:\nMake sure you forward your full information today because your\nconsignment is already overdue in airport there to avoid airport\nauthority confiscate your\nconsignment, so do not delay to forward your full information to Mr. \nJames Floyd, E-mail: (\nwwmrjamesfloyd@usa.com\nfor immediate delivering of your package. Again,\n have it in mind that\nthe 3 month storage fee of your consignment is $75 \ncontact your delivery\nagent with\nyour full information, he will give you the delivery details.\nBest regards,\nMr. Roberto L. Carlos\nU.N Compensation Payment Department"
+    },
+    {
+        "from": "baiter_1408",
+        "to": "scammer_1408",
+        "subject": "Re: Attention please ,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Roberto L. Carlos,\n\nThank you for reaching out to me! I'm thrilled to hear about this package, it sounds very exciting. Could you please tell me more about what's inside the box? And why has it been in your office for over a month?\n\nAlso, could you clarify what you mean by \"fiscal Cash payment\"? Is this some sort of special payment method? \n\nI'm also curious about Mr. James Floyd, the delivery agent. How long has he been working with your company? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nAnthony"
+    }
+]

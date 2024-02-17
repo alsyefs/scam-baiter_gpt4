@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_10",
+        "to": "CRAWLER",
+        "subject": "  For your kind attention,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  For your kind attention,\nMy name is Dr Werner Wullschelger, the fund manager at Department of\nCurrency Management World Bank Switzerland.We received a telephone call\nand email from Rev. Lawrence R. Larson, D.Th telling us to transfer your\nfund of $10,700,000 through Atm MasterCard to his address via courier\nservice.\nWe want to know if you instructed Rev. Lawrence R. Larson, D.Th\npermitting our corresponding bank to process and convert  your fund into\nan Automated MasterCard(ATM) in favor of Rev. Lawrence R. Larson, D.Th.\nKindly keep up to date to avoid any wrong payment regarding the fund\ntransfer.We request you to kindly forward to us your valid telephone\nnumber and contact address for further clarification.\nWe have decided to give you a CODE, THE CODE IS:206. Any time you\nreceive an email ,check if there is CODE (206) if the code is not\nwritten,kindly delete the message from your box!\nBest Wishes,\nDr Werner Wullschelger\n(Fund Manager)\nWorld Bank Switzerland   "
+    },
+    {
+        "from": "baiter_10",
+        "to": "scammer_10",
+        "subject": "Re:   For your kind attention,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Dr. Werner,\n\nI am surprised to hear about this instruction from Rev. Lawrence R. Larson as I have not given him any authority to act on my behalf regarding this matter.\n\nPlease do not proceed with any transactions involving Rev. Larson and my fund. I would like to handle all matters related to my fund personally.\n\nHere is my contact information:\n\n\n\n\n\n\nThank you for your understanding and cooperation in this matter.\n\nBest wishes,\nPatricia"
+    },
+    {
+        "from": "scammer_10",
+        "to": "baiter_10",
+        "subject": "Re: For your kind attention,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "body": "You ended up by providing no information, how do you expect us to regard\r\nyour message as a valid email response?"
+    },
+    {
+        "from": "baiter_10",
+        "to": "scammer_10",
+        "subject": "Re: For your kind attention,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "3",
+        "body": "Dear Sir/Madam,\n\nI apologize for the oversight in my previous email. I understand the importance of a proper signature for official correspondence.\n\nBest Regards,\nLewis D.\n\nBest wishes,\nPatricia"
+    }
+]

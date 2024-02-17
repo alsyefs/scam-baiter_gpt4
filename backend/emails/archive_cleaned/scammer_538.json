@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_538",
+        "to": "CRAWLER",
+        "subject": "HILTON FINANCIAL MANAGEMENT LT",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "HILTON FINANCIAL MANAGEMENT LTD\nADDRESS. 1225 S 41st St Milwaukee,\nWI 54215 United States\nTelephone: +(1) 732 631 7413\nUnited States of America\nDo you need a loan or want to refinance your home? We offer all Kinds\nof loans to any part of the world to all serious and honest people\nincluding small business owners. Our offer is low as 2% interest rate\nfrom 1 to 30 years of repayment. If you are interested,\ncontact us via \nhiltonfin200@hotmail.com\nWhatsApp number: +(1) 732 631 7413"
+    },
+    {
+        "from": "baiter_538",
+        "to": "scammer_538",
+        "subject": "Re: HILTON FINANCIAL MANAGEMENT LT",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nThank you for your offer. However, at this time, I am not in need of a loan or refinancing services. I appreciate your consideration and will keep your contact information for future reference.\n\nBest wishes,\nLewis"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1301",
+        "to": "CRAWLER",
+        "subject": "  Dear Beneficiary,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Beneficiary,\nBe inform that because of irregularities in the past from officials\nhandling this payment through Central Bank Nigeria  by wire transfer\nwhich they do have problem with your fund transfer.\nAll payment will be paid into your company account if you can follow\nour payment office at lutanist Turkey that will handle your direct\nwire transfer into your account without delay.\nSir, All arrangement has be put in place reconfirm your total amount\nof your contract fund  and your full banking details with your\ncontract number for me to input it into computer payment information\nsystem from here with your direct cell phone for easy communication\ni will be awaiting for your details information.\nRegards.\nMr Amos Adams   "
+    },
+    {
+        "from": "baiter_1301",
+        "to": "scammer_1301",
+        "subject": "Re:   Dear Beneficiary,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Adams,\n\nThank you for your email. However, I must inform you that I am not expecting any contract fund and I believe there may be a misunderstanding or mistake. Could you please provide more details about the contract and the payment?\n\nBest wishes,\nKristen"
+    }
+]

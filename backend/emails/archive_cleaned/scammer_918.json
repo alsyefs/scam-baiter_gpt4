@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_918",
+        "to": "CRAWLER",
+        "subject": "  ATTENTION",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  ATTENTION\nThis is the second time we are notifying you about this said fund. We\nhereby send to you the information submitted by Mr.Trent Fowler U.S.A\nof California,with an application to receive your Award Payment\nof $40 Million.on your behalf from this office .Please as a matter\nof urgency, you are required to verify the following information and\ninform us if you are aware or know anything about this.\nThis morning Mr.Trent Fowler  came to the office claiming that you\nhave instructed him to come and receive the payment on your behalf\nwith some representatives.\nI have ask them to come back tomorrow as they did not provide any\npower of an attorney from you which will proof that you thoroughly\nsend them, This was to enable me contact you to verify how genuine\nthis people are to you.\n1. Did you instruct one Mr.Trent Fowler of 3111 RIVER-BEND CT C203\nLAUREL,MD 20724 USA. whose information's is below, to claim and\nreceive the payment on your behalf?\n2. Did you sign any 'Deed of Assignment' in his favor thereby making\nhim the current beneficiary with the following account details:\nAccount Name: Mr.Trent Fowler,\nA/C #004792442765\nBank Name: Bank Of America\nSwift Code: 1110000009.\nFinally, you are hereby advised to indicate to this honorable office\nwith immediate effect, if you are the person that instructed Mr.Trent Fowler\nto come for the claim of your fund worth of $40 Million\nNOTE: your full name and telephone number is needed for easy\ncommunications.\nTHE STATED BELOW INFORMATION IS REQUIRED FOR SWIFT PROCESSING OF THIS PAYMENT\n1. YOUR NAME:...\n2. YOUR FULL ADDRESS:..\n3. YOUR TELEPHONE....\n4. AGE........\n5. SEX:....................................\n6. YOUR OCCUPATION ...............\n7. YOUR VALID ACCOUNT DETAILS:............\n8. A COPY OF YOUR IDENTITY............\nFor your information we have three mode of payment .\n1 , Bank to bank transfer.\n2, ATM CARD\n3, Through our cash payment\nThanks\nMr.Adebayo Adelabu\nDeputy Governor Central Bank Of Nigeria(CBN)   "
+    },
+    {
+        "from": "baiter_918",
+        "to": "scammer_918",
+        "subject": "Re:   ATTENTION",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Adelabu,\n\nI am writing to inform you that I did not instruct anyone named Fowler to claim or receive any payment on my behalf. I have no knowledge of this individual and did not sign any deed of assignment in his favor.\n\nHere are the details you requested for swift processing of the payment:\n\nYOUR NAME: Lewis D.\n\nBest wishes,\nWilma"
+    }
+]

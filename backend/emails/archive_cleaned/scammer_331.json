@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_331",
+        "to": "CRAWLER",
+        "subject": "Dear friend,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear friend,\nGood day my dear friend, how are you?  Longest time. I'm happy to\ninform you about my success in getting those inheritance funds\ntransferred under the cooperation of a new partner from Czech\nrepublic. Presently I'm in INDIA for investment projects with my own\nshare of the total sum. Meanwhile, i didn't forget your past efforts\nand attempts to assist me in transferring of those inheritance funds\ndespite that it failed us some how. Now contact my secretary in Lome\nTogo west Africa, his name is Mr. Donald Philip on his email address\n(\ndonaidphilip7144@gmail.com\n ) ask him to send you the total of\n($500,000.00), five  hundred thousand united states dollars which i\nkept for your compensation for all the past efforts and attempts to\nassist me in the transaction. I appreciated your efforts by that time\nvery much. So feel free to contact my secretary Mr. Donald, and\ninstruct him where to send you ATM CARD of the total sum\nof($500,000.00). Please do let me know immediately you receive it so\nthat we can share the joy after all the suffering at that time. In the\nmoment, I'm very very busy here because of the investment projects\nwhich i am having with my new partner at hand, finally remember that I\nhad forwarded instruction to my secretary on your behalf to receive\nthat ATM CARD of ($500,000.00) so feel free to get in touch with Mr.\nDonald Philip, he will send the amount to you without any delay.\nBest regards,\nMr.John William."
+    },
+    {
+        "from": "baiter_331",
+        "to": "scammer_331",
+        "subject": "Re: Dear friend,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello William,\n\nIt's so nice to hear from you! I'm glad to know that your investment projects in India are going well. It sounds like an exciting venture!\n\nI must say, I was quite surprised to read about the five hundred thousand United States dollars you mentioned. That's a lot of money! Can you tell me more about this? How did it come about?\n\nAlso, could you provide more details about Mr. Donald Philip? What is his role exactly? And why is he in Lome Togo West Africa?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLois"
+    }
+]

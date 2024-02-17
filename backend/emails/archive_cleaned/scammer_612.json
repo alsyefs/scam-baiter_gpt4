@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_612",
+        "to": "CRAWLER",
+        "subject": "  You are a liar. And you are ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  You are a liar. And you are very wicked. A package was sent to you for almost two days now and you were informed about the consignment fund box . You did not hear from the delivery agent since then, and since then you did not bother write to me. You are joking. You have messed my life up. How can you look at your spam box? What are you looking for in the spam box? That sounds so stupid to me. Now, i cannot get the delivery agent. I am very much sure he has delivered the package to you and you want to disappear with my fund. I am a widow, and the cry of a widow will affect your life if you disappear with my fund.  "
+    },
+    {
+        "from": "baiter_612",
+        "to": "scammer_612",
+        "subject": "Re:   You are a liar. And you are ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nI'm sorry to hear about your concerns. I assure you, I have no intention of causing any harm or distress. I haven't received any package as you mentioned. Could it be a mix-up in the delivery process? \n\nAlso, regarding the spam box, it's just a routine check to ensure that no important emails are missed out as sometimes they get filtered into the spam folder by mistake.\n\nCould you please provide more details about this package and the delivery agent? It would help me understand better and possibly sort out this confusion.\n\nThank you for your patience and understanding.\n\nBest wishes,\nFrances"
+    }
+]

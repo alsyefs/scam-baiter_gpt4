@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1011",
+        "to": "CRAWLER",
+        "subject": "  Good day,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Good day,\nHow are you and your family today? I pray you are good and safe.\nI represent a United Arab Emirates Base Investment Company, and due to\nthe negative impact of COVID-19 on Global businesses, we are offering\nCorporate and Personal Loan.\nWe are a private limited firm made up, and funded by Arabs Investors\nand Lenders as its shareholders across the Arab/Asia region. We would\nbe Interested to provide funding for you and your company at 3% per\nannum for a period of 5-25 years. {Pure loan/Funding}.\nWe also pay 0.5% commission to Intermediaries/Consultants/Brokers who\nintroduce project owners for finance or other opportunities.\nLet us know your position on this briefing as soon as possible for more details.\nBest regards,\nMr. Nguyen Van Phong\nEmail: \nnguyenvphong51@gmail.com\n "
+    },
+    {
+        "from": "baiter_1011",
+        "to": "scammer_1011",
+        "subject": "Re:   Good day,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Nguyen Van Phong,\n\nI hope this message finds you well. It's great to hear about your company and the services you offer, especially during these challenging times. \n\nCould you please provide more information about the loan process? For instance, what are the requirements for eligibility? And how does the repayment process work?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nShirley"
+    }
+]

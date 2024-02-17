@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1031",
+        "to": "CRAWLER",
+        "subject": "  Dear ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear \n \nOK as duly requested, you should find below, the details of a new receiving agency account in USA (Bank of America) for the wire transfer of the US$1,500.00 (One Thousand, Five Hundred United States Dollars) Registration/Accreditation/Affiliation Fee.\n \nTHE RECEIVING AGENCY ACCOUNT DETAILS IN USA (BANK OF AMERICA):\n \nBANK NAME: BANK OF AMERICA\nACCOUNT NAME/BENEFICIARY: M. C. S.\nACCOUNT NAME/BENEFICIARY'S ADDRESS:  TEMPE, AZ 85281, USA\nACCOUNT NO.: 45703440XXXX\nROUTING NO.: 026009593\n \nPlease, note very importantly that you must wire the US$1,500.00 by the end of Monday, October 04, 2021 or even before then as the US$150,000.00 (One Hundred and Fifty Thousand United States Dollars) has been finally programmed to be released/confirmed in your account on Friday, October 08, 2021 and for the reason of confidentiality and the personalities involved, you should simply tell your bank, if asked, that the receiver/beneficiary of the US$1,500.00 is a family friend and very well known to you.\n \nFurther, and for record purpose and opdate of your payment file, you should send to me, the wire transfer slip of evidence of payment of the US$1,500.00 from your bank (sending bank).\n \nThanks for your anticipated obedience and cooperation.\n \nSincerely Yours,\n \nMr. Rick Chong-Seng Lim.\n(International Project Financier/Consultant).     "
+    },
+    {
+        "from": "baiter_1031",
+        "to": "scammer_1031",
+        "subject": "Re:   Dear ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Rick Lim,\n\nThank you for your detailed message. I appreciate the information you've provided about the receiving agency account in USA Bank of Erica.\n\nI'm curious, could you tell me more about this project? It sounds quite interesting and I'd love to understand it better. Also, could you explain why the transfer needs to be done by Monday, October?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nLorraine"
+    }
+]

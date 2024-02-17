@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_350",
+        "to": "CRAWLER",
+        "subject": "  Hello Friend,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Hello Friend,\nThe International Monetary Fund IMF is compensating all the scam\nvictims with the sum of  $1,500.000usd (One Million Five Hundred\nThousand )  and your email address was found in the scam victim's list\nfor this mid- quarter of the year payment.\nWe have been mandated by the World Bank(WB) to ensure your\ncompensation is received by you through a correspondent bank in\nEurope. We need your information for re-confirmation and also filing\nas well such as, your full names, working telephone number,\noccupation, marital status, next of kin and possibly your identity\ncopy as well.\nNote that your payment file will be returned to the World Bank within\n72 hours if we did not hear from you as regards the instructions given\nto us.\nThanks,\nEmail: Reply To { \ndrdejipeters4@gmail.com\n }\nFrom The Desk Of:\nDR PETER  UGO  .   "
+    },
+    {
+        "from": "baiter_350",
+        "to": "scammer_350",
+        "subject": "Re:   Hello Friend,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello DR PETER UGO,\n\nWow, that's quite a surprise! I had no idea my email address was found in the scam victim's list. It's really great to hear that organizations like the Monetary Fund IMF and World Bank are working together to help people like me.\n\nI'm curious though, how did my email end up on this list? And could you tell me more about this process? How does it work exactly?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nFranklin"
+    }
+]

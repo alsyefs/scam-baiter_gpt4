@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_749",
+        "to": "CRAWLER",
+        "subject": "  Received: from 127.0.0.1",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Received: from 127.0.0.1\nReturn-Path: <infocharles0092@gmail.com>\nX-Originating-Ip: [209.85.221.53]\nFrom: \"Stefanov Gelimachev\" <infocharles0092@gmail.com>\nTo: \ninfocharles0092@gmail.com\nReply-To: \"Stefanov Gelimachev\" <stefanovgelimachev@gmail.com>\nSubject: business project   "
+    },
+    {
+        "from": "baiter_749",
+        "to": "scammer_749",
+        "subject": "Re:   Received: from 127.0.0.1",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there! I hope you're having a great day. I'm really excited to share some information with you. But before we get into that, could you tell me a bit more about your interests?\n\nBest wishes,\nArthur"
+    }
+]

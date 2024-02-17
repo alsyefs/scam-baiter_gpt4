@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_409",
+        "to": "CRAWLER",
+        "subject": "on the attached file is the pr",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "on the attached file is the pro forma invoice"
+    },
+    {
+        "from": "baiter_409",
+        "to": "scammer_409",
+        "subject": "Re: on the attached file is the pr",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nThank you for sending over the pro forma invoice. I appreciate your promptness. Could you please provide a bit more detail about the items listed? I'm particularly interested in understanding more about their specifications and how they would benefit me.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nDeborah"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1122",
+        "to": "CRAWLER",
+        "subject": "Attn xxx,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attn xxx,\nThis is to acknowledge the receipt of your email and before I will proceed with the process of securing the legal documents that will authorize the release of your funds. You will advise you to get back to me with your full information as lasted below.\nFull name:\nContact address:\nDate birth:\nDirect phone number:\nOccupation:\nMarital status:\nNext of kin full name:\nNext of kin address:\nNext of kin phone number:\nOnce I receive the above information then I will direct you on how you will send the 550 euro to enable to start with the legal process and all the legal documents will be send for you to sign them and return back to the paying bank once it is secured on your behalf.\nYours Faithfully\nDavid Benjamin Bokor\nLicensed Attorney"
+    },
+    {
+        "from": "baiter_1122",
+        "to": "scammer_1122",
+        "subject": "Re: Attn xxx,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear David Benjamin Bokor,\n\nThank you for your prompt response. I am ready to proceed with the process of securing the legal documents. Here are my full details as requested:\n\nFull Name: Eliza Dane\nAddress: 123 Main Street, Sydney, NSW 2000, Australia\nPhone Number: +61 2 1234 5678\nEmail Address: elizadane@example.com\n\nPlease let me know how I should send the Euro and any other steps I need to take.\n\nBest wishes,\nCarrie"
+    }
+]

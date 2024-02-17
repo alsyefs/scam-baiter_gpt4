@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1189",
+        "to": "CRAWLER",
+        "subject": "Attention please!!",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attention please!!\nThis is Ambassador Linda Thomas-Greenfield, the US Ambassador to the\nUnited Nations. I write to inform you that your funds valued at\n$10,316,000 USD only has been approved by the United Nations, and will\nbe released to you via ATM VISA Card by Agent Alison Rose, the CEO\nNational Westminster Bank (NatWest) Therefore, \ncontact her with the\ninformation listed below:\n1.Full Names:...............................................\n2.Home Address..............................................\n3.Country:..................................................\n4.State:....................................................\n5.Occupation:...............................................\n6.Cell/ WhatsApp Number:....................................\nNote: You will also have to send her the sum of $250.00 USD for the\nhandling fee\n to enable her register your ATM card for onward delivery\nto your address\nContact Email: \nrosealison121@gmail.com\nThanks\nAmbassador Linda Thomas-Greenfield"
+    },
+    {
+        "from": "baiter_1189",
+        "to": "scammer_1189",
+        "subject": "Re: Attention please!!",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Ambassador Linda,\n\nWow, this is such an unexpected surprise! I can't believe the United Nations has approved funds for me. Could you please tell me more about this? How was I chosen for this? And what exactly is the purpose of these funds?\n\nAlso, could you explain a bit more about the process? You mentioned an ATM VISA Card and Agent Alison Rose. How does that work?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nJimmy"
+    }
+]

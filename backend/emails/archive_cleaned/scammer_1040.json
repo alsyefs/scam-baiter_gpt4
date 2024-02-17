@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1040",
+        "to": "CRAWLER",
+        "subject": " Dear Beneficiary,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " Dear Beneficiary,\nYour fund worth $3.5M Usd has been approved to pay you.\nKindly forward your information stated below to enable our bank\nprocess your ATM CARD Payment immediately.\nYour Full Name:\nYour Full Receiving Information:\nYour Cell Phone Number:\nA copy Of your ID:\nAgain our bank have only one mode of payment (1) ATM Card Payment: An\nATM Card Will Be Charged With This Amount with $5,000 Withdrawals Per\nDay\nKindly forward the above listed information to enable our bank process\nyour ATM CARD payment here on your name with our any delay.\nYours faithfully,\nAli Y. KOÇ\nDirector\nYapi Kredi Bank Turkey    "
+    },
+    {
+        "from": "baiter_1040",
+        "to": "scammer_1040",
+        "subject": "Re:  Dear Beneficiary,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Ali Y. KO,\n\nThank you for your message. However, I would like to clarify a few things before proceeding further. \n\nFirstly, could you please provide more details about the fund that has been approved for me? How did this come about and what is the exact amount?\n\nSecondly, could you please explain more about the ATM Card Payment method? How does it work and what are the terms and conditions associated with it?\n\nLastly, could you please confirm what information you need from me to proceed with this process?\n\nLooking forward to your response.\n\nBest wishes,\nRichard"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1158",
+        "to": "CRAWLER",
+        "subject": "RBC) Royal Bank Of Canada.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "RBC) Royal Bank Of Canada.\n1122 International Blvd. Burlington,\nOntario L7L 6Z8 Canada.\n \n$2.7m USD Payment notification from Royal Bank Of Canada (RBC).\n \nDear Beneficiary,\n \nI am waiting for your payment because this transaction has taken so long and I don't want\nyou to lose this fund at the end.\n \nTherefore you should try very hard to send the needed Fee today if possible or tomorrow\nmorning so that delivery of your (RBC) Royal Bank\nOf Canada ATM Master Card ok.\n \nYour Royal Bank Of Canada (RBC) account details are as follow;\n \nAccount Number: 6021253365.\nSwift Code: 239936957\nRouting # 053904483\nYour full address:\nYour contact telephone and Fax:\nYour profession:\nSo you are therefore advise to re-confirm the following Information\nfor immediate payment processing.\n \nI will advise you to purchase an Amazon gift card or bitcoin and send $100 ,your immediate\ncompliance will be in your very best interest.\nIf at any time you have questions, concerns or comments, please contact us as we srive to\nensure that you will always receive prompt and courteous attention,\n \nYours Faithfully,\nMr. David I. Makay\nThe President and CEO.\n(RBC) Royal Bank Of Canada."
+    },
+    {
+        "from": "baiter_1158",
+        "to": "scammer_1158",
+        "subject": "Re: RBC) Royal Bank Of Canada.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. David I. Makay,\n\nThank you for reaching out to me! It's always a pleasure to hear from the Royal Bank of Canada. I'm excited about this opportunity, but I have a few questions if you don't mind.\n\nFirstly, could you please explain why there is a fee involved in receiving my ATM Master Card? Also, why is it necessary to purchase an Amazon gift card or Bitcoin for payment?\n\nI'm looking forward to your response and thank you again for your time!\n\nBest regards.\n\nBest wishes,\nAnne"
+    }
+]

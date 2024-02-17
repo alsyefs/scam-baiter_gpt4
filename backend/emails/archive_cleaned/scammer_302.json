@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_302",
+        "to": "baiter_302",
+        "subject": "Very urgent!",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "0",
+        "body": "Dear Sir,\r\n\r\nI was referred again to contact you in regard to the email you sent to my\r\nBoss. And regarding your email; you don't have to be confused whether the\r\nATM card shall work or not.\r\n\r\nThe ATM Card will be activated for international use,operation and\r\nstandard. You can withdraw money with it worldwide at any ATM machine. It\r\nwill be set to a maximum of US$7,000.00 withdrawal per a day. So, it works\r\n100% for sure!\r\n\r\nFinally, you are instructed and expected to furnish me with the requested\r\ninformation; and choose if you shall come down here in person or to use a\r\nDiplomat delivery agent to get the card to your doorstep. I need to\r\ncommence the process before it will be late.\r\n\r\nPlease, do send me the requested information as soon as possible; there is\r\na time limit given to activate the ATM card; otherwise the Funds will be\r\ntransferred to a bank in the USA for further processing. My Boss has\r\nwithdrawn part of the funds and left the $12.9 Million to be sent to you.\r\n\r\nI await your response here immediately after reading this email.\r\n\r\nYours sincerely,\r\n\r\nMr John Obi.\r\nSecretary."
+    },
+    {
+        "from": "baiter_302",
+        "to": "scammer_302",
+        "subject": "Re: Very urgent!",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. John Obi,\n\nThank you for your email and the detailed information about the ATM card. It's really fascinating to know that I can withdraw money worldwide with it! \n\nI'm a bit curious though, how does this ATM card work? Is it like a regular bank card or is there something special about it? Also, you mentioned a maximum US withdrawal per day, could you please specify the amount?\n\nRegarding your request for me to come down in person or use a Diplomat delivery agent, could you please provide more details on both options? What would be the process if I choose to come down in person and what would be the process if I choose the Diplomat delivery agent?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nVelva"
+    }
+]

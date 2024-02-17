@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_515",
+        "to": "CRAWLER",
+        "subject": "Dear Beneficiary",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear Beneficiary\nYour $10.5 Million U.S dollars is available to be released to you if you can quickly get back to me for better briefing and instructions on how to receive your fund now\nI'm waiting for your urgent response for the immediate processing now.\nTHANKS\nMr Roger Gorman"
+    },
+    {
+        "from": "baiter_515",
+        "to": "scammer_515",
+        "subject": "Re: Dear Beneficiary",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Roger Gorman,\n\nThank you for your message. I am interested in learning more about this opportunity. Could you please provide me with more details on how to proceed?\n\nBest wishes,\nJeffrey"
+    }
+]

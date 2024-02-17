@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1371",
+        "to": "CRAWLER",
+        "subject": "   Auditing and Accounting Uni",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Auditing and Accounting Unit\nForeign Operations Department\nFederal Reserve Unit.\nRegistered No: 973008  .\nPrivate Mailbag: M2 3LS: cable: FDRU.\nDear Beneficiary,,\nAm writing in respect of your fund in dormant account NO. 607 711 690-1.\nWhich\nhas met all the conditions required for its remittance. My subordinate\nand I in the computer/telex section has resolved to transfer your fund of\n2.5MUSD)  two million Five hundred thousand United States Dollars to your\nNominated bank account, which is yet to be submitted to us.\nWe have perfected plan to activate the transfer of your fund which is\nPresently on deferred schedule in our system within the next few days, if\nyou assent to our instructions. You will have to provide us with the below\ninformation to enable further completion of your fund wire transfer:\nYou are to contact this  Faye Wood  at \ncashiers.office@yahoo.com\n  for more\ndirectives\nBeneficiary Full name:\nAddress:\nTel:\nWith the above information, the whole exercise will take us approximately\n72hours from the date we receive these details.reply only to this\ncashiers.office@yahoo.com\nYours faithfully,\nSteve Juan\nAuditing and Accounting Unit.\nOffice of the General Manager Federal Reserve Unit   "
+    },
+    {
+        "from": "baiter_1371",
+        "to": "scammer_1371",
+        "subject": "Re:    Auditing and Accounting Uni",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Steve Juan,\n\nThank you for reaching out to me. I'm quite surprised to hear about this dormant account and the fund transfer. Could you please provide more details on how this account came into existence? And why has it been dormant?\n\nAlso, could you explain what conditions were required for its activation and how they have been met? I'm not very familiar with these financial terms and processes, so your clarification would be greatly appreciated.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRonald"
+    }
+]

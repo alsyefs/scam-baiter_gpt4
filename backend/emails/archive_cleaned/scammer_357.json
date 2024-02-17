@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_357",
+        "to": "CRAWLER",
+        "subject": "Pacific Credit Union (USA)",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Pacific Credit Union (USA)\nFinancial Center,3401 Connecticut Ave NW,\nWashington, DC 20008 USA.\nPayment Reference Number: HLFXGB22-1439GG\nTransfer Approval Number: BNN/Kl/114/NY/01-07-Akd/2021\n \nSubject: RE: Final Transfer of your Fund Valued (US$16,500,000.00) VIA KEY TESTED TELEX (KTT)\n \nAttn:\n \nI am Mr. Henry A. Dave, Director Foreign Transfer Pacific Credit Union (USA). This is to inform you that your payment file was brought to this office this morning with the overdue total payment of $16,500,000.00, in the year Feb 2011, you were directed to contact the Western Union in Benin Republic West Africa by the Eco Bank Plc Benin, for your payment of $1,500,000.00 in which you tried so hard to receive it and finally failed, before your $1,500,000.00 returned back to the Eco Bank Plc.\nAnother payment of $15,000,000.00 was directed to you by the CBN through the Eco Bank Plc \nas a compensation payment for being scam\n and not be able to receive your first payment of $1,500,000.00, from the western union and Eco Bank Plc, the Central Bank has contacted us and brief to us a bit to us regarding your payment.\nThe CBN has transferred the sum of $16,500,000.00 on your behalf and forwarded your payment file to us and also instructed this office to contact you regarding your total payment of $16,500,000.00.\nI will like to use this medium to inform you that the total of $16,500,000.00 was in this office for you.\nYou will be charged only $14,850 for the International Tax Service Charge (I.T.S.C.) which is the only fee needed from you to complete your transfer.\nKindly go ahead to effect the payment for the (I.T.S.C.) and forward the payment receipt to enable us to transfer your fund to you immediately.  \nWe await your fast reply with the payment receipt for the International Tax Service Charge (I.T.S.C.) of $14,850 which will empower the immediate release of your fund into your account within 24hrs.\n \nBest Regards,\nMr. Henry A. Dave\nDirector Foreign Transfer\nPacific Credit Union (USA)"
+    },
+    {
+        "from": "baiter_357",
+        "to": "scammer_357",
+        "subject": "Re: Pacific Credit Union (USA)",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Henry A. Dave,\n\nThank you for your email and the information provided. I am a bit confused about the details of these transactions, as I don't recall having any previous dealings with Eco Bank Plc or Western Union in Benin Republic, West Africa.\n\nCould you please provide more specific details about these transactions? For instance, when were they initiated and who initiated them? Also, could you clarify what the payment of $349.67 is for?\n\nI look forward to your prompt response.\n\nBest wishes,\nNancy"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_980",
+        "to": "CRAWLER",
+        "subject": "  Allocation of Your Payment D",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Allocation of Your Payment Delivery..\nAttention Sir,\nThis is to notify you that the Federal Reserve Bank of New York writes to notify us that some fund has been approved by the World Bank organization and world Presidency union to be received by you as form of compensation for being a scam victim in the past years plus covid 19 allocated funds to families Affected by covid-19.\nAs a matter of fact we have commenced effect but your partner/representative (Mr. Haward Dave) from Canada wrote on your behalf to cash out your fund. The mentioned person (Mr. Haward Dave) said that you authorized him to help you collect your due fund from us. Please reconfirm to us if we should release your due fund to your partner/representative (Mr. Haward Dave)\nWe hereby anticipate your swift response because this is urgent.\nRegards,\nMrs. Allen Patilo Westburg.   "
+    },
+    {
+        "from": "baiter_980",
+        "to": "scammer_980",
+        "subject": "Re:   Allocation of Your Payment D",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mrs. Allen Patilo Westburg,\n\nI appreciate your message, but I must clarify that I have not authorized anyone named Mr. Haward Dave or any other individual to collect any funds on my behalf. \n\nPlease do not release any funds to this person as it seems there may be a misunderstanding or miscommunication.\n\nCould you please provide more details about the fund and the process for me to receive it directly?\n\nThank you for your attention to this matter.\n\nBest wishes,\nMatthew"
+    },
+    {
+        "from": "scammer_980",
+        "to": "baiter_980",
+        "subject": "Re: Allocation of Your Payment D",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "body": "Allocation of Your Payment Delivery.. \n\nAttention Sir , \nThis is to notify you that the federal reserve bank of New York writes to notify us that the sum of  $49.000.000.00 Million has been approved by the world bank organization and world Presidency union to be received by you as form of compensation for Being a scam victim in the past years plus covid 19 allocated fund to families Affected by covid-19. \nNote: The US Treasury Department and the Securities/Exchange Commission have canceled the online payment exercise and ORDER for the immediate payment cash out this means the beneficiary will have to appear in person with prove of his identity to get cash out the agency in charge will assist you with the company security to help deposit the fund as you may wish. \nAs a matter of fact we have commenced effect but your partner/representative ( Mr. Haward Dave ) from Canada wrote on your behalf to cash out your fund. The mentioned person (Mr. Haward Dave) said that you authorized him to help you collect your due fund from us. Please reconfirm to us if we should release your due fund to your partner/representative (Mr. Haward Dave) \nFor more inquiries urgently contact MARIO LOGISTICS LTD at : mariologisticsltd@gmail.com (mailto:mariologisticsltd@gmail.com) \nWe hereby anticipate your swift response because this is urgent. \nRegards, \nMrs. Allen Patilo Westburg. \n\n-- \nUrgent Intervention Rescue Dear Beloved, \nI'm noel kietta, the son of Mr. Issa Diop the finance minister from the Republic Niger were the military soldiers have just taken over the leadership \nthe country. My father was forced to give account of the state finance weeks ago in my country Niger, However, before the government was dethrone in \npower, my father asked me to go to his underground safe and pick up some documents and move to Texas where he deposited the cash sum of $39,000,000,00 (Thirty Nine Million Dollars) with his bank here in USA, and then look for a trustable foreigner who will help me and stand as his \nforeign business partner to enable the bank transfer the money into your bank account as the beneficiary ASSOCIATE, and after when the bank \ntransfers the money into your bank account,i will be coming to meet you in your country for the proper investment and sharing of the money, i only \nneed your honest and kind mind for this assistance. \nI am waiting for your response. \nRemain bless, \nNoel kietta"
+    }
+]

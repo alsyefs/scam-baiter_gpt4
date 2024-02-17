@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_987",
+        "to": "CRAWLER",
+        "subject": "  Dear Sir / Madam,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Sir / Madam,\nI write to inform you that the GOVERNMENT OF UNITED STATES in\nconjunction with International Monetary Fund (IMF), has resolved to\nrefund each victim of scam (Advance Fee FRAUD) the sum of $7,500.000\n(Seven Million Five Hundred Thousand Dollars only) On that note, I\nseek your consent to collaborate with me so that I will put your name\nas one of the victims entitle and legible for this refunds for our\nmutual benefits.  If you are interested in actualizing this deal with\nme respond back urgently with your below details to enable me put your\nname among those that will benefit from the refund this month.\n1 Your full names/ address.\n2 Your phone number.\n3 Your age/sex and occupation.\nPlease note that the process of filing for this refund is risk free\nand has nothing to do with illegality because I have perfected every\nplan for the smooth processing of the refunds. Bear in mind that our\nworking ratio shall be 50% each as soon as we get the refund in your\nname.\nEmail : kristalina.georg1\nYours Faithfully,\nMs. Kristalina Georgieva\nManaging Director\nInternational Monetary Fund   "
+    },
+    {
+        "from": "baiter_987",
+        "to": "scammer_987",
+        "subject": "Re:   Dear Sir / Madam,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Ms. Kristalina Georgieva,\n\nI appreciate your effort to reach out and offer assistance in this matter. However, I would like to clarify a few things before proceeding further.\n\nFirstly, could you please provide more details about the process of filing for this refund? What documents or information will be required from my end?\n\nSecondly, I would like to understand how the ratio of work will be divided between us. Could you please elaborate on what tasks or responsibilities will fall under my purview?\n\nLastly, I would appreciate it if you could share some official documentation or proof regarding this refund initiative by the Government of United States and IMF. This is just to ensure that everything is legitimate and above board.\n\nLooking forward to your response.\n\nBest wishes,\nJennifer"
+    }
+]

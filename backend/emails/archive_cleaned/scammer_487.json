@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_487",
+        "to": "CRAWLER",
+        "subject": "Attn: International Transfer o",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attn: International Transfer office\nInternational Wire Transfers Department\nGUARANTY TRUST BANK OF NIGERIA PLC\n \n                           Re: Transfer Notification.\n Dear  Beneficiary\n \nYour Funds were directed to the Attorney General  last few days ago and we are sorry for the late response . With reference to our supplementary agreement on article 42 sub sections 3b, We want to inform you that with regards to those sections, we take the liberty to inform you that we have received the Transfer/Payment Notification to transfer the sum of US$8,500,000.00 (Eight Million Five Hundred Thousand United States Dollars Only) into your account.\nIn accordance with our supplementary agreement with Attorney General  ,\nhe are unable to order for such wire to your Bank since your Transfer Notification and advice has no copy of Certificate of Fund Origin and Currency Payment Permit by the Financial Intelligence Unit which is in line with our agreement with your Apex Bank, for this reason we can not carry out this transfer except these documents are in place.\n \nYou are advice to re-confirm below information’s very urgently:\n \nYour Bank information's:.................\nTelephone Number:...........................\nAddress:......................................\nCopy of Your working Id\n:......................\nWorking Experience:...........................\nAge:.........................................\nSex:..........................................\nDo advice the Beneficiary to procure the above mentioned documents for further credit of our bank for final transfer as stated in the Wire Advice with the above mentioned sum.\n \n  Yours Sincerely,\nMR. J. OKUNTOLA\nDEPUTY MANAGING DIRECTOR\nGUARANTY TRUST BANK OF NIGERIA PLC (GT)"
+    },
+    {
+        "from": "baiter_487",
+        "to": "scammer_487",
+        "subject": "Re: Attn: International Transfer o",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello MR. J. OKUNTOLA,\n\nThank you for your email and the information provided. It's quite interesting to hear about this transfer of US Eight Million Five Hundred Thousand United States Dollars.\n\nHowever, I'm a bit confused about the documents you mentioned. Could you please explain more about what the Fund Origin and Currency Payment Permit are? And why are they necessary for this transfer?\n\nAlso, could you provide more details on how to procure these documents? I would appreciate any guidance or assistance in this matter.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nCynthia"
+    }
+]

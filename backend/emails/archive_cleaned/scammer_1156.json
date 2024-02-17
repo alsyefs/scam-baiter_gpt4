@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1156",
+        "to": "CRAWLER",
+        "subject": "Based on the meeting we have w",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Based on the meeting we have with central bank of Nigeria and IMF officials on your payment, I am writing to inform you that your files appeared on our desk to pay you a partial payment of $10.5million US Dollars of your funds for this First quarter of the year. But we are having a misunderstanding because one Ms.Carman Lapointe called yesterday that she is your new next of kin and that you instructed her to receive the funds in your favor. you are totally sick and you can not work or answer any calls. But we were very confused. That is why the authority instructed me to contact you for us to know if she is telling us the truth or not.\nHere is the account details she forwarded to us.\nBank Name: Credit Union Na\nAccount Name: Carman Lapointe\nAccount number: 908374912\nSwift code: cwd1u\nAfter he provided this account to us, he instructed us not to inform you and we should transfer the funds into his account directly because she is your next of kin. Kindly check this account and name if we can go ahead and transfer the funds into his account.We wait to hear from\nyou soon.\nThanks,\nMr Godwin Emefiele.\nCentral bank of Nigeria.\nREGARDING YOUR FUNDS"
+    },
+    {
+        "from": "baiter_1156",
+        "to": "scammer_1156",
+        "subject": "Re: Based on the meeting we have w",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Godwin Emefiele,\n\nThank you for reaching out to me regarding this matter. I must say, it's quite surprising to hear about this Lapointe person claiming to be my next of kin. I'm not aware of any such arrangement.\n\nI'm curious, how did this individual provide proof of their claim? Did they present any documents or identification that could verify their relationship with me?\n\nAlso, could you please share more details about the account they provided? I'd like to understand better before making any decisions.\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nWilliam"
+    }
+]

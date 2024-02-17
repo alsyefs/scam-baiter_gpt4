@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1109",
+        "to": "CRAWLER",
+        "subject": "  Attn Greetings to you,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Attn Greetings to you,\n \nI am Hon Dr. Pedro Mike, the United Nations Presidential Task Force\nChairman for Refugees here in New York, United State of America. I hereby\npass this information to you that the Members of the Parliament is looking for\ncapable God fearing person who can represent as one of the new appointed\nAmbassador to the refugees.\n \nThe 75th Session of the UN General Assembly (UNGA 75) meeting was held on\nDecember 25 2022. 06:41 IST.The first day of the high-level General Debate after\nreconciled with the agreement we have with United State President Mr.Joe Biden\nduring this high-level General Debate United Nations System Chief Executives Board\nfor Coordination, Second regular session 26-27 December your name has been\nnominated as one of the God fearing trust persons who can handle this post very \ncarefully and become Ambassador for the World Refugees.\nMeanwhile this appointment is not compulsory or by any force to be among. The first\n6 month's salaries for all the new appointed members is $200,000.00.USD. With\naccommodation and a private saloon car.\n \nI want you to forward all your details information's to us so that we can pass your details\nto the United Nation Head Office in Geneva Switzerland and the New York office to enable the United\nNation Head Office in Geneva Switzerland and the United Kingdom to put your name in the registration\nBook for this appointment and send you an official letter regarding this appointment.\n \nI wait to Hear from you.\n \nDr. Pedro Mike   "
+    },
+    {
+        "from": "baiter_1109",
+        "to": "scammer_1109",
+        "subject": "Re:   Attn Greetings to you,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Dr. Pedro Mike,\n\nI am honored to receive your message regarding the potential ambassadorial role for World Refugees under the United Nations. I am deeply committed to humanitarian causes and would be privileged to serve in such a capacity.\n\nHowever, before proceeding further, I would like to understand more about the responsibilities and expectations associated with this role. Could you please provide me with more detailed information?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJames"
+    }
+]

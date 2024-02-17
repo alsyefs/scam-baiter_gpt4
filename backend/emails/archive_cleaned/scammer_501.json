@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_501",
+        "to": "CRAWLER",
+        "subject": "  Dear Sir,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Sir,\nHow are you doing  today ? My name is Glenn Hamberg, i worked in UBS Stock Exchange Branch as Manager and i secured this benefit transaction proposal. Regarding our telephone conversation yesterday about the deposit fund box 1258 left in UBS valued amount ($3.2 Million Dollars)I want to present you to become the receiveing partner of this funds because i cannot complete this transaction due to health and my doctor said that i will be in hospital for 21 days for good treatment.\nI have invited the Attorney Mr Asklund Mikael who is incharge of the late customer depositor files, The Attorney is a very good man and a old time friend of mine and he agreed to process your data into the payment system as the receiver of the funds as mention in the deposit fund box. The Attorney required your details data below to register your name as the beneficiary to receive the funds from Switzerland Bank.\nEverything will go successful as soon as you coperate with this attorney incharge and i have brief him about your contact to follow up the documentation process with you as the new beneficiary partner appointed. kindly send me your full data below to be able me forward to the Attorney for the legal registration.\nFULL NAME :\nADDRESS:\nTELEPHONE :\nOCCUPATION:\nAGE:\nMARRIAGE STATUS:\nHe will inform you about the sharing ratio profit of this transaction and legal document will be secured into your name to be able to receive the funds freely from the Union Bank Of Switzerland.\nKindly send your details to proceed and view my passport copy . Trust me and i will trust you to this profit benefit transaction.\nMr. Glenn Hamberg\nUBS Stock Exchange Branch Manager.\nStockholm, Sweden   "
+    },
+    {
+        "from": "baiter_501",
+        "to": "scammer_501",
+        "subject": "Re:   Dear Sir,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Hamberg,\n\nI hope this message finds you well and that your health is improving. I am interested in the proposal you have presented, however, I would like to know more about the process and what it entails.\n\nBefore we proceed, could you please provide me with more information about the late customer depositor? Also, I would like to understand better how my data will be used by Attorney Asklund Mikael and what legal implications there might be for me.\n\nOnce I have a clearer understanding of these details, I will be able to provide my personal information for the registration process.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDiane"
+    }
+]

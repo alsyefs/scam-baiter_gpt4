@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_187",
+        "to": "CRAWLER",
+        "subject": "  Thank you for reaching out t",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Thank you for reaching out to us regarding the ongoing government grant program.\nTo expedite the process, kindly respond to the following questions:\nWere you referred by someone? (Please specify)\nWere you selected randomly? (Provide evidence)\nOnce we have the necessary information, we will promptly proceed with your application.\nThank you for your cooperation.\nMrs. Kavita Karlapudi\nAdministration's Office Rep,\nOffice of Acquisition and Grants\nicon +1 (740) 625 1465\nicon \ninfo@compensation-ssa.us\nicon 44 Garnett Cir, Copley, Ohio OH 44321    "
+    },
+    {
+        "from": "baiter_187",
+        "to": "scammer_187",
+        "subject": "Re:   Thank you for reaching out t",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mrs. Kavita Karlapudi,\n\nThank you for your prompt response. To answer your questions:\n\n1. I was not referred by anyone, I came across the information about the government grant program online.\n2. As far as I know, I was not selected randomly. I applied for the grant through the official website and received a confirmation email which I can forward to you as evidence.\n\nI look forward to hearing from you soon regarding the next steps in this process.\n\nBest wishes,\nAnnie"
+    }
+]

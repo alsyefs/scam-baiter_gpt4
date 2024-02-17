@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1292",
+        "to": "CRAWLER",
+        "subject": "   If this is the road you wan",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   If this is the road you want to go, it's your choice. \nYou decided to choose greed over your life and that of your family.\n I want you to know that we have dealt with representatives like you in the past and you are not the first and will not be the last greedy representative that we have dealt with. \nFinally, before I go I need you to know that every one of our representatives that choose greed ended up either in jail or losing a family member. \n I gave you a chance but you decided to choose greed. \nFrom this moment whatever happens in your life you choose it to happen.   "
+    },
+    {
+        "from": "baiter_1292",
+        "to": "scammer_1292",
+        "subject": "Re:    If this is the road you wan",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nThank you for sharing your perspective with me. It's always interesting to hear different viewpoints. I'm curious, though, what led you to form such a strong opinion? Have you had personal experiences that shaped this belief?\n\nAlso, when you mention 'greed', could you elaborate on what exactly you mean by that? Are we talking about financial greed or something else entirely?\n\nI look forward to hearing more from you and understanding your viewpoint better.\n\nBest wishes,\nVictoria"
+    }
+]

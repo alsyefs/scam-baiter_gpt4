@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1006",
+        "to": "CRAWLER",
+        "subject": "   Dear Sir,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Dear Sir,\nBe informed about the availability of your inheritance fund, as found in our bank wire transfer central database, from which I can confidently quickly wire Part Payment value, ($5, 000, 000. 00) only, to your choice bank account, since our Bank top officials refused to get you informed of this development, due to their selfish interest in the fund.\nRight now the US Government is planning to redirect such funds to the Government treasury account as abandoned/unclaimed funds, but I can quickly wire the fund to your choice of bank account where the fund cannot be stopped by any Financial Authority.  \nTherefore, I urge you to trust my skill and assure me the absolute confidentiality of this information, I will have your fund wired via the fastest method of wire transfer, If you agree and trust my professional skill in the banking process, do reconfirm your details as listed below, and I will transfer your fund as you will confirm it in your Bank account same day within 24 banking hours.\nIf you have any doubt or negative thoughts about this, please, don't bother to reply to this message, I would not persuade you further, I am only here to exercise my hatred on cheating and cheaters as well, to ensure that you receive your funds without further delay.\nBe assured of a successful completion of this deal upon adhering to my directives by acting at the right time where necessary.\nNO INTERFERENCE from the Government or any Financial Authorities, no one will have the right to intervene on the transaction following my perfect plans to make it happen.\nDo reconfirm the following details to enable me commence the process immediately. I will furnish you with my telephone contact for further and easy communication once you reply.\nYour Full Names:\nYour Current Home Address:\nYour Direct Cell:\nYour Current Occupation:\nBank Names:\nBank Address:\nBank Account No:\nBeneficiary Names:\nSwift No:\nRouting No:\nSincerely\nMr Matthew Anderson\nHead of Customer Service\nCitibank, Georgetown. 1901 Wisconsin Ave NW,\nWashington, D.C. 20007 United States     "
+    },
+    {
+        "from": "baiter_1006",
+        "to": "scammer_1006",
+        "subject": "Re:    Dear Sir,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Matthew Anderson,\n\nThank you for reaching out to me and providing such detailed information about the fund. It's quite surprising to hear about this, as I wasn't aware of any funds in my name.\n\nBefore we proceed, could you please clarify a few things for me? How did these funds come to be in my name? And why were the bank officials not willing to inform me about this?\n\nI'm also curious about the process of transferring these funds. You mentioned it would be done via the fastest method of wire transfer - could you explain how that works?\n\nI appreciate your assistance and look forward to hearing from you soon.\n\nBest wishes,\nChristopher"
+    }
+]

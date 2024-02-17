@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_213",
+        "to": "CRAWLER",
+        "subject": "  I called your phone yesterni",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  I called your phone yesternite at exactly 3:30am South African which I think was about 9:30pm American time but went straight to voicemail as it's ever been. You promised keeping your phone line open for my call but you didn't. I wonder if you sincerely want to execute this transaction with me or you just keeping me going round in circles.\nPlease let me know if you truly want to get this going.    "
+    },
+    {
+        "from": "baiter_213",
+        "to": "scammer_213",
+        "subject": "Re:   I called your phone yesterni",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nI apologize for any inconvenience caused. I assure you that my intention is to execute this with utmost sincerity and dedication. There might have been a technical issue with the phone line, which I will look into immediately.\n\nPlease let me know when would be a suitable time for you to discuss this further. I am committed to making this work and your cooperation is highly appreciated.\n\nBest wishes,\nErica"
+    }
+]

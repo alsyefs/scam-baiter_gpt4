@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_861",
+        "to": "CRAWLER",
+        "subject": "Fast Delivery Payment Organiza",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Fast Delivery Payment Organization\n I have submitted payment to the bank to register your funds transfer payment of $8,500, 000.00. EIGHT MILLION FIVE HUNDRED THOUSAND U.S DOLLARS to your bank account follow the agreement of power of attorney.  The commercial development bank has received the transfer registration request and I have obtained the fund transfer form.\nThe bank is processing the fund transfer to your account, you are advised to fill your correct bank details and send them urgently.  We have been doing our best for the bank to do the transfer to your account without any delays. We want to make sure you receive the money in your account before the payment deadline.\nDuring the fund registration process, the transferring bank noticed that your $8,500,000 has an insurance policy stating that nothing should be removed from the original money. It means that the complete $8,500,000 should be transferred to you, no deduction until the money reaches your account.\nThe fund will reflect on your account immediately you pay the cleaning fee. The instructions state that the account holder is required to pay 4,940 Rupees for the clearance fee.\n The clearance fee is for the bank to convert dollar to Rupee to your bank to credit your account. Clearance fee is part of bank switch communication from the transferring bank to your bank account for clearing the transfer that is coming to your account.\nPlease fill the transfer form and arrange 4,940 and reply to me and I will provide you the account for you to transfer the clearance fee. We shall send you the transfer receipt of $8,500,000 and the transfer will reflect in your account within 4 hours. We will also send you the original copies of your funds and payment letter to your address through courier delivery as a backup in India for a proof of funds to your government.\n1.  Your Full Name......\n2.  Residential Address....\n3   Phone Number......\n4.     Bank Name.....\n5.     Account Holder Name.....\n6.     Bank Account Number....\n7.     Swift /ISFC Code.....\n8.     Branch Of Your Bank......\n9.     Full Bank Address..............\n10.     Country.............\nYou are to please confirm immediately to enable us process the transfer to your bank account as soon as possible.\nThis is very urgent please arrange the fee to round up the transfer as soon as possible.\nYours Sincerely,\nTemper Williams"
+    },
+    {
+        "from": "baiter_861",
+        "to": "scammer_861",
+        "subject": "Re: Fast Delivery Payment Organiza",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Temper Williams,\n\nThank you for your email. I am excited about the prospect of receiving such a large sum of money. However, I have some concerns that I hope you can address.\n\nFirstly, it is unusual for a bank to ask for fees upfront before transferring funds. Usually, any fees associated with a transfer are deducted from the amount being transferred. Could you please explain why this is not the case in this instance?\n\nSecondly, could you provide more information about this clearance fee? What exactly does it cover and why is it necessary?\n\nLastly, could you provide some form of official documentation or proof that these funds exist and are legally mine? This would greatly help to alleviate my concerns.\n\nI look forward to your prompt response.\n\nBest wishes,\nJim"
+    }
+]

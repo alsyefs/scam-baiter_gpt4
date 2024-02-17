@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_305",
+        "to": "CRAWLER",
+        "subject": "I'm Mr., William, I have just ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "I'm Mr., William, I have just arrived at the airport with your\nvalued consignment box 30 mins ago, please reconfirm your home\naddress/ direct phone number::: +299,9902,5356,] to me so that I can\nproceed to your home\nright away. you can contact this email:::dhl496536@gmail.com"
+    },
+    {
+        "from": "baiter_305",
+        "to": "scammer_305",
+        "subject": "Re: I'm Mr., William, I have just ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. William,\n\nI'm glad to hear that you've arrived safely. However, I must inform you that I cannot provide my home address and direct phone number through this platform due to privacy concerns. \n\nPlease provide me with more information about the valued box you mentioned. How can I verify its contents and authenticity? \n\nLooking forward to your response.\n\nBest wishes,\nJeffery"
+    }
+]

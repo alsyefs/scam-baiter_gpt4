@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1266",
+        "to": "CRAWLER",
+        "subject": "After getting the details from",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "After getting the details from you, we carry out investigations and trace\nwhere the funds are. The scammer would not be able to trace you. We take\nbetween 15-20% of the total funds recovered depending on the recovery\nprocess.\nRegards,\nMyprincipalchargeback."
+    },
+    {
+        "from": "baiter_1266",
+        "to": "scammer_1266",
+        "subject": "Re: After getting the details from",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nThank you for your response. I understand that you will trace the funds and ensure their safe recovery. However, I would like to know more about the process involved in this recovery. Could you please provide more details on how you plan to carry out this operation? \n\nAlso, could you clarify what percentage of the total recovered funds will be taken as a fee for your services? Your previous message was not clear on this point.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nPhillip"
+    }
+]

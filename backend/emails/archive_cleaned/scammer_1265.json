@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1265",
+        "to": "CRAWLER",
+        "subject": "  From: Mrs.T Blair <support@g",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  From: Mrs.T Blair <support@godswordnetwork.com>\nSent: Monday, July 3, 2023 \nSubject: Reply\nI am Mrs. Lady Blair, a 79 year old widow. I was married to late Engr. Anthony Blair, my late husband was from UK, who worked with Shell Oil Company in United States for Twenty-Six years before he died in the year 2017 after a brief illness that lasted only five days. Following my ill health (Cancer of the Lungs), my doctor told me that I may not live longer than required due to my health condition. I am looking forward to someone who I can entrust my husband's money to use for charitable works. More details will be made known to you upon your response.\nThank you,\nMay God Bless\nLady Blair.   "
+    },
+    {
+        "from": "baiter_1265",
+        "to": "scammer_1265",
+        "subject": "Re:   From: Mrs.T Blair <support@g",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Lady Blair,\n\nI am deeply moved by your message and the unfortunate circumstances you find yourself in. I would be honored to assist you in ensuring that your husband's money is used for charitable works. Please provide me with more details so we can proceed.\n\nBest wishes,\nCristie"
+    }
+]

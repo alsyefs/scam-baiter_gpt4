@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_431",
+        "to": "CRAWLER",
+        "subject": "  From Desk of Dr.Tony Moore",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  From Desk of Dr.Tony Moore\nFedex Express, Off Simbiat Abiola Road, 5A Medical Road, Ikeja, Lagos\nPhone +2347015292897\n \nAttn \nThanks for being in contact with us, It is my pleasure to read from you. Please before we proceed we want to be sure that you are the real person also that you are the beneficiary of the ATM VISA CARD. in our custody.\nMy good friend, this is a monetary issue and is full of risk. You need to handle it with care to avoid creating problems on both sides..\nDon't be offended by my request for your personal details but it is to ensure that we are dealing with the right person.\n   Please I want you to send this below details information of yours to enable me proceed with your ATM VISA CARD delivery through this courier delivery company..\nPlease reconfirm and carefully fill this form below and send it back to me immediately for security reasons and purposes.\n1.Complete Name:.................................................\n2.Contact Address:...............................................\n3.Telephone Number:..............................................\n4.Occupation:.....................................................\n5.Sex:............................................................\n6.Age:...........................................................\n7.Attach a scan copy of your international passport data page or valid National Identification Card/Drivers license.\nThanks and looking forward to your positive and urgent response.\nYour Urgent attention is required.\nDr.Tony Moore\nManager, FedEx Courier delivery Service.\n+2347015292897   "
+    },
+    {
+        "from": "baiter_431",
+        "to": "scammer_431",
+        "subject": "Re:   From Desk of Dr.Tony Moore",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Moore,\n\nThank you for reaching out to me. I'm thrilled to hear about the ATM VISA CARD in your custody. It's always exciting to receive unexpected news like this.\n\nI understand that this is a monetary issue and should be handled with care. I appreciate your concern for my safety and security, it's very thoughtful of you.\n\nHowever, before we proceed, could you please provide me with more information about how you came into possession of this card? Also, could you explain why it is under my name? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nSharon"
+    },
+    {
+        "from": "scammer_431",
+        "to": "baiter_431",
+        "subject": "Your urgent attention is needed",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "body": "Dear Sharon\r\n\r\nGreetings to you and Hope all is well.\r\n\r\nThe governing body of the United Nations Monetary Unit authorized us to\r\ninvestigate long-overdue  delivery your ATM card.\r\n  It is obvious that you have not received your fund which is now in the\r\namount of $4.2Million)as a compensation award to you, due to past corrupt\r\nGovernment Officials who almost held your fund to themselves for their\r\nselfish reasons and some individuals who have taken advantage of your fund\r\nall in an attempt to swindle your fund which has led to unnecessary delay\r\nin the receipt and so many losses from your end.\r\n\r\nRegarding the final release and subsequent transfer of your approved\r\npayment valued at the sum of $4,200,000.00 US Dollars via ATM Card,\r\nThe\r\nUnited Nations in collaboration with the International Monetary Fund\r\n(IMF) has finalized your ATM card delivery to your designated address\r\nthrough our courier company\r\n\r\nUrgent get back to us with the below information to enable us proceed with\r\nyour ATM Visa card delivery.\r\nYour full names,\r\nYour residential address,\r\nCountry/City:,\r\nNationality:.\r\nOccupation:\r\nTelephone number: for immediate dispatch of your consignment.\r\nYour Valid ID or scan of your international  Passport copy\r\n\r\nThanks and waiting for your urgent response\r\nTONY MOOR"
+    }
+]

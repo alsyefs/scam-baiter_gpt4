@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_732",
+        "to": "CRAWLER",
+        "subject": "Dear Friend",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear Friend\n \nMy name is Ms.Joy A.Kofour I am the regional manager of Standard Chartered Bank .\n \nI write you this proposal in good faith, I am a woman of peace. I have packaged a financial transaction that will benefit you and I,as the regional manager of the Standard Chartered Bank it is my duty to send in a financial report to my head office in the capital city Accra at the end of each business year.\n \nOn the course of the year 2013 business report, I discovered that my branch in which I am the manager made Two Million Seven hundred and thirty thousand united state dollars ($2,730,000.00) which my head office are not aware of and will never be aware of.\n \nI have placed this funds on what we call ESCROW CALL ACCOUNT with no beneficiary. As an officer of this bank I cannot be directly connected to this money, so my aim of contacting you is to assist me receive this money in your bank account and get 35% of the total funds as commission.\n \nThere are practically no risks involved, it will be a bank-to-bank transfer, and all I need from you is to stand claim as the original depositor of these funds who made the deposit with my branch so that my head office can order the transfer to your designated bank account.\n \nThanking you in advance for your kind and urgent response, more so for keeping our proposal to your self.\n \nFULL NAME...........\nADDRESS.............\nAGE.................\nSEX.................\nOCCUPATION..........\nMARITAL STATUS.....\nTELEPHONE/FAX NUMBER......\nBest regards,\nMs.Joy A.Kofour ."
+    },
+    {
+        "from": "baiter_732",
+        "to": "scammer_732",
+        "subject": "Re: Dear Friend",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nI received your email with interest. However, I would like to know more about this proposal before I can make a decision. Could you please provide more details about the nature of this transaction and how it will be carried out? \n\nAlso, could you please clarify what you mean by \"stand claim as the original depositor of these funds\"? Does this mean that I will have to pretend that I deposited the money?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nGary"
+    }
+]

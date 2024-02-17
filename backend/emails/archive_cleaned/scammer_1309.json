@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1309",
+        "to": "CRAWLER",
+        "subject": "Attn My Dear,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attn My Dear,\nwe have registered your package with DHL this morning and we agreed up that\nthe delivery of your 6.5M in ATM CARD package will take place Tomorrow\nmorning.\nYour information is needed as Full Name:Home Address\noccupation:Cell Phone:Country:Age:Copy of your driver license\n.\nContact us here\nEmail(\nubabankheadquarter08@gmail.com\n)\nContact DHL with bellow information\n(1) Full names ---\n(2) Phone line ---\n(3) Country -----\n(4) Age/sex ------\n(5) Occupation:---\n(6)Home address:--\nAnd also be informed that delivery agent will leave to this country as soon\nas you proceed with (DHL) Company.\nBest Regard,\nPhillips Udeoza"
+    },
+    {
+        "from": "baiter_1309",
+        "to": "scammer_1309",
+        "subject": "Re: Attn My Dear,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Phillips Udeoza,\n\nThank you for your message. I'm really excited about the package! Could you please tell me more about what's inside the ATM CARD package? Also, could you provide some more details about the delivery process?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRichard"
+    }
+]

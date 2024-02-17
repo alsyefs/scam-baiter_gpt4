@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_877",
+        "to": "CRAWLER",
+        "subject": "   From: Micheal Peters <miche",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   From: Micheal Peters <michealpeterss100@gmail.com>\nDate: 03/17/22  \nTo:  \nSubject: Re: I will do my best\nHello  \nWhy are you talking nonsense? Enough of all that crap and I'm telling you\nyou are delaying and you think you are delaying me. what kind of human being are you\nThink about how many emails we wrote in one particular\nmatters and you still talk nonsense. You know what? Give me a full\npower right now and if it doesn't work out today, I'll present another to the bank\nwho will be able to handle the matter. If me today\nyou will not give this power of attorney to introduce another recipient tomorrow morning,\nI'll go to court and get a \"CHANGE OF OWNERSHIP\" certificate\nentitles me to show the legal action to another bank\na beneficiary who will be able to handle this matter because I see\nthat you don't mean it.\nToday I am just waiting for a copy of the power of attorney from you.\nMichael Peters\nTel: +22899372642   "
+    },
+    {
+        "from": "baiter_877",
+        "to": "scammer_877",
+        "subject": "Re:    From: Micheal Peters <miche",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Michael Peters,\n\nI apologize if my previous communications have caused any confusion or frustration. I assure you that it is not my intention to delay the process or cause any inconvenience.\n\nRegarding the power of attorney, I would need more information on what exactly is required from me. Could you please provide a detailed explanation or perhaps a template that I could use as a guide? \n\nOnce again, I apologize for any misunderstanding and look forward to resolving this matter promptly.\n\nBest wishes,\nSteven"
+    }
+]

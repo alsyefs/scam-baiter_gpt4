@@ -1,0 +1,52 @@
+[
+    {
+        "from": "scammer_910",
+        "to": "CRAWLER",
+        "subject": "   Hello my dear,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Hello my dear,\nHow are you doing today? It's my pleasure contacting you again, and please read this email carefully.  Having received my late father's fund with the help of my husband, both of us agreed to invest the money in a lucrative business of his choice which we did But right now his selfish desire won't let him do anything for me, he controls all my activities and  has failed to do any single thing of which we agreed upon rather \"he wants me to end up a housewife\" and I am so disappointed that he came to me just for the money.\nThe point is that I have filed for a divorce and the court has frozen all our assets until the case is over. Like I knew this would happen, before the transfer of my late father's fund, I withdrew the sum of ( $1.500,000 Us Dollars ) from my late father's account without his consent and deposited it in a fixed account with the help of my Agent, Mr. Richard Anderson. For the time being this is the only thing I can lay hands on until my divorce case is ruled. Our movements are restricted and our activities are being monitored so I would need your help to secure this fund for me.\nBefore writing this email to you, I spoke with my agent and I explained the situation of things to him, I would like to relocate to your country for some personal reasons once the case is over and I would like you to help me receive the money from my Agent and purchase an apartment for me in your area and save the rest of the money until my arrival to your country... Let me know if you can assist me on this and I will assure you that you will be rewarded handsomely once I come down to your country. If you are ready to help me on this I will contact my agent and then update you on the next step. Thank you\nBest wishes\nMs Monica Bill   "
+    },
+    {
+        "from": "baiter_910",
+        "to": "scammer_910",
+        "subject": "Re:    Hello my dear,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Ms Monica Bill,\n\nI'm sorry to hear about your current situation. It's unfortunate that you're going through such a difficult time. However, I would like to inform you that I am not in a position to assist you with this matter. \n\nI strongly recommend seeking legal advice from a professional who specializes in these types of situations. They will be able to guide you through the process and ensure that your interests are protected.\n\nBest wishes,\nCody"
+    },
+    {
+        "from": "scammer_910",
+        "to": "baiter_910",
+        "subject": "Re: Hello my dear,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "body": "Good day to you Sir, i really appreciate your support, thank you for your\r\ncontinuous support and encouragement, please i will urgent you to kindly\r\nlet me know where forword, please i want you to understand my condition i\r\nwill assure you that everything will go smoothly, please i still need you\r\ndirect me how to get this done without any delay, kindly advice the person\r\nto contact me or you can give me more information, i wait for your reply.\nThanks,"
+    },
+    {
+        "from": "baiter_910",
+        "to": "scammer_910",
+        "subject": "Re: Hello my dear,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "3",
+        "body": "Dear Sir,\n\nThank you for your message. I understand that you are in a difficult situation and need guidance on how to proceed. However, without more specific details about the issue at hand, it's challenging for me to provide accurate advice.\n\nCould you please provide more information about the situation? This will help me understand better and offer a more precise direction.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nCody"
+    },
+    {
+        "from": "scammer_910",
+        "to": "baiter_910",
+        "subject": "Re: Hello my dear,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "4",
+        "body": "Hello Dear,\r\nThanks for your mail and for accepting to assist me with the claim of my\r\nmoney. I really thank you. Now my aim of contacting you is that I have\r\nchosen you that I know, I do 'm not having a negative thought about\r\nyourself, so I trust that you will be my help and my friend in life is the\r\nway  Allah made it,\r\n\r\nThere is no risk involved at all in this, Please endeavor to observe utmost\r\ndiscretion in all matters concerning this issue.To prove your willingness,\r\nI will need the following information from you.\r\n\r\n1) Your full name and address\r\n2) Telephone numbers\r\n3) your age and occupation\r\n4) Any proof of your identity or pictures\r\n\r\nplease kindly Find the Att document of the Fund Origin to assure you that\r\nthe Total Fund is already confirmed and approved.\r\n\r\nI requested for the above information to enable me prepare a letter in your\r\nname and send to the bank, so that you can start having communications with\r\nthem on how the transfer of my money in your account in your country, as\r\nwell as to enable me forward to you the bank contact details so that you\r\ncan use it to contact the Bank. Please promise me that you will not\r\ndisclose this matter to anybody to avoid jealousy and betrayals.\r\nI am waiting for your urgent reply.\r\nYours sincerely."
+    }
+]

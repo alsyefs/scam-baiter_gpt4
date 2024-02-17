@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1286",
+        "to": "CRAWLER",
+        "subject": "  From: ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  From: \ntest@spoctodigital.ae\n <test@spoctodigital.ae>\nSent: Tuesday, May 30, 2023  \nTo: Recipients <test@spoctodigital.ae>\nSubject: ARE YOU DEAD OR ALIVE ???? REPLY NOW.\nDear Beneficiary,\nMy Name is John O. Williams, I am in charge of all unpaid\nInheritance/Contract fund which all process of payment in your favor is in\nprogress. A power of attorney was forwarded to my office this morning by\nyour local associates and a Foreign partner Mr. ALBERT HILL to claim your\nfund.\nThis gentleman claimed to be the representative of your company, and this\npower of attorney stated that you have died, they brought a picture of your\nburial and an account to replace your information and claimed your fund\nwhich it is right now lying DORMANT and UNCLAIMED, below is the new account\nthey have submitted:\nBANK.-BPI BANK\nQUEZON AVE. DELTA BRANCH\nQUEZON CITY, PHILIPPINES\nACCOUNT NO. 2984-0008-66\nSWIFT CODE. BOPIPHMM\nBe further informed that this power of attorney also stated that you\nsuffered and died of a throat cancer/COVID-19 . he also brought your burial\npictures in confirmation that you are dead. You are therefore given 48 hrs\nto confirm the truth in this information if you are still alive .\nAs soon as we hear from you and confirm, we shall proceed with all\narrangements for prompt payment.\nYou are advised to reconfirm the following information:\nFull Name:\nFull Address:\nAmount in question:\nTelephone Number :\nYou are advised to stop all communication with any office here and abroad\nfor prompt payment. We are working to serve you better.\nI await your urgent response.\nSincerely,\nJohn O. Williams.    "
+    },
+    {
+        "from": "baiter_1286",
+        "to": "scammer_1286",
+        "subject": "Re:   From: ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear John O. Williams,\n\nI am writing to confirm that I am very much alive and well. I have no idea who Mr. Albert Hill is, nor have I given anyone power of attorney over my affairs. \n\nThis is a clear case of attempted fraud and identity theft. I would appreciate it if you could provide me with any additional information about this Mr. Hill and the claims he has made.\n\nThank you for bringing this matter to my attention.\n\nBest wishes,\nPauline"
+    }
+]

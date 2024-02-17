@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1249",
+        "to": "CRAWLER",
+        "subject": "  From The Desk Of The Directo",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  From The Desk Of The Director International Remittance\nDepartment of Foreign Payment Nigeria.\nAttn: Beneficiary,\nThis morning one Dr Eric Murphy  and Mr\nKashima Yamagata from japan came to my office that you sent them to\nmake claims of your overdue inheritance/compensation fund, they even\npromise to give me 15% if i agree to work with them.\nBut as a Christian i have to confirm if really you are aware of this\ndevelopment, get back to me as soon as possible for further advice and\ndirectives.\nYours Faithfully,\nAde Osogba\nDirector\nInternational Remittance\nDepartment.\nPrivate E-Mail: \nsogba238@gmail.com\n "
+    },
+    {
+        "from": "baiter_1249",
+        "to": "scammer_1249",
+        "subject": "Re:   From The Desk Of The Directo",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Ade Osogba,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I don't recall sending anyone named Dr. Eric Murphy or Mr. Kashima Yamagata from Japan on my behalf.\n\nCould you please provide more details about the situation? What exactly are they claiming and what kind of fund are we talking about here?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nJanet"
+    }
+]

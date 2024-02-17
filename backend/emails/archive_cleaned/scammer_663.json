@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_663",
+        "to": "CRAWLER",
+        "subject": "Hello,..",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hello,..\n This is Mr Jamie Dimon, CEO JPMorgan Chase Bank, NY, USA. I am sure\nyou’ve been seeing my text and Email but I really don't know exactly\nwhy you’ve been ignoring.\n The JPMorgan Chase Bank, N.Y, USA has approved to complete the\nDelivery of $7 Million Dollars and 2023 Mercedes Benz from the Federal\nGovernment as Compensation Reward.\n The Funds has been validated to be delivered Via an ATM Card which\nyour're expected to response back within 24 hours and provide your\nResidence details to avoid wrong registration process;.."
+    },
+    {
+        "from": "baiter_663",
+        "to": "scammer_663",
+        "subject": "Re: Hello,..",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Jamie Dimon,\n\nWow, that sounds like an amazing opportunity! I'm really excited to hear more about this. Can you please tell me more about how this reward program works? And why was I selected for such a generous gift?\n\nLooking forward to your response.\n\nBest wishes,\nMary"
+    }
+]

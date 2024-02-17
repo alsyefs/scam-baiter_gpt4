@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1068",
+        "to": "CRAWLER",
+        "subject": " For the Attention of: Categor",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " For the Attention of: Category \"A\" Beneficiary\nSubject: Change of Account Verification.\nOn Approved Amount: US$10,500,000.00\nDear Customer,\nThis is to officially inform you that we have received a message from the person you sent to apply on your behalf to receive your approved long awaited fund, the application was received late yesterday with the new bank details, but we desire to be in direct contact as to be sure you actually endorsed the change of account since no notice was issued to us concerning this new development.\nAs you should know, an instruction has been given by the International Monetary Fund (IMF) in conjunction with The Home Office that your fund should be processed and released to you after all investigation and confirming your fund free from any form of Terror or Drug. This fund should be released with immediate effect after all irregularities have been rectified.\nKindly confirm to us by official mail to honor the new account and proceed with the fund transfer process to the below account.\nBANK NAME: WELLS FARGO BANK\nADDRESS: 1063 11TH ST REEDLEY CA 93654 USA\nSWIFT CODE: WFBIUS6S\nACCOUNT NO: 3292957895\nROUTING NO: 121042882\nBENEFICIARY NAME: JAMES WILSON\nFinal payment order shall be issued to the appointed Bank, and swift transfer will commence without any hitch. We need your urgent response to enable us meet up with the mandate.\nYour quick response will be mostly appreciated.\nYours Truly,\nMs. Anne M. Finucane\nVice Chairman, Bank of America (BOA)\nUnited States of America (U.S.A)    "
+    },
+    {
+        "from": "baiter_1068",
+        "to": "scammer_1068",
+        "subject": "Re:  For the Attention of: Categor",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Ms. Anne M. Finucane,\n\nI am writing to confirm that I did not authorize any change of account details for the transfer of my approved fund. I would appreciate it if you could disregard any such requests and continue with the original plan.\n\nPlease let me know what further steps need to be taken in order to rectify this situation and proceed with the transfer.\n\nThank you for your attention to this matter.\n\nBest wishes,\nTerese"
+    }
+]

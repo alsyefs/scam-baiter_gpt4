@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_135",
+        "to": "CRAWLER",
+        "subject": "Good day,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Good day,\nThis is Barrister Mr.Abeg Oliva from Benin that signed for your\ncompensation fund with amount of $3.5million usd ordered from United\nNation to receive. I mailed to know why you refused to receive the\nfund by ATM card through company or do you want Government to receive\nthe funds back? Please I am waiting for your respond.\nBarrister Abeg Oliva\n+22969452519"
+    },
+    {
+        "from": "baiter_135",
+        "to": "scammer_135",
+        "subject": "Re: Good day,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Barrister Oliva,\n\nI'm sorry for any confusion, but I believe there may be a misunderstanding. I have not refused to receive any funds. Could you please provide more details about this situation?\n\nBest wishes,\nJennifer"
+    },
+    {
+        "from": "scammer_135",
+        "to": "baiter_135",
+        "subject": "Re: Good day,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "body": "This is Barrister Mr. Abeg Oliva from Benin Republic signed your payment\r\nin the amount of $3.5million usd ordered by United Nation to receive ATM\r\ncard from DHL company,\r\n\r\nMain purpose of receiving the fund is that Government of Benin want to\r\nrestore image of their Country by compensate 5 foreigner peoples scammed in\r\nthe Country for some Years Ago and you are among of the 5 people foreigner.\r\n\r\nWhich you advice to send your delivery address for me to meet the company\r\nand know what holding to complete the delivery with you, send below;\r\n\r\nFull name...\r\n Delivery address:...\r\n Whatsapp communication:...\r\n\r\n I am waiting to receive the above needed,\r\n\n Thank you,\r\n Barrister Abeg Oliva\r\n +22969452519"
+    },
+    {
+        "from": "baiter_135",
+        "to": "scammer_135",
+        "subject": "Re: Good day,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "3",
+        "body": "Dear Barrister Abeg Oliva,\n\nThank you for your email. I am surprised to hear about this compensation, as I was not aware that I had been scammed. However, if the Government of Benin has indeed ordered a payment in my name, I would be happy to receive it.\n\nHere are my details:\n\nFull Name: John Doe\nAddress: 123 Main Street, Anytown, USA\n\nPlease let me know what the next steps are.\n\nBest wishes,\nJennifer"
+    },
+    {
+        "from": "scammer_135",
+        "to": "baiter_135",
+        "subject": "How are you doing today and your family? I mailed to know the purpose of all this quiet or does mean you didn't received my messages or you did not understand what I explained on its? Simple check and tell me if you are not willing send the fee to complete the delivery as i explained to you so that I will stop disturbing you for the compensation issue. Please i am waiting to hear from you as soon as possible you got my message",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "4",
+        "body": "How are you doing today and your family? I mailed to know the purpose of\r\nall this quiet or does mean you didn't received my messages or you did not\r\nunderstand what I explained on its? Simple check and tell me if you are not\r\nwilling send the fee to complete the delivery as i explained to you so that\r\nI will stop disturbing you for the compensation issue. Please i am waiting\r\nto hear from you as soon as possible you got my message"
+    },
+    {
+        "from": "scammer_135",
+        "to": "baiter_135",
+        "subject": "Re: Good day,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "5",
+        "body": "By this mail, be informed that I have concluded the verification as I\r\npromised to meet the delivery company to know the problem they did not\r\ncomplete your delivery, which they charged  $175usd only for security\r\nkeeping fee by saving the ATM card in their Office getting to two years now\r\nand if you didn't pay them the money that they will not deliver the package\r\nto you. so that`s what hold the delivery now.\r\n\r\nEven I went to the bank where an ATM card was issued and if they will help\r\ntransfer the funds to you through their service and they said that\r\nAffidavit Certificate is needed for Representative Paper to stand in your\r\nname, or you come down here and sign for the payment, which. without that\r\nthey will not try the fund to transfer, I called Court for the Papers and\r\ncharged $210usd.\r\n\r\nSo you should choose where you prefer to receive the fund from out of the\r\ntwo options, get back to me so I can guide you on how to send the money to\r\nthem to complete the process.\r\n\nThank you,\r\nBarrister Abeg Oliva\r\n+22969452519"
+    }
+]

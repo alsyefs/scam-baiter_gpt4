@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_547",
+        "to": "CRAWLER",
+        "subject": "Attn: Beneficiary",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attn: Beneficiary\n   Greetings to you. This is to inform you that your fund $5.5 million\ndollars have been approved for transfer and have been transferred\nsuccessfully to your Bank account by our TELEX TRANSFER DEPARTMENT.\n \nPlease kindly find attached your approval certificate and copy of\nthe transfer slip for confirmation. \nYou are expected to notify us\nimmediately your fund reflects into your Bank account so we know we\nhave successfully concluded the transfer of your fund. Be advised it\nwill take only 24 Banking hours for the fund to reflect into your\naccount which means your fund will arrive tomorrow afternoon in your\naccount.\n    We thank you very much for your full co-operation and support\nthroughout this transaction as we look forward to do business with\nyou in the nearest feature.  We wait for your urgent matter.\n    Congratulations for the success of your payment.\n Please sir kindly\nsend me your direct phone number so I can call you up immediately the\nfund arrives at your account.\nYours Faithfully,\nJonathan Taylor\nVICE PRESIDENT OPERATION\nHSBC BANK UK"
+    },
+    {
+        "from": "baiter_547",
+        "to": "scammer_547",
+        "subject": "Re: Attn: Beneficiary",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Jonathan Taylor,\n\nThank you for your email. I am excited to hear that the funds have been approved for transfer. However, I would like to clarify a few details before we proceed.\n\nCould you please provide me with more information about this transaction? Specifically, I would like to know the exact amount being transferred and the purpose of this transfer. \n\nAlso, could you please confirm if there are any fees or charges that I need to be aware of?\n\nI look forward to hearing from you soon.\n\nBest regards,\nLewis D.\n\nBest wishes,\nDavid"
+    }
+]

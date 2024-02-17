@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1080",
+        "to": "CRAWLER",
+        "subject": "Greetings,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Greetings,\nHappy New  Year!\nWe are contacting you to inform you of our new loan options for 2024. I work as a loan Officer for CFO Limited in the United Kingdom.  We are a direct private lender that offers flexible financing solutions to businesses of all sizes and real estate investors.The company makes loans to both corporations and individuals at a low interest rate of 2% per year.\nPlease keep in mind that we are ready to work with you as a broker in your nation. Your commission will be discussed as we advance, and it will be based on the number of consumers you attract to our organization.\nPlease contact me again if you have any ideas or businesses that require finance for further conversation and negotiation.\nThanks for your cooperation .\nYours, Truly,\nCFO Limited UK\nEngland United Kingdom\nInvestment Loan Fund "
+    },
+    {
+        "from": "baiter_1080",
+        "to": "scammer_1080",
+        "subject": "Re: Greetings,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear CFO Limited UK,\n\nThank you for reaching out and Happy New Year to you too. I am interested in your proposal to work as a loan officer. However, before we proceed, I would like to know more about the nature of the job, the terms and conditions, and the commission structure.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLida"
+    }
+]

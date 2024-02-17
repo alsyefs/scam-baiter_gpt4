@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1369",
+        "to": "CRAWLER",
+        "subject": "   From: From Mr. Grey Watson ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   From: From Mr. Grey Watson < \n8595950854@mms.att.net\n >\nSent: Thursday, July 14, 2022  \nTo: \nSubject: Urgent: From Bank of America (BOA)\n \nGood Day\nI offer my friendship and believe you will accept me with good heart, I was pushed to contact you and see how best we can assist each other.I am Mr. Grey Watson a bank Officer here in Billings Montana. USA with Bank of America (BOA) ?A citizen of your Country named late Allen CONSTANTIN, who was in Gold business here had a fixed deposit with my bank in 2007, valued at US$12,500,000.00 (Twelve Million Five Hundred Thousand United State Dollars)?\nthe due date for this deposit was last 19th of March 2016. Sadly Allen was among the victims in the recent Air_Crash in Russia involving sixty two passengers in the Central Region of Rostov On Don. Allen did not mention any Next of Kin/ Here when the account was opened, and he was not married and no children. My bank management is yet to know about his death, \nI am now seeking your cooperation to present you as Next of Kin/ Heir to the account,\n since you have the same last name with him and my bank head quarters will release the account to you and we share the money equal, Please contact me immediately through my personal email address if you are interested\nDO GET BACK TO ME BUY MY EMAIL: ID  \nwatson_d66@aol.com\nBest Regards.\nFrom Mr. Grey Watson\nMY EMAIL: ID  \nwatson_d66@aol.com\n "
+    },
+    {
+        "from": "baiter_1369",
+        "to": "scammer_1369",
+        "subject": "Re:    From: From Mr. Grey Watson ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Grey Watson,\n\nGood day to you! I hope this message finds you well. Your message certainly caught my attention, and I must say it's quite an intriguing situation.\n\nI'm curious about a few things though. How did you find me? And why did you choose me specifically for this matter? Also, could you please provide more details about the late Allen's business here?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nChristopher"
+    }
+]

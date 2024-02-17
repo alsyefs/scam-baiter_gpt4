@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_844",
+        "to": "CRAWLER",
+        "subject": "  I don't have another informa",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  I don't have another information from the notary and he says the account\nis very good and active.   "
+    },
+    {
+        "from": "baiter_844",
+        "to": "scammer_844",
+        "subject": "Re:   I don't have another informa",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nI have received your message and I am glad to hear that the account is active and in good standing. However, I would like to request for more details regarding the next steps in this process. \n\nLooking forward to your prompt response.\n\nBest Regards.\n\nBest wishes,\nDorothy"
+    }
+]

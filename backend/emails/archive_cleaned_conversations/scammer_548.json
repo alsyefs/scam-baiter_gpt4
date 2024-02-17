@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_548",
+        "to": "CRAWLER",
+        "subject": "  Hi,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Hi,\nWith the current economic meltdown occurring worldwide, so many people are struggling daily to stand on their two feet. Due to this fact we have been unable to reach you and other beneficiaries as we have sent you numerous emails so as to carry out our duty in respect to your inheritance in our storage facility.\nTruly we have used quite some other means to contact you but all have not been successful, I strongly believe this time around you will respond back to us and our email will meet you in good health as we have so many individuals whose inheritance are in our storage facilities all around the world.\nFor United States Citizens the Government have subsidised your inheritance and you are to pay ZERO amount of money to receive your inheritance. For inheritance in our storage which belongs to NON-United States Citizens the Government has placed just a little fee of 150$ for its complete processing and delivery of your Inheritance.\nI will want you to know that the inheritance is a cash amount of One Million One Hundred And Fifty Five Thousand Dollars Only ($1,155,000.00)\nAm strongly hoping to get a response from you this time around.\nYou can contact me on :-    \nhumanresources_office@zohomail.com\nYours Sincerely\nHead OF HR   "
+    },
+    {
+        "from": "baiter_548",
+        "to": "scammer_548",
+        "subject": "Re:   Hi,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello,\n\nThank you for reaching out to me. I must say, this is quite an interesting proposition. However, I'm a bit confused about some parts of your message. Could you please clarify what exactly is in the storage facility that belongs to me? Also, could you provide more details about the fee that needs to be paid?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJennifer"
+    },
+    {
+        "from": "scammer_548",
+        "to": "baiter_548",
+        "subject": "Re:   Hi,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "body": "Top of the day to you,\r\n\r\n\r\n\r\n  Thanks for getting back to me and i would like you to know that the storage facility is in Kansas City.\r\n\r\n\r\n\r\nIn respect to the fees i want to make some clarifications on that IF YOU ARE A UNITED STATES CITIZEN YOU WILL NOT BE PAYING ANY FEES, BUT IF YOU ARE A CITIZEN OF OTHER COUNTRIES YOU ARE REQUIRED TO PAY JUST 150$ according to the united states government policies and rules governing inheritance.\r\n\r\n\r\n\r\nThat being said, i would be needing some details to start the inheritance release process\r\n\r\n\r\n\r\n\r\n\r\nFULL NAME: __________________________________________________________ \r\n\r\n                          (Surname)                (Middle name)                  (First name)\r\n\r\n\r\n\r\nFULL ADDRESS:__________________________________________________\r\n\r\n \r\n\r\nPHONE NUMBERS: OFFICE____________________  \r\n\r\n\r\n\r\nMOBILE _____________________\r\n\r\n \r\n\r\nAGE: __________ SEX:__________\r\n\r\n \r\n\r\nMARITAL STATUS _________________\r\n\r\n\r\n\r\nCOUNTRY:___________________\r\n\r\n \r\n\r\nSTATE:____________________\r\n\r\n \r\n\r\nOCCUPATION:________________\r\n\r\n\r\n\r\nIF RETIRED STATE MEANS OF  LIVELIHOOD:_______________\r\n\r\n \r\n\r\nPOSTAL/ZIP CODE:_____________\r\n\r\n \r\n\r\nSCANNED COPY OF ANY FORM OF IDENTITY YOU HAVE:_________________________\r\n\r\n \r\n\r\nHAVE YOU BEEN CONTACTED BY ANY OF OUR STAFFS AS REGARDS YOU CLAIMING YOUR INHERITANCE?? __________________________\r\n\r\n \r\n\r\nThe good lord be with you till i read from you again with the above details.\r\n\r\n\r\n\nYours in the Lord's Vineyard\r\n\r\n\r\n\r\nShawn Davis"
+    }
+]

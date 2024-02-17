@@ -1,0 +1,72 @@
+[
+    {
+        "from": "scammer_635",
+        "to": "CRAWLER",
+        "subject": "   ATTENTION  BENEFICIARY ,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   ATTENTION  BENEFICIARY ,\n I AM INSPECTOR KWESI BOATENG OF THE BNI (BUREAU OF NATIONAL\nINTELLIGENCE) ,I HAVE BEEN APPOINTED JUST RECENTLY BY THE UNITED\nNATIONS/GHANAIAN GOVERNMENT OPERATION KEEP GHANA INTERNATIONAL DIGNITY\nCLEAN .\nTHIS IS IN REGARDS WITH THE SCAM ACTIVITIES BEEN CARRIED OUT BY SOME\nUNLAWFUL GHANAIAN WHICH THE LAW WILL SOON CATCH UP WITH.\n YOUR FILE CONTAINING YOUR FULL NAMES AND YOUR TELEPHONE NUMBER WAS\nGIVEN TO ME BY MY SUPERIORS TO MAKE SURE THAT I CARRY OUT ALL THE\nNECESSARY INVESTIGATIONS TO IF POSSIBLE ARREST ALL THE PERPETRATORS\nAND MAKE SURE THAT ALL THE MONEY YOU HAVE SENT TO GHANA IN RESPECT OF\nTHE BUSINESS TRANSACTIONS YOU ARE HAVING HERE WITH SOME PEOPLE SHOULD\nBE REFUNDED TO YOU AND WITH A COMPENSATION FUNDS BEEN AWARDED TO YOU\nBY THE WORLD BANK / UNITED NATIONS IN COLLABORATION WITH THE GHANAIAN\nGOVERNMENT ATTACHED TO THIS E-MAIL IS YOUR COMPENSATION FUNDS APPROVAL\nCERTIFICATE,AS WELL AS MY WORKING IDENTITY CARD.\nI AM ONCE AGAIN ADVISING YOU THAT YOU KEEP THIS CONFIDENTIAL UNTIL I\nAM ABLE TO FINISH WITH MY INVESTIGATIONS HERE AND MAKE SURE THAT ALL\nYOUR FUNDS ARE BEEN WIRED BACK TO YOU THIS WILL INCLUDE YOUR\nCOMPENSATION MONEY AMOUNTING TO $12.5 MILLION USD.SO I WILL WANT YOU\nTO REPLY TO THIS E-MAIL BY SENDING TO ME ALL RECEIPT OF THE WESTERN\nUNION MONEY TRANSFER YOU HAVE SENT TO GHANA AND ANY DOCUMENT YOU WERE\nSENT BY THE PEOPLE YOU HAVE BEEN SENDING THE MONEY TO IF YOU STILL\nHAVE THEM WITH YOU,BUT IF YOU ARE NOT HAVING THEM I DO NOT HAVE A\nPROBLEM WITH THAT,JUST REPLY TO LET ME KNOW.\nI WILL BE SENDING TO YOU A FORM YOU WILL HAVE TO FILL AND RETURN BACK\nTO ME FOR OFFICIAL USAGE AND ALSO I WILL BE SENDING TO YOU MY\nIDENTITIES IMMEDIATELY AFTER YOU HAVE REPLIED TO THIS E-MAIL AND ALSO\nATTACHED TO THIS E-MAIL IS THE IDENTITY CARD OF THE ACCESS BANK UNITED\nKINGDOM CEO,THAT IS THE BANK WHERE YOUR COMPENSATION FUNDS ARE\nCURRENTLY DEPOSITED.\nI WANT YOU TO KNOW THAT IF THERE IS ANYTHING YOU DO NOT UNDERSTAND AND\nNEED TO KNOW,DON'T HESITATE TO ASK WHEN REPLYING TO THIS MAIL OKAY.\nI DO HOPE THAT YOU UNDERSTAND THIS E-MAIL VERY WELL AND REPLY\nIMMEDIATELY AFTER READING THIS MAIL..\nWARMEST REGARDS,\nINSPECTOR KWESI BOATENG\nHEAD OF OPERATIONS BNI    "
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "subject": "Re:    ATTENTION  BENEFICIARY ,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Inspector Kwesi Boateng,\n\nThank you for reaching out to me. I appreciate your efforts in maintaining the dignity of Ghana and ensuring that justice is served. It's comforting to know that there are people like you working hard to protect innocent individuals.\n\nI'm a bit confused about some parts of your message, though. Could you please clarify what exactly the \"business\" is that you mentioned? Also, could you explain more about these funds from the World Bank and United Nations?\n\nAs for the receipts and documents, I'm afraid I don't have any at hand right now. However, I'd be happy to assist in any way possible without those.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMary"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "subject": "ATTENTION BENEFICIARY ,TREAT AS URGENT",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "body": "Dear Mary,\r\nThanks for your honest  reply to my notification email which the content is\r\nquite understood by me,well i want you to know that not having the receipts\r\nand other legal documents available at this time is not a problem,as for\r\nthe compensation funds,funds are deposited here with the Ghana Commercial\r\nbank Plc Accra Ghana for further transfers to beneficiaries overseas which\r\nyou are lucky to be part of.Importantly i will want you to know that there\r\nis a form i will need to send to you which you will then print out ,fill\r\naccordingly scan and return back to me,that filled form will be sent to the\r\npolice headquarters for signing and further sent to the High Court of\r\nJustice for final endorsement before it will be sent to the bank to show\r\nyou as the certified and genuine beneficiary for them to be able to contact\r\nyou for a possible transfer of your funds to your choice nominated\r\naccount.I will be waiting for your urgent reply to this email so the form\r\ncan be sent to you and we progress very quickly as well.\nRegards,\r\nInspector Kwesi"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "subject": "Re: ATTENTION BENEFICIARY ,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "body": "Dear Mary,\r\nGood morning,still waiting for you to reply to the last email sent to you\r\nyesterday,your quick response will be appreciated.\r\nInspector Kwesi"
+    },
+    {
+        "from": "baiter_635",
+        "to": "scammer_635",
+        "subject": "Re: ATTENTION BENEFICIARY ,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "body": "Hello Inspector Kwesi,\n\nThank you for reaching out to me. I hope this message finds you well. I'm sorry, but I don't seem to recall the details of the last email you mentioned. Could you please refresh my memory about what it was regarding? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMary"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "subject": "THE EMAIL SENT AGAIN",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "body": "Dear Mary,\r\nThanks for your honest  reply to my notification email which the content is\r\nquite understood by me,well i want you to know that not having the receipts\r\nand other legal documents available at this time is not a problem,as for\r\nthe compensation funds,funds are deposited here with the Ghana Commercial\r\nbank Plc Accra Ghana for further transfers to beneficiaries overseas which\r\nyou are lucky to be part of.Importantly i will want you to know that there\r\nis a form i will need to send to you which you will then print out ,fill\r\naccordingly scan and return back to me,that filled form will be sent to the\r\npolice headquarters for signing and further sent to the High Court of\r\nJustice for final endorsement before it will be sent to the bank to show\r\nyou as the certified and genuine beneficiary for them to be able to contact\r\nyou for a possible transfer of your funds to your choice nominated\r\naccount.I will be waiting for your urgent reply to this email so the form\r\ncan be sent to you and we progress very quickly as well.\nRegards,\r\nInspector Kwesi"
+    },
+    {
+        "from": "scammer_635",
+        "to": "baiter_635",
+        "subject": "Re: ATTENTION BENEFICIARY ,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 6,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "body": "Dear Mary,\r\nI have resent you the email and still waiting for your response\r\nInspector Kwesi"
+    }
+]

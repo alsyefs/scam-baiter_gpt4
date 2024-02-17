@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_462",
+        "to": "CRAWLER",
+        "subject": "  From: Chief Adebayo Olawale ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  From: Chief Adebayo Olawale Edun,\nThe Minister of Finance\nFederal Republic of Nigeria.\nDirect Tel: +234 813 107 3632\nDear Beneficiary,\nBe informed that I am now the current and new Minister of Finance\nFederal Republic of Nigeria, His Excellency President Bola Ahmed\nTinubu has mandated me to review all out standing foreign debt and\nthen pay the beneficiary that have met with the requirement.\nYour file happens to be before me here in my office and after\nreviewing it, I decided to send you this email to advise you on the\nguide line on what you should do for your fund to be transferred to\nyou. First for me to know that you are the real beneficiary of the\nsaid amount US$10.5M, you are to reconfirm to me immediately your full\nnames and address with your banking details.\nOnce I have the details from you I will then know that you are the\nreal beneficiary and then we will process your fund and transfer to\nyour bank account as this Government is out to prove to the world that\nwe are not corrupt.\nI await your urgent reply.\nSincerely,\nChief Adebayo Olawale Edun,\nThe Minister of Finance\nFederal Republic of Nigeria.\nDirect Tel: +234 813 107 3632   "
+    },
+    {
+        "from": "baiter_462",
+        "to": "scammer_462",
+        "subject": "Re:   From: Chief Adebayo Olawale ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Chief Adebayo Olawale Edun,\n\nThank you for reaching out to me. It's quite an honor to be contacted by the Minister of Finance of the Federal Republic of Nigeria. I must say, this is a surprise!\n\nI'm curious about how my file ended up in your office. Could you please provide more details on that? Also, could you explain what exactly this outstanding foreign debt is about? I don't recall having any debts, let alone foreign ones.\n\nAs for the information you requested, I'm afraid I can't share my banking details over email due to security reasons. However, I'd be happy to discuss further details regarding this matter.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nThomas"
+    },
+    {
+        "from": "scammer_462",
+        "to": "baiter_462",
+        "subject": "Re: From: Chief Adebayo Olawale",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "body": "From: Chief Adebayo Olawale Edun,\r\nThe Minister of Finance\r\nFederal Republic of Nigeria.\r\nDirect Tel: +234 813 107 3632\r\n\r\n\r\nDear Thomas\r\n\r\nYour mail is received and the content well understood.\r\n\r\nSequel to my earlier email, Ten Million Five Hundred Thousand United States\r\nDollars is assigned to and the fund has been floating over the years but\r\nthis present Government has mandated that I should make contact with you\r\nand get your details to enable us settle the payment to you,\r\n\r\nThere are some vital payment approval documents that you will require to\r\nlegally back up the funds transfer to you smoothly without any problems.\r\nAnd I will be obtaining the documents for you at no cost to you.\r\n\r\n\r\nMeanwhile, I have instructed the legal practitioner working under me to\r\nprepare for obtaining the very important document including Ownership\r\nCertificate in your name so that it can be emailed to you via attachment to\r\nenable you sign it and return for final endorsement.\r\n\r\nOnce you sign the Ownership Certificate and return, the legal practitioner\r\nwill then be empowered with it to be able to secure other payment approval\r\ndocuments that will legally back up your funds wire transfer.\r\n\r\nYou have to get back to me upon receipt of this email for directives. I am\r\nattaching my work ID for identification.\r\n\nSincerely,\r\n\r\nFrom: Chief Adebayo Olawale Edun,\r\nThe Minister of Finance\r\nFederal Republic of Nigeria.\r\nDirect Tel: +234 813 107 3632"
+    }
+]

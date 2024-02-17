@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_552",
+        "to": "CRAWLER",
+        "subject": "  Attention Dear Customer !",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Attention Dear Customer !\nKindly move this mail to your mail-inbox, click on the Bank website or\ncopy and paste the link in your window browsing, type in your E-mail\nand password because it's has already been computerized, you are only\nrequired to activate your online account and make transfer, follow the\nabove instruction, then you will make your first transfer into your\npersonal Bank account. click or copy and paste in your window browser:\n{ https:/ /obgp.cu.ma/legit/acb-transfer-confirmation/  }\nFunds Transfer Reference\nConfirmation Number:    0145629160216052036\nTransaction Id:    NB6752618003IE6\nTotal Amount:    $10,500,000.00\nTransferred:    Complete\nWe strongly urge you to complete your online transaction payment\nbefore the expiration of your payment validity: click your transfer\nportal  transaction: click or copy and paste in your window browser:\nhttps:/ /obgp.cu.ma/legit/acb-transfer-confirmation/\nWaiting for your urgent response.\nFor any complaint of question you can contact me on my email:\nhuyentrinhle11@hotmail.com\nHuyen Trinh Thi le\nManaging Director\nAsia Commercial Bank   "
+    },
+    {
+        "from": "baiter_552",
+        "to": "scammer_552",
+        "subject": "Re:   Attention Dear Customer !",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Huyen Trinh Thi le,\n\nThank you for your email. However, I am unable to proceed with the instructions provided as they seem to be incomplete. Could you please provide more detailed instructions on how to activate my online account and make the transfer?\n\nLooking forward to your response.\n\nBest wishes,\nNeil"
+    }
+]

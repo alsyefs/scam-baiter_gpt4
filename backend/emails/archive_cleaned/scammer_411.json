@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_411",
+        "to": "CRAWLER",
+        "subject": "  Good News From Mrs. Fatima",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Good News From Mrs. Fatima\nFrom Mrs. Ali Melissa Fatima\nMy Dearest One,\nI sent this letter to you a month ago, but I am not sure if you\nreceived it, since I have not heard from you, and this is the reason\nwhy I repeat it again, due to the urgency of this matter. Let me start\nby Introducing myself properly to you. My Beloved one.\nI'M MRS.ALI FATIMA MELISSA A (Citizen OF Turkey),\nI am an Elderly widow who Suffers from a prolonged illness (Cancer),I\nam Currently Admitted to a Private Hospital, I have funds I inherited\nfrom My late loving husband, DR. ALI BERNARD Which he deposited {$30.5\nMILLION US DOLLARS} in a Bank before his Death over Covid-19, and I\nneed a very Honest and Fearing Individual that can use these funds for\nthe Work of Charity and 30% of the total funds will be for their\ncompensation for doing this Work for Charity Orphanage Home in your\nCountry.\nThank you.\nYour Sister.\nMrs.Ali Melissa Fatima   "
+    },
+    {
+        "from": "baiter_411",
+        "to": "scammer_411",
+        "subject": "Re:   Good News From Mrs. Fatima",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mrs. Melissa Fatima,\n\nI hope this message finds you well. I'm sorry to hear about your health condition and the loss of your husband, Dr. Ali Bernard. It's very kind of you to think about charity work in such difficult times.\n\nYou mentioned a significant amount of money that your late husband deposited in a bank. That's quite a fortune! Could you please share more details about the charity work you have in mind? Are there any specific orphanages or causes that are close to your heart?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRupert"
+    }
+]

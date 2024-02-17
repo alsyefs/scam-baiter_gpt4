@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_380",
+        "to": "CRAWLER",
+        "subject": "   ACT FINDING OFFICE",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   ACT FINDING OFFICE\nINTERNATIONAL PAYMENT CENTRE,\n152-160 CITY RD, LONDON EC1V 2NX,\nUNITED KINGDOM\nAttn:Beneficiary\nSequel to the mandate of the United Nations to clear and release all\nprocessed funds not associated with drugs and terrorist activities to\ndeserving beneficiaries without further delay. It may interest you to\nknow that based on the current financial policy on all foreign\npayments. The International payment outlets has approved your\noutstanding payment worth US15.5Million with the accrued interest via\nany of her cash payment centers in Southern Africa, Asia or\nAmerica.The implication of this approval is that every short listed\nbeneficiary like you must travel to the assigned endorsement office in\nperson to sign the necessary fund release order documents/bond before\nproceeding\nto the cash payment center for proper immediate payment release\nwithout requesting for any upfront fees/charges.\nWe are aware of the cost implication/expenses involved on this process\nknowing fully well that you might be unable to take care of the high\ntraveling expenses associated in this process.In respect of the above\nsubject we have contracted the services of a\nseasoned investor/ sponsor who will cover every expenses needed on\nthis process including your return flight tickets, hotel reservations,\nfeeding and taxi respectively hence you will not be expected to put\nforward any money from your pocket on this subject.\nPlease note that the investor is demanding for 15% only of your total\npayment as his entitlement for the sponsorship. I hope this\narrangement is OK by you? it is important you revert back to us\nurgently to enable us proceed with the needful accordingly.\nThanks for your kind understanding.\nYours Faithfully\nHon. Edward Hicks\nPayment Coordinator,\nInternational Payment Center.  "
+    },
+    {
+        "from": "baiter_380",
+        "to": "scammer_380",
+        "subject": "Re:    ACT FINDING OFFICE",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Hon. Edward Hicks,\n\nThank you for your email and the information provided. It's quite interesting to know about the mandate of the United Nations and their efforts towards clearing funds not associated with drugs and terrorist activities.\n\nI'm curious about this process though, could you please provide more details? For instance, how was I shortlisted for this payment? And what exactly does signing the fund release order documents bond entail?\n\nAlso, it's very generous of the investor sponsor to cover all expenses including return flight tickets, hotel feeding, and taxi. However, I would like to understand more about his demand for a percentage of my total payment. Could you elaborate on that?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAngela"
+    }
+]

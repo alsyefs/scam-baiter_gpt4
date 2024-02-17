@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_682",
+        "to": "CRAWLER",
+        "subject": "Hello.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hello.\nIt's my pleasure to introduce to you, about our zero loan credit facilities, to enhance your small scale business. Our loan facility will interest you, We issue loan with zero percent interest rate in repayment. indicate your interest by contacting us. through our email.\nThanks\nRev George Parker."
+    },
+    {
+        "from": "baiter_682",
+        "to": "scammer_682",
+        "subject": "Re: Hello.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Rev George Parker,\n\nThank you for reaching out and introducing me to your zero loan credit. It sounds very interesting indeed! I'm curious, how does your organization manage to offer loans with a zero percent interest rate? That's quite unique.\n\nLooking forward to hearing more about this.\n\nBest regards.\n\nBest wishes,\nJennifer"
+    }
+]

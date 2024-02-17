@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_536",
+        "to": "CRAWLER",
+        "subject": "We are an award-winning Sweden",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "We are an award-winning Sweden retail bank, providing savings accounts and lending services to over a million customers.\nBorn in 1977 in the Copenhagen\n, we’ve had plenty of time to hone our craft. Safety. Security. Peace of mind.\nA bank you can trust. It’s in the name, after all.."
+    },
+    {
+        "from": "baiter_536",
+        "to": "scammer_536",
+        "subject": "Re: We are an award-winning Sweden",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nWow, that's really interesting! A bank from Sweden with such a long history must have a lot of experience in the field. I'm curious, what kind of savings accounts do you offer? And how about your lending services? Can you tell me more about them?\n\nAlso, I love the emphasis on safety, security and peace of mind. How does your bank ensure these for its customers? \n\nLooking forward to hearing more about your services!\n\nBest wishes,\nJerry"
+    }
+]

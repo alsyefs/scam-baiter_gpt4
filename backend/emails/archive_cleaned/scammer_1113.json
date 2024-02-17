@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1113",
+        "to": "CRAWLER",
+        "subject": "  Greetings",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Greetings\nI am Mr. Peter Ben, Kay Account Manager in well-known Bank, herein\nLondon, England.\nHowever, I have already sent you this same letter by post one month\nago, but I am not sure that the letter promptly gets to you since I\nhave not heard from you, now i am re-sending it again.\nI discovered a dormant account in my office, as Group Accountant with\nAhliUnited Bank (UK).\nIt will be in my interest to transfer this fund worth of £68.5M pounds\n(Sixty Eight Million Five hundred thousand pounds) in an account\noffshore.\nCan you be my partner?\nRegards and respect,\nMr. Peter Ben   "
+    },
+    {
+        "from": "baiter_1113",
+        "to": "scammer_1113",
+        "subject": "Re:   Greetings",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Peter Ben,\n\nI hope this message finds you well. Your letter certainly piqued my interest! It's not every day that one hears about a dormant account with such a substantial amount of money.\n\nCould you please provide more details about this situation? How did you come across this account and why is it dormant? Also, what would being your partner entail?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDonna"
+    }
+]

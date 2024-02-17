@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_88",
+        "to": "CRAWLER",
+        "subject": "Head Office",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Head Office\nUnited Nations(UN)\n405 East 42nd Street, New York, NY, 10017, USA\nATTENTION FUND BENEFICIARY\nWe inform you that we are working to eradicate scammers and scammers in West Africa with the help of the Organization of African Unity (OAU) and the FBI/CIA. We have been able to track down many of these scammers in various parts of African countries and Europe including (Russia, UK, Spain, Ghana, Cameroon and Senegal) and all of them are now in government custody and will appear soon at the International Criminal Court (ICC). In The Hague (Netherlands) on criminal justice and fraud. During our investigation, we were able to recover so much money from these scammers.\nThe UN Commission on Combating Crime ordered that the money seized from the scammers has been divided among 100 lucky people around the world, for Peace compensation. \nThis e-mail/letter was sent to you because your e-mail address was found in one of Artists scam files and on your computer's hard drive during investigation, you may have been deceived.\n Thus, you receive compensation fund value $10,800,000.00 (Ten million Eight Hundred Thousand US Dollars).\nWe assure you that your payment will get to you as long as you follow our directives and instructions. If you have any questions, Please ask António Guterres\nSecretary-General of the United Nations via email (\nantnioguterres804@aol.com\n) for further details.\nThank You,\nAntónio Guterres\nSecretary-General of the United Nations."
+    },
+    {
+        "from": "baiter_88",
+        "to": "scammer_88",
+        "subject": "Re: Head Office",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Ant nio Guterres,\n\nWow, this is such an unexpected surprise! I can't believe my address was found in one of those files. It's really amazing what you and your team are doing to combat these scammers. \n\nI'm curious though, how did you manage to track down all these scammers across different countries? And how was it decided that the money should be divided among lucky people around the world?\n\nLooking forward to hearing more about this.\n\nBest regards.\n\nBest wishes,\nLupe"
+    }
+]

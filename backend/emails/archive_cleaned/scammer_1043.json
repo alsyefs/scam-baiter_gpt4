@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1043",
+        "to": "CRAWLER",
+        "subject": "  THE WORLD BANK HEADQUARTERS",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  THE WORLD BANK HEADQUARTERS\n1818 H Street, NW Washington, DC 20433 USA\nTEL: +1 {518} 291-8804\nEMAIL: { \nofficeprofile12345@protonmail.com\n}\nOUR-REF NO: wb0022-docs/022\nYOUR-REF NO: wbu/wb/imf/usa-22\n                                                                              PAYMENT ORDER NOTIFICATION OF USD $20.5m\n The newly launched organization, which the World Bank has gratified the international Debt Management to release all outstanding contractors/workers that are due for payment with us. Your abandoned transaction of $20.5 million USD with the World Bank is ready for you to claim.\n The payment of $20.5 million USD has been approved to be paid through ATM CARD, which will be delivered to your doorstep. But you must respond to this email with immediate effect as persons are likely to claim your fund. This payment is as a result of a compensation fund which is due to you. In view of this development, you are required to reconfirm your  \n: NAME,\n: ADDRESS,\n: PHONE NUMBER,\n: OCCUPATION,\n: ATTACH COPY OF YOUR ID CARD to enable us now to release your fund to you as the real bona-fide beneficiary to this fund, to avoid misrepresentation of claims. Please provide the above information accurately, because this Office will not be held liable for the wrong delivery of Funds.\n \n                           Thanks.\nWe look forward to serving you with the best of our service.\n \n+1 {518} 291-8804                                \nDirector Foreign Remittance Department  \nWorld Bank liaison Washington,                \nRegards                \n Mr;Mark Maxwell.   "
+    },
+    {
+        "from": "baiter_1043",
+        "to": "scammer_1043",
+        "subject": "Re:   THE WORLD BANK HEADQUARTERS",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Mark Maxwell,\n\nI am writing in response to your email regarding the release of my abandoned funds with the World Bank. I appreciate your efforts in this matter and I am ready to claim these funds.\n\nHere are my details:\n\nNAME: John Doe\nADDRESS: 123 Main Street, Anytown, USA\nPHONE NUMBER: +1-555-555-5555\n\nFor security reasons, I prefer not to send a copy of my ID via email. If there is an alternative method for verifying my identity, please let me know.\n\nThank you for your assistance.\n\nBest wishes,\nHoward"
+    }
+]

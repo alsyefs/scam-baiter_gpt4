@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_222",
+        "to": "CRAWLER",
+        "subject": " THIS MAIL IS ONLY FOR THE OWN",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " THIS MAIL IS ONLY FOR THE OWNER OF THIS E-MAIL ADDRESS\nFrom US Ambassador to Federal Republic of Nigeria\nUnited States Consulate General Nigeria\nAbuja Nigeria\nATTENTION: BENEFICIARY ,\nI AM RICHARD MILLS JR , THE CURRENT UNITED STATE AMBASSADOR TO NIGERIA, JUST IN CASE YOU DON'T KNOW ME. THE UNITED STATES EMBASSY HAS RESOLVED ON A DIPLOMATIC MISSION TO NIGERIA ON-BEHALF OF 100 SCAM VICTIMS TO BE COMPENSATED AFTER POLICE ARRESTED SOME FRAUDSTERS IN LAGOS NIGERIA WHO MENTIONED YOUR PARTICULARS AS ONE OF THE VICTIMS OF CIRCUMSTANCES.\nNOTE THAT AFTER MY MEETING WITH AHMED BOLA TINUBU GCFR, PRESIDENT FEDERAL REPUBLIC OF NIGERIA AND OTHER HOUSE OF REPRESENTATIVE MEMBERS, WORLD BANK, UNITED NATIONS AND INTERNATIONAL MONETARY FUND (IMF), THEY AGREED TO PAY YOU $5,000,000.00 (FIVE MILLION US AMERICAN DOLLARS ONLY) AS YOUR COMPENSATION.\nCONGRATULATIONS FOR YOUR NAME WERE AMONG THE LIST TO BE PAID $5M US DOLLARS COMPENSATION PAYMENT.\nSO RE-CONFIRM BELOW INFORMATION SO THAT THERE WILL NOT BE ANY MISTAKE.\n1) YOUR FULL NAME:  -\n2) YOUR CURRENT HOUSE ADDRESS:\n3) CURRENT DIRECT TELEPHONE:  -\n4) OCCUPATION & AGE:\nAS SOON AS I RECEIVE THE INFORMATION, I WILL TELL YOU WHAT TO DO TO RECEIVE YOUR PAYMENT WITHOUT ANY FURTHER DELAY.\nGET BACK TO ME IMMEDIATELY.\nCONGRATULATIONS ONCE AGAIN.\n \nMY BEST REGARDS.\nRICHARD MILLS JR\n+234-813-912-3573    "
+    },
+    {
+        "from": "baiter_222",
+        "to": "scammer_222",
+        "subject": "Re:  THIS MAIL IS ONLY FOR THE OWN",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Richard Mills Jr,\n\nThank you for your email. I am surprised to hear that I have been listed as a victim of fraud in Nigeria, as I have never had any dealings with individuals or businesses from there. However, if there has been some mistake and I am indeed entitled to a payment of five million US dollars, I would be grateful for your assistance in this matter.\n\nHere are the details you requested:\n\nFull Name: Lewis D. Noogie\nCurrent House Address: 1234 Elm Street, Novosibirsk, Latvia\nDirect Telephone: +371 12345678\nOccupation: Hotel Consultant\nAge: 45\n\nI look forward to hearing from you about the next steps in this process.\n\nBest regards,\nLewis D.\n\nBest wishes,\nRobert"
+    }
+]

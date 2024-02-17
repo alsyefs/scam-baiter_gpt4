@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_24",
+        "to": "CRAWLER",
+        "subject": "  Ok please wait as soon as th",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Ok please wait as soon as they send it i will let you know and give you the tracking number.Thanks and God bless you.   "
+    },
+    {
+        "from": "baiter_24",
+        "to": "scammer_24",
+        "subject": "Re:   Ok please wait as soon as th",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Sure, I will wait for your update. Please let me know as soon as you have the tracking information. God bless you too.\n\nBest wishes,\nRobin"
+    }
+]

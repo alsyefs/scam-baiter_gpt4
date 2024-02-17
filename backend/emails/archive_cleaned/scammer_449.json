@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_449",
+        "to": "CRAWLER",
+        "subject": "Attention: Beneficiary",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attention: Beneficiary\nThank you for your mail and well understood. Merry Xmas and Happy New Year, I have already told you what to do and receive your fund to avoid them scam you again, you as the beneficiary suppose to sign your original contract documents by yourself not somebody else showing that you are the rightful beneficiary of fund (Ten Million Five Hundred Thousand Dollars only), \nonce you pay for insurance USD589 I will send the documents by courier company which you will sign and return it back to enable my government recognize you as the rightful beneficiary and no government will stop it again once I transfer it try to understand\n. If you don't have the total amount of USD589 let me know the amount you can raise let me consider you, I want you to receive your contract fund before our presidential election 2023 January.\nMeanwhile, let me know the amount you can raise out of the total amount of USD589 so I will how to help you complete and make sure that I send your original contract documents to your address which you sent to me. Please try to check the frist mail I sent you about this transaction that if you are very sure that you execute a contract with Federal Government of Nigeria you will like to receive your fund. Don't let them scam you again about any transaction in Nigeria. I need your answer urgent.\nI await your urgent response,\nYours faithfully,\n \nZainab Shamsuna Ahmed\nMinister of Finance\nFederal Republic of Nigeria"
+    },
+    {
+        "from": "baiter_449",
+        "to": "scammer_449",
+        "subject": "Re: Attention: Beneficiary",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Zainab Shamsuna Ahmed,\n\nThank you for your email and the information provided. I understand the urgency of this matter, especially with the upcoming elections in January.\n\nHowever, I would like to clarify a few things before proceeding. Firstly, could you please provide more details about the contract that was supposedly executed with the Federal Government of Nigeria? As far as I am aware, I have not entered into any such agreement.\n\nSecondly, regarding the insurance payment, could you please specify how much is required and provide details on how this payment should be made?\n\nI look forward to your prompt response.\n\nBest wishes,\nThelma"
+    }
+]

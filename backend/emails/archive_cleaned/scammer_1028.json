@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1028",
+        "to": "CRAWLER",
+        "subject": "This is Mr.Ralph Chami Assista",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "This is Mr.Ralph Chami Assistant Director of the International Monetary Fund\nThe USA, We know that you have not received Your fund from United\nNations! we have\nfinally, cash your abandoned long-lost fund confirming to be your won\ncompensation funds and we decided to box the money for avoiding the expiry of\nthe check because it has stayed long in our custody searching for the\ncontact to reach you, after our investigation, we discovered that the money\nis not an illegal payment, The fund values the sum of $4.5 million dollars.\nSo kindly reconfirm your full details.\nYour full name\nHome Address\nYour Phone number\nNearest Airport.\nSorry if you may receive this message in your Spam due to poor network failure.\nif you are not interested in the Funds anymore,\ndon't insult us only ignore this message okay?\nThank You.\nBest Regards\nASST, DR.Ralph Chami."
+    },
+    {
+        "from": "baiter_1028",
+        "to": "scammer_1028",
+        "subject": "Re: This is Mr.Ralph Chami Assista",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello ASST, Chami,\n\nThank you for reaching out to me. I'm surprised to hear about this fund from the United Nations. Could you please tell me more about how this fund came into existence? And why was it abandoned?\n\nAlso, could you explain why my personal details are needed? I'm a bit cautious about sharing such information online.\n\nLooking forward to your response.\n\nBest wishes,\nMichael"
+    }
+]

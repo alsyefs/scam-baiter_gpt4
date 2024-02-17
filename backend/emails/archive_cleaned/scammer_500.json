@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_500",
+        "to": "CRAWLER",
+        "subject": "  REPUBLIC OF GHANA",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  REPUBLIC OF GHANA\nCONSIGNMENTS RECOVERY & DELIVERY COMMITTEE\n172, ACHIMOTA ROAD , OPP. PAK-TIK SHOP, P. O. BOX 286 ACCRA , GHANA\n Private E-mail:\nghanapermi@aol.com\n      Tel. Roaming line: +233209961240\n*********************************************************************************************************\nAttention:\nI wish to extend my warmest regards to you and your entire household and I hope my mail finds you in the best of health.\nI am Kenneth Kanda, the Agent of the United Nations Inspection Unit at Kotoka International Airport Ghana, working hand in hand with the Department of Security and Border Protection.\nDuring our investigation, I discovered an abandoned shipment of consignments and when scanned it revealed an undisclosed sum of money in a \nmetal trunk box\n weighing approximately 25kg each. But the boxes have been transferred to the United Nation head office in New York under the United Nation Delivery Committee.\nYour information needed.\n1, Full Name:\n2, Residential Addresses:\n3, Occupation:\n4, Direct Telephone Number:\n5, Identification:\n6, Age:\nSo as to ensure that I am dealing with the right person, Send the requested information to this email :ghanapermi@aol.com.\nif you are still interested to receive your boxes.\n \nH.E Mr. Kenneth Kanda\nGhanaian Ambassador & Permanent\nRepresentative to the United Nations\n+233209961240   "
+    },
+    {
+        "from": "baiter_500",
+        "to": "scammer_500",
+        "subject": "Re:   REPUBLIC OF GHANA",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Kenneth Kanda,\n\nThank you for your email and the warm regards to my household. I am indeed in good health and hope the same for you.\n\nHowever, I must express my confusion regarding your message. It seems there is some information missing which makes it difficult for me to understand the situation fully.\n\nCould you please provide more details about this abandoned shipment? What is its connection to me? And why has it been sent to the United Nations head office in New York?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nMinnie"
+    }
+]

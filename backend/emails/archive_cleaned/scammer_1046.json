@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1046",
+        "to": "CRAWLER",
+        "subject": "Attn; Beneficiary,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attn; Beneficiary,\nI am Mrs. Sandra Christine, Former U.S.A Ambassador to Nigeria. With\nreference to your entitlement fund and inline with the CHANGE OF\nBENEFICIARY'S APPLICATION, signed by Mrs. Glenda F. Ward with your\npurported authorization. This issue has been carefully examined and we\nhave declined Mrs. Ward's application as the application lacks regular\nsignature. But Did you ever instruct Mrs Glenda F. Ward to claim your\nfund worth US$7.000.000? Below is the bank account information provided\nby Mrs Glenda F. Ward saying that you authorized her to claim your fund\nthat you are terminally ill.\nBank of America\nBenf: Glenda F. Ward\nACCT: 586025513245\nRouting: 111000025\nBank Address 9711 Bissonnet St. Houston, Tx 77036\nIf you had not authorized the change of your bank account in respect to\nyour outstanding entitlement Payment, notify me immediately as the\nnotification / declaration was supported with a sworn affidavit from\nLagos high court ref: ilk /jj/202/k2015, dated 9th December 2022 and\nsigned by Mrs. Glenda F. Ward who claim and stated in the sworn\ndeclaration that you authorized her to claim the said fund on your\nbehalf to a different bank account in the U.S.A as stated above because\nyou were terminally ill and the Doctor who is in charge of your case\nstated that you will not stay more than one Month before passing away.\nThis development has caused lots of discrepancies in your payment file\nthat is why we had to suspend your payment and prompted to contact you\ndirectly before re-validating your payment. You can be rest assured that\nI will do everything within my capacity to successfully actualize the\nquick transfer of your fund to any of your nominated bank account.\nKindly get back to me as soon as possible via my personal email {\nofficetotly905@gmail.com\n} so that I will direct you on what to do.\nSincerely Yours\nMrs. Sandra Christine\nFmr. U.S Ambassador"
+    },
+    {
+        "from": "baiter_1046",
+        "to": "scammer_1046",
+        "subject": "Re: Attn; Beneficiary,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mrs. Sandra Christine,\n\nI am writing to confirm that I have not authorized any change in my bank account details nor have I instructed Mrs. Glenda F. Ward to claim any funds on my behalf. I am not terminally ill and I do not know who Mrs. Glenda F. Ward is.\n\nPlease disregard any information provided by her as it is false and misleading. I would appreciate if you could provide me with more information about this situation and advise me on the next steps to take.\n\nThank you for your attention to this matter.\n\nBest wishes,\nBeverly"
+    }
+]

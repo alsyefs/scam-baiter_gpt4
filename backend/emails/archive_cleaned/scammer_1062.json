@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1062",
+        "to": "CRAWLER",
+        "subject": "  ICPC NIGERIA (Anti-Fraud Uni",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  ICPC NIGERIA (Anti-Fraud Unit)\nHead Office: Plot 802, Constitution Avenue\nZone A9 Central Area\nP. M.B 535, Garki Abuja.\n    We Fight Against Fraud, Funds Delay and Impersonation.\nGreetings!!!\nThis is to inform you that, we have been working towards the eradication of fraudsters and scam Artists in Africa with the help of the Organization of African Unity (OAU), the International Monetary Fund (IMF) and FBI. We have been able to track down so many of this scam artist in various parts of African countries and Europe, which includes (Nigeria, United Kingdom, Spain, Ghana, Cameroon and Senegal) and they are all in Government custody now, they will appear at International Criminal Court (ICC) Hague (Netherlands) soon for Criminal/Fraud Justice.\nDuring the course of our investigation, we have been able to recover so much money from these scam artists. The United Nations Anti-Crime Commission and the International Monetary Fund (IMF) have ordered that the money recovered from the Scammers to be shared among 100 Lucky people around the World for compensation. This Email/Letter is been directed to you because your email address was found in one of the scammer Artists file and computer hard-disk during the investigation, maybe you have been scammed. You are therefore being compensated with the sum of  US$1,200,000.00 (One Million, Two Hundred Thousand United State Dollars).\nWe have arranged and directed your payment to be paid to you by the United Bank for Africa (UBA), you are hereby directed to contact the UBA payment director with his details below:\n \nFULL NAME: Mr. Oliver Alawuba\nCONTACT EMAIL: \noliveralawuba79@gmail.com\nContact him now and forward the below details to him:\nFull Name:\nOccupation:\nValid Identity Card:\nCountry/City Address:\nDirect Telephone Number:\nAge & Marital Status\nNOTE: Before you contact the UBA Director, make sure you are truly a scam victim but if this mail comes as an Error, please kindly Ignore and delete it immediately.\nAcknowledge receipt of this email as soon as received.\nBest Regards,\nMR. BOLAJI O. OWASANOYE\nDIRECTOR GENERAL\nICPC ANTI-FRAUD INVESTIGATION UNIT.   "
+    },
+    {
+        "from": "baiter_1062",
+        "to": "scammer_1062",
+        "subject": "Re:   ICPC NIGERIA (Anti-Fraud Uni",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Bolaji Owasanoye,\n\nI am writing in response to your email regarding the recovery of funds from scam artists. I am surprised and pleased to hear that I have been selected to receive a portion of these recovered funds.\n\nBefore proceeding, I would like to confirm the legitimacy of this process. Could you please provide me with more information about how my email address was found and why I was chosen for this? \n\nLooking forward to your response.\n\nBest wishes,\nFelix"
+    }
+]

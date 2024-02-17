@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_21",
+        "to": "CRAWLER",
+        "subject": "Santander Bank of the United",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Santander Bank of the United\nStates Address: 1010 W. Mockingbird\nLane, Suite 100. Dallas, TX 75247.\nAttn: Account Holder, What is going on? why do you still delay again\nthe same information from online Santander Bank of the United States\nThis is to notify you again that a new development has been made today\nbeing Friday 28th of October 2022, in which the United States Of\nAmerica Bank called Santander Bank has been holding your funds all\nthis while and it has been ordered for release\nto you. The bank created an online bank account on your behalf and the\nonline bank account has been funded with the total sum of $15.5\nMillion and you would be able to withdraw any amount of money daily\nfrom the online account.\nBelow are the online bank account details for your perusal:\nWelcome! To - Santander Bank Online Plc Secure Account Page\n16th of September 2022 Created An Online Account\nBalance US$15,500,000 Million Five Hundred Thousand Dollars\nSort Code:  00169381101-43372 1020-03-8733\nSwift Code: PNBPUS33\nAccount Number: 1010169857504\nThe bank has also stated that you would be able to start accessing the\nonline bank account once the transfer code has been issued to you and\nthis code will cost you the sum of $100usd. The bank has also directed\nthat the payment should be sent through Western Union or MoneyGram But\nif you cannot be able to send it through Western Union or MoneyGram,\nthen send the $100usd by getting any of the listed cards below: iTunes\nCard or Steam Wallet Card. You need to speed up with the payment so\nthat you will have full access to your online bank account today once\nthe payment is confirmed.\nSend to this office with the copy of the $100 card once you were able to get it.\nOnce the payment of $100usd has been received today, then the bank will\nissue the TRANSFER CODE/TRANSFER PIN to you which you will use to make\nthe final transfer to any bank account of your choice. I shall be\nwaiting for the details as directed as soon as possible.\nThe Financial Trust Fund Committee of UNITED STATES OF AMERICA proof\nin accordance to United Nation financial edits of 1980 as related to\ninternational funds transfer policy as agreed with SANTANDER BANK acts\nthat no one has right over your funds as it have been signed and\nstamped that no money should be deducted from your fund until you\nconfirmed your total funds into to your account to avoid any\nMal-practice in making excessive deduction from your funds, be\ninformed that if the policy is not observed it might  involve\ncorruption which in other words might lead you losing your funds,\ntherefore take note that we cannot deduct your transfer fees from your\nfunds.\nTHANKS FOR YOUR COOPERATION.\nRespectively,\nMr. Tim Wennes\nAssistant Director.\nBank Email: \nsantanderbankusa2@aol.com\nRespond back accordingly."
+    },
+    {
+        "from": "baiter_21",
+        "to": "scammer_21",
+        "subject": "Re: Santander Bank of the United",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Tim Wennes,\n\nThank you for your detailed message. It's quite exciting to hear about the online bank account created on my behalf by Santander Bank. I must say, it's a bit surprising as well.\n\nI'm curious about a few things though. Could you please explain why this account was created without my prior knowledge? Also, could you provide more information about the transfer code and how it works?\n\nRegarding the payment of $500, is there any other method available apart from Western Union or purchasing a card? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nShaun"
+    }
+]

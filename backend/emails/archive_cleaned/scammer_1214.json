@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1214",
+        "to": "CRAWLER",
+        "subject": "Hello Dear",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hello Dear\nDo you need a loan to pay up your debts and for other expenses? if yes\nkindly apply for a quick loan via email below:\nsarahpublicfunds@gmail.com"
+    },
+    {
+        "from": "baiter_1214",
+        "to": "scammer_1214",
+        "subject": "Re: Hello Dear",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Hello,\n\nThank you for your offer, but I am currently not in need of a loan. I appreciate your concern and will keep your contact for future reference.\n\nBest wishes,\nKevin"
+    }
+]

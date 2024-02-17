@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1353",
+        "to": "CRAWLER",
+        "subject": "  U.S.BANK PAYMENT OFFICE.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  U.S.BANK PAYMENT OFFICE.\n1025 Connecticut Ave. NW, Ste. 510. Washington, DC 20036 United States\nof America.\nSWIFT (US): USBKUS44XXX\nFounded: United States of America\nHours: Open 24 Hours.Reply to\nPrivate Email:usbankoffice89@gmail.com\nDear customer:\nAfter today's board meeting of the management of this bank, Ministry\nof Finance, Internal Revenue Service of the United States (IRS), The\nReserve Bank and the World Bank Directorate it was gathered that your\noverdue compensation fund worth US$15 Million has been deposited with\nthis bank for onward payment/ transfer to your\ndesignated/choose bank account. the reason for this is because your\nname was among the scam victims that lost a lot of money to African\nand European Fraudsters, you are hereby advised to without delay stop\nall contact going on between you and anybody on internet because you\nwill end up at nothing.Reply to this Private Email:usbankoffice89@gmail.com\nRE-CONFIRM YOUR BELOW DETAILS.\nYour Full Name:\nYour Residential Address:\nYour Sex/ Age:\nOccupation:\nTelephone/Fax:\nNext of Kin:\nThe US bank will immediately remit your account once I reconfirm your\nbanking details.\nYour utmost response is needed to enable us proceed with your payment.\nWe are looking forward to hear from you.\nThanks for choosing US Bank\nYOURS FAITHFULLY\nMR. SMITH JOHN.\nEXECUTIVE REGION MANAGER.\nPRIVATE Email:usbankoffice89@gmail.com   "
+    },
+    {
+        "from": "baiter_1353",
+        "to": "scammer_1353",
+        "subject": "Re:   U.S.BANK PAYMENT OFFICE.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Smith John,\n\nThank you for your email and the information provided. I am indeed relieved to hear that my overdue fund has been deposited with your bank for onward payment transfer.\n\nHere are my details as requested:\n\nSex: Male\nAge: 45\nTelephone: +371-1234-5678\nFax: +371-8765-4321\n\nI look forward to hearing from you regarding the next steps in this process.\n\nBest regards,\nLewis D.\n\nBest wishes,\nPaul"
+    }
+]

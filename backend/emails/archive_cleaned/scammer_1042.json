@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1042",
+        "to": "CRAWLER",
+        "subject": "Attention Beneficiary,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attention Beneficiary,\nHow are you doing today? I am Mrs. Anna Okamota, from the United\nNations (UN) International organization. There are presently counter\nclaims on your behalf by MRS. ROSE FRANK. who is trying to make us\nbelieve that you are dead and even explained that you entered into an\nagreement and signed a deed with her, to represent you in receiving\nthe unclaimed Deposited Consignment Box, So here comes the big\nquestion?\nDid you sign any Deed of Agreement in favor of MRS. ROSE FRANK?\nthereby making her the current beneficiary with the following details.\nBelow is the information(s) that she has sent to us for the delivery\nof the unclaimed Deposited Consignment Box as (FAMILY TREASURE) with\ninsurance value of USD$15.5 Million to her through Diplomatic Means:\n(RECEIVERS ADDRESS: CEDAR AVENUE, SOUTH PITTSBURGH).\n(RECEIVER'S NAME: MRS. ROSE FRANK).\nNOTE: If we don’t hear from you within the next 48 hours, we will not\nhave any other option than to proceed with his payment request to her,\nas she is not aware that we have already contacted you now for this\nconfirmation, therefore, we shall be looking forward to your prompt\nreply.\nBe reminded you are to come over to our office here in Europe and sign\nall the legal documents related to the unclaimed inheritance deposited\nconsignment box, Thanks for your understanding and God bless you.\nThanks\nMrs. Anna Okamota.\nUnited Nations (UN) International Organization"
+    },
+    {
+        "from": "baiter_1042",
+        "to": "scammer_1042",
+        "subject": "Re: Attention Beneficiary,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mrs. Anna Okamota,\n\nI hope this message finds you well. I'm quite surprised to hear about this situation involving Mrs. Rose Frank and the unclaimed Deposited Box. \n\nTo answer your question, no, I did not sign any Deed of Agreement in favor of Mrs. Rose Frank or anyone else for that matter. This is all very new and unexpected to me.\n\nCould you please provide more details about this unclaimed Deposited Box? What exactly does it contain? And how did my name get associated with it?\n\nAlso, could you clarify what steps I need to take next? You mentioned coming over to your office in Europe - could you provide more information on that?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJoe"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_167",
+        "to": "CRAWLER",
+        "subject": " Federal Ministry of Finance (",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " Federal Ministry of Finance (FMF)\nAhmadu Bello Way, Central Business District\nAbuja, Nigeria PMB 14, Abuja, Nigeria\nAbuja FCT 00234 Nigeria\n \n \nAttn: Beneficiary\n \nThis is to inform you that we are now processing your transfer payment  as approved for remittance into your account by the Senate Committee on Foreign Debt Settlement  . On this therefore, you are requested to kindly reconfirm your receiving details and current address with your direct mobile number for easy reach .\nRight now, all your payment documents need to be re-validated to enable the telex unit to remit to your account and  you are required  to come and sign your payment release order at our CBN telex Credit department in person  to enable final transfer to you as approved .\n \nIf you can not make it down here in person due time constraints, I will get an attorney appointed to act on your behalf and represent you in all legal requirements and sign all the necessary transfer payment documents , while you pay his legal fee .\nThis is all that we need now to complete your payment  release\n       Thank you\n      Dr. Wale Edun\n      New Finance Minister    "
+    },
+    {
+        "from": "baiter_167",
+        "to": "scammer_167",
+        "subject": "Re:  Federal Ministry of Finance (",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm quite excited about this opportunity! However, I have a few questions that I hope you can help me with.\n\nFirstly, could you please explain more about the Senate Committee on Foreign Debt Settlement? What is their role in this process?\n\nSecondly, could you provide more details about the payment documents that need to be signed? What exactly do these documents entail?\n\nLastly, regarding the attorney who might represent me, how would that process work? Would I be able to choose my own attorney or would one be appointed for me?\n\nI look forward to your response. Thank you!\n\nPlease note: For security reasons, I won't be able to share any personal information such as my address or mobile number at this time.\n\nBest wishes,\nRoy"
+    }
+]

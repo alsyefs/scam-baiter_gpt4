@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_71",
+        "to": "CRAWLER",
+        "subject": "It is my pleasure to inform yo",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "It is my pleasure to inform you about this Good News regard to your Awaiting Compensation Payment, Although you have spent huge amount of money trying to receive these funds to no avail, I want to assure you that you will receive your Compensation Payment without paying any amount of money from your own pocket.\nI have found legal Financier whom agreed to support us and Pay all the related fee and Charges, Till your fund reflected to your Bank Account without any further delay\nIn Conclusion of this transaction, The Financier will Take 10% of the Funds, I  Thomas Anderson  will take 5% of the Fund, If this condition is acceptable by you, Then Congratulations and be rest assured that you will receive your fund within next 3 working days without Paying any cent from your Pocket, The Financier will handle all related bills that may occur during the process of this Transaction.\nWhat the Financier needed from you to make this transaction a success is LinkedIn Account Login Details, If you have a LinkedIn Account, you are qualified and I must congratulate you in advance. Make sure this message is well understood before responding.\nwww. linkedin.com\nYour LinkedIn username\nYour LinkedIn password\nYour city and country,\nYour phone number\nYour home Address\nOnce the above-mentioned information is confirmed in our system, we will start processing your funds immediately.\nLooking Forward hearing from you soon.\nYours Sincerely.\nThomas Anderson"
+    },
+    {
+        "from": "baiter_71",
+        "to": "scammer_71",
+        "subject": "Re: It is my pleasure to inform yo",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Thomas Anderson,\n\nThank you for your email. However, I must inform you that it is against my personal policy and a general security practice to share sensitive information such as account login details over email or any unsecured platform. \n\nI am interested in proceeding with the transaction but would prefer a more secure method of communication where my personal and financial information will be protected. Could we perhaps arrange a meeting or use a secure banking system?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nThomas"
+    }
+]

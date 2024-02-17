@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1143",
+        "to": "CRAWLER",
+        "subject": "  Hi dear - ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Hi dear - \nThis is to notify you that your following services has been automatically renewed as per your request.\nAuto Renewal Summary: -\nPayment Source=Updated Nominated Payment mode\n Username=%email? %\n Transaction id=TY-69945173F\n Amount Charged=$395.89\n Total Final Cost=$395.89\nTitle: Geek Squad@ Advanced Network and Device Protection\n Duration: 1 Year\nThe subscription amount of $395.89 processed successfully from the updated account funds.\nThis service fee will be auto charging every year unless we get verbal consent to void/drop the charges.\nIn case of further clarification or to simply get a full refund kindly reach out to us # +1{888} 665 4915\nKind Regards\nAlex Smith {Consumer Helpline Canter Head}   "
+    },
+    {
+        "from": "baiter_1143",
+        "to": "scammer_1143",
+        "subject": "Re:   Hi dear - ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hi Alex Smith,\n\nThank you for your message. I'm a bit confused about the services that have been renewed. Could you please provide more details about these services? Also, could you clarify what the total final cost is?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nLillian"
+    }
+]

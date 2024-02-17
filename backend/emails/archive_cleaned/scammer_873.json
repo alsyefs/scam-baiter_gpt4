@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_873",
+        "to": "CRAWLER",
+        "subject": "Using this opportunity I would",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Using this opportunity I would love to extend my gratitude to Mr.\nMichael Calce Wizard whom I contacted to report my issues. I consulted\nMichael Calce Wizard when I was involved in a bitcoin trading scam. It\nwas unknown to me that there were systematic ways to retrieve scammed\nfunds. I followed all the directives Mr. Michael Calce Wizard gave to\nme and it was like a dream when I recovered all my money. You can\nreach out to him if you had the same experience as well on:\nmichaelcalcewizard78@gmail.com\n / WhatsAPP +447375542502"
+    },
+    {
+        "from": "baiter_873",
+        "to": "scammer_873",
+        "subject": "Re: Using this opportunity I would",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "reach out to him if you're facing similar issues. He's really helpful and understanding. \n\nBy the way, how did Mr. Michael Calce Wizard manage to retrieve your funds? I'm curious about the process.\n\nBest wishes,\nBonnie"
+    }
+]

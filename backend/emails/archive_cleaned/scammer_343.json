@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_343",
+        "to": "CRAWLER",
+        "subject": "Thank you for your Urgent resp",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Thank you for your Urgent response concerning my email to you Sir/Ma\nbefore we proceed you are required to follow the due process in the\napproval process for your money. This implies that \nall legal documents\nfrom FIRS Tax clearance certificate, Money Laundering. and Drug-free\ncertificate clearance as well as police Extract and BCEAO Authority to\nTransfer Order Certificate. The procurement of all these certificates\nis totaled to $1500.00.\n All documents will be sent to you for filling\nand appendix of your signature. confirm if you are ready to make the\npayment to enable me get all the required documents and forward to you\nfor signing\nhope to hear from you soon thanks"
+    },
+    {
+        "from": "baiter_343",
+        "to": "scammer_343",
+        "subject": "Re: Thank you for your Urgent resp",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nThank you for your prompt response. I appreciate the detailed explanation about the process. It sounds quite official and important.\n\nHowever, I'm a bit confused about some parts of it. Could you please clarify what FIRS Tax clearance Money is? And what does BCEAO Authority mean? \n\nAlso, could you explain why there's a need for me to make a payment? What exactly is this payment for?\n\nLooking forward to your response. Thanks!\n\nBest wishes,\nMike"
+    }
+]

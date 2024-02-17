@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_683",
+        "to": "CRAWLER",
+        "subject": "   Barclays Bank PLC",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Barclays Bank PLC\n48 Regent St,\nSoho, London W1B 5RA\nUnited Kingdom.\nDelivery of Your ATM (MASTER) Card.\nBe informed that after the investigations into some irregular payments by the bank, the Government of Great Britain (UK) in conjunction with the UNITED NATIONS, has formalized arrangements to commence the payment of your outstanding payment of Two Million Five Hundred Thousand United States Dollars (US$2.5M) to you through this esteem bank.\nBy this new payment arrangement, you are to enjoy less or no costs as your payment has already been approved to be loaded into a Visa Debit (ATM) card which will be delivered to you at your preferred destination in your country. The ATM card will access your funds from any ATM in over 170 countries and can be used at POS globally.\nSo go ahead and furnish us with the following information below for accurate delivery without mistakes:\n1.) Name in full:\n2.) Valid Delivery Address:\n3.) Your Telephone Contact:\n4.) International passport, drivers license or any form of Identification:\nThe receipt of the above-listed requirements by our Debit Card Unit assures safe delivery of your loaded ATM card to your destination within 48hrs.\nTake note that as soon as the parcel is in transit, your tracking number will be forwarded to you so that it will enable you to track your package over there and know when it will get to your address. Let me repeat again, try and reconfirm your delivery information  as soon as you receive this mail to avoid any further delay and take note that your pin code of the card is 6021 do not expose it to anybody.\nGet back to me so that I will be rest assured that this message gets to you safely.\nAccept our congratulations.\nFaithfully yours,\nMr. Jerry Galligan\nPayments Unit, Barclays Bank   "
+    },
+    {
+        "from": "baiter_683",
+        "to": "scammer_683",
+        "subject": "Re:    Barclays Bank PLC",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Jerry Galligan,\n\nThank you for your message and the information about the ATM Master Card. It sounds like a great opportunity to access funds easily. I'm curious, how did I become eligible for this payment? \n\nAlso, could you please provide more details about how this card works? For example, are there any fees associated with using it? And what kind of security measures are in place to protect my funds?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nRosie"
+    }
+]

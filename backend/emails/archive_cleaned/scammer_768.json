@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_768",
+        "to": "CRAWLER",
+        "subject": "  You are advised to use the a",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  You are advised to use the account below \nBank name : starling bank \nAccount name:F. O.\nAccount number:7885XXXX\nSort code:608371\nIBAN:GB65SRLG6083717885XXXX\nSwift:SRLGGB2L    "
+    },
+    {
+        "from": "baiter_768",
+        "to": "scammer_768",
+        "subject": "Re:   You are advised to use the a",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there! Thanks for reaching out. Could you please provide more details about the account you're referring to? I'm always eager to learn more!\n\nBest wishes,\nPete"
+    }
+]

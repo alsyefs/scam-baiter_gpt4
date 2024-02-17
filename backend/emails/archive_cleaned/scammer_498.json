@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_498",
+        "to": "CRAWLER",
+        "subject": "My dearest friend",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "My dearest friend\nThis is to inform you that my consignment has finally been received\nand secured in the hands of a good friend who finally make an effort\njust the way you did make an effort for us to receive them but to no\navail maybe because of the financial situation on your end or maybe\ncovid-19 thing, but thank God all are over now.\nNote that a friend has finally received the two trunk boxes and is\nwell saved now. So right now, I am contacting you to compensate you\nfor all your past effort.  I have made a provision of $2million USD\nfor you for your past help to me. So I want you to contact. Capt.\nJoseph Tan, with this below email address: \njoeeseptan@gmail.com\n   for\nyour own money, and I am assuring you this, once you contact him, he\nwill release your money to your account without any more delay. Inform\nme once you contact him. Once again, below here is his\njoeeseptan@gmail.com\nYours in service,\nSGT. Larry Hudson."
+    },
+    {
+        "from": "baiter_498",
+        "to": "scammer_498",
+        "subject": "Re: My dearest friend",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear SGT. Larry Hudson,\n\nI'm glad to hear that the situation has been resolved and that you are safe now. I appreciate your kind gesture of compensation for my past efforts.\n\nI will contact Capt. Joseph Tan as per your instructions and will keep you updated on the progress.\n\nThank you once again for considering me in this matter.\n\nBest wishes,\nBetty"
+    }
+]

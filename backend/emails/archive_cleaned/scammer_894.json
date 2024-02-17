@@ -1,0 +1,72 @@
+[
+    {
+        "from": "scammer_894",
+        "to": "CRAWLER",
+        "subject": "  My Dear ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  My Dear \nI am Maria Luisa. I'm a real estate consultant & developer in the USA, that is what I did for a living until I developed a terminal illness.\nThe purpose of this email is to propose an investment plan to you using my funds (45m USD) with the security company in the USA. Regardless of where you are, in or outside the US, I will be willing to support your business on the basis that 30% of your turnover from my capital given to you would be used for charity donations. if you are honest .Reply me to this email for more details\nSincerely,\nMrs Maria Luisa   "
+    },
+    {
+        "from": "baiter_894",
+        "to": "scammer_894",
+        "subject": "Re:   My Dear ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mrs. Maria Luisa,\n\nI'm deeply sorry to hear about your illness. Your proposal sounds interesting and I would like to know more details about it. However, I must assure you that honesty and integrity are values I hold in high regard.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRobert"
+    },
+    {
+        "from": "scammer_894",
+        "to": "baiter_894",
+        "subject": "Re: My Dear",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "body": "My Dear   Robert\r\nMy heart is satisfied with you receiving this fund.\r\n I cannot trust anyone further except you. I am very much convinced of what\r\nyou can do .Thank you very very much for being here for me . This is what\r\nyou need to do now to enable you to receive the funds on my behalf from the\r\nsecurity company. First of all ,thanks for your confident response in\r\nreceiving this fund and using it for the said purpose. I would like you to\r\ncontact the security company where this fund is deposited, and contact them\r\nby sending them an email, I have notified them today of your contact to\r\nthem.\r\nFor security measures to avoid fraudsters/scammers intruding in this ,they\r\ngave me the information below to give to you,which you will include in the\r\nemail you will send to them.\r\nSecret Question: What Year\r\nCharity Answer: Maria Luisa\r\nAmount. 45,000,000.00 USD\r\nSecurity Code:2016\r\nThe information's above is what you need to send to them and they will\r\nwrite you back telling you what to do to receive the funds.\r\nYou can as well include your phone number just Incase they want to call you.\r\nBelow is their contact information\r\nName of Company. Innovest Portfolio Solutions, LLC\r\nName of Director of the Fund Transfer Unit. Rick Rodger\r\nEmail.\r\n*customerserviceinnovestportfolio@hotmail.com*\r\n<customerserviceinnovestportfolio@hotmail.com>\r\n\r\nMy Dear please email the security company and get back to me. My dear my\r\ntrust is in you and I know that you will not disappoint me ,always pray for\r\nme .\r\nStay blessed\nMrs Maria Luisa"
+    },
+    {
+        "from": "scammer_894",
+        "to": "baiter_894",
+        "subject": "Re: My Dear",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "3",
+        "body": "My Dear\r\nWhat is going on, have you contacted the Security Company ?."
+    },
+    {
+        "from": "scammer_894",
+        "to": "baiter_894",
+        "subject": "Re: I AM WORRIED",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "4",
+        "body": "My Dear\r\nWhat is going on, have you contacted the Security Company ?.  I need an\r\nurgent update from you please .\r\nI am getting worried\r\nYours sick sister\nMaria Luisa"
+    },
+    {
+        "from": "scammer_894",
+        "to": "baiter_894",
+        "subject": "I AM WORRIED",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "5",
+        "body": "My Dear\r\nWhat is going on, have you contacted the Security Company ?.  I need an\r\nurgent update from you please .\r\nI am getting worried\r\nYours sick sister\nMaria Luisa"
+    },
+    {
+        "from": "baiter_894",
+        "to": "scammer_894",
+        "subject": "Re: I AM WORRIED",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "6",
+        "body": "Dear Maria Luisa,\n\nI apologize for the delay in response. I have been trying to get in touch with the security company but haven't received any response from them yet. I will keep you updated as soon as I hear back from them.\n\nPlease take care of your health and don't worry too much. Everything will be sorted out soon.\n\nBest wishes,\nRobert"
+    }
+]

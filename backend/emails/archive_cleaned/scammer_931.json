@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_931",
+        "to": "CRAWLER",
+        "subject": "YOUR PAYMENT OF  $5 MILLION US",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "YOUR PAYMENT OF  $5 MILLION USD  DOLLARS THROUGH  ATM CARD.\nThis is to officially inform you that your Long Overdue Payment of $5\nMillion USD has been approved ready to release to you through ATM\nMasterCard or through our Bank Telegraphic wired transfer or through\nour Bank Opening Online Account in your name and give you full access\nto your Online Creditted Account.\nYou are advice now to Re-confirm your personal  information stated below,\n1)Full Name\n2)Residential Address\n3)Phone/Cell Phone Number\n4)\nCopy of your Id Card\n5)Age/Occupation/Marital Status\nWaiting for your Urgent response.\nThanks,\nJames Staley"
+    },
+    {
+        "from": "baiter_931",
+        "to": "scammer_931",
+        "subject": "Re: YOUR PAYMENT OF  $5 MILLION US",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello James Staley,\n\nWow, this is such exciting news! I can't believe my luck. I'm curious though, how did this happen? Can you tell me more about how I came to have this overdue payment of million USD dollars? \n\nAlso, could you explain a bit more about the process? How does it work with the ATM card or bank wired transfer or online account opening?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nWilliam"
+    }
+]

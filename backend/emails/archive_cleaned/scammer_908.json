@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_908",
+        "to": "CRAWLER",
+        "subject": "Attn: Dear:",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attn: Dear:\nWe the Money-Gram Board of Directors, We are contacting you regarding\nyour $7.5M USD which we have already program for immediate transfer to\nyou.\nWe have already made this (4) Ref-Number control number available on\nyour name to enable you pick up your payment but before we can be able\nto release the complete information you have to obtain Authorization\nRelease Permit.\nbelow is (4) Ref-Number control number available on your name:\nRef-Number: 4329-5547\nSender Name:.........\nAmount: $5,000 USD\nRef-Number: 5643-8346\nSender Name:.........\nAmount: $5,000 USD\nRef-Number: 2386-0063\nSender Name:.........\nAmount: $5,000 USD\nRef-Number: 3316-6754\nSender Name:.........\nAmount: $5,000 USD\nWhat you are requested now is Authorization Release Permit, which is\ngoing to cost you $50 USD (only)\n please be aware that this is the only\ncharges/fees, as soon this is done, your funds will be release to you\nin less than 45Mins through Money-Gram.\nHere is have to make the payment and wait to start picking up your funds\nwithin 45 minutes time after you send the fee.\nyou can send it through steam wallet card or iTunes card\nWaiting to receive the requested fee with your direct phone number.\nThanks for your understanding and Cooperation.\nBest Regards,\nMr. Martin I. Cole\nemail: \nmoneygramoffice1057@gmail.com\nDirector Foreign Remittance"
+    },
+    {
+        "from": "baiter_908",
+        "to": "scammer_908",
+        "subject": "Re: Attn: Dear:",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Martin I. Cole,\n\nThank you for your email and the information provided. However, I would like to clarify a few things before proceeding further.\n\n1) Could you please provide more details about the \"Release Permit\" that you mentioned? What exactly is it and why is it necessary?\n\n2) You mentioned a control number available on my name but didn't provide any specific number. Could you please share that with me?\n\n3) You also mentioned a fee of USD but didn't specify the exact amount. How much is this fee?\n\n4) Lastly, could you please explain why I need to send this fee through steam wallet card or card? Is there any other method of payment available?\n\nI look forward to your response.\n\nBest wishes,\nBrandon"
+    }
+]

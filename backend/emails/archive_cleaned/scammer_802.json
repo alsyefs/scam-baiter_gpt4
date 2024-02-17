@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_802",
+        "to": "CRAWLER",
+        "subject": "From Director of National Agen",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "From Director of National Agency for Petroleum\nAttn: Sir/ Madam\nI am Dr. Mark Smith, the Director of National Agency for Petroleum and Pipeline Marketing (NAPPM) Nigeria; by virtue of which I am also the leader of our country`s delegation to the London International Petroleum Exchange from where I am sending this email to you. Going straight to the point; I have 18 million capital I need to relocate to safety and for investment. I accumulated the capital by allocating more quantities of petroleum to buyers - than what were officially recorded and reported to the Government. Now, I am leaving the NAPPM in the coming months; so I need to pull out the excess funds for safety and for investment. I need collaboration in that regard. I want to work with you to process and transfer this fund into your account.\nThe capital is safely rolling over in our (NAPPM) account with our National financial institution where it was received together with payments for the declared and recorded sales. And I have my sources in important positions in Government that would enable me to document and officially transfer out the fund as a legal and due payment for a contract job done for us (the NAPPM) some years back. Don’t worry about your occupation or line and scope of business as none of them matters in any way. I am deeply rooted in the government to pull the necessary strings and levers to ensure smooth, safe and timely actualization of the transfer. On completion of the transfer; you would get a tenth of the capital as your compensation.\nI wait to give you all necessary details as soon as I hear from you.\nYours sincerely,\nDr. Mark Smith"
+    },
+    {
+        "from": "baiter_802",
+        "to": "scammer_802",
+        "subject": "Re: From Director of National Agen",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Dr. Mark Smith,\n\nThank you for reaching out to me with this intriguing proposition. I must say, it's not every day that one receives an email from the Director of National Agency for Petroleum and Pipeline Marketing NAPPM Nigeria.\n\nI'm curious about a few things though. How did you come across my contact information? And why have you chosen me specifically for this task? \n\nAlso, could you please elaborate on how exactly this process would work? I'm not very familiar with financial transactions of such magnitude and would appreciate some more details.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJames"
+    }
+]

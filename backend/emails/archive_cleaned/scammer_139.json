@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_139",
+        "to": "CRAWLER",
+        "subject": " Dear  ,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " Dear  ,\nI am waiting for the payment slip.\nThanks,\nKenneth   "
+    },
+    {
+        "from": "baiter_139",
+        "to": "scammer_139",
+        "subject": "Re:  Dear  ,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nI hope this message finds you well. I understand that you're waiting for the payment slip. Could you please provide me with more details about the transaction? When was it made and what method was used? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDaniel"
+    }
+]

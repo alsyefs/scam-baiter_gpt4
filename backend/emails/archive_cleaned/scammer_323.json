@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_323",
+        "to": "CRAWLER",
+        "subject": "  dear ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  dear \nhope you are doing great. i have been looking forward to your reply but you didnt \nreply our last email. i dont know if you got it or not. i will like to find out if you\npurchased the mask already or not??\nBEST REGARDS\nMR SUNTI    "
+    },
+    {
+        "from": "baiter_323",
+        "to": "scammer_323",
+        "subject": "Re:   dear ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Sunti,\n\nI apologize for the delay in my response. I have been quite busy lately. Regarding your question, I haven't purchased the mask yet. Could you please provide more details about it?\n\nBest wishes,\nThomas"
+    }
+]

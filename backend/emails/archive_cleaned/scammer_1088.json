@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1088",
+        "to": "CRAWLER",
+        "subject": "  Good Day sir,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Good Day sir,\nI am yet to get your response as regards the email sent to you for\nconsideration.\nKindly give your reply,  as your response is very important to us. We\nare still waiting for your response\nHoping you will treat this matter as strictly urgent.\nBest regards,\nPatrick Mullin\nDirector   "
+    },
+    {
+        "from": "baiter_1088",
+        "to": "scammer_1088",
+        "subject": "Re:   Good Day sir,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Patrick Mullin,\n\nGood day to you too! I hope this message finds you well. I'm sorry, but I don't seem to recall receiving an email from you. Could you please provide me with more details about the subject matter? It would be really helpful for me to understand better.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nPeter"
+    }
+]

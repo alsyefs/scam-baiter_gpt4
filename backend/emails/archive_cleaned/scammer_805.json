@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_805",
+        "to": "CRAWLER",
+        "subject": "  File:London",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  File:London\nCommunity Credit Union.png - Wikipedia\n 473 Bethel GreenRoad, London England, E29QH                   FRN:213743\nEmail: \nlondoncommunitycreditunion@consultant.com\nDATE: 30th, October,2023\n                          Re: Negotiated\nHello Dear,\nWe are pleased to inform you that we have negotiated instruction with our correspondent Central Bank of Nigeria to drawGBP250, 000.00 part payment of your fund from their account with us (London Community Credit Union), and credit in your favour in settlement of your payment approval of (GBP 2.5 Million British Pounds Sterling)\nPlease Contact:  Dr. ALVAN IKOKU\nDirector for the Trade & Exchange Department, TED\nEmail: \nconsultant.cbn.apexbank@consultant.com\n Address: Intelligent Building, 187 Abuja Tafawa Balewa Way, Central\nBusiness District, Abuja\nNB: If we do not receive your information for re-confirmation within 7 days from the date of this email the transfer will be null and void. You will pay the Central bank of Nigeria a token fee of GBP2500,(Serviceable Bank Draft Charges) non refundable before we transfer the part payment of your fund.\n \nYours truly,\nMr Anthony Watson   "
+    },
+    {
+        "from": "baiter_805",
+        "to": "scammer_805",
+        "subject": "Re:   File:London",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Anthony Watson,\n\nThank you for your message. It's quite interesting to hear about this arrangement with the Central Bank of Nigeria and London Community Credit Union. Could you please provide more details about this payment approval? How was it determined and what does it entail?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nAlan"
+    }
+]

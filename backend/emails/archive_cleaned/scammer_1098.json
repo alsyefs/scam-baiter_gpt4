@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1098",
+        "to": "CRAWLER",
+        "subject": "Good day",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Good day\nI am Eng. Paul Macdonald, I represent a group of investors who are looking for projects to fund, we offer both corporate and personal loans.  Come with your ideas, let's build a solid wall in the financial sector and be able to make the sector viable for all.\nWe offer loans at 3% interest rate almost at nothing as we believe in Consistency driven policy.\nWishes to connect with startups and entrepreneurs with viable projects that require instant loan/Investment to fund their project. We can comfortably provide loans depending on the viability of the project.\nApply today and be able to access your loan within a short period of time. Note that, we also pay 1% commission to brokers/agents, who introduce project owners for finance or other opportunities, we would be delighted to work with you.\nYou can reply me on this telephone number\n \npaulmacdonald1171@gmail.com\nLooking forward to your response\nThank you\nEng Paul Macdonald"
+    },
+    {
+        "from": "baiter_1098",
+        "to": "scammer_1098",
+        "subject": "Re: Good day",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Eng. Paul Macdonald,\n\nIt's a pleasure to hear from you! Your proposal sounds very interesting and I'm sure there are many people out there who could benefit from such an opportunity.\n\nI'm curious, what kind of projects are your group of investors particularly interested in? Are there any specific sectors or industries that you focus on?\n\nAlso, could you please provide more details about the loan process? How does one apply and what is the usual time frame for approval?\n\nLooking forward to hearing more about this exciting opportunity!\n\nThank you.\n\nBest wishes,\nTiana"
+    }
+]

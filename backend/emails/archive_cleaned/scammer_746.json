@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_746",
+        "to": "CRAWLER",
+        "subject": "   Attention: Beneficiary",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Attention: Beneficiary\nDue to Covid, the US Government arrangement with the World Bank and\nthe United Nations , African image has been destroyed by the Scam /\nFraudulent Government Officials, the World Bank and the United Nation\nare Paying all the Scam victims US$200,000 as compensation.\nSo therefore, your email address are among the first batch of 500\nbeneficiary that are to benefit the US$200,000 each, and it has been\nmade available through ATM Master Card, and it has been forwarded to\nthe EMS Express Courier for the onward shipment to your address.\nFurthermore, You are to contact the EMS Express Courier through the\nbellow email address and reconfirm your Name and address to them, to\nenable them ship the ATM Master Card to your address. Bellow is the\nEMS Express Courier Information:\nEMS Express Courier Details:\nContact Name: Rev. Mr Gerald Kasper\nEmail: \nkasperg173@gmail.com\nContact them Immediately with your Compensation Identification Parcel\nNumber: FEDGOV759, as well as your Name and full Address, You should\nquote the Number when contacting them to avoid embarrassment.\nThanks for your Understanding and patience.\nYours sincerely,\nMr Walsh Philip\nCitiBank Group   "
+    },
+    {
+        "from": "baiter_746",
+        "to": "scammer_746",
+        "subject": "Re:    Attention: Beneficiary",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Walsh Philip,\n\nThank you for your email and the information provided. I am glad to hear that efforts are being made to compensate victims of scams.\n\nHowever, before proceeding further, I would like to clarify a few things:\n\n1. Could you please provide more details about this compensation program? Who is eligible and what are the criteria for selection?\n\n2. You mentioned an ATM Master Card - could you explain how this works? Is it a prepaid card with the compensation amount loaded onto it?\n\n3. Regarding the EMS Express Courier, could you provide their contact details? The email address seems to be missing from your message.\n\n4. Lastly, you mentioned a parcel number that needs to be quoted when contacting EMS Express Courier. Could you please provide this number?\n\nI look forward to your response.\n\nBest wishes,\nGeorge"
+    }
+]

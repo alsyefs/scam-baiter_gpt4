@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_699",
+        "to": "CRAWLER",
+        "subject": "BELOW IS YOUR MTCN NUMBER YOU ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "BELOW IS YOUR MTCN NUMBER YOU CAN TRACK IT WITH THE WEBSITE BELOW OR ABOVE.\nREFERENCE NUMBER: 95184687\nSENDER NAME..BAYO\nAmount: $5000.00\nhttps: // secure.moneygram.com/embed/track?_ga=2.199350184.727966315.1670432216-684746827.1670432216\nTHE MANAGEMENT OF MONEY GRAM TRANSFER OFFICE.DISPATCHED THIS\nTODAY. \nPLEASE WE NEED TO CONFIRM YOUR INFORMATION TO BE SURE WE ARE\nDEALING WITH OWNER OF THIS EMAIL OK.\n1. YOUR FULL NAME:……\n2. YOUR ADDRESS:……..\n3. YOUR COUNTRY:……..\n5. YOUR AGE:…………\n6. YOUR PHONE NO:…….\nURGENT ACTION IS NEEDED AS SOON AS YOU RECEIVE THIS EMAIL.\n GET BACK\nWITH REQUIRED INFORMATION. TEXT TO THE NUMBER HERE. + 518 217 2830\nTHANK YOU.\nSINCERELY,\nMR.  J. EDWARD"
+    },
+    {
+        "from": "baiter_699",
+        "to": "scammer_699",
+        "subject": "Re: BELOW IS YOUR MTCN NUMBER YOU ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Edward,\n\nThank you for your email. However, I must inform you that I am not comfortable providing personal information via email without a clear understanding of the purpose and necessity of such information.\n\nCould you please provide more details about why this information is needed and how it will be used?\n\nBest wishes,\nConstance"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_831",
+        "to": "CRAWLER",
+        "subject": "   Dear Beloved,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Dear Beloved,\nI am writing this mail to you with heavy tears in my eyes and great sorrow in my heart. I am Mrs. Isabella Mario. A widow to the late Mr. Rodriguez Mario; I am 63 years old, suffering from long-time Cancer of the breast.\nFrom all indications, my condition is deteriorating and it's quite obvious that I won't live more than 2 months according to my doctors. I have some funds I inherited from my late loving husband Mr. Rodriguez, the sum of 8,700,000.00 (Eight Million, Seven Hundred thousand Euros) which he deposited in a bank here and I need an honest, truthful, and God fearing person irrespective of the religion that can use these funds for Charity work, helping the less privileges, and 30% of this money will be for your time and effort, while 70% goes to charities.\n1) For the sick, less-privileged\n2) For the Widows and the motherless babies\n3) Orphanages or Charity Home.\nI look forward to your prompt reply from you for more details.\nYour sister\nMrs. Isabella Mario.\nReply for more details.  "
+    },
+    {
+        "from": "baiter_831",
+        "to": "scammer_831",
+        "subject": "Re:    Dear Beloved,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mrs. Isabella Mario,\n\nI'm deeply moved by your story and I'm sorry to hear about your condition. It's truly admirable that you're thinking of others and wanting to help those in need during such a difficult time.\n\nCould you please share more details about the charity work you have in mind? Are there any specific organizations or causes that are close to your heart?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nCalvin"
+    }
+]

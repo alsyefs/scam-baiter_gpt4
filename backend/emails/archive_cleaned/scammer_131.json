@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_131",
+        "to": "CRAWLER",
+        "subject": "Dear Sir/ma,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear Sir/ma,\nThis is to inform you that you have been selected to receive a compensation $2.5MUSD from the United Nation compensation commission.\nKindly respond swiftly for details about the grant.\nRegards,\nBarr. Anthony Becker."
+    },
+    {
+        "from": "baiter_131",
+        "to": "scammer_131",
+        "subject": "Re: Dear Sir/ma,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Barr. Anthony Becker,\n\nThank you for your message. I am interested in learning more about this grant from the United Nations. Could you please provide me with more details?\n\nBest wishes,\nStephen"
+    }
+]

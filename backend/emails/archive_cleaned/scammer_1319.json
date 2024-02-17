@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1319",
+        "to": "CRAWLER",
+        "subject": " From: Federal Reserve Bank of",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " From: Federal Reserve Bank of New York <customofficeauthoriti@gmail.com>\nSent: Thursday, August 15, 2019,\nSubject: Ref: Final Payment Notification Release:\nFederal Reserve Bank of New York\n33 Liberty Street, New York, NY 10038 USA.\nTel: +13152943587\nRef: Final Payment Notification Release:\nThis is to inform you that We have this day 15th August 2019 received\na payment credit notification from the Government of the United States\nunder the directorship of (Donald Trump) to credit your account with\nyour full Inheritance fund of $2,000,000.00 USD from the US reserve\naccount with our bank, This fund is coming to you after series of\ncomplains and reports from FBI, Western Union and Money Gram on how\nyou have lost your earned money to African scammers and others who\nclaimed to held one position in the government and was liable of\nreleasing your fund to you but you end up spending yours to them\nthereby leading you to bankrupt.\nThe President of United States (Donald Trump) approved $10,000.000.00\nUSD today which are to be shared to 5 people, we have 108 email\naddress of different people who were scammed but the President only\napproved payment for 5 people while second batch will be approved by\nnext week, We conducted a random selection of email which your email\nwas lucky to be among the first batch to receive there fund from\nFederal Reserve Bank of New York.\nWARNING: This fund is immediate payment and the President has warned\nevery scam victim to be careful and stop any further communication\nwith any office because the government will not be held responsible\nfor any kind of lose you incurred while communicating with a scammer,\nso therefore you are warned to stop and quit any communication you are\nhaving now with any office and focus on Federal Reserve Bank of New\nYork for your immediate payment.\nYou are to re-confirm your information for verification.\nYour Full Name....\nYour Address......\nYour Phone Number....\nYour Occupation.....\nYour Age.....\nOnce the above information is received, i will furnish you with the\nnecessary document and give you our payment options so that you will\nchoose the best way to receive the fund for your convenient.\nThank you for your prompt understanding!\nAwaiting for your response.\nRegards.\nJohn C. Williams\nPresident & CEO Federal Reserve Bank of New York  "
+    },
+    {
+        "from": "baiter_1319",
+        "to": "scammer_1319",
+        "subject": "Re:  From: Federal Reserve Bank of",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear John C. Williams,\n\nI am writing in response to your email regarding the payment credit from the Government of the United States. I am indeed one of those who have been scammed and lost a significant amount of money.\n\nHere are my details:\n\nFull Name: Eliza Dane\nAddress: 123 Main Street, Sydney, Australia\nPhone Number: +61 2 1234 5678\nOccupation: Software Engineer\nAge: 35\n\nI look forward to receiving further instructions on how to proceed with this matter.\n\nBest wishes,\nLorene"
+    }
+]

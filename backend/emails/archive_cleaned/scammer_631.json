@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_631",
+        "to": "CRAWLER",
+        "subject": "UNITED NATIONS OFFICE OF INTER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "UNITED NATIONS OFFICE OF INTERNATIONAL OVERSIGHT SERVICES\nInternal Audit, Monitoring, Consulting and Investigations Division\nDear Beneficiary,\nWith due respect, This is to inform you that, after a series of complaints from the Security agencies from Asia, Europe, South America, and the United States of America respectively against the Federal Government and the British Government for the rate of scam activities going on in these Nations.\nRight now, We are working in collaboration with the international monitoring fund (IMF) and have decided to waive away all your clearance fees/Charges and authorize the bank to effect your compensation payment of $10.5 Million approved by both the government and the United Nations into your account or ATM card. or Online Account with our bank without any hesitation. \nThe only fee you will pay to confirm your $10.5M compensation fund in your account is only the Authorization fee which is $325\nSincerely,you are a lucky person. We are giving you A 100% Guarantee to receive your payment within the next 42hours.\nSend your information to enable us to transfer the funds into your bank account without any hesitation. so that we can get this transaction done as urgently as possible.\nFull Names:\nCountry:\nDirect Number:\nBank Name:\nBank Address:\nBank Account Number:\nSwift Code:\nI have a very limited time to stay here so I would like you to urgently respond to this message so that I can advise you on how best to confirm your funds within the next 42 hours.\nSincerely yours,\nMrs.Inga Britt \nU N Under-Secretary-General for Internal Oversight."
+    },
+    {
+        "from": "baiter_631",
+        "to": "scammer_631",
+        "subject": "Re: UNITED NATIONS OFFICE OF INTER",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Britt,\n\nThank you for your message. It's quite surprising to hear about this situation. I'm curious, how was my name selected for this? And could you please explain a bit more about the process of transferring these funds? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJames"
+    }
+]

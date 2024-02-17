@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1193",
+        "to": "CRAWLER",
+        "subject": " Attention  ,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " Attention  ,\n I received your email and I understand your point. May I know the name of your bank? and probably the means you intended to transfer the amount(deposit or transfer). This will enable me discuss with our agent. I hope you understand?\nThanks  "
+    },
+    {
+        "from": "baiter_1193",
+        "to": "scammer_1193",
+        "subject": "Re:  Attention  ,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello,\n\nThank you for your email. I appreciate your prompt response and the information provided. However, I would like to know more about the bank you're associated with? Also, could you please elaborate on the method of transferring the deposit? This will help me in discussing further with our agent.\n\nLooking forward to hearing from you soon.\n\nThanks!\n\nBest wishes,\nAnnette"
+    }
+]

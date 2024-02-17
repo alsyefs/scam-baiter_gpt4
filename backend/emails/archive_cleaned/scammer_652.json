@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_652",
+        "to": "CRAWLER",
+        "subject": "   Dear Consignee Ownership ,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Dear Consignee Ownership ,\nI have arrived  United States of America.\nYou have been giving a last minutes opportunity to get an Irrevocable\nInternational Diplomatic Cash Delivery Waiver from  World Bank office\nin here united state  as  instructed by  the country of origin of your\nfund through the office of Mr  John Anderson  , Email:\nja8614544@gmail.com\n ,Your Funds cash delivery to you  sum amount is\n$10 Million dollars .\nWe are rounding up for the second  Quarter of the  year auditing And\nAll abandon Consignment in US Airports Storage units  are being\ntransfer to our facilities here for inspection and confiscation.\nDuring our investigation, I discovered an abandoned shipment on your\nname which was transferred to our facility here in Arizona\nInternational Airport  that is  why i got in contact with you.\nThis is all your required to do to have the consignments at your door\nstep address as directed by the American government  through the US\ncongress and office of U.S secretary of states .\nPlease reply as soon as possible!\nMr John Anderson   "
+    },
+    {
+        "from": "baiter_652",
+        "to": "scammer_652",
+        "subject": "Re:    Dear Consignee Ownership ,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. John Anderson,\n\nThank you for reaching out to me. I'm quite surprised to hear about this abandoned shipment in my name. Could you please provide more details about it? What exactly is in the shipment and why was it abandoned?\n\nAlso, could you explain what a Diplomatic Cash Delivery Waiver is? I'm not familiar with this term.\n\nLooking forward to your response.\n\nBest wishes,\nDebra"
+    }
+]

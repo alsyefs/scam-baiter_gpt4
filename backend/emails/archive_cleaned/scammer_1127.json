@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1127",
+        "to": "CRAWLER",
+        "subject": "INTER BANK NIGERIA PLC",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "INTER BANK NIGERIA PLC\nHEAD OFFICE:LAGOS NIGERIA\nTel:+ 2347088665016\n Attn ; SIR\n We received instruction from the PRESIDENT OF NIGERIA that all contractors\n that are due to received their payment will received their fund through\n MASTER CARD payment system, You are required to reconfirm your\n information to enable us commence the processing of your fund into\n your account. You are advice to stop every communication with any body\n or group of people regarding to this payment.\n Your urgent attention is needed in regards to this payment.\n I wait from your prompt response.\n Yours faithfully\n DR. WILLIAM JON"
+    },
+    {
+        "from": "baiter_1127",
+        "to": "scammer_1127",
+        "subject": "Re: INTER BANK NIGERIA PLC",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Dr. William Jon,\n\nThank you for your email. However, I would like to clarify a few things before we proceed. Could you please provide more details about the Master Card payment system? Also, could you please explain why I need to stop every communication with any body or group of people regarding this payment?\n\nLooking forward to your response.\n\nBest wishes,\nLoren"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_584",
+        "to": "CRAWLER",
+        "subject": "  Dear sir,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear sir,\nYou are advised to send the fee through Western Union Money Transfer in\nTwo ways $1,000 and $770 with the same name  below information.\nReceiver's Name: Q. M.\nAddress: matine GA 30557 USA ($1,000)\nReceiver's Name: Q. M.\nAddress:  matine GA 30557 USA ($770)\nand send the payment information to us as soon as you send the money.\nor you can send the money through our Bitcoin wallet address below.\nAddress; 1AgHDhj5t6xcd2jBbL4xfDfBAYcx2VkjBg\nand send the screenshot of the transaction.\nYours Faithful\nEdwin Clark.   "
+    },
+    {
+        "from": "baiter_584",
+        "to": "scammer_584",
+        "subject": "Re:   Dear sir,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Edwin Clark,\n\nThank you for your response. However, I would like to clarify a few things before proceeding with the payment. \n\nFirstly, could you please provide more details about the purpose of this fee? I want to understand what exactly this fee is covering.\n\nSecondly, could you please provide me with a receipt or some form of documentation that confirms my payment once it has been made? This is for my personal records and to ensure transparency in our transaction.\n\nLastly, I am not familiar with Bitcoin transactions. Could you please provide more information on how to proceed with this method of payment?\n\nI look forward to your response.\n\nBest regards,\nLewis D.\n\nBest wishes,\nNicholas"
+    }
+]

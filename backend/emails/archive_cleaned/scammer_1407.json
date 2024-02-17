@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1407",
+        "to": "CRAWLER",
+        "subject": "  UNITED NATIONS",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  UNITED NATIONS\n    WORLD BANK ASSISTED PROGRAM\n    DIRECTORATE OF INTERNATIONAL\n    PAYMENT AND TRANSFERS\n    870 UNITED NATIONS PLAZA 20-A\n    NEW YORK NY 10017\n    WIRE TRANSFER/AUDIT UNIT.\nBeneficiary,\n    We the authorities of the United Nations, having resolved with\nSantander Bank UK which is the bank now responsible for the payment of\nyour long awaited funds of $10.5M, The bank have agreed that you pay a\nminimum of $50 only for authorization and legalization and receive a\npart payment of your funds worth $1,000,000.00, and by the time you\nconfirm this money in your account, you can now pay the remaining\nbalance and receive the remaining part of your funds which is $9.5M.\n    This is the best and final option for you to receive your long\nawaited funds and be happy, I will send you the information on how to\nsend the fee to me once I hear from you, I await your swift response,\nCongratulations and God bless.\n    Yours Truly,\n    Rev. William Clarke.\n    Remittance Department.\n    United Nations.   "
+    },
+    {
+        "from": "baiter_1407",
+        "to": "scammer_1407",
+        "subject": "Re:   UNITED NATIONS",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Rev. William Clarke,\n\nThank you for your email and the information provided. However, I would like to clarify a few things before proceeding further.\n\n1. Could you please provide more details about the \"Santander Bank UK\" and its role in this process?\n2. You mentioned a fee that needs to be paid but did not specify the amount. Could you please confirm how much is required?\n3. What is the total amount of funds that are due to me? \n4. How will these funds be transferred to me?\n\nI look forward to your response.\n\nBest wishes,\nTova"
+    }
+]

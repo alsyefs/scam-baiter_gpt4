@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_586",
+        "to": "CRAWLER",
+        "subject": "Dear Friend,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear Friend,\nI am a partner of a group of donors operating Loans and investments covering the continent of Africa, Europe and other parts of the world for all other profitable business opportunities whatever your country residence or elsewhere. Do you have projects and research funding? Our goal is to help people seeking funding for the realization of their projects.\nWe Would like to know if you have any projects or business research or investors looking for a Private or business Loan? Even Companies in bankruptcy or all sorts of projects in bankruptcy, we are ready and willing to process your application to reach your funding goal.\nSo if you have profitable projects you would like to complete which require loan funding, please contact us as soon as you receive this email for more details. As soon as I receive your response indicating your genuine interest towards this offer, I will put you in connection with the direct financial funding department that will handle your request and process your loan application.\nNote: We make investment up to about five hundred million United States dollars US$500,000,000,00 to the utmost satisfaction of our clients.\nIf you are interested in this loan offer, kindly get back to me for more details, as I look forward to hearing from you.\nSincerely ,\nMark Stoner.\nSOURCING MANAGER"
+    },
+    {
+        "from": "baiter_586",
+        "to": "scammer_586",
+        "subject": "Re: Dear Friend,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mark Stoner,\n\nThank you for reaching out and sharing this information. It's interesting to hear about the work your group of donors is doing across Africa, Europe, and other parts of the world. \n\nI'm curious to know more about the types of projects you typically fund. Could you provide some examples? Also, what are the usual terms and conditions for these loans?\n\nLooking forward to hearing from you.\n\nBest wishes,\nAlbert"
+    }
+]

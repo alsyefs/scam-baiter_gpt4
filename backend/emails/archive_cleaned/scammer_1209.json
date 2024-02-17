@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1209",
+        "to": "CRAWLER",
+        "subject": "  Dear Sir,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Sir,\nI write you as an independent financial consultant with the Central bank of Nigeria, which the Federal Government of Nigeria (FGN) asked to investigate some of the unclaimed payment of clients which they (FGN) believe should have been sorted out over the years, but for some reasons still remained unpaid.\nIt is my duty to investigate such case, and during my investigation I came across your unpaid claim file tagged FGN/CBN 3310-29281, and when I investigated further, I noticed what the problem was all about a simple policy, which with my office I can handle and get your name shortlisted for immediate payment.\nHowever, it is imperative that I let you know what must be done with emphasis on the word “MUST” be done before you can be shortlisted for immediate release of your long-awaited payment.\nYou must provide the contract invoice for the payment you are claiming, in addition to that, you are to provide both the cross border clearance certificate and the non-money laundering clearance certificate as stipulated in the money laundering act of 2022.\nUpon the receipt of these mentioned certificates and due verification, I will have your name shortlisted for the immediate release of your payment.\nPlease note that there is a provision now which allows you to receive your payment via cryptocurrency (Bitcoin) if you so wish.\nAwaiting your urgent response and congratulations.\nRegards,\nEdward Paul.   "
+    },
+    {
+        "from": "baiter_1209",
+        "to": "scammer_1209",
+        "subject": "Re:   Dear Sir,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Edward Paul,\n\nThank you for reaching out to me. I must say, your message has piqued my interest. It's not every day that one receives a communication from the Central Bank of Nigeria!\n\nI'm curious about this unclaimed payment you mentioned. Could you provide more details about it? For instance, how did my name come up in connection with this claim?\n\nAlso, regarding the documents you mentioned - the contract invoice, cross border clearance and money laundering clearance - could you explain what these are and why they're necessary? I'm not very familiar with these terms.\n\nLastly, the option to receive payment via Bitcoin sounds intriguing. Could you tell me more about how that would work?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nCarole"
+    }
+]

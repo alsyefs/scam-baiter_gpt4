@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_454",
+        "to": "CRAWLER",
+        "subject": "Attention Beneficiary,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attention Beneficiary,\nYour total COMPENSATION FUNDS is waiting to be credited\nto your account for online banking system as soon as we hear back from\nyou with your contact details, Funds amount: US$50,000,000.00 will be\nreleased and PAID into your online banking account and i will send\nyour login details for you to access your funds.\nBelow is the only information you are required to send us for proper\nverification.\n1) Full Names :\n2) Residential Address :\n3) Nationality :\n4) Mobile Number :\n5) Occupation :\n7) Date of Birth :\n8)  [color=#FF0000]Id Copy\n[/color]\nNote: You must provide all the required information listed above to\nenable create your Inter-swift online Banking account today.\nThank you for Banking with Us,\nSigned,\nMr. Adesola Kazeem Adeduntan\nFIRST BANK PRESIDEN"
+    },
+    {
+        "from": "baiter_454",
+        "to": "scammer_454",
+        "subject": "Re: Attention Beneficiary,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Adesola Kazeem Adeduntan,\n\nThank you for your email. However, I must inform you that I am not comfortable sharing my personal information via email due to security reasons. \n\nI would appreciate it if we could proceed with this transaction through a more secure method or platform.\n\nBest wishes,\nLucille"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_589",
+        "to": "CRAWLER",
+        "subject": "The SPWRPRACS Women's Rights c",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "The SPWRPRACS Women's Rights conference is a world-class event that brings together hundreds of survivors, community members, and professionals working in the field of sexual violence prevention and response. Whether your goal is to contribute expertise and help drive change in the area of sexual violence, learn from your peers and adopt new practices, or connect with like-minded professionals who are solving everyday challenges, make plans now to attend the SPWRPRACS poverty alleviation and ending violence against Children conference 2024."
+    },
+    {
+        "from": "baiter_589",
+        "to": "scammer_589",
+        "subject": "Re: The SPWRPRACS Women's Rights c",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nThank you for sharing this information about the SPWRPRACS Women's Rights conference. It sounds like a very important event that brings together many people who are passionate about preventing sexual violence and advocating for women's rights. \n\nCould you please tell me more about what to expect at the conference? Are there any specific topics or speakers that will be highlighted? Also, how can someone participate in this event? Is it open to everyone or only to those working in related fields?\n\nLooking forward to hearing more about this.\n\nBest wishes,\nNicholas"
+    }
+]

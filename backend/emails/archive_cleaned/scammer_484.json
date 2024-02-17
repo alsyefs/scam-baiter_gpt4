@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_484",
+        "to": "CRAWLER",
+        "subject": "     Dear  ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "     Dear  \nSir\nFollowing our Funds release procedures and short time frame,can you be\nable to let me know when you are going to send the money today.\nGet Back to me with the evidence of the transfer slip for urgent\nattention and release of your funds..\nAnna Campbell   "
+    },
+    {
+        "from": "baiter_484",
+        "to": "scammer_484",
+        "subject": "Re:      Dear  ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Anna Campbell,\n\nI appreciate your prompt response. However, I would like to clarify a few things before proceeding with the transfer. Could you please provide more details about the nature of this transaction? \n\nAlso, could you please explain why there is a need for an upfront payment? I am not comfortable sending money without understanding the full context and purpose of this transaction.\n\nLooking forward to your response.\n\nBest wishes,\nMarguerite"
+    }
+]

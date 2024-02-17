@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1100",
+        "to": "CRAWLER",
+        "subject": "I hope this email meets you pe",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "I hope this email meets you peacefully. It took me time to summon the courage to email you considering the sensitive nature of this transaction and my involvement. But I believe the best results in life are when tried. Not trying is the worst failure ever recorded on earth.\nI am the principal attorney and founder of Smith & Associates LLP. I am contacting you today in respect to an unclaimed “permanent life insurance policy” in the amount £3,820,000 GBP with a reputable bank here in Europe. Unfortunately, my client left no WILL before his death.\nI ask for your consent to be in partnership with me for the claim of this policy benefit . If you permit me to add your name to the policy, all proceeds will be processed on your behalf under a very legitimate framework and immediately transferred to your account in your country after agreement as endorsed by the two of us. I wish to point out that I want 10% of this money to be shared among charity organizations while the remaining 90% will be shared equally between us.\nIf you are interested, please respond to me for more details\nYours in Service\nPaul D. Smith (Esq)\nE-mail: \npaulsmith6754@yahoo.com\nSenior Associate | Insurance | Bonds"
+    },
+    {
+        "from": "baiter_1100",
+        "to": "scammer_1100",
+        "subject": "Re: I hope this email meets you pe",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Paul D. Smith Esq,\n\nThank you for reaching out to me with such an interesting proposition. I must admit, it's not every day that one receives an email about unclaimed life insurance policies.\n\nI'm curious, how did you come across my contact information? And could you please provide more details about your client and the policy in question? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nGladys"
+    }
+]

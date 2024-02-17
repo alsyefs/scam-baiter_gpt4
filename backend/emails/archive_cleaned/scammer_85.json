@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_85",
+        "to": "CRAWLER",
+        "subject": "Hello,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hello,\nI am Mr. Anthony Gabriel, the special delivery agent assigned by the\nUNITED NATIONS Office For Humanitarians Affairs to make the delivery\nof your $5.8million usd in Cash to your door-steps. I am presently in\nLos Angeles and i have received and noted your delivery information.\nI have made arrangement with DHL to complete the delivery since it\nwill be less expensive and \ntheir delivery charges is $50. The money\nmapped out for this delivery has exhausted and i cannot afford the\nfees, therefore you are hereby advise to remit to me through the Form\nof iTunes card or Apple card or Steam wallet card and send the scan picture.\nI will update you with the delivery time and date as soon as i hear\nfrom you. Thanks and remain blessed.\nMr. Anthony Gabriel\nEmail: \nanthonygabriel@diplomats.com\nSpecial Delivery Agent"
+    },
+    {
+        "from": "baiter_85",
+        "to": "scammer_85",
+        "subject": "Re: Hello,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Anthony Gabriel,\n\nThank you for your email and the information provided. However, I must inform you that I am not comfortable with sending payment through gift cards such as iTunes or Steam Wallet card. This is not a standard method of conducting business transactions and raises concerns about the legitimacy of this process.\n\nI would prefer to use a more traditional method of payment, such as bank transfer or even a secure online payment platform. Please provide me with the necessary details to proceed in this manner.\n\nLooking forward to your response.\n\nBest wishes,\nShirley"
+    },
+    {
+        "from": "scammer_85",
+        "to": "baiter_85",
+        "subject": "Re: Hello,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "body": "Hello Shirley, \n\nThe fee amount is $1500 due to the renewal and demurrage charges. \n\nRespond as soon possible \n\nThank you, \nAnthony Gabriel"
+    }
+]

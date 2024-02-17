@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_799",
+        "to": "CRAWLER",
+        "subject": "Dear friend",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear friend\nMy name is Charles Williams, I'm a legal counsel.\nI want you to stand as a next of kin to my late\nclient for an Inheritance payment worth US$64,700,000. Reply to my\nemail for more details, Its very urgent and we need to act fast.\nI await your quick response.\nRegards,\nCharles William"
+    },
+    {
+        "from": "baiter_799",
+        "to": "scammer_799",
+        "subject": "Re: Dear friend",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Charles William,\n\nI hope this message finds you well. Your email certainly piqued my interest. I'm curious to know more about your late client and the situation at hand. Could you please provide me with more details? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nGary"
+    }
+]

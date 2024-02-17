@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_378",
+        "to": "CRAWLER",
+        "subject": "Greetings to you,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Greetings to you,\nA desperate search for a reliable and capable foreign partner is what led me to send you this email.  \nI am one of the Procurement Officers with the Angolan National Petroleum and Gas Agency (ANPG). I am writing to extend a business request for you to stand as an agent or middle-man in a crude oil supply contract.\nI am assuring you that good profits will be earned from the commission that will be paid to middle-persons. I will provide exclusive details to you upon your acceptance.\nYours sincerely,\nCancio Rogelio\nProcurement Officer\nANPG - AGÊNCIA  NACIONAL DE PETRÓLEO,\nGÁS E  BIO-COMBUSTÍVEIS\nEdifício Torres do Carmo\nTor-re 2, Rua Lopes de Lima,\nDis-trito Urbano da Ingombota,\nLuanda - República de Angola\nEmail \nedificiotorres5@gmail.com"
+    },
+    {
+        "from": "baiter_378",
+        "to": "scammer_378",
+        "subject": "Re: Greetings to you,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Cancio Rogelio,\n\nI'm delighted to receive your email and I appreciate the opportunity you're presenting. It's quite intriguing to hear about this crude oil supply contract. Could you please provide more details about it? For instance, what would my responsibilities be as an agent? And how does the commission structure work?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nAngela"
+    }
+]

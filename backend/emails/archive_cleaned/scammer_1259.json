@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1259",
+        "to": "CRAWLER",
+        "subject": "Dear Beloved,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear Beloved,\nI am sorry for invading your privacy. My name is Steve Valdes. \nI am\nfrom New Zealand but currently in the USA\n. I have been a successful\nbusinessman for the past 20 years, my business interests has spanned\nthe sectors of metals, oil and precious stones in\nAsia, Africa and Europe, during this time, I have amassed a lot of\nwealth but recently I was diagnosed with esophageal cancer. It has\ndefiled all forms of medical treatment, and right now I have only\nabout a few weeks to live. I am very rich, but was never\ngenerous; I have given most of my assets to my immediate family\nmembers but my mind is not at peace since I have a dream of giving\nback to the society and helping the needy in our world.I have decided\nto give alms and donations to charity organizations.I cannot do this\nmyself anymore because of my health. I once asked members of my family\nto give some money to charity organizations,they refused and kept the\nmoney for themselves that made my\nhealth heavy and uneasy. I have a huge cash deposit in a\nsecured bank since 2011. I will want you to help me collect this deposit and\ndispatch it to charity organizations for charity work under your supervision.\nYou will take out 30% of these funds for your assistance. Please answer these\nquestions(\nstevevalde88@gmail.com\n)\n[1] Full Names:\n[2] Your Country:\n[3] Direct Telephone\n[4] Date of birth:\n[5] Occupation:\nRegards,\nSteve Valde"
+    },
+    {
+        "from": "baiter_1259",
+        "to": "scammer_1259",
+        "subject": "Re: Dear Beloved,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Steve,\n\nI'm sorry to hear about your health condition. It's admirable that you want to give back to society and help those in need. However, I would suggest contacting a reputable charity organization directly or perhaps a lawyer who can assist with the distribution of your assets according to your wishes.\n\nWishing you peace and comfort during this difficult time.\n\nBest wishes,\nWayne"
+    }
+]

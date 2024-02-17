@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_574",
+        "to": "CRAWLER",
+        "subject": " DHL International Express Cou",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " DHL International Express Courier\nCompany 107, Isolo Express Road Lagos Nigeria\nTel: +234-703 048 7411 (whatsapp)\nWorking Hours...Monday: 8.00am -6.00pm.....\nTuesday: 8.00am - 6.00pm....Wednesday: 8.00am -\n6.00pm Thursday: 8.00am - 6.00pm....Friday: 8.00am -\n6.00pm....Saturday: 10.00am- 4.00pm....Sunday: Closed.\nEmail: \ninfbx2020@hotmail.com\nDear Customer,\nThis is DHL International Delivery Company of Nigeria, we wishes to\nofficially inform you that, we received an\nInternational  Certified Bank Draft parcel valued $15.5 million USD to be\ndelivered to you,to your residential address in your country.\nThis parcel was brought to our notice this morning,From International\nmonetary fund(CBN),kindly reconfirm the below\ninformation's properly,to avoid us not making any mistake during delivery\nof your International Certified Bank Draft parcel to a wrong hand.\n1. YOUR FULL NAMES:\n2. Delivery Address:\n3. CELL NUMBERS:\n4. AGE:\n8. OCCUPATION:\n9. COUNTRY:\n10.NEAREST AIRPORT:\n11. COPY OF YOUR PASSPORT OR ID.\nTherefore you are warned to stop any further communication with\nanybody concerning your inheritance fund.\nWe will register your package and send you the tracking  number for\nsafety delivery of your package as soon as you\nreconfirm  the required information’s needed for safety delivery to\nyour residential address in your Country.\nDHL is one of the world's great success stories, the  start-up that\nrevolutionized the delivery of packages and\ninformation.  In the past 30 years, we've grown up and grown into a\ndiverse family of companies as DHL that's bigger, stronger,better than\never.\nYours affectionately.\nRichard Williams\nDispatch Manager DHL  Company    "
+    },
+    {
+        "from": "baiter_574",
+        "to": "scammer_574",
+        "subject": "Re:  DHL International Express Cou",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Richard Williams,\n\nThank you for your email. I am excited to hear about the Certified Bank Draft parcel. However, before I provide my personal information, could you please provide more details about this parcel? Who is it from and why was it sent to me?\n\nLooking forward to your response.\n\nBest wishes,\nThomas"
+    }
+]

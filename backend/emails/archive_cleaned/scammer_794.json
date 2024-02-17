@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_794",
+        "to": "CRAWLER",
+        "subject": "   THIS TO OFFICIALLY REMIND Y",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   THIS TO OFFICIALLY REMIND YOU THAT WE ARE HAVING OUR FIRST QUARTER AUDIT,AND IN EFFORT TO MAKE SURE ALL BENEFICIARIES RECEIVE THEIR MONEY BEFORE THE AUDIT 2022 .WE HAVE DECIDED TO HELP YOU.THE BOARD OF DIRECTORS OF CITIBANK IN CONJUNCTION WITH IMF AND US GOVERNMENT HAVE REACH A RESOLUTION THAT YOU WILL BE ALLOWED TO RECEIVE YOUR TRANSFER. IN OTHER FOR CITIBANK OF NEW YORK AND CITIBANK OF LONDON UK TO HANDLE AND PROCESS THE TRANSFER. WE WILL ALLOW YOU PAY $100 ONLY. TO ENABLE THE TRANSFER PROCESSED AND THEN AFTER THE CONFIRMATION OF THE TRANSFER INTO YOUR ACCOUNT YOU CAN NOW MAKE A WITHDRAWAL AND PAY THE BALANCE OF $700. NOTE THAT THIS AGREEMENT CAME AS A RESULT OF THE ULTIMATUM GIVEN TO US BY THE UNITED STATES GOVERNMENT, UNITED NATIONS AND THE IMF. TO MAKE SURE NO BODY IS OWN BEFORE OUR AUDIT.AND ALSO TERMINATE THE TRANSFER IF YOU DID NOT PAY WITHING THE STIPULATED PERIOD OF TIME.THIS IS THE ONLY WAY WE CAN ASSIST YOU. WE ENCOURAGE YOU TO PAY THE $100 TODAY TO RECEIVE YOUR MONEY. NO\n TE THIS IS ALL YOU ARE RE\nTHANKS.  "
+    },
+    {
+        "from": "baiter_794",
+        "to": "scammer_794",
+        "subject": "Re:    THIS TO OFFICIALLY REMIND Y",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nI received your message regarding the transfer of funds. However, I must admit that I found it quite difficult to understand due to some missing information and unclear sentences.\n\nCould you please provide more details about this transaction? Specifically, I would like to know the exact amount that needs to be paid and the method of payment. Also, could you please clarify what this money is for?\n\nThank you for your assistance.\n\nBest wishes,\nJames"
+    }
+]

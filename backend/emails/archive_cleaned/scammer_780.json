@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_780",
+        "to": "CRAWLER",
+        "subject": "  Attention:  ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Attention:  \nDear Sir,\nHow are you doing today? It's been a long time since I heard from you and I do hope all is well with your life. I want to inform you that I have concluded an arrangement with a financier to fund your transaction so you can receive the funds to pay off the legal charges required by the bank to release and transfer your funds to you.\nI do wait to hear from you for further instruction and direction to work and follow the procedures of the financier to enable you to get cash in your bank account for us to conclude your transaction so you can get your entitlement inheritance funds. Kindly advise\nThank you and best regard,\n \nBarrister Keith Wood\n+44 752 064 6934  "
+    },
+    {
+        "from": "baiter_780",
+        "to": "scammer_780",
+        "subject": "Re:   Attention:  ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Barrister Keith Wood,\n\nI am doing well, thank you for asking. I appreciate your efforts in concluding an agreement with a financier to fund my transaction. \n\nCould you please provide more details about the next steps? Specifically, I would like to know more about the procedures of the financier and how we can proceed with this.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAlice"
+    },
+    {
+        "from": "scammer_780",
+        "to": "baiter_780",
+        "subject": "Re: Attention: Alice",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "body": "Dear Madam,\r\n\r\nI acknowledge your mail and I want you know that I don't have this your\r\nemail and its new to me. So I want you to send me your full information\r\nwith your ID which I have requested from you so I can be sure of whom I am\r\ndealing with. Kindly advise\nRegards\r\n\r\nBarrister Keith Wood"
+    }
+]

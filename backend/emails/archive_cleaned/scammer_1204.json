@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1204",
+        "to": "CRAWLER",
+        "subject": "   Dear Old Friend",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Dear Old Friend\nI'm happy to inform you about my success in getting those funds\ntransferred under the co-operation of a new partner from Paraguay.\nPresently I'm in Paraguay for investment projects with my own share of\nthe total sum. Meanwhile, I didn't forget your past efforts and\nattempts to assist me in transferring those funds despite the fact\nthat you failed to assist me financially.\nNow contacts my secretary his name is Issa Yacouba and you can also\nEmail him at his ( \nissayacouba2021@gmail.com\n ) ask him to send you the\ntotal sum of $2, 000,000.00 U.S.D. which I kept for your compensation\nfor all the past efforts and attempts to assist me in this matter.\nI appreciated your efforts at that time very much, so feel free and\ngetting touched with my secretary Issa Yacouba and instruct him where\nto send the ATM VISA CARD worth of $2, 000,000 .00 U.S.D; to you\nthrough any of the courier DHL or FedEx service only for proper\nsecurity.\nPlease do let me know immediately you receive it so that we can share\nthe joy after all the sufferings, I am very busy here because of the\ninvestment projects which I and the new partner are having at hand,\nfinally, remember that I had forwarded instruction to the secretary on\nyour behalf to receive that money via ATM VISA CARD, so feel free to\nget in touch with him he will send the amount to you without any\ndelay.\nWith best regards\nMr. Sal Kavar.    "
+    },
+    {
+        "from": "baiter_1204",
+        "to": "scammer_1204",
+        "subject": "Re:    Dear Old Friend",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Sal Kavar,\n\nI'm thrilled to hear about your success in Paraguay! It sounds like you've been very busy with your new partner and investment projects. I'm glad that despite the challenges we faced, you still remember my efforts to assist you.\n\nI have a few questions though, if you don't mind. Could you please tell me more about these investment projects? They sound fascinating! And how did you meet your new partner from Paraguay?\n\nAlso, regarding the ATM VISA CARD that Issa Yacouba will send me, could you provide more details? How does it work exactly? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nJames"
+    }
+]

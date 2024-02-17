@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_712",
+        "to": "CRAWLER",
+        "subject": "ATTENTION",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "ATTENTION\nThis is Mr John Pearson the CEO of DHL Courier Company, I have been\ntrying to reach you just to inform you that your fund is worth\n$4,800,000. 00. (Four million Eight Hundred Thousand United States\nDollars) have been approved in your favor with a bank which has\nalready opened an account and issued to you ATM CARD, The ATM CARD is\nwithdrawable from any ATM Machine in the world and it has been\nregistered to our office for the delivery of your ATM CARD package,\nKindly Reconfirm the below information to me and make sure your\naddress is writing correctly to avoid wrongful delivery of your ATM\nCARD to a wrong address\n1) YOUR FULL NAME:....\n2) YOUR COUNTRY:.....\n3) YOUR ADDRESS:......\n4) YOUR PHONE NUMBER:.....\n5) YOUR OCCUPATION:.......\n6) YOUR NEAREST AIRPORT:.....\nUpon the receipt of your mailing address we shall proceed for the\ndelivery of your ATM CARD to your home address So feel free and\ncontact me back with your full delivery information thanks\nBest Regards,\nMr John Pearson\nDHL Express Courier Company CEO\n(Chief Executive Officer)\nEmail: \njohnpearsondhlexpressceo@gmail.com\nCell No: +1(626)344-8001"
+    },
+    {
+        "from": "baiter_712",
+        "to": "scammer_712",
+        "subject": "Re: ATTENTION",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. John Pearson,\n\nI'm delighted to hear from you and the news about the ATM CARD is quite surprising! I appreciate your efforts in trying to reach me.\n\nBefore we proceed, could you please provide more details about this fund? How did it come to be approved in my favor? Also, I'd like to know more about how the ATM CARD works. Is there a specific limit on withdrawals per day?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMichelle"
+    },
+    {
+        "from": "scammer_712",
+        "to": "baiter_712",
+        "subject": "Re: ATTENTION",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "body": "Hello how are you doing today? I hope you are doing well. I received your\r\nemail and it was well scrutinized and understood.\r\n\r\nFirst of all, i wants you to know that all the necessary arrangements\r\nregarding the delivery of this ATM CARD has been made and as soon as you\r\ncomply with the necessary requirements the delivery will commence with\r\nimmediate effect. However, your information as was stated in the first\r\nemail is required.\r\n\r\nThis is as result of an online email selected program done annually as the\r\nmedium to eradicate poverty around the World and to help some suffering\r\nindustries/ company globally. Your email was one of the lucky selected\r\nemails which makes you one of the beneficiaries to receive the total sum of\r\n$4,800,000.00 dollars in form of ATM VISA CARD. This delivery is mandatory\r\ndepending on your country as it is scheduled.\r\n\r\nThe said ATM VISA CARD is limited to make maximum withdrawal. Daily\r\nwithdrawal limits typically range from $5,000 to $20,000 and can be\r\nupgraded if the beneficiary is qualify to which is determined by the\r\nbeneficiary professions.\r\n\r\nI believe this has answered all your questions and also the delivery has\r\nbeen approved by the United States President and issued an approval letter.\r\nWhich was signed by the U.S Supreme Court of Justice so i wants you to act\r\ntowards this so we can get the transactions moving.\r\n\r\nThanks for your understanding.\nBest Regards,\r\nMr. John Pearson.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n, Michelle <up19088@***.com> wrote:"
+    }
+]

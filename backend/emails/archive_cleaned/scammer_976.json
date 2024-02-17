@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_976",
+        "to": "CRAWLER",
+        "subject": "For Your Attention:",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "For Your Attention:\nI am Mrs. Zainab Ahmed Newly-appointed Acting Minister of Finance of\nNigeria, I am contacting you respect to your fund total amount of\n$9,200,000.00 Million that was being withheld by the former Minister of\nFinance. Today, I have an outstanding order from the Office of the\nPresidency to release your due contract fund without delay. Do reconfirm\nyour Resident Address, Private Email Address, Phone and \ncopy of your\nvalid ID\n. I look forward to your earliest confirmation of this email.\nMrs. Zainab Ahmed\nNewly-Appointed Ac"
+    },
+    {
+        "from": "baiter_976",
+        "to": "scammer_976",
+        "subject": "Re: For Your Attention:",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mrs. Zainab Ahmed,\n\nThank you for reaching out to me. It's quite surprising to hear about this fund, as I don't recall having any contracts in Nigeria. Could you please provide more details about this contract? How did it come about and why was it withheld by the former Minister of Finance?\n\nI'm sorry but I can't provide my personal information at this time. However, I am interested in learning more about this situation.\n\nLooking forward to your response!\n\nBest wishes,\nIda"
+    }
+]

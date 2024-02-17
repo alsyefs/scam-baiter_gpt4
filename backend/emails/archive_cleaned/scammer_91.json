@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_91",
+        "to": "CRAWLER",
+        "subject": "Dear Respectfully,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear Respectfully,\nI have a client who has money to invest either in the form of a loan\nor equity basis.\nA skilled and competent manager who have a secured and sustainable\nbusiness plan that can generate good profits, is required.\nPlease respond with your thoughts so that we can discuss them.\nRegards,\nArmando Sizwe."
+    },
+    {
+        "from": "baiter_91",
+        "to": "scammer_91",
+        "subject": "Re: Dear Respectfully,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Armando Sizwe,\n\nThank you for your email. I am interested in discussing this opportunity further. Could you please provide more details about the investment, such as the amount of money your client is willing to invest and the type of business they are interested in? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDeirdre"
+    }
+]

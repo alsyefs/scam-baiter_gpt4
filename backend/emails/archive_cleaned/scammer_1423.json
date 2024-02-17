@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1423",
+        "to": "CRAWLER",
+        "subject": "Hello, Compliments of the day.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hello, Compliments of the day. My Name is Zhina Chun, I am a senior Staff with a public Bank \nhere in Wing Hang Bank, Hong Kong\n, , I am contacting you regarding a confidential business Proposal that will be of great mutual benefit to both of us ,If you are interested Kindly Contact me on my private email address for more details: \nzhinachun@gmail.com\n I look forward to hearing from you soon. Regards, Zhina Chun"
+    },
+    {
+        "from": "baiter_1423",
+        "to": "scammer_1423",
+        "subject": "Re: Hello, Compliments of the day.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Zhina Chun,\n\nThank you for reaching out to me. I am intrigued by your proposal and would like to know more about it. Could you please provide more details about this business opportunity?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nBarbara"
+    }
+]

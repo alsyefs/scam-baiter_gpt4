@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_599",
+        "to": "CRAWLER",
+        "subject": "  Kindly make payment to our l",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Kindly make payment to our local Bank\n \nNAME : I. M. I.\nBANK NAME : Ziraat bank\n Account type : DOLLAR\nAccount number : 94529978-XXXX\nIBAN :TR86 0001 0019 4594 5299 XXXXXX\nBANK ADDRESS : BEYLIKDUZU/ ISTANBUL SUBESI\nHome address:   Istanbul, Turkey\nSWIFT CODE..TCZBTR2A   "
+    },
+    {
+        "from": "baiter_599",
+        "to": "scammer_599",
+        "subject": "Re:   Kindly make payment to our l",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Marykate Purchia,\n\nThank you for your prompt response. I am excited about the opportunity to live and work in the United States. However, before I proceed with the payment, could you please provide me with more details about the bank and the account where I should make the payment? \n\nLooking forward to your reply.\n\nBest regards,\nLewis D.\n\nBest wishes,\nLucas"
+    }
+]

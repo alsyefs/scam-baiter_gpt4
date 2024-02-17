@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1254",
+        "to": "CRAWLER",
+        "subject": "  Attention : Sir,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Attention : Sir,\nThis is to inform you that the Government of Thailand has approved mandatory release of all pending funds to be released immediately to all approved beneficiaries due to the Covid-19 world pandemic.\nThis notice also includes your uncompleted transaction few years ago and upon receipt of your reasponse then your fund shall be released immediately to your bank account.  \nNote: Please note that all outstanding fees must be paid prior to the release of your fund.\nThe total approved fund to be released to you is worth US$3.5 Million while your outstanding fee is US$500 for the procurement of required legal documents.\nYou are advised to reconfirm your bank details.\nAs soon as I confirm the fee US$500, I shall immediately transfer your fund into your account immediately and forward you the transfer slip.\nKindly send the outstanding fee US$500 through western union or money Gram with the below details\nNAME: Pimporn Tareangram\nADDRESS: Soi 35, Bangkapi, Bangkok Thailand 10310\nPhone: +66 817477721\nYour money will be released immediately upon our confirmation of the fee US$500.\nThank you for your kind understanding, stay safe and be protected.\nYours sincerely,\nMrs. Sujitpan Lamsam\nExecutive Manager (FFB BANK)\nPhone: +66 989-355-269\nFFB Bank, Bangkok, Thailand   "
+    },
+    {
+        "from": "baiter_1254",
+        "to": "scammer_1254",
+        "subject": "Re:   Attention : Sir,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mrs. Sujitpan Lamsam,\n\nThank you for your email. However, I would like to clarify a few things before proceeding further.\n\nFirstly, could you please provide more details about the fund that is supposed to be released to me? I don't recall having any pending funds in Thailand.\n\nSecondly, you mentioned a fee of US dollars but did not specify the exact amount. Could you please clarify this?\n\nLastly, could you provide more information about the legal documents that are required?\n\nI look forward to your response.\n\nBest wishes,\nRonald"
+    }
+]

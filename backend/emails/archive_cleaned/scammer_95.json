@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_95",
+        "to": "CRAWLER",
+        "subject": "National Road Safety Commissio",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "National Road Safety Commission (NRSC)\nAddress: P.O.Box OS 1683\nOsu-Accra\nAttn: \nlike I told you that \nI tried contacting you in 2019 about your funds that was recovered from an accident scene amounting to $2,000,000 USD but you didn't get back to me then, So a friend of mine who works with a big telecommunication advice me to invest your funds in shares with their company MTN TELEPHONE NETWORK COMPANY in Ghana which I did in 2019 and the funds was invested in your name and your share certificate was issued to me by the company.\nAnyway, the reason I invested the money with MTN was that this is the only way you can receive your funds from Africa through your Monthly dividends and that is why I am contacting you now because your dividends have amounted to $4,000,000usd so far which is $50,000usd monthly dividends for your investment and the company want to payout the funds so i was forced to find by any means to contact you . I will send you your share certificate and tell you more about your investment as soon as I off duty together with the next way forward. \nKindly send me \nyour current working ID card\n.\n Mr. Mark Lokko\nDirector of Road Accident Administration\nNRSC Ghana"
+    },
+    {
+        "from": "baiter_95",
+        "to": "scammer_95",
+        "subject": "Re: National Road Safety Commissio",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Mark Lokko,\n\nI appreciate your effort in reaching out to me regarding the funds recovered from an accident scene and invested in shares with MTN Telephone Network Company in Ghana. However, I must admit that I am a bit confused as I do not recall any previous communication about this matter.\n\nBefore we proceed, could you please provide more details about the accident and how my name was associated with these funds? Also, it would be helpful if you could explain more about the investment made in my name.\n\nLooking forward to your response.\n\nBest wishes,\nRick"
+    }
+]

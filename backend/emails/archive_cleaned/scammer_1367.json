@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1367",
+        "to": "CRAWLER",
+        "subject": "We seek investment partnership",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "We seek investment partnership in your country and will offer funds and if you have interest"
+    },
+    {
+        "from": "baiter_1367",
+        "to": "scammer_1367",
+        "subject": "Re: We seek investment partnership",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there! \n\nWow, that sounds like an interesting opportunity. Could you please provide me with more details about this investment? What kind of projects are you looking to fund in my country?\n\nBest wishes,\nElla"
+    }
+]

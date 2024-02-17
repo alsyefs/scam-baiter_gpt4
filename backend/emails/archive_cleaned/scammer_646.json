@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_646",
+        "to": "CRAWLER",
+        "subject": "Dear Sir,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear Sir,\nThis is to inform you that we have received an \"Irrevocable Approval\" from the authorities to release your unpaid/inherited funds, Which have been recovered by the Financial Service Authority (FSA),. This time your funds have been scheduled to be released directly to you, following investigations carried out by this office.\nBy your response and confirmation of your current contact details  Your Contact telephone/mobile numbers,  via return email, I will give you detailed information on how to release the funds\nThanks and waiting for your response.\nYours sincerely,"
+    },
+    {
+        "from": "baiter_646",
+        "to": "scammer_646",
+        "subject": "Re: Dear Sir,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir,\n\nThank you for your email. I am glad to hear that the Financial Service Authority has approved the release of my unpaid inherited funds. \n\nHere are my contact details:\n\nMobile Number: \n\nI look forward to receiving detailed instructions on how to access these funds.\n\nBest wishes,\nVirginia"
+    }
+]

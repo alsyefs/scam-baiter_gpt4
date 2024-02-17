@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1276",
+        "to": "CRAWLER",
+        "subject": "Dear Sir",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear Sir\nMy name is Eyad T Mohammed. I am contacting you with a profitable business investment proposal that will generate high income within a short period of time. If you are interested, Kindly get back to me as soon as possible so that i can tell you the details and the main point the investment will focus on. You may contact me through my email or telephone number as specified below.\nI look forward to doing business with you.\nBest Regards,\nEyad T Mohamad\nTel: +14092415680\nEmail: \ntamammohamad09@gmail.com"
+    },
+    {
+        "from": "baiter_1276",
+        "to": "scammer_1276",
+        "subject": "Re: Dear Sir",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Eyad Mohamad,\n\nThank you for reaching out to me with your business proposal. I am always open to new opportunities and would be interested in hearing more about this investment. Could you please provide more details about the nature of the investment, potential risks, and projected returns?\n\nLooking forward to your response.\n\nBest wishes,\nCarol"
+    }
+]

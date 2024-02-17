@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_516",
+        "to": "CRAWLER",
+        "subject": "  Central Bank of Nigeria",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Central Bank of Nigeria\n                                                    Plot 33, Abubakar Tafawa Balewa Way\n                                    Central Business District, Cadastral Zone\n                                     Abuja, Federal Capital Territory, Nigeria.\nAttn: \nWe are in receipt of your message and personal details provided as requested except your means of identification which was not included, please provide your means of identification because is very important.\nSecondly, would you want to receive the payment value $5.5Million via bank transfer to your bank account which will take 72hrs or will you want it delivered to you in cash as a consignment through a diplomatic method?\nWe look forward to hear from you so that we will be able to conclude every arrangements concerning your payment before the end of 1st face of October.\nBest Regards\nAlhaji Aliu Maitama\nSecretary to the Governor\nCentral Bank of Nigeria\nTelephone: 2349073516600   "
+    },
+    {
+        "from": "baiter_516",
+        "to": "scammer_516",
+        "subject": "Re:   Central Bank of Nigeria",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Alhaji Aliu Maitama,\n\nThank you for your prompt response. I apologize for the oversight, my means of identification is my passport, which I can provide a scanned copy of if necessary.\n\nAs for the payment method, I would prefer a bank transfer to my account. Please let me know what information you need from me to facilitate this.\n\nI look forward to concluding this matter promptly.\n\nBest wishes,\nEvelyn"
+    }
+]

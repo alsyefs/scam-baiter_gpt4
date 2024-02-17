@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_206",
+        "to": "CRAWLER",
+        "subject": "  Attention:",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Attention:\nI am Mr.Charles William , I need your assistance . I have\nUS$120.000.000.00 ( One Hundred And Twenty Million Dollars ) in\nInvestment in America. I want you to receive the funds for me today in\nUnited States.Once you receive the funds I will fly to United States\nto meet you and invest the funds in your company.\nAll you need to do is to send your BITCOIN WALLET ADDRESS to me right\nnow so that they can send the funds to your BTC wallet .I hope you can\ndo good by informing me once you receive the funds in your BTC .\nGod Bless you,\nYours Faithfully\nMr.Charles William\nWhatsApp number +1-510-480-0666   "
+    },
+    {
+        "from": "baiter_206",
+        "to": "scammer_206",
+        "subject": "Re:   Attention:",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear William,\n\nI'm sorry, but I can't assist with that.\n\nBest wishes,\nBeatrice"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_777",
+        "to": "CRAWLER",
+        "subject": "The world bank has transferred",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "The world bank has transferred your total fund of 15.5 million USD via\nwestern union since 03/27/2023 and we have not heard from you to pick\nup your first payment of $4,500 dollars from western union office\nKindly Contact Cheryl Golden from western union to pick up your first\npayment of $4,500 USD\nEmail, \nkumardasliton97@gmail.com\nHON. Liton Kumar das"
+    },
+    {
+        "from": "baiter_777",
+        "to": "scammer_777",
+        "subject": "Re: The world bank has transferred",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Hon. Liton Kumar Das,\n\nThank you for your message. However, I believe there may be a misunderstanding as I have not been expecting any funds from the World Bank. Could you please provide more details about this transaction?\n\nBest wishes,\nMary"
+    }
+]

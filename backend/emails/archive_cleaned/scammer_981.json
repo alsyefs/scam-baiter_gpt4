@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_981",
+        "to": "CRAWLER",
+        "subject": "Attention",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attention\nWe are writing this message to you from the United Nations Center to\ninform you that you have been chosen as our Representative in your\ncity / community to distribute the total sum of $5,000,000 US Dollars\nfor Global Human Relief empowerment in order to help the poor people\nin your city. Such as the Disabled people, The homeless, Orphanages,\nschools, and General Hospitals. If you receive the message, reply  For\nmore information about the Palliative Care payment.\nRegards.\nManagement\nMr. W. Harrison\nmrwharrison82@gmail.com\nUnited Nations General Assembly (UNGA)\nAddress: 760 United Nations Plaza, Manhattan,\nNew York City, New York (10017-6818),\nUnited States"
+    },
+    {
+        "from": "baiter_981",
+        "to": "scammer_981",
+        "subject": "Re: Attention",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. W. Harrison,\n\nI am honored to have been chosen for such a noble task. I am ready and willing to assist in any way possible to help the less fortunate in my community.\n\nCould you please provide more details about the process, how the funds will be distributed, and what my responsibilities will be?\n\nLooking forward to your response.\n\nBest wishes,\nPaul"
+    }
+]

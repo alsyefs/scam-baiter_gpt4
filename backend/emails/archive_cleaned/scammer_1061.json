@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1061",
+        "to": "CRAWLER",
+        "subject": "Hi,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hi,\nWould you be interested in handling a good deal of over invoiced funds worth more than $59 million dollars?\nPlease respond for more information.\nSincerely,\nBarr. O Bazan"
+    },
+    {
+        "from": "baiter_1061",
+        "to": "scammer_1061",
+        "subject": "Re: Hi,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Barr. Bazan,\n\nWow, that sounds like a lot of money! I'm intrigued and would love to hear more about this deal. Could you please provide some more details? How does it work exactly?\n\nLooking forward to your response.\n\nBest wishes,\nLindsey"
+    }
+]

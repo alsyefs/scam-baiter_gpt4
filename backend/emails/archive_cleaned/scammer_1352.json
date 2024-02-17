@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1352",
+        "to": "CRAWLER",
+        "subject": "Attention,Beneficiary",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attention,Beneficiary\nWelcome to the USA FBI Headquarters in Washington DC, This is to\ninform you that we stop Diplomat Jerry Richard who came to US from the\nBenin Republic with consignment box worth $2,700.000.00 as your funds\ncompensation on Dec 20th 2023 because the diplomat did not explain or\nanswered the question we asked him concerning the funds on the\nconsignment,\nFinally, After the investigation we found out that funds worth\n$2,700,000.00 on the consignment box belongs to you as the right owner\nto receive the funds,\nToday Being Tuesday 23/2024 we have finally concluded to deliver the\nconsignment box to you which\n will cost you only $45.00 for the US FBI\nsecurity keeping fee and any other fees will be paid after the\ndelivery at your home address,\nKindly send your current home address and also send the $45 through\nItune card or Steam wallet for the security keeping fee only,\nNote,Your consignment box will be delivered to you from the US FBI\ndelivery agent Mr Emmanuel Ken,\nHere is delivery agent detail.\nUS FBI delivery agent Mr Emmanuel Ken,\nTel: +1 715-257-5575\nYou advised to reply immediately once you received this\nemail:usafbi001newyork@gmail.com\nRegards\nUS FBI AGENT"
+    },
+    {
+        "from": "baiter_1352",
+        "to": "scammer_1352",
+        "subject": "Re: Attention,Beneficiary",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear US FBI Agent,\n\nThank you for your message. I am surprised to hear about this situation as I was not expecting any funds from Benin Republic. \n\nBefore proceeding, could you please provide more details about the origin of these funds and why they are being sent to me? Also, could you clarify why the payment for the security keeping fee is requested in Itune card or Steam wallet? This seems unusual for an official transaction.\n\nI look forward to your response.\n\nBest wishes,\nBarbara"
+    }
+]

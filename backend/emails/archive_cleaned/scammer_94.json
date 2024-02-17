@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_94",
+        "to": "CRAWLER",
+        "subject": "  Hello Dear,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Hello Dear,\nMy name is Mrs. Asli from Turkey, am 56 years old, suffering from\ncancer my late husband died in a plane crash in Diyarbakir, Turkey on\n8th January 2003. During the period of our marriage, we had No Child.\nI have been terrible betrayed and disappointed with the people around\nme So I have now made up my mind to give out my inherited assets to\nthe charity since I have no child and I would appreciate it if you can\nbe the person in charge of the funds disbursement to charity, I have\nnow made up my mind to spread my wealth to Charity & Mercy works in\nAfrica, Asia, America and Europe. Few people around have diverted and\nmismanaged funds entrusted to them so I wish to use a total stranger\nfor this my last wish.\nMy late husband was an Oil merchant. He has mineral rights in Turkey\nand Venezuela that are worth US$2,950,000.00 (Two Million Nine Hundred\nand Fifty Us Dollars only), which he Deposited (Bonded) with a bank\nunder the care of Exxon Mobil Turkey, I hope God gives you the wisdom\nto touch very many lives with my Generosity. I don’t want the\ngovernment or the bank to take possession of this fund as it is clear\nI have but very limited time to live.\nLastly 30% of this fund will be for your time and effort, while 70%\ngoes EXCLUSIVELY For Charity work. In God's name I beseech you to get\nback to me. Kindly send me (Your Full Name Address, Direct Phone and\noccupation)\nThanks & God bless you.\nMrs. Asli   "
+    },
+    {
+        "from": "baiter_94",
+        "to": "scammer_94",
+        "subject": "Re:   Hello Dear,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mrs. Asli,\n\nI'm truly sorry to hear about your health condition and the unfortunate passing of your husband. It's admirable that you want to use your wealth for charity work across various continents. \n\nCould you please tell me more about the charities you're interested in? Are there specific causes or regions you feel particularly passionate about? I'd love to understand more about your vision for this generous act.\n\nAs for managing the funds, it's a big responsibility and I would need to think carefully about it. Could we perhaps discuss this further before making any decisions?\n\nBest wishes,\nWalter"
+    }
+]

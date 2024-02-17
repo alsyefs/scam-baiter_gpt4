@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_384",
+        "to": "CRAWLER",
+        "subject": " From: Office of efcc <efcc@ms",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " From: Office of efcc <efcc@msgsafe.ninja>\nSent: Friday, August 16, 2019 \nTo: \nSubject: To \nTo \nGood Evening, I received your message in reference to the assigned compensation payment valued US$2,800,000.00 with Approved file Number CBC/CL/301/MC2. Firstly Madam, be assured that this is not link the other messages you have been receiving from Ghana, Benin Republic or South Africa, the EFCC operates only in Nigeria. So if someone said he or she is from EFCC in one of these country mentioned, tagged it as SCAM.\nMore so, I want to inform you that the chairman of the anti graph agency in 2009 to 2011, is quit different from the regime of president Mohamadu Buhari for he is the only Government that is fighting corruption in highest level, as matter of fact the compensation was awarded to you based on the discovery of the intelligent unit of EFCC as you can see the report on this link: https:/ /www.cnn.com/2017/04/13/africa/efcc-recovers-funds-nigeria/index.html, I want you to understand that more investigation is still on going because you are not the only victim of these Fraud but I want to assure you that this assignment is legal and that was the reasons you are required to Renew the outdated document of remittance in court for immediate release of your Funds (US$2,800,000.00) €2,524,444.00 EURO.\nFinally Madam, I understood your doubts which is in record but I assure you, there is nothing to fear, kindly forward to me your current personal contact data as follows so i can proceed with the court renewal arrangement.\n(a) Your Full Name,\n(b) Your Contact Address,\n(c) Your City,\n(4) Direct telephone lines (Cell or Land line)\nPlease note; I will not ask you to pay me for this, the only monetary requirement that maybe needed will be the court Legal Authorization and renewal cost which will be a pin-nut. Attached is my ID card.\nI will be looking forward to hear from you today.\nYours sincerely,\nMrs Gloria Rochi\nEFCC Intermediary Agent.\noffice @ Awolowo Rd, Ikoyi Lagos.  "
+    },
+    {
+        "from": "baiter_384",
+        "to": "scammer_384",
+        "subject": "Re:  From: Office of efcc <efcc@ms",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mrs. Gloria Rochi,\n\nThank you for your email and the assurance that this is not a scam. I appreciate your efforts in fighting corruption and ensuring justice.\n\nHere are my details:\n\nFull Name: John Doe\nContact Address: 123 Main Street, Anytown\nCity: Anytown\nDirect Telephone Line: +1-234-567-890\n\nI look forward to hearing from you regarding the next steps in this process.\n\nBest wishes,\nAlma"
+    }
+]

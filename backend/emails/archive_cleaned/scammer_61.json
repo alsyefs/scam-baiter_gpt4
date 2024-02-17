@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_61",
+        "to": "CRAWLER",
+        "subject": "  Received: from 10.217.150.20",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Received: from 10.217.150.203\nReturn-Path: < \nohjoon221@gmail.com\n >\nX-Originating-Ip: [209.85.219.176]\nReply-To: \ndrmichaelkarlaugust@gmail.com\nFrom: \"Dr. Michael Karl August\" <ohjoon221@gmail.com>\nDate: Wed, 21 Sep 2022 15:36:20 +0100\nMessage-ID: <CAEDdYqMTm896AdOBR6X64xJ4sdrwMKOL3FebL1jq8g=14y7rRw@mail.gmail.com>\nSubject: TAKE LOAN  "
+    },
+    {
+        "from": "baiter_61",
+        "to": "scammer_61",
+        "subject": "Re:   Received: from 10.217.150.20",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Marykate,\n\nThank you for your prompt response. I am very excited about this opportunity and would like to proceed as quickly as possible. Could you please provide me with the next steps in this process?\n\nBest regards,\nLewis D.\n\nBest wishes,\nTammie"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_452",
+        "to": "CRAWLER",
+        "subject": "   From: Mr Godwin Emefiele <n",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   From: Mr Godwin Emefiele <nuch1580@landhomethai.com>\nSent: Saturday, 28 January 2023,  \nSubject: United bank for Africa. (U.B.A\nUNITED BANK FOR AFRICA -\nAFRICA'S GLOBAL BANK\nHEAD OFFICE ADDRESS UBA HOUSE\nI Am  Mr Godwin Emefiele the New director cash processing united bank for African the international monetary fund (I.M.F.) in conjunction with Organization of African Unity (O.A.U) is compensating all the scam victims with $1.500.000.00USD\nand your email address was found in the scam victim's, the united bank for African and Federal Reserve Bank has been mandated by the (I.M.F) to pay your compensation ($1.500, 000.00USD) in cash through means of diplomatic courier service hand delivery,\nTake note that Three thousand united states dollars (usd$3,000) have been mapped out for all expenses in taxes and other documents that matter.\nTherefore, do forward your home address, direct phone number to this email, \nfinancialremittanceforfunds@cheerful.com\n,\nPlease reply/direct to this email:\nfinancialremittanceforfunds@cheerful.com\nMr Godwin Emefiele\nManaging Director\nUnited bank for Africa. (U.B.A    "
+    },
+    {
+        "from": "baiter_452",
+        "to": "scammer_452",
+        "subject": "Re:    From: Mr Godwin Emefiele <n",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Godwin Emefiele,\n\nThank you for your email and the information provided. However, I would like to clarify a few things before proceeding further.\n\nFirstly, could you please provide more details about the scam victim's situation that you mentioned? How was my email address found in this context?\n\nSecondly, could you explain more about the payment process through diplomatic courier service? What are the steps involved and how can I ensure its safety and legitimacy?\n\nLastly, could you provide some official documentation or references that confirm your position as the Managing Director of United Bank for Africa and the authenticity of this transaction?\n\nI look forward to your response.\n\nBest wishes,\nBruce"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_684",
+        "to": "CRAWLER",
+        "subject": "Dear Friend,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear Friend,\nCompliments of the day and God's blessings\nI lost many contacts including yours when I lost my cell phone so I could not reach you before now but with the help of google I was able to search and find your email address. I am glad to inform you that I have successfully concluded the transaction, the money transferred to Japan. It was transferred through the assistant Mr. Howard Ferraro who is a Japanese base business man.\nHowever, I did not forget you because you are the source of my success, you made me what I am now though you are not there to complete this project with me but I gave all the credit and thanks to you. I know it was not your fault or rather your wish to back up on me and the transaction, I understood it was simply because of what you must have heard about business opportunities like this. Actually there are still good ones for example myself.\nIn appreciate of your assistance I have mapped out as a compensation and wrote on your favor a Draft worth of US$5,000,000.00.(Five Million United States Dollars Only) I left the Draft with my attorney Sir. Jerry Koffi on my departure to Japan. I would like you therefore, to contact him on the below info so that he can release it to you.\nAttn: Sir. Jerry Koffi\nEmail: \njerrykoffi77@yahoo.com\nContact my Attorney in Dubai - UAE so that he can release your Draft to you. I will stop here. Once again, thank you very much and remain blessed.\nRegards,\nSule Gratin"
+    },
+    {
+        "from": "baiter_684",
+        "to": "scammer_684",
+        "subject": "Re: Dear Friend,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sule Gratin,\n\nI am glad to hear that you have successfully transferred the money to Japan. I appreciate your kind words and acknowledgment of my efforts, even though I was not able to see the project through to its completion.\n\nI am surprised and grateful for the draft worth Five Million United States Dollars that you have left in my favor. I will contact your attorney, Sir Jerry Koffi, as soon as possible to arrange for the release of this draft.\n\nThank you once again for your generosity and thoughtfulness. May you continue to be blessed in all your endeavors.\n\nBest wishes,\nJames"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1146",
+        "to": "CRAWLER",
+        "subject": "   Hello,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Hello,\nWe are an Investment Funding Broker/Advisory Company based in Europe,\nscouting for viable projects and business investments to be funded by\nour Saudi Royal family based investor who wishes to remain anonymous,\nfor Joint Venture Project & Investment funding.\nOur investor is offering a Joint Venture (JV) Project & Investment\nFunding Program to diversify their investments with partners seeking\nproject funding as non-recourse for a qualified project(s) for one\ntranche or multiple draw downs with a large contract and multiple or\nseries of tranches.\nThis Funding program allows the project owner to enjoy 70% of the\nprofit while our investor takes 30% JV partnership per annum for a\nperiod of 5-10 years.\nOur investor can approve a project funding from USD $10 Million to USD\n$1 Billion depending on the nature and viability of the business,\ninvestment or project. We are currently interested in funding viable\nbusinesses, investments or projects in the following areas of\ninterest: Starting up, a Franchise, Business Acquisition, Business\nExpansion, Capital / Infrastructural Project, Commercial Real Estate\npurchases, Contract Execution and Trade Financing. We are open to\nhaving a good business relationship with you.\nIf you have a valid business, investment or project to fund, please\nprovide us with the business plan, executive summary, financial\ninformation etc for assessment and review. Please do not hesitate to\ncontact us for possible business co-operation if you are interested.\nRegards,\nKevin Moffat   "
+    },
+    {
+        "from": "baiter_1146",
+        "to": "scammer_1146",
+        "subject": "Re:    Hello,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Kevin Moffat,\n\nThank you for reaching out and sharing this exciting opportunity. It's always great to hear about new investment programs, especially ones that are as diverse and flexible as the one you've described.\n\nI'm curious about a few things though. Could you please elaborate on how the profit-sharing works in this Joint Venture JV Project Investment Funding Program? Also, what kind of projects or businesses does your investor typically prefer to invest in?\n\nLooking forward to hearing more about this.\n\nBest regards.\n\nBest wishes,\nDaniel"
+    }
+]

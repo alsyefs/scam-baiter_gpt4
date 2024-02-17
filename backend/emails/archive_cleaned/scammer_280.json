@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_280",
+        "to": "CRAWLER",
+        "subject": " Received: from 10.217.150.76",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " Received: from 10.217.150.76\nReturn-Path: < \nbentleylillian1@gmail.com\n >\nX-Originating-Ip: [209.85.128.181]\nFrom: Lillian Bentley <bentleylillian1@gmail.com>\nDate: Mon, 10 Oct 2022 07:14:01 +0100\nMessage-ID: <CAH=e_2Ck70c+GtbPZ=T4RDv-Ybgnoyy-qyMB7o0wCidXahEr_g@mail.gmail.com>\nSubject: URGENT RESPONSE IS NEEDED    "
+    },
+    {
+        "from": "baiter_280",
+        "to": "scammer_280",
+        "subject": "Re:  Received: from 10.217.150.76",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nI hope you're having a great day! I'm really interested in learning more about what you have to offer. Could you please provide me with some more details? I'm all ears and ready to understand better. \n\nJust a quick note, I'd prefer not to share any personal information at this stage. Looking forward to hearing from you soon!\n\nBest wishes,\nLaura"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1029",
+        "to": "CRAWLER",
+        "subject": "WHY DO YOU PREFER TO LOSE YOUR",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "WHY DO YOU PREFER TO LOSE YOUR 9 MILLION US DOLLAR?\nHello,\nYour fund of 9 million US dollars is still in our bank, why did you abandon it because of $25. The United Nations and the European Union Government award you this compensation and grant for being a scam victim and also because of the world Economic meltdown which results in low salary income and other social hardship in the world.\nI am a woman of integrity,\n I write to you with 100% sincerity from my heart and I give you 100% guarantee on this. As soon as you send the last Required fee of $25 now to our bitcoin wallet or by an Apple I tunes card, or Steam card.Your Approved fund of 9 million US dollar will be transferred to you\n or if you want we can send you an ATM card or cashier check without any more delays.\nMrs,Adenat T. Friedman\nEmail:officefilepayment@usa.com\nI'm in charge of your package"
+    },
+    {
+        "from": "baiter_1029",
+        "to": "scammer_1029",
+        "subject": "Re: WHY DO YOU PREFER TO LOSE YOUR",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear T. Friedman,\n\nI appreciate your concern, but I believe there has been a misunderstanding. I have not abandoned any funds nor have I been a victim of a scam. \n\nIf you could provide more details about this situation, it would be greatly appreciated.\n\nBest wishes,\nGlinda"
+    }
+]

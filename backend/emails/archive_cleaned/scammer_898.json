@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_898",
+        "to": "CRAWLER",
+        "subject": "  Dear Sir,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Sir,\nI have provided a bank account for you and you could not send it and\nyou can not send it through western union money transfer or\nmoneygram.I have no other alternative to it.\nThanks.\nMs.Regina  "
+    },
+    {
+        "from": "baiter_898",
+        "to": "scammer_898",
+        "subject": "Re:   Dear Sir,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nThank you for your message. I'm sorry, but I'm a bit confused about the details you've mentioned. Could you please clarify what exactly you're referring to? Are we discussing a transaction or transfer of some sort?\n\nI must remind you that I can't provide any personal information such as bank account details. However, I'm more than happy to help in any other way possible.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nAlvin"
+    }
+]

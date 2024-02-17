@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_340",
+        "to": "CRAWLER",
+        "subject": "Attention Beneficiary,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attention Beneficiary,\nThis email is to notify you about the release of your outstanding payment which is truly $2.500,000.00 Million Dollars The United Nation Secretary General scheduled a time frame to settle all foreign debts which includes\nHumanitarian self support, Contract/Inheritance/Lottery (Sponsored by Microsoft and Shell Petrolum Lottery) and other international loans, Your Name was among the people to receive $2.500,000.00 Million Dollars Compensation winning award by United Nations,\nWe have successfully Converted this total amount into an ATM Card in your name, And it has been approved and deposited to A.D.L Express Courier Delivery Company this morning for registration, and we agreed that, the delivery of your $2.500,000.00 Million USD ATM-Card Package will take off tomorrow morning,\nThe information of the A.D.L Express Courier Delivery Company is below;\nContact Name Dr. Patrick Mupenda\nFrom A.D.L Express Courier Delivery Company\nEmail: \nadlexpresco@protonmail.com\ntel:  +229-610-820-11\ntel:  +229-985-679-87\nSo contact with your full info where your ATM-card will be delivered to,\n(1) Full Name:..........\n(2) Mobile Number:.............\n(3) Direct telephone number:............\n(4) Country of origin:......................\n(5) Your Current delivery address:................\n(6) YOUR Identification Card/Driver's License:...............................\nUrgent get back to us today with your full address where your ATM-Card will be delivered to you because I will not be in the office next week;\nThe amount in your ATM-Card is US$ 2.500, 000.00 Million and your Pin code is: (9106).\nBest Regards,\nMr. Douglas Herman\nUnited Nation Head Quarter Dept Reconciliation Committee\nBenin Republic "
+    },
+    {
+        "from": "baiter_340",
+        "to": "scammer_340",
+        "subject": "Re: Attention Beneficiary,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Douglas Herman,\n\nThank you for your email and the wonderful news about my winning award. I am thrilled to hear that I have been selected to receive this significant amount.\n\nHere are the details you requested:\n\nFull Name: Eliza Dane\nMobile Number: +44 7700 900077\nDirect telephone number: +44 20 7946 0623\nCountry of origin: United Kingdom\nCurrent delivery address: 10 Downing Street, London, SW1A 2AA, United Kingdom\n\nUnfortunately, I cannot provide a copy of my driver's license due to security reasons. However, I assure you that all the information provided is accurate.\n\nI look forward to receiving the ATM card and further instructions on how to access the funds.\n\nBest wishes,\nMarie"
+    }
+]

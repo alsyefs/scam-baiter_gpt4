@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_341",
+        "to": "CRAWLER",
+        "subject": " Received: from 10.197.36.75",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " Received: from 10.197.36.75\nReturn-Path: < \ndabilinda1111@gmail.com\n >\nX-Originating-Ip: [209.85.218.67]\nFrom: Linda Dabi <dabilinda1111@gmail.com>\nDate: Thu, 18 Aug 2022 13:58:39 +0100\nMessage-ID: <CAEeTtYEt1kabX8A2SsFN3QFesei-_QB6wuw5MMVbooXe=CPDiA@mail.gmail.com>\nSubject: CONFIDENTIAL    "
+    },
+    {
+        "from": "baiter_341",
+        "to": "scammer_341",
+        "subject": "Re:  Received: from 10.197.36.75",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Marykate,\n\nThank you for your prompt response. I am excited about the opportunity to live and work in the United States. Could you please provide more details on the next steps I need to take? \n\nBest regards,\nLewis D.\n\nBest wishes,\nJoseph"
+    }
+]

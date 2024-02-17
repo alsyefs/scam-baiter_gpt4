@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_687",
+        "to": "CRAWLER",
+        "subject": "Dear Beloved,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear Beloved,\n        I am Mrs Jessica Becker \nfrom (Philippine) \n I was married to former British ambassador to Burkina Faso for nine years before he died in 2004, I have a dream and desire of building an orphanage home, and i have a deposit fund to the project, but presently my health condition we not allow me to carry out the project my self, now my doctor has already told me that I have just few period of time to leave because of my breast cancer disease, can you help fulfill this project.\nWith kind Regards,\nMrs Jessica Becker"
+    },
+    {
+        "from": "baiter_687",
+        "to": "scammer_687",
+        "subject": "Re: Dear Beloved,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mrs. Jessica Becker,\n\nI'm deeply moved by your story and your desire to help others even in such difficult times. I would be honored to assist you in fulfilling your dream of building an orphanage home.\n\nPlease provide me with more details about the project, such as the location, budget, and any specific plans you may have already made. \n\nMay God bless you and give you strength during this challenging time.\n\nBest wishes,\nTimothy"
+    }
+]

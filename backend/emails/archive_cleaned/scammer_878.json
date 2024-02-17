@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_878",
+        "to": "CRAWLER",
+        "subject": "Dear Sir,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear Sir,\nVenture Capital\nI'm sorry for my intrusion, your particulars were given to me by a\nfriend who is with the London Chamber of commerce.\nWe are a United Kingdom based venture capital firm which specializes\nin growth capital investments for existing companies and Start up\nbusiness.\nWe are looking to invest in entrepreneurial teams with big ideas and a\nneed for seed capital to turn their ideas into great companies.\nWe believe every business man or woman is basically an entrepreneur,\nfor we all strive to achieve optimal goals using limited resources.\nIn seeking out worthwhile investment opportunities, we are ready to\ninvest in project developments and business ventures that can generate\nat least 10% ROI per year. Our offer for investment is based purely on\nLoan / Debt Financing basis on 3% yearly interest pay back throughout\nthe duration of the collaboration.\nWe have the financial capacity to grant a loan/funding of between $5M\nto $20Billion for a duration of 2 to 20 years, with 6 to 12 months\ngrace period, depending on the size and nature of your business.\nShould there be any available partnership or investment options and or\nopenings for new investors within your firm, we will be happy if\nobliged\nYours faithfully,\nAgent: Michael William\nEmail: \nmichwilliam010@gmail.com"
+    },
+    {
+        "from": "baiter_878",
+        "to": "scammer_878",
+        "subject": "Re: Dear Sir,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Dear Sir,\n\nThank you for reaching out and considering me for this exciting opportunity. I am intrigued by your venture capital firm's mission to invest in teams with big ideas. It's inspiring to see such support for innovation and entrepreneurship.\n\nCould you please provide more information about the types of businesses or projects your firm typically invests in? Are there any specific industries or sectors that you focus on?\n\nAlso, could you elaborate on the terms of the loan debt financing basis? What would be the expected yearly interest rate?\n\nI look forward to hearing more about this opportunity and how we might be able to collaborate.\n\nBest regards.\n\nBest wishes,\nWilliam"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_754",
+        "to": "CRAWLER",
+        "subject": "  Dear Friend,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Friend,\n \nI got your reliable contact from your country’s Chamber of Commerce Directory and further explicit investment information about your country. I am Kenneth Ridings, A retired Financial Consultant.\n \nI had a client but because of his extended royal family history, which were disseminated by the international media after their trial for financial mismanagement and impropriety of US$14.8 Billion Dollars of which their private companies were later confiscated and dissolved by then sultanate of Brunei including many business documents that were destroyed and of which I was the company's International Financial Consultant.\n \nFurthermore during this unfortunate period my office managed to dispatch the sum of Two Hundred and Fifty Million United States Dollars (US$250, 000,000.00) in cash under special arrangement into the custody of an Investment Bank here in the United Kingdom with the company Name and the deposits are still valid till date.\n \nHence I seek your good assistance to partner with me so that we can retrieve the funds and invest it into any profitable venture in your country for our mutual benefit because based on my present predicament; I do not have the capabilities to handle the transactions alone. All you need to do is to contact the Bank where my office deposited the Money as my Representative/Partner in business and request the firm to transfer the funds to your Nominated Bank Account for further investment in your country.\n \nPlease I count on your absolute Confidentiality, Transparency and Trust while looking forward to your prompt reply towards a swift conclusion of this business transaction.\n \nSincerely,\n \nKenneth Ridings.   "
+    },
+    {
+        "from": "baiter_754",
+        "to": "scammer_754",
+        "subject": "Re:   Dear Friend,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Kenneth Ridings,\n\nThank you for your email and the opportunity to collaborate on this venture. I am interested in learning more about this investment opportunity.\n\nHowever, before we proceed, I would like to understand more about the nature of the investment and the specifics of how these funds were acquired. It is important for me to ensure that all business dealings are conducted with utmost transparency and legality.\n\nI look forward to hearing from you soon.\n\nBest wishes,\nEdward"
+    }
+]

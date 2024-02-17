@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_124",
+        "to": "CRAWLER",
+        "subject": " Received: from 10.217.151.200",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " Received: from 10.217.151.200\nReturn-Path: <bankphbp@gmail.com>\nX-Originating-Ip: [209.85.210.53]\nReply-To: \nunionbankswizzerland@gmail.com\nFrom: PHBP <bankphbp@gmail.com>\nDate: Tue, 25 Oct 2022 14:40:31 +0100\nMessage-ID: <CADQkXw4uEpteviXLy88+_VY06EqDSVXM7TU9JERhOn-ON5CoZg@mail.gmail.com>\nSubject: Hi 2022 Union Bank Switzerland(Ur Fund $5.5M Compensation Ready For Collations!!!   "
+    },
+    {
+        "from": "baiter_124",
+        "to": "scammer_124",
+        "subject": "Re:  Received: from 10.217.151.200",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there! I hope you're having a great day. I'm really interested in learning more about what you have to offer. Could you please provide me with some more details?\n\nBest wishes,\nShawn"
+    },
+    {
+        "from": "scammer_124",
+        "to": "baiter_124",
+        "subject": "bankofamerica201474@yahoo.com Re: Received: from 10.217.151.200",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "body": "bankofamerica201474@yahoo.com"
+    }
+]

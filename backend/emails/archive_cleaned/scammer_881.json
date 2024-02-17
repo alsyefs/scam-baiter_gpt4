@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_881",
+        "to": "CRAWLER",
+        "subject": "Attention: Fund Beneficiary,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attention: Fund Beneficiary,\n \nThis is regarding an outstanding payment, I am Mr. Miguel De Serpa Soares, the Secretary General United Nations Legal Affairs, Security and Investigation, the British Prime Minister (Rishi Sunak) and UK Foreign Secretary (James Cleverly),  and the cabinets, have directed my office to Investigate your Fund and to make sure that we approve all outstanding debts owed to indigenous /Foreign beneficiaries by the government of United Kingdom in this 2nd quarter of this Fiscal year 2023.\n \nThis decision was taken based on the abnormalities and inability of the BANKS in the United Kingdom to Release your fund into your bank account. This is as a result of the facts as discovered, that some Directors in different organizations diverted beneficiaries payments to other accounts of their choice.\n \nIn view of this anomaly, During our investigation I found out that an account was submitted to divert your fund to a CYPRUS account. Below is the account submitted and I want you to confirm if you are aware of the new development because we are about effecting payment to the account stated below today.\n \nNAME OF BENEFICIARY: GEORGE NIKOLAOU\nBANK NAME: NATIONAL BANK OF GREECE (CYPRUS)\nADDRESS: 86 MAKARIOS AVENUE BRANCH 541, 3506 LIMASSOL, CYPRUS\nSWIFT CODE: ETHNCY2N541\nIBAN NUMBER: CY81006005410000005413367487\n \nFurthermore, Be informed that a payment instruction has been issued and Forwarded to the Treasury Department of the British Government in you and your company’s favor for immediate release of your fund to the designated account above, without any further prejudice. However, there is no way we can approve the fund transfer to the nominated account above without you confirming it as authentic. If you have changed your original account for your fund to be transferred to the Beneficiary: GEORGE NIKOLAOU BANK ACCOUNT IN CYPRUS please let me know ASAP.\n \nFinally, Contact me with this Email: (\nmigueldes221@gmail.com\n) immediately for further clarification to confirm if you have given instructions to transfer your fund to the above account today. On behalf of the entire management of the United Nations, we are congratulating you in advance and \nif you fail to contact this office on or before 48hrs from now, then we will be compelled to wire the fund to the CYPRUS account as designated.\n \nThanks for your cooperation.\n \nWaiting for your urgent response\n \nMr. Miguel de Serpa Soare.  \nThe Secretary General,\nUnited Nations Legal Affairs,\nLondon, UK."
+    },
+    {
+        "from": "baiter_881",
+        "to": "scammer_881",
+        "subject": "Re: Attention: Fund Beneficiary,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Miguel de Serpa Soare,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I wasn't aware that there were funds owed to me by the government of the United Kingdom. \n\nI'm not sure how my name got involved in this, but I appreciate your diligence in making sure everything is above board. However, I don't recall ever setting up an account in Cyprus under the name GEORGE NIKOLAOU.\n\nCould you please provide more details about this fund? How did it come about and why is it being directed towards me? Also, could you clarify what you mean by \"the inability of the BANKS in the United Kingdom to Release your fund into your bank account\"?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nJoseph"
+    }
+]

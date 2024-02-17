@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_128",
+        "to": "CRAWLER",
+        "subject": "  Greetings,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Greetings,\n \nMy name is Karl Mahmood, I work in a Bank, there is an account which has been dormant for over a period of years worth Fifteen Million Dollars.\n \nAfter proper investigations on the account I discovered that the owner of the account is dead and he did not specify/mention any next of kin.\nThis is how top Bank officials enrich themselves and I want to utilize this opportunity very well.\n \nI want to use my power to present you to the Bank as the next of kin to the said account to enable us handle this transaction and share the funds as soon as we conclude successfully, 50% for me 50% for you.\n \nBe rest assured  that this transaction will be handled properly and all necessary legal steps will be taken, kindly revert to me by introducing your self so that we can proceed.\n \nHoping to read from you soon.\n \nThanks,\n \nKarl Mahmood.   "
+    },
+    {
+        "from": "baiter_128",
+        "to": "scammer_128",
+        "subject": "Re:   Greetings,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Karl Mahmood,\n\nWow, that's quite a story! I'm intrigued by this situation. Can you tell me more about how this process works? How did you find out about the account and its owner's unfortunate demise? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJames"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1107",
+        "to": "CRAWLER",
+        "subject": "Attention: xxx",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attention: xxx\nThis is to officially inform you that the total sum of US$3.6M (Three\nMillion Six Hundred Thousand United States Dollars) has accrued as\ninterest on your total entitlement that was deposited with one of the\nEuropean bank by the ECOWAS government before the principal sum was\nwithdrawn by the order of the United Nation. It may interest you to\nknow that arrangement has been made to make the fund available to you\nvia bank to bank wire transfer or through ATM VISA CARD so that you\ncan easily receive the total amount valued above without any delay or\ngoing through any form of cheating or difficulties. It will also\ninterest you to know that the payment has been re-channeled to be paid\nthrough Capital One Bank New York one of the most reliable and\nefficient bank in American so that you can receive your fund swiftly\nwithout being cheated or mislead again by one.\nYou are hereby advised as a matter of urgency to contact our bank\nmanager for further advise on the payment.\nBelow is his direct email address for you to contact him immediately\nfor your payment.\nContact Person: Mr Paul G. Charly\nManager Foreign Remittance Department\nCapital One Bank NY\n299 Park Avenue New York, New York 10171\nEmail: \npaulcharly@captonebank.com\n24/7\nEqually, note \nyou may be required to forward your current residential\naddress, \nfirst and second page of your international passport or\ndrivers license \nfor identification including your direct cell phone\nnumber for easy communication.\nWe would appreciate your urgent response concerning the aforementioned\ninterest fund, to enable you receive your fund as programmed.\nAnticipating your urgent response,\nYours truly\nMs. Anna Wilson\nSecretary\nForeign Remittance Department\nCapital One Bank New York"
+    },
+    {
+        "from": "baiter_1107",
+        "to": "scammer_1107",
+        "subject": "Re: Attention: xxx",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Ms. Anna Wilson,\n\nThank you for your email and the information provided. It's quite surprising to hear about this accrued interest on a deposit I wasn't aware of. \n\nCould you please provide more details about this? How did my name come up in connection with this deposit? And could you explain a bit more about how the United Nations is involved?\n\nAlso, I'm curious about the process of receiving these funds via bank transfer or ATM VISA CARD. Could you elaborate on how that works?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nCarla"
+    }
+]

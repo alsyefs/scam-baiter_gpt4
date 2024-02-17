@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_177",
+        "to": "CRAWLER",
+        "subject": " Dear Beneficiary,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " Dear Beneficiary,\nAre you alive or dead? We received several emails from one Mr. Garcia\nCharles Gilbert who narrated to us about the auto car accident you had\ntwo weeks ago.\nMr. Garcia made us understand that you are in hospital for treatment\nbut there is no hope of your recovery. He stated that he is your\nbusiness associates and your next of kin whom you have chosen and\npermitted to inherit all your properties. He is contacting this office\nbased on your contract /Inheritance payment fund which is about to be\npaid to you. He requested that the payment should now be transferred\ninto his own personal account as he stated below.\nAccount Name Mr. Garcia Charles Gilbert\nCitibank Banamex USA\n15900 La Cantera Parkway Bldg #18\nSan Antonio, TX 77825\nRouting Number: 122233645\nAccount Number: 5944130210\nWe request your confirmation before we can process this transfer to\nMr. Garcia Charles Gilbert Bank Account. This is to avoid releasing\nyour money to wrong person because Mr. Garcia Charles Gilbert is too\neager and ready to follow every instruction to have this money into\nhis account. If you did not have auto accident and you did not permit\nMr. Garcia Charles Gilbert to claim your money, kindly reply this\nmessage with your full contact information so we can process the\nrelease of your fund to you.\nBest Regards,\nbutand josh\nManaging Director and\nWorld Bank Group Chief\nFinancial Officer.\nE-MAIL ADDRESSES  \nbutandjosh@gmail.com\nThe information contained in this e-mail and any accompanying\ndocuments is confidential, may be privileged, and is intended solely\nfor the person and/or entity to whom it is addressed.    "
+    },
+    {
+        "from": "baiter_177",
+        "to": "scammer_177",
+        "subject": "Re:  Dear Beneficiary,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello,\n\nThank you for reaching out and expressing your concern. I must say, this is quite a surprising message to receive. I'm not sure where Mr. Garcia Charles Gilbert got his information from, but I can assure you that I have not been in any auto car accident recently.\n\nI am curious though, how did Mr. Garcia Charles Gilbert come to be in contact with you? And why does he believe he has the right to claim my contract payment fund?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nNorman"
+    }
+]

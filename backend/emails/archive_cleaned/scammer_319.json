@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_319",
+        "to": "CRAWLER",
+        "subject": "   Have you received your cons",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Have you received your consignment box? Get back to me fast.\nDiplomat Adams Williams  "
+    },
+    {
+        "from": "baiter_319",
+        "to": "scammer_319",
+        "subject": "Re:    Have you received your cons",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Diplomat Adams Williams,\n\nThank you for reaching out. I'm not sure which box you're referring to. Could you please provide more details about it?\n\nBest wishes,\nNaomi"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_505",
+        "to": "CRAWLER",
+        "subject": "   Greetings.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Greetings.\nHave you received your ID card, you said it will take 2/3 weeks right I kindly inform you if you have your ID card now so we can process your loan right away thank you.\nBest Regards\nGlobal loan.  "
+    },
+    {
+        "from": "baiter_505",
+        "to": "scammer_505",
+        "subject": "Re:    Greetings.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nThank you for reaching out. I appreciate your concern about the ID card and loan process. However, I'm afraid I haven't received my ID card yet. Could you please tell me more about the loan process? What are the steps involved?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nVernon"
+    }
+]

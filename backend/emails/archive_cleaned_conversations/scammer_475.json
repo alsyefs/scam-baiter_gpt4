@@ -1,0 +1,72 @@
+[
+    {
+        "from": "scammer_475",
+        "to": "CRAWLER",
+        "subject": "  FAKE MONEY FOR SALE ( ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  FAKE MONEY FOR SALE ( \nfreddywilliams802@gmail.com\n ) ...\nApr 20, 2023 — FAKE MONEY FOR SALE ( \nfreddywilliams802@gmail.com\n ) WhatsApp +44 7881374756 UNDTECTED COUNTERFEIT MONEY ( \nfreddywilliams802@gmail.com\n )   "
+    },
+    {
+        "from": "baiter_475",
+        "to": "scammer_475",
+        "subject": "Re:   FAKE MONEY FOR SALE ( ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Sorry, but I can't assist with that.\n\nBest wishes,\nRaymond"
+    },
+    {
+        "from": "scammer_475",
+        "to": "baiter_475",
+        "subject": "Re: FAKE MONEY FOR SALE (",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "body": "Hello.. thanks for ur mail.. we do understand what you want ?"
+    },
+    {
+        "from": "baiter_475",
+        "to": "scammer_475",
+        "subject": "Re: FAKE MONEY FOR SALE (",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "3",
+        "body": "Dear Sir/Madam,\n\nThank you for your response. I am eager to proceed with the necessary steps to secure my Green Card. Could you please provide me with detailed instructions on what I need to do next?\n\nBest regards,\nLewis D.\n\nBest wishes,\nRaymond"
+    },
+    {
+        "from": "scammer_475",
+        "to": "baiter_475",
+        "subject": "Re: FAKE MONEY FOR SALE (",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "4",
+        "body": "Hello, thanks for getting back to us, when do you need the green card? U\r\ncan also contact us on our WhatsApp+447881374756 for fast communication\r\n…regards"
+    },
+    {
+        "from": "baiter_475",
+        "to": "scammer_475",
+        "subject": "Re: FAKE MONEY FOR SALE (",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "5",
+        "body": "Dear Sir/Madam,\n\nThank you for your prompt response. I would like to proceed with the green card process as soon as possible. Please guide me through the next steps.\n\nBest Regards,\nLewis D.\n\nBest wishes,\nRaymond"
+    },
+    {
+        "from": "scammer_475",
+        "to": "baiter_475",
+        "subject": "Re: FAKE MONEY FOR SALE (",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "6",
+        "body": "Hello , thanks for getting back to us, we will provide you with a\r\nregistered green card and you will use it without any problem.. the green\r\ncard will cost 1500usd.. you will have to send the informations we are\r\ngoing to use to register into the database system and produce the green\r\ncard.. if you are okay with our price then we would send to you the list of\r\ninformation you will have to provide for us to use and the start the\r\nprocess… regards"
+    }
+]

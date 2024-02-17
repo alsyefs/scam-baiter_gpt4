@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1258",
+        "to": "CRAWLER",
+        "subject": "Attn: The Beneficiary ,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attn: The Beneficiary ,\nThis is to notify you that the sum of US$10,500,000.00 has been approved to pay you through Barclays Bank UK OR ACCESS UNITED BANK USA as compensation/ accrued interest fund,The United Nations Board of Auditors and the World Bank auditors are presently sitting in the United States this Second quarter supervising the payment of foreign beneficiary,This supervision exercise was part of the agreement signed at the last G-7 meeting held in Ukraine, May 8, 2022 between the UN,IMF,US Government and The World Bank Auditors under German presidency.Our legal department shall handle most important and vital aspect of it all, which is the legal angle of claim and to ensure that beneficiary receives their approved funds.\nYou are hereby advice to contact me immediately to enable me direct you to any of the paying bank for your online bank account details, and make sure you abide with their instructions and do provide them with every detail they may ask of you, to enable them finalize your online wire transfer Online Transfer (OWT) particulars in order for you to start transferring your Funds to any designated bank account of your choice.\nYours Faithfully,\nFATIMA  RAZAKI\n(UNITED NATION COORDINATOR)"
+    },
+    {
+        "from": "baiter_1258",
+        "to": "scammer_1258",
+        "subject": "Re: Attn: The Beneficiary ,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Fatima Razaki,\n\nThank you for reaching out and sharing this information. It's quite interesting to hear about the agreement signed in Ukraine and the involvement of the United Nations Board of Auditors and the World Bank auditors. \n\nCould you please provide more details about this process? How does it work exactly? And what role does the German legal department play in all of this?\n\nI'm also curious about how these funds are distributed. Is there a specific criteria or selection process involved?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nChristopher"
+    }
+]

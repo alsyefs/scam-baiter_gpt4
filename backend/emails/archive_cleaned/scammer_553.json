@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_553",
+        "to": "CRAWLER",
+        "subject": "Dear Sir/ Madam.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear Sir/ Madam.\nI hope this message meets you well.\nWe are a private registered financial investment company based in UK.\nI would like to drive and discuss innovative ideas, connections, and development of business propositions with our improved capital portfolio.\nI am looking to work with a reputable individual/firm to engage in a profit oriented ventures in your country and perhaps with your assistance, we could get low tax rates.\nI do have the mandate of a PRIVATE client of mine from Nigeria with delicate political background to seek for individuals with Financial Management know-hows to handle the investment and management of his funds.\nAs a Private financial and investment company, we are seeking individuals who have funds management abilities that can manage the funds into a profitable investment.\nShould you be interested to engage us for a more detailed discussion on the aforementioned proposal, please write me directly. I look forward to working with you on any future business collaborations.\nBest Regards\nMr.Ian Nick\nEmail: \niannick@accountant.com"
+    },
+    {
+        "from": "baiter_553",
+        "to": "scammer_553",
+        "subject": "Re: Dear Sir/ Madam.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Nick,\n\nThank you for your message and the opportunity to discuss potential business ventures. I am always open to new ideas and collaborations that could lead to mutual benefits.\n\nHowever, before we proceed, I would like to know more about your company, the nature of the investment you are proposing, and the specifics of what you expect from me in terms of fund management. \n\nI believe transparency is key in any business relationship, so I would appreciate it if you could provide more detailed information about your client's funds and how they were acquired.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nTracy"
+    }
+]

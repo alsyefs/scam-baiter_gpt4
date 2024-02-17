@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_235",
+        "to": "CRAWLER",
+        "subject": "Attention Sir, I’m facilitatin",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attention Sir, I’m facilitating for a private investor who want to invest in a long-term business in your company and country.my client would like to invest heavily in any profitable sector for few years, The investment sum for this particular portfolio will be made known to you when I receive your response, be rest assured that you will have absolute control over fund, you will be required to receive and manage it profitably. I expect to hear from you urgently as this is a high priority investment placement, my client desire absolute confidentiality and professionalism in the handling these and subsequent investment. Kindly let me know your thoughts, if you decide to come on board,I await your response Regards, Coleman Francis."
+    },
+    {
+        "from": "baiter_235",
+        "to": "scammer_235",
+        "subject": "Re: Attention Sir, I’m facilitatin",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Coleman Francis,\n\nThank you for reaching out and considering my company for your client's investment. I'm quite intrigued by this opportunity. Could you please provide more details about the nature of this investment? For instance, what kind of business sectors is your client particularly interested in?\n\nAlso, it would be helpful to understand the expectations from my end in terms of managing these funds. Are there any specific projects or areas that your client wants these funds to be allocated to?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMaxine"
+    }
+]

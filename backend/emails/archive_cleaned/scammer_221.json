@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_221",
+        "to": "CRAWLER",
+        "subject": "   What time will you do the p",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   What time will you do the payment and send the confirmation slip?   "
+    },
+    {
+        "from": "baiter_221",
+        "to": "scammer_221",
+        "subject": "Re:    What time will you do the p",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Marykate Purchia,\n\nI will make the payment by tomorrow afternoon and send you the slip immediately after. \n\nBest Regards,\nLewis D.\n\nBest wishes,\nDavid"
+    }
+]

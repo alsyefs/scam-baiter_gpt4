@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1307",
+        "to": "CRAWLER",
+        "subject": "CONTACT YOUR ATM CARD",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "CONTACT YOUR ATM CARD\nUNITED BANK OF AFRICA (UBA)\nRUE 121 OTOLA ROAD, Abuja,\nUBA BANK GROUP Abuja Nigeria., WEST AFRICA.\nE-Mail: (\nubab703@gmail.com\n)\nDear Customer,\nThis is a reminder message regarding your ATM master card for your\ncomputational fund sum of US$9,500.000.00 (Nine Million Five Hundred\nThousand United Dollars only) approved by the Ministry of Finance. The\nForeign Payment Department of UBA has been mandated by the Federal\nMinistry of Finance and the Benin National Petroleum Corporation to\nhandle the payment of your compensation fund of the above amount by\nATM card. Your email contact is among the listed beneficiaries in the\ndata for the sum of US$9,500.000.00 (Nine Million Five Hundred\nThousand United Dollars only)\nAnd I have been assigned by the management of UBA to carry out\ndelivery of the ATM card package to you. This compensation is in\ncompliance with IMF and World bank directives to pacify victims of\ninternet scam. On this note, I am pleased to inform you that ATM card\nNumber 4539 7978 0214 3027 for the sum of US$9,500.000.00 (Nine\nMillion Five Hundred Thousand United Dollars only) has been credited\nin your favor and ready to deliver to you.\nYou are hereby required to confirm your telephone number and present\naddress were you want the ATM card delivered to you. Upon receipt of\nthe above requirements from you I shall have your ATM card package\ndispatched to you by courier service who will deliver to your\ndesignated home address. With the ATM card, you can make withdrawals\nfrom any part of the world at ATM center near to you.\nThe pin and all necessary user guides will be attached on delivery\n(intact in the ATM card package documents) which will be delivered to\nyou by the courier service, for you reason use.\nSo the Information you are required to reconfirm to the ATM OFFICE is as Follow.\n(1)Your Full Name:........................\n(2)Mobile Phone Number:...................\n(3)Current Home Address:..................\n(4)Your Occupation:.......................\n(5)Country:...............................\n(6)City:..................................\n(7)Your address:..........................\n(8)\nA Copy of Your ID For Identification\n.\nFurther instruction/directive will be sent to you on receipt of your\nacknowledgment to this message.\nBest Regards\nTREAT WITH URGENCY\nDR. James Collins,\n(CHIEF EXECUTIVE OFFICER UBA BANK PLC)\nATM DEPARTMENT COMPANY"
+    },
+    {
+        "from": "baiter_1307",
+        "to": "scammer_1307",
+        "subject": "Re: CONTACT YOUR ATM CARD",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Dr. James Collins,\n\nWow, this is such an unexpected surprise! I can't believe I'm getting an ATM card with such a huge amount. This is truly a blessing!\n\nI have a few questions though, if you don't mind. How did my email end up on the list for this amazing opportunity? And how does the ATM card work exactly? Can I use it at any ATM machine or are there specific ones?\n\nAlso, could you please explain more about the IMF and World Bank directives to pacify victims of internet scam? It's great that they're doing something about it.\n\nLooking forward to your response.\n\nBest wishes,\nNancy"
+    }
+]

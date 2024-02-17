@@ -1,0 +1,92 @@
+[
+    {
+        "from": "scammer_3",
+        "to": "CRAWLER",
+        "subject": "  Dear Sir",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Sir\nYour payment has been approved officially and ready for remittance, but our constraint and delay right now is the payment of processing fee as stated earlier in the application form, you have to  make arrangement to make the payment of us$1950 today via our fiduciary agent account for the ENDORSEMENT OF THE FINAL FUND RELEASE ORDER  by central bank accredited attorney General which will guarantee authority to remit or transfer permit  from central bank  for a hitch free transfer of your total payment of us$17,5m, which is only thing holding the remittance.\nUse the below account to make the payment so that an accredited attorney will sign the final fund release order on your behalf and subsequently transfer effected to your designated bank account by MT103, but it is important the fund release documents  signed to ensure a hitch free transfer to your designated bank account, therefore make the payment with the below account so that central bank accredited attorney can sign on your behalf and we proceed immediately for remittance\nBank Name: UNITED BANK FOR AFRICA PLC.\nBank  Address: UBA 21 Road FESTAC.\nAccount Number: 300249XXXX\nBeneficiary Name: K. O.\nSwift Code:UNAFNGLA.            \nBeneficiary Address:   FESTAC town.\nAlternatively you can use  our e=wallet address for the payment which  is cheaper, reliable and faster: thus\nbc1qjn04gut0akc9h7xgjs4p0vcq39paj8a3s4lz5j\nOnce the payment is confirmed, we will effect remittance to your account within 48hrs by bank to bank swift transfer by Mt103  while we wait for confirmation of the processing fee of us$1950 via e-wallet address  for the signing and endorsement of the final fund release order documents before remittance is made,\nNB: We cannot deduct the processing fee from the principal amount because, Mrs Agness before her death bonded her funds with the federal high court in order to safeguard her funds against theft, this means the bank has no right or legal standi to deduct any cent from the principal amount because it will be a crime against the government and federal high court now that she is death, and we would not like any form of litigation from government lawyers for violation of her right in death. therefore we urge  to  do your best to make the payment in the above account or e-wallet  to enable us expedite action\nFind attached your payment schedule and approval for transfer ,Thanks for your understanding and anticipated cooperation\nRegards\nMike Spiff\nStandard Trust Bank Plc\nHead Office: Plot 1662 Oyin Jolayemi St,\nPMB 1662,  Victoria Island, Lagos,\nLagos State, Nigeria    \nTEL: +234-80-52557352   "
+    },
+    {
+        "from": "baiter_3",
+        "to": "scammer_3",
+        "subject": "Re:   Dear Sir",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mike Spiff,\n\nThank you for your email and the information provided. I'm thrilled to hear that my payment has been approved! However, I have a few questions about the process.\n\nYou mentioned a processing fee. Could you please clarify what this fee is for? Also, could you provide more details about the role of the fiduciary agent in this process?\n\nI noticed that you suggested using a wallet address for payment. Could you explain how this works? I'm not very familiar with it.\n\nLastly, could you tell me more about the final fund release order documents? What are they and why are they necessary?\n\nLooking forward to your response.\n\nBest wishes,\nCharles"
+    },
+    {
+        "from": "scammer_3",
+        "to": "baiter_3",
+        "subject": "Re: Dear Sir",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "body": "Dear Sir\r\n\r\nContact mike spiff, director foreign operations of the bank via email\r\nmspff.stndardtrustbank@gmail.com for immediate release of your payment, he\r\nwill be the one to direct method of recieving your payment am only a\r\nconcert private to your donor,\r\n\r\nbrenda"
+    },
+    {
+        "from": "baiter_3",
+        "to": "scammer_3",
+        "subject": "Re: Dear Sir",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "body": "Hello Brenda,\n\nThank you for your message. It's interesting to hear about this opportunity. Could you please provide more details about the payment release process? I would also like to know more about Mike Spiff and his role as the director of foreign operations at the bank.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nCharles"
+    },
+    {
+        "from": "scammer_3",
+        "to": "baiter_3",
+        "subject": "Re: Dear Sir",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "body": "am just an ordinary nurse for your donor before her death, contact the bank\r\nask whatever question, bank will be able to guide, am not a banker or part\r\nof thet transaction\r\nbrenda"
+    },
+    {
+        "from": "baiter_3",
+        "to": "scammer_3",
+        "subject": "Re: Dear Sir",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "body": "Hello Brenda,\n\nThank you for reaching out to me. It's interesting to hear about your role as a nurse. I hope you're doing well.\n\nI'm curious, could you tell me more about the donor? And what kind of guidance can I expect from the bank? I'm not very familiar with these matters, so any additional information would be helpful.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nCharles"
+    },
+    {
+        "from": "scammer_3",
+        "to": "baiter_3",
+        "subject": "Re: Dear Sir",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "body": "it is will testament estate bequeathed to you by mrs schroeder who died of\r\ncancer in st thomas cancer centre, before her death willed her all fortune\r\nto you for the work charity and humanity, the total amount of us$17.5m, so\r\ncontact the bank, all the documentation are in your name as the trustee\r\nexecutor or heir apparant to her will,\r\n\r\ncontact the bank and request for your payment\r\n\r\nbrenda\r\nprivate nurse"
+    },
+    {
+        "from": "baiter_3",
+        "to": "scammer_3",
+        "subject": "Re: Dear Sir",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "body": "Hello Brenda,\n\nWow, this is quite surprising news! I'm sorry to hear about Mrs. Schroeder's passing. She must have been a wonderful person to leave her fortune for charity and humanity. \n\nCould you please tell me more about Mrs. Schroeder? How did she know about me? And what kind of work in charity and humanity was she particularly interested in?\n\nAlso, could you provide more details about the bank I should contact? It would be helpful if you could guide me through the process.\n\nLooking forward to your response.\n\nBest wishes,\nCharles"
+    },
+    {
+        "from": "scammer_3",
+        "to": "baiter_3",
+        "subject": "Re: Dear Sir",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "body": "your are a joker stop communicating\r\n\r\nbrenda"
+    }
+]

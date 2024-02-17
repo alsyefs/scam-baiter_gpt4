@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_674",
+        "to": "CRAWLER",
+        "subject": "Good day,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Good day,\nI hope my email finds you well.\nI work with a private Cybercrime security firm which liaises globally\nwith Financial institutions, entities and agencies that collaborate\nthrough exchange of information to dictate and deter online Cybercrime\nactivities and other Financial crime related activities perpetrated\nthrough banking transactions, cryptocurrency trades etc. Through\nestablished policies, procedures, and processes, we are able to review\nfinancial transactions and transaction parties (example, Fund\nbeneficiary, issuing bank(s), payee, endorser, or jurisdiction).\nApart from reporting these crimes to Government and its agencies who\ndoes little or nothing to assist victims because government spends its\nown resources (money) in creating and raising global awareness of this\ntrends, there has been a great window of opportunity that has been\ncreated through a foremost fraud investigative agency that specializes\nin block chain forensics, data science, transaction tracking and\ncryptocurrency recovery. This agency also assists victims of all kinds\nof online scams, Investment Loan schemes and other forms of Financial\ncrimes through the internet and other means to track, recover and refund\nback their lost funds.\nIf you are interested in using the agency for your recovery then respond\nto Shaimaa Morsy with this email, \njchennager539@gmail.com\n , and provide\nyour mobile/cell number where she can reach you; she will create your\nrecovery claim profile, send you a reference number with the agency’s\ninformation and the website to enable you to make your decision going\nforward.\nHave a good day.\nBest Regards\nJames Craig Hennager"
+    },
+    {
+        "from": "baiter_674",
+        "to": "scammer_674",
+        "subject": "Re: Good day,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello James Craig Hennager,\n\nThank you for your email and the work you do sounds fascinating. I'm intrigued by the concept of cybercrime security and how it can help deter online financial crimes. \n\nI'm curious, could you tell me more about how this process works? How does your agency track and recover lost funds? Also, what kind of success rate does your agency have in recovering these funds?\n\nLooking forward to hearing from you.\n\nBest wishes,\nGerald"
+    }
+]

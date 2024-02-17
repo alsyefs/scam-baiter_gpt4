@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_581",
+        "to": "CRAWLER",
+        "subject": "DWS is one of the largest Euro",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "DWS is one of the largest European fund managers. DWS was founded in 1956 and is an integral part of the Asset Management division of Deutsche Bank. This division is one of the largest global asset managers."
+    },
+    {
+        "from": "baiter_581",
+        "to": "scammer_581",
+        "subject": "Re: DWS is one of the largest Euro",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nThank you for your information about DWS. It's impressive to know that it is one of the largest European fund managers and an integral part of the Asset Management division of Deutsche Bank. I appreciate your time in providing this information.\n\nBest wishes,\nDonald"
+    }
+]

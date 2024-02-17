@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_38",
+        "to": "CRAWLER",
+        "subject": " Dear,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " Dear,\nThis is to inform you that I will be leaving Nigeria on the 3rd of next month without your ATM card for not activating the card. As I told you it will be worthless for me to bring your ATM card with me without activating the card as the card will only work after the activation.\nIf you are still interested in receiving the card on my arrival in your country, you should as a mattar of urgency send the activation fee of $150 today so I can be able to activate your ATM card and bring it with me as I make my trip to meet with you on the 3rd of next which is just few days from now.\nWaiting for your urgent response.\nThanks and God bless you.\nRegards\nMr. Keneth Ikeobi\nDirector, Operations ATM card dept.\nCentral Bank of Nigeria (CBN)   "
+    },
+    {
+        "from": "baiter_38",
+        "to": "scammer_38",
+        "subject": "Re:  Dear,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Keneth Ikeobi,\n\nThank you for your message and the information about the ATM card. I'm really excited about this opportunity! However, I have a few questions that I hope you can help me with.\n\nFirstly, could you please explain why the card needs to be activated before it's brought here? Also, how does the activation process work? \n\nSecondly, could you provide more details about the fee? How much is it exactly and what is it for?\n\nLastly, once the card is activated and brought here, how would I be able to use it?\n\nI look forward to hearing from you soon!\n\nBest wishes,\nVirgina"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_788",
+        "to": "CRAWLER",
+        "subject": "  To your urgent Attention",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  To your urgent Attention\nThanks for your email. The delivery of your consignment and all that\nis attached to it is on my desk right now. I have being on series of\nmeeting with our fiduciary financial officers on the modalities and\neffectiveness of delivering your consignment without hitches. I am\nhappy to announce to you that your consignment will reach you without\nhindrances and hitch free. Our delivery diplomats will leave here on\nWednesday 14th September 2022 about 11:45 pm to arrive your Country on\nThursday 15th September 2022.\nMost importantly, considering the weight of the consignment, you are\nadvised to hold in your hands $3,200 as clearing fees . Once they get\nto the airport in your Country, they will call you and give you\nfurther directives. I have briefed the diplomat about our perfect\ndelivery plans but you must do your part by making available the said\nfee for a smooth delivery as scheduled.\nYours Sincerely,\nDavid Lindo  "
+    },
+    {
+        "from": "baiter_788",
+        "to": "scammer_788",
+        "subject": "Re:   To your urgent Attention",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear David Lindo,\n\nThank you for your email. I am glad to hear that the delivery is being handled professionally and with care. \n\nHowever, I would like to clarify a few things. You mentioned a clearing fee that I need to have in hand. Could you please specify the exact amount of this fee? Also, could you provide more details about the delivery process? \n\nI look forward to hearing from you soon.\n\nBest wishes,\nAllen"
+    }
+]

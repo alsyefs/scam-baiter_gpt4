@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_197",
+        "to": "CRAWLER",
+        "subject": "  Attention:  Sir/Madam.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Attention:  Sir/Madam.\nThis is to officially inform you that (ATM Card/ DEBIT Card Number of; 375987654321002) has been credited in your favour, Your Personal Identification Number is 9200. The Card Value is ($5.7Million USD) and your ATM CARD will be sent to you through DHL delivering company.\n \nYou are advice to contact me immediately with my email or telephone number to enable us forward your ATM card to you without any further delay, all the legal documents are out and will be sent to you once I hear from you with the following information below,\n \nFull Name: ---------------------\nDelivery Address: ---------------\nPhone Number: -----------------\n Country: ------------------------\nOccupation: ---------------------\nSex: -----------------------------\n Age: -----------------------------\nBank will send your ATM CARD through DHL delivering company, so get back to me with your full information before it will be late.\n \nBest Regards,\nMr. Kenny John\nDirector, Foreign Operation,\nCentral Bank of Nigeria, (CBN).   "
+    },
+    {
+        "from": "baiter_197",
+        "to": "scammer_197",
+        "subject": "Re:   Attention:  Sir/Madam.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Kenny John,\n\nThank you for your message. It's quite exciting to hear about this ATM card credited in my favor! I'm curious, how did this come about? I don't remember applying or signing up for anything like this.\n\nAlso, could you please explain a bit more about these legal documents that will be sent to me? What kind of documents are they and what is their purpose?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRuth"
+    }
+]

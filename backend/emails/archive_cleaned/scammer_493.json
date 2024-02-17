@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_493",
+        "to": "CRAWLER",
+        "subject": "Dear xxx,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Dear xxx,\nTo further introduce myself, I am working with the Financial Monitoring Unit (FMU),  as a Chief Funds Investigator Officer. FMU is a secret Financial Institution that assesses financial misappropriation.\nTo be candid with you, I was unhappy with the level of deceit/irregularities, which existed between you and those corrupt officials that introduced you into this transaction. It may interest you to learn that you were formally introduced into the transaction for selfish reasons, but later turned against their initial plan. \nYou were introduced into the business as an instrument to realize and actualize the said funds which ordinarily could not have any means of leaving the bank because of strict financial policies on government officials whose asset declaration and ban on domiciliary/ foreign account are monitored. \nI want to also state categorically that their official documentations to present you as the bona-fide beneficiary of the funds were flawed, and there were issues when they realized that your information(s) were already gazetted in the database management systems of all concerned parastatals as the original beneficiary of the funds \nHaving found out you are the only person authorized to sign the release of the funds, they were upset and afraid that they have failed by ignorantly imputing flawed documentations in database management systems, they decided to make things difficult for you by using one means or the other to extort you. \nFinally, they would not want the funds to be released to you because of their daily interest with bank manager which is more profiteering to them unless you take the right action which will be in line with due process. \nIn view of this, I was assigned to effect and oversee the release of the fund to you under the due process. And I will advise you to cooperate and work with me towards the transfer of your fund. Thus, you should provide me with the below details:\nYour Name:\nResidential Address:\nDirect Cell Phone Number: \nI will begin the process of releasing the fund to you upon the receipt of the above information(s) from you.\nI will be waiting to hear from you immediately.\nThanks\nGeorge Shank\nFund Investigator"
+    },
+    {
+        "from": "baiter_493",
+        "to": "scammer_493",
+        "subject": "Re: Dear xxx,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear George Shank,\n\nThank you for your email and the information provided. I appreciate your honesty and willingness to help me in this matter. \n\nHere are my details as requested:\n\nFull Name: John Doe\nAddress: 123 Main Street, Anytown, USA\nPhone Number: +1-555-555-5555\nEmail Address: johndoe@example.com\n\nI look forward to hearing from you soon.\n\nBest wishes,\nNathan"
+    }
+]

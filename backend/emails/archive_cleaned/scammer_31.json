@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_31",
+        "to": "CRAWLER",
+        "subject": "We have a ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "We have a \nwide breadth of experience over the years providing financial services\n."
+    },
+    {
+        "from": "baiter_31",
+        "to": "scammer_31",
+        "subject": "Re: We have a ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Sir/Madam,\n\nWe have a wide breadth of experience over the years providing financial services. Our team is composed of highly skilled professionals who are dedicated to ensuring that our clients receive the best possible service. We offer a range of services including investment advice, wealth management, and retirement planning.\n\nWe understand that each client's financial situation is unique, and we tailor our services to meet their individual needs. We work closely with our clients to develop a comprehensive financial plan that will help them achieve their financial goals.\n\nIf you have any questions or would like to schedule a consultation, please do not hesitate to contact us.\n\nBest wishes,\nJerry"
+    }
+]

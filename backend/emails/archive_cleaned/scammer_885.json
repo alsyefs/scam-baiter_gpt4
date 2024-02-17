@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_885",
+        "to": "CRAWLER",
+        "subject": "Email: ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Email: \ngabrielrobert850@outlook.com\nTelephone:(+27)-836-359-519\nHello\nMy Name is Gabriel Robert a top Bank Officer with Standard Bank of South Africa and I am in need of a reliable foreigner to carry out this important deal.\nAn account was opened in my bank by one of my customers a Dutch National from Germany who made a fixed deposit of $11,100,000.00 (Eleven Million, One hundred Thousand United States Dollars) and never show up again and I later discovered that he died with his entire family members on a plane crash that occurred in Libya on the 12th of May 2010 which I can give you a link to that crash if you care.\nSince nobody is coming for this fund or knows about this fund I want to present a foreigner like you as next of kin to my late client so we can make the claim and you can contact me if you are interested so I can give you more detailed information about this transaction. For the sharing of the money will be shared in the ratio of 50% for me, 40% for you and 10% to cover our expenses after the deal.\nNow the total amount to be transferred is $12.2 million because of the interest the fund has accumulated for some recent time.\nPlease keep this absolutely confidential and tell me if you are interested but I can assure you 100% risk free as I know how to go about it.\nWaiting for your urgent reply and call.\nThanks.\nGabriel Robert\nEmail: \ngabrielrobert850@outlook.com\nNB. If you can't get through to me by email call my telephone number."
+    },
+    {
+        "from": "baiter_885",
+        "to": "scammer_885",
+        "subject": "Re: Email: ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Gabriel Robert,\n\nThank you for reaching out and sharing this information with me. I'm sorry to hear about the unfortunate incident involving your client. It's quite a tragic story.\n\nI must admit, I'm intrigued by your proposal, but I do have a few questions if you don't mind. Firstly, how did you come across my contact information? And secondly, could you please provide more details about the process involved in claiming these funds?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJason"
+    }
+]

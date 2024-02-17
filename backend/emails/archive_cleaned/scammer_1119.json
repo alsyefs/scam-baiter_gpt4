@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1119",
+        "to": "CRAWLER",
+        "subject": " Dear ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " Dear \nI haven't hear from you since you said the money will be transfer to the account- kindly get back to me and let me know if your bank allowed transfer or not if not they we have to look for other alternative. Awaiting for your reply.\nSincerely\nRobert Morgan.  "
+    },
+    {
+        "from": "baiter_1119",
+        "to": "scammer_1119",
+        "subject": "Re:  Dear ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Robert Morgan,\n\nThank you for reaching out to me. I hope this message finds you well. I'm curious about the transfer you mentioned in your email. Could you please provide more details about it? What is it for and how did it come about?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJesse"
+    }
+]

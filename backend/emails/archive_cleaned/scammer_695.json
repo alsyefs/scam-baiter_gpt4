@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_695",
+        "to": "CRAWLER",
+        "subject": "Attn; Dear Beneficiary,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attn; Dear Beneficiary,\nPlease your urgent Attention is needed, we wish to inform you that our Diplomatic agent conveying your consignment box valued the sum of $4.5 Million United States Dollars misplaced your address, we required you Reconfirm the following information below so that he can deliver your Consignment box to you today and return immediately,\nFULL NAME: ===========COUNTRY: ===========\nCITY: ===========\nCURRENT HOME ADDRESS: =========\nTELEPHONE/CELL PHONE NUMBER.======\nAGE/OCCUPATION: =======\nHe is waiting to hear from you today with the information to bring your Consignment funds to your doorstep. NOTE: That Diplomat agent Dolas Muhamed did not know the content of The consignment box contains a huge amount of money which is $4.5 Million United States Dollars and on No circumstances should you let him be at peril with the Consignment box, The consignments were moved from here as family Treasures, so never Disclose the real content to him until you receive your consignment.\nThank you\nJohn Lucas"
+    },
+    {
+        "from": "baiter_695",
+        "to": "scammer_695",
+        "subject": "Re: Attn; Dear Beneficiary,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello John Lucas,\n\nThank you for reaching out to me. I'm quite surprised to hear about this box! Can you tell me more about how it ended up with a diplomatic agent? And why is it being delivered to me?\n\nI'm also curious, who are these family treasures from? It's all very intriguing!\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJohn"
+    }
+]

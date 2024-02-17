@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1003",
+        "to": "CRAWLER",
+        "subject": "  FROM THE OFFICE OF THE PRESI",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  FROM THE OFFICE OF THE PRESIDENT\nOFFICE OF THE NATIONAL INVESTIGATIONS (B.N.I)\nHIGH LORD OFORI OWUSU HENRY OWUSU\nACCRA,GHANA.\nDATE\nCODE OF CONDUCT (Law 526) 1996\nAttention Beneficiary,\nI am Mr.Ofori Owusu Henry,Chairman of the BUREAU\nOF NATIONAL INVESTIGATIONS(BNI) in connection\nwith the Economic Community of West African States\n(ECOWAS)Based in Ghana.We have been working to\neliminate scammers  and impostors in the western\npart of Africa.With the help of the US Government\nand the United Nations,we have been able to track\ndown many of these scammers in various part of\nWest African countries including (NIGERIAN,REPUBLIC\nOF BENIN,TOGO,GHANA,CAMEROON AND SENEGAL as well as ENGLAND)\nAnd they are all in our custody here in Accra,Ghana.\nWe have been able to recover huge amounts of funds from\nthese scammers.The United Nations crime commission and the\nUS Government have ordered that the funds recovered be\nawarded to a hundred an thirty beneficiaries (130) around\nthe globe which you happens to be among.This message is directed\nto you because your number and email address was found in one\nof the scammers file and hard drive of his computer which is\npresently in our custody here in Ghana.You will therefor be\ncompensated with the sum of Two Million Five Hundred United\nStates Dollars ($2,500,000.00 usd).Funds will be transferred\nto you by The Standard Chartered Bank.According to the records\nwe are having here,this scammers have defrauded many victims out\nof their hard earned money as they claim to be Lawyers,bank officials\n,Lottery agents,Military personels,Doctors,Ministers and even Presidents\nwho have Funds,Golds,Diamonds,Crude oil and so on and so forth to\nTransfer or deliver to their victims.\nSince your email address and telephone number were listed among the\nbeneficiaries who will receive this compensation funds,we will be\nexpecting that you reply back to this notification email with the\nvital details below\n1. Full names\n2.Contact residential address\n3.Reachable telephone number/s\n4.Email Address or addresses\nThese vital information will be sent to the correspondent bank where\nthe compensation funds are presently deposited for onward transfer\nto beneficiaries which is The Standard Chartered Bank for them to\nbe able to contact you for the possible and quick transfer of\nYour compensation funds to your choice nominated account.\nWe urgently await to hear from you.\nWarmest Regards,\nMrs Christy Abbabio\nSenior Secretary to\nBNI.  "
+    },
+    {
+        "from": "baiter_1003",
+        "to": "scammer_1003",
+        "subject": "Re:   FROM THE OFFICE OF THE PRESI",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mrs. Christy Abbabio,\n\nI am writing in response to your email regarding the recovery of funds from scammers. I am pleased to hear that such actions are being taken to combat these fraudulent activities.\n\nHere are my details as requested:\n\nFull Name: John Doe\nAddress: 123 Main Street, Anytown, USA\nTelephone Number: +1-555-555-5555\n\nPlease let me know what the next steps are in this process.\n\nBest wishes,\nChristina"
+    }
+]

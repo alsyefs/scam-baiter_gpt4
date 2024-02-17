@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1360",
+        "to": "CRAWLER",
+        "subject": "blue sea private bank112 De An",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "blue sea private bank112 De Anza Blvd Ste A, San Mateo, CA 94402.\nUnited States\nAttention is needed,\nGreetings from the Wells Fargo bank. I have a vital information which\nneeds to be attended immediately. Did you authorized anyone to pick up\nyour inheritance fund from our branch in Cleveland Caldwell Idaho? One\nMr Andrew Cox came to our office yesterday in-respect of your\n$10.5million dollars which has been credited with us for the past 2\nyears now by the Federal Government to be transferred into your\naccount. He said that you authorized him to pick up the fund.\nThis fund has been in our custody for the past two years now and we\nhave been waiting for you to contact us but we didn't know what is\nhindering you from reaching us since. So we decided to write to you to\nmake sure that you are fine and aware of the inheritance fund of\n$10.5million dollars in our branch office in Caldwell Idaho.\nWe want you to get back to us with the following details:\nFull Name:\nAddress:\nPhone numbe\nPrivate email\nThis above listed details are needed as fast as possible if you didn't\nauthorize anyone to pick up your fund."
+    },
+    {
+        "from": "baiter_1360",
+        "to": "scammer_1360",
+        "subject": "Re: blue sea private bank112 De An",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nThank you for reaching out to me from Wells Fargo bank. I must say, this is quite a surprise! I wasn't aware of any funds in my name at your branch in Caldwell Idaho.\n\nI don't recall authorizing anyone named Mr. Andrew Cox to pick up any funds on my behalf. Could you please provide more details about this situation? How did Mr. Cox claim to know me?\n\nAlso, could you clarify how these funds came to be credited to me by the Federal Government? I'm not sure I understand why they would do that.\n\nI appreciate your patience and assistance with this matter.\n\nBest wishes,\nAllison"
+    }
+]

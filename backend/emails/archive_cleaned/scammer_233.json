@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_233",
+        "to": "CRAWLER",
+        "subject": "Attn: Beneficiary",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Attn: Beneficiary\n$7.5M USD Payment Notification\nWe are to Notify you about the latest development concerning your Unclaimed payment that is left in our custody, besides,you are given a bill of Sum in order to receive your payment  $7.5M USD. Which we didn’t hear from you for sometime now. Hence,we are now offering a Special NEW YEAR BONUS to help all our Customers that are having their payment in our\nCustody due to high prices. In other words we are now requesting that you should pay only the sum of $200 to receive your Funds for your payment abandoned in our custody by Online Transfer or ATM Card.\nTherefore\n You are Requested to send the fee $200 only by Google Play CARD OR ANY GIFT CARD, is also ACCEPTED because it can be Redeemed to cash all we needs is picture of the card only\n,\nBe advised that the bank has already created an on-line transfer with the account that opened in your favor this afternoon in which the  $7.5 Million of your funds has been transferred to the account that our bank opened in your favor. The on-line banking account details are as follows.\n \nI will be forwarding to you the account logging details to enable you access your funds online and proceed on transfer to your designated bank account in any part of the world Or Tracking Number Of Your ATM Card Delivery to enable you Monitor the Arriver of your ATM without any further delay as soon as you update us copy of AMAZON card of the required Fee $200 to take note.\nSincerely yours,\nMr. Micheal Cohen"
+    },
+    {
+        "from": "baiter_233",
+        "to": "scammer_233",
+        "subject": "Re: Attn: Beneficiary",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Micheal Cohen,\n\nThank you for reaching out to me about this unclaimed payment. I must say, it's quite a surprise! I'm not sure how I missed such an important detail.\n\nI do have a few questions though, if you don't mind. You mentioned a \"Special NEW YEAR BONUS\", could you please elaborate on what that entails? Also, could you clarify the exact amount I need to pay to receive my funds?\n\nRegarding the Google Play CARD or any other GIFT CARD, is there a specific reason why these are the preferred methods of payment? \n\nLastly, could you provide more information about the bank account that has been opened in my favor? It would be great if you could share more details about this process.\n\nLooking forward to your response!\n\nBest wishes,\nLenny"
+    }
+]

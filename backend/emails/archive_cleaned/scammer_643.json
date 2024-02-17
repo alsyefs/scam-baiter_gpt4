@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_643",
+        "to": "CRAWLER",
+        "subject": "  Greetings,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Greetings,\nWe are offering Corporate and Personal Loan at 3% Interest Rate for a\nlength of 10 years with no upfront charges involved.\nWe also pay 1% commission to brokers that introduce a project owner to\nour financing/investment loan program.\nSincerely Yours\nAjmal Mustafa   "
+    },
+    {
+        "from": "baiter_643",
+        "to": "scammer_643",
+        "subject": "Re:   Greetings,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Ajmal Mustafa,\n\nThank you for reaching out with this intriguing offer. I'm always interested in learning about new opportunities, especially those related to finance and investment.\n\nCould you please provide more details about the loan program? For instance, what is the interest rate being offered? And how long is the loan term?\n\nAlso, could you explain a bit more about the commission structure for brokers who introduce project owners to your program?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDavid"
+    }
+]

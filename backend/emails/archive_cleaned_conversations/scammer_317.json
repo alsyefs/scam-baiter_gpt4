@@ -1,0 +1,52 @@
+[
+    {
+        "from": "scammer_317",
+        "to": "CRAWLER",
+        "subject": "I have an offer with regards t",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "I have an offer with regards to my late clients inheritance worth US$124 million. I am interested in discussing\nwith you. Please let me know your interest and kindly write me back for better confidentiality.\nBest Regards,\nDino Galassi.\nSolicitor at Law."
+    },
+    {
+        "from": "baiter_317",
+        "to": "scammer_317",
+        "subject": "Re: I have an offer with regards t",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Dino Galassi,\n\nI am intrigued by your offer and would like to know more about it. Could you please provide me with more details regarding the nature of this transaction?\n\nBest wishes,\nJeffrey"
+    },
+    {
+        "from": "scammer_317",
+        "to": "baiter_317",
+        "subject": "Re: I have an offer with regards t",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "body": ""
+    },
+    {
+        "from": "scammer_317",
+        "to": "baiter_317",
+        "subject": "Re: I have an offer with regards t",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "3",
+        "body": "Greetings  Thank you for your return email. I am a lawyer and I am\r\ncurrently an associate in a private firm. I know you may not know my late\r\nclient in person,my late client name is Felix Jeffrey .However, I do not\r\nrule out the possibility of you having a distant relationship with my late\r\nclient. I have contacted you through email as there appears to be no formal\r\nchoice left for me in reaching possible members of my late client's\r\nextended family. I have contacted you to solicit your partnership in\r\nfacilitating the release of my late client’s esta Mtes and most especially\r\nhis invested funds.\r\n\r\nMy late client passed in December 2004 in the Ocean surge that happened in\r\nIndonesia which unfortunately was during his holiday trip with his\r\nimmediate family.  My client was into crude oil trade, brokerage and vessel\r\nchatter dealings. My referred client holds a term investment of an initial\r\nvalue of $30million U.S. dollars of funds set aside for his business. The\r\nfunds have been held in an investment account with a commercial  bank since\r\n2001. The bank was duly informed of my late client's demise and my efforts\r\nto  reach members of my late client's extended family who could stand in as\r\nbeneficiaries.\r\n\r\nIn the past months I have gotten tips of the bank's intention to turn the\r\ninvestment balance to the Government, in line with the existing laws as it\r\nis assumed that are no suitable successors.On the professional\r\nconsideration I have engaged a wide\r\nsearch to locate a credible person with this family name who could stand in\r\nas a distant relative to my late client. I have contacted you so to give us\r\nthe legal base to file for the release of my late client’s estates, This\r\ntransaction will be\r\nsuccessfully and legitimately conducted in line with the prevailing laws. I\r\nam here saying that the process of this transaction will be risk free to\r\nyour person. All I ask is for you to handle this transaction as I will\r\nadvise.\r\n\r\nI propose that 45% of the entire sum released at the completion of this\r\nprocess will accrue to you as long as you handle your role and I do not\r\nincur further expenses getting you involved. I have incurred costs in the\r\npast few years in efforts of protecting my late client’s estates and if you\r\nwould be interested to proceed, you should be willing to handle your\r\ninvolvement. 5% of the entire sum released will be set aside for\r\nreimbursement of costs we will have incurred individually\r\nin the process of this transaction. The  balance 50% of the entire sum\r\nreleased will accrue to me.\r\n\r\nI will appreciate verbal communication with you so we can discuss. You may\r\ncall me on +447451271101. Let me know the preferred telephone number and\r\nthe best time to call you.\r\n\r\nI await to hear from you.\nRegards,\r\nDino Galassi"
+    },
+    {
+        "from": "baiter_317",
+        "to": "scammer_317",
+        "subject": "Re: I have an offer with regards t",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "4",
+        "body": "Dear Marykate,\n\nThank you for your prompt response. I am very excited about this opportunity and would like to proceed as quickly as possible. Could you please provide me with the next steps in this process?\n\nBest regards,\nLewis D.\n\nBest wishes,\nJeffrey"
+    }
+]

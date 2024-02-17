@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_994",
+        "to": "CRAWLER",
+        "subject": " Hi",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " Hi\n  I am Mr Walter Mennel , a private money lender. I won't judge you by\nyour credit at all! Contact me by sending name, location, and a\nreachable contact number then, let's talk! Reply to\nmtwaltersmennel@gmail.com\nMr  Walter Mennel    "
+    },
+    {
+        "from": "baiter_994",
+        "to": "scammer_994",
+        "subject": "Re:  Hi",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Walter Mennel,\n\nThank you for reaching out! It's really interesting to hear about your work as a private money lender. I'm curious, how did you get into this line of business? And what do you enjoy most about it?\n\nLooking forward to hearing more from you.\n\nBest regards.\n\nBest wishes,\nAmanda"
+    }
+]

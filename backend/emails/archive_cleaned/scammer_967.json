@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_967",
+        "to": "CRAWLER",
+        "subject": " Happy Holidays and end of the",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " Happy Holidays and end of the year!\nEuropean Region Office 2020\nFacebook International Lottery\n10 Brock St, London NW1 3FG\nUnited Kingdom,\nEngland\nCongratulations,\nThe entire members of Facebook Lottery team wish you a Prosperous New Year 2020. We would also like to use this medium to remind you that your won cash prize of Five Million United States Dollars has been approved to be paid to you as the rightful winner and we are waiting for you to communicate us with the requirement as you were directed.\nThe said Fund $5,000,000.00USD (Five Million United States Dollars) is your entitled winning in the Facebook International Lottery Program, you have no reason loosing out in this great opportunity, I must assure you that your winning in this Lottery Program was not an error.\nFacebook International is a Noble Organization by the unmatchable standard and remarkable reputation we built in discharging our duties and services. Be informed that we can never force you to go against your wish.\nI am the Coordinator Officer Facebook International Lottery.  I must assure you that this Lottery Program is 100% free from risk and you must receive your $5,000,000.00USD completely paid to you. Your payment must be disbursed to you as you requested.\nMr. Marc Andreessen\nCoordinator,\nFacebook International Lottery.  "
+    },
+    {
+        "from": "baiter_967",
+        "to": "scammer_967",
+        "subject": "Re:  Happy Holidays and end of the",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Marc Andreessen,\n\nThank you for your message and the warm wishes. I hope you're having a wonderful holiday season as well!\n\nI'm quite surprised to hear about this Facebook Lottery Program and the prize money. It's such an enormous amount! Could you please tell me more about how this program works? How was I selected as a winner?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nMiguel"
+    }
+]

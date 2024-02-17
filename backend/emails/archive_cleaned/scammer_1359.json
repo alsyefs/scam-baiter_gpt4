@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1359",
+        "to": "CRAWLER",
+        "subject": "  Dear Friend,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Dear Friend,\nI am very happy to inform you about my success in getting those funds\ntransferred. Now, contact my secretary now this channel/email. Ask him\nto send you the total sum of ($9.5M) which I kept for your\ncompensation. So contact him immediately on this same e-mail: and send\nhim the below information to enable him to perfect the transfer in\nyour favor.\n1. YOUR FULL NAME: ...........................................\n2. YOUR ADDRESS: ...............................................\n3. TELEPHONE NUMBER:……………………………………\n4 .AGE & OCCUPATION: .......................................\nRegards,\nDox-Dynamic Office Plc.   "
+    },
+    {
+        "from": "baiter_1359",
+        "to": "scammer_1359",
+        "subject": "Re:   Dear Friend,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Office Plc,\n\nI am glad to hear about your success in securing the funds. However, I would need more information before proceeding further. Could you please provide me with the name and contact details of your secretary? Also, could you clarify what sum has been kept for me?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nWilliam"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_504",
+        "to": "CRAWLER",
+        "subject": "Hello",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Hello\nTo help meet all financial needs, our organization is\nable to provide loans between individuals. The economic crisis is\naffecting all of Europe.\nRepeated refusal of bank loan applications\nIncreased interest rates in the bank\nApply for a guarantee before obtaining a loan from a bank\nYou have ambition, but you lack the resources to seize the opportunity\nrelive.\nWe offer a cash loan in: Financing - Mortgages - Investment loan -\ncar loan - debt consolidation - line of credit - second mortgage - loan\npurchase - personal loan. Contact me and let me know how much money\nwishes and the repayment period of your choice.\nEmail: \ngloballoan780@gmail.com\nAs part of the help to fulfill all financial data\nWhatsApp: +491769491302\nThanks"
+    },
+    {
+        "from": "baiter_504",
+        "to": "scammer_504",
+        "subject": "Re: Hello",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello there,\n\nThank you for your message. It's interesting to hear about the financial services you're offering, especially during these challenging economic times. \n\nI'm curious, how does your organization manage to provide loans amidst this crisis? And could you please elaborate more on the types of loans you offer? I'm particularly interested in personal loans.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nFrankie"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_383",
+        "to": "CRAWLER",
+        "subject": "  Hello Dear Partner",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Hello Dear Partner\nHi Please.I wish to discuss a matter of utmost privacy with you.\nThus,I desire that you get back to me as soon as urgent, very\nimportant and privacy please.\nI want you to contact me with my private-email (\neernestfrancisgroth@gmail.com\n)\nPlease,kindly Reply to me confidentiality and importance,\nWith best regards,\nMr Ernest Francis Groth   "
+    },
+    {
+        "from": "baiter_383",
+        "to": "scammer_383",
+        "subject": "Re:   Hello Dear Partner",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mr. Ernest Francis Groth,\n\nI'm delighted to hear from you and I'm intrigued by your message. Could you please provide more details about the matter you wish to discuss? I assure you that our conversation will remain private.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMaxine"
+    },
+    {
+        "from": "scammer_383",
+        "to": "baiter_383",
+        "subject": "Re: Hello Dear Partner",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "body": "Dear Maxine\r\n\r\nThanks for your response to my earlier email message.\r\n\r\nI have some funds amounting to USD820M stashed in a bank vault in the\r\nMiddle East country of the United Arab Emirates, generated through\r\nOver-Invoicing during my working years in  an oil and gas company, , which\r\nrequires it to be transferred in the name of a third party.\r\n\r\nI am looking for someone to work with me on the project so that we can move\r\nthe funds for investment purposes as the terminal contract I have with the\r\nbank is coming to an end.\r\n\r\nIf you are willing and able to work on the deal, please reply to me as soon\r\nas possible and also include the number we can use for a chat on WhatsApp.\r\n\r\nThanks and Best Regards\r\n\r\nErnest Francis Groth\r\n\r\n<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\nVirus-free.www.avast.com\r\n<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\n<https://mail.google.com/mail/u/5/#m_-2623009958771890528_DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>"
+    }
+]

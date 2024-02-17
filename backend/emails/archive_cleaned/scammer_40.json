@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_40",
+        "to": "CRAWLER",
+        "subject": "I represent a group of company",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "I represent a group of company based in the Gulf Region. We are\nseeking means of expanding and relocating our business interest abroad\nin the following sectors: Oil/Gas, Construction, Real Estate, Stock\nSpeculation and Mining, Transportation, Health Sector and Tobacco,\nCommunication Services, Agriculture Forestry & Fishing, thus any\nsector.\nIf you have a solid background and idea of making good profit in any of the\nmentioned business sectors or any other VIABLE business in your\ncountry. Please write me for possible business co-operation. More so,\nwe are ready to facilitate and fund any business that is capable of\ngenerating 10% annual return on investment (AROI) Joint Venture\npartnership and Hard loan funding can also be considered.\nI am confident that you will give your consideration to this proposal\nand respond positively within a short period of time. I am available\nto discuss this proposal with you and to answer any questions you may\nhave in regard to this investment. As soon as you give your positive\nresponse to this proposal, I will not hesitate in\nsending you the details information of this great investment partnership\nopportunity.\nI look forward to discussing this opportunity further with you.\nSincerely,\nAhmed Jalil."
+    },
+    {
+        "from": "baiter_40",
+        "to": "scammer_40",
+        "subject": "Re: I represent a group of company",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Ahmed Jalil,\n\nThank you for your email and the opportunity to potentially collaborate on a business venture. I have experience in various sectors and could provide valuable insights and strategies for expansion.\n\nBefore we proceed, I would appreciate if you could provide more details about your company, the specific sectors you are interested in, and the type of investment you are considering. This will help me understand your needs better and propose a suitable plan.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nBelinda"
+    }
+]

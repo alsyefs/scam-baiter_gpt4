@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_209",
+        "to": "CRAWLER",
+        "subject": "   Here is the address",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "   Here is the address\nBTC:16C6n1kCCPqLhSxz6nVdogdhRiufeajZAe\nSEND ME SCREENSHORT AND SHIPPING ADDRESS AFTER PAYMENT  "
+    },
+    {
+        "from": "baiter_209",
+        "to": "scammer_209",
+        "subject": "Re:    Here is the address",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Marykate Purchia,\n\nThank you for your prompt response. I am excited about the opportunity to live and work in the United States. \n\nHere is my current address:\n\nLewis D. Noogie\n1234 Main Street\nNovosibirsk, Latvia\n\nPlease let me know the next steps in this process.\n\nBest regards,\nLewis D.\n\nBest wishes,\nNeal"
+    }
+]

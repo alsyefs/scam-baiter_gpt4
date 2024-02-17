@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_1228",
+        "to": "CRAWLER",
+        "subject": "  NIGERIA NATIONAL ASSEMBLY",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  NIGERIA NATIONAL ASSEMBLY\nFEDERAL CAPITAL TERRITORY\nABUJA, NIGERIA.\nDear Honorable Beneficiary\nEFFORTS TO RELEASE YOUR ACCRUED INTEREST VALUED US$950,000,00\nThis is to officially inform you that the sum of $950,000, 00(Nine\nhundred and fifty thousand dollars) has been accrued as interest on\nyour contract sum that was deposited into our bank by the Federal\nGovernment of Nigeria.\nYou are therefore advised to forward your bank details including your\nmeans of identification and direct telephone numbers. We would\nappreciate your urgent response regarding the above information, as\nthis will enable our bank to treat this matter with Urgency.\nThanks for your co-operation.\nYours faithfully,\nSen. Uba Sani\nSenate Committee on Foreign Contract And Payment\nEmail: \nsenatorubasani@legislator.com\n "
+    },
+    {
+        "from": "baiter_1228",
+        "to": "scammer_1228",
+        "subject": "Re:   NIGERIA NATIONAL ASSEMBLY",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Sen. Uba Sani,\n\nThank you for reaching out to me with this information. It's quite surprising to hear about the accrued interest on a contract sum. I must admit, I don't recall having any contracts with the Federal Government of Nigeria.\n\nCould you please provide more details about this contract? When was it initiated and what was its purpose? Also, how did my name get associated with it?\n\nI'm looking forward to your response.\n\nBest regards.\n\nBest wishes,\nCharles"
+    }
+]

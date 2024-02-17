@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_360",
+        "to": "CRAWLER",
+        "subject": " Hello dear.",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": " Hello dear.\nCompliment of the season,\nHope this may interest you.\nI am Mrs, Maria J Stout,  an Investment negotiator with private individuals and top business exposed persons, a Chartered Investment Counselor (CIC) and an Accredited Wealth Management Adviser (AWMA). I Presently work with Equities First Investment here in UK in the above mentioned capacitie. We are specialists in early stage investments advisory, startups and business expansion analysis.\nI'm hoping that you might be needing funding to start, grow or expand your project/business. Nevertheless, I am pleased to inform you that I know an accredited Angel Investor and Lender who might be willing and interested in funding your lucrative business or expanding an existing one. This is as sure as you can ever imagine.\nIf this would interest you, kindly proceed to write him as a matter of urgency as his details are stated below;\n \nName:  Dr.Safarik Zdenek\nEmail:  \ndrsafarikz@gmail.com\nPlease, do not hesitate to email him if you have further questions. He will be glad to assist and partner with you.\nHave profitable negotiations ahead and stay safe.\nCheers!\nBest Regards,\nMrs, Maria J Stout,\nCFP®, CIC®, AWMA®\nhttps:/ /equitiesfirst.com    "
+    },
+    {
+        "from": "baiter_360",
+        "to": "scammer_360",
+        "subject": "Re:  Hello dear.",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello Mrs. Maria Stout,\n\nThank you for reaching out and for your kind words. I hope you're enjoying the season as well.\n\nYour message certainly piqued my interest. I'm always open to exploring new opportunities, especially those that could potentially help me grow or expand my business.\n\nCould you please provide more information about this Angel Investor and Lender? What kind of projects or businesses are they particularly interested in? And what are their usual terms and conditions?\n\nLooking forward to hearing from you soon.\n\nStay safe too!\n\nBest wishes,\nLawrence"
+    }
+]

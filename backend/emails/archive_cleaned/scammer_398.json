@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_398",
+        "to": "CRAWLER",
+        "subject": "  Attention:  ",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Attention:  \nConsequently, we believe firmly that you were not at all serious with the Loan application.\nSincerely yours,\nBrockton Cooper (Consumer Business Head)\nTel/Fax: +22893833861\nEMDAV FINANCIAL SERVICES LIMITED\nThis is a genuine email from Emdav Financial Services Ltd. However, if you receive an email which you are concerned does not legitimately originate from us, you can report before deleting it. \nLegal \nThis email message is confidential and for use by the addressee only. If the message is received by anyone other than the addressee, please delete it from your computer. Emdav Financial Services Ltd. does not accept responsibility for changes made to this message after it was sent. \nWhilst all reasonable care has been taken to avoid the transmission of viruses, it is the responsibility of the recipient to ensure that onward transmission, opening or use of this message and any attachments will not adversely affect its systems or data. No responsibility is accepted by Emdav Financial Services Ltd. in this regard and the recipient should carry out such virus and other checks as it considers appropriate. \nEmdav Financial Services Ltd's privacy policy is available via our website emdavfslimited.com  "
+    },
+    {
+        "from": "baiter_398",
+        "to": "scammer_398",
+        "subject": "Re:   Attention:  ",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Brockton Cooper,\n\nI apologize if my previous communication gave you the impression that I was not serious about the loan. I assure you, my intentions are genuine and I am indeed interested in securing a loan from Emdav Financial Services Ltd.\n\nCould you please provide me with more information on the next steps to proceed with this process? \n\nThank you for your understanding and assistance.\n\nBest wishes,\nMark"
+    }
+]

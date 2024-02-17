@@ -1,0 +1,72 @@
+[
+    {
+        "from": "scammer_237",
+        "to": "CRAWLER",
+        "subject": "  Sir / Madam,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "  Sir / Madam,\nAre you looking for loans from GBP10,000 Pounds to GBP100 million Pounds, then contact us now as we provide loans with very little interest rate yearly.\nWe provide the funding through our Excess long term fixed deposits and we offer interested companies and individuals who really need capital for their various businesses on Health, Education, Agriculture, Real Estate, Projects and Sponsorships.\nWe await your reply for more details on Email: \ncollinsray807@gmail.com\nMr. Collins Ray\nFund Manager   "
+    },
+    {
+        "from": "baiter_237",
+        "to": "scammer_237",
+        "subject": "Re:   Sir / Madam,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "body": "Dear Mr. Collins Ray,\n\nThank you for your offer. However, at the moment, I am not in need of any loans. I appreciate your consideration and will keep your contact information for future reference.\n\nBest Regards,\nLewis D.\n\nBest wishes,\nOlive"
+    },
+    {
+        "from": "scammer_237",
+        "to": "baiter_237",
+        "subject": "Re: Sir / Madam,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "body": "OK"
+    },
+    {
+        "from": "scammer_237",
+        "to": "baiter_237",
+        "subject": "Re: Sir / Madam,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "3",
+        "body": "Thank you for letting me know."
+    },
+    {
+        "from": "baiter_237",
+        "to": "scammer_237",
+        "subject": "Re: Sir / Madam,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "4",
+        "body": "Dear Marykate Purchia,\n\nThank you for your prompt response. I am very excited about this opportunity to live and work in the United States. \n\nCould you please provide more details on the next steps I need to take? Also, could you confirm if there are any restrictions on where I can live in the US once I have a green card?\n\nLooking forward to your response.\n\nBest regards,\nLewis D.\n\nBest wishes,\nOlive"
+    },
+    {
+        "from": "scammer_237",
+        "to": "baiter_237",
+        "subject": "REPLY",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "5",
+        "body": "HELLO,\r\n\r\nThank you for your prompt response. I am very excited about this\r\nopportunity to live and work in the United States.   YOU ARE WELCOME\r\n\r\nCould you please provide more details on the next steps I need to take?\r\nYOU NED TO FORWARD THE FOLLOWING:\r\n\r\n1. A SCAN COPY OF YOUR INTERNATIONAL COPY, THE FIRST PAGE\r\n2. A PASSPORT PHOTOGRAPH\r\n3. A PROCESSING FEE OF $1,000\r\n\r\nTHESE WILL BE USED TO PROCESS YOUR GREEN CARD VISA AND AFTER THE VISA HAS\r\nBEEN APPROVED, YOU WILL THEN PAY A VISA FEE OF $205 DOLLARS ONLY.\r\n\r\nAlso, could you confirm if there are any restrictions on where I can live\r\nin the US once I have a green card?   ABSOLUTELY NO RESTRICTION AS FAR AS\r\nUSA IS CONCERNED\r\n\r\nREACH ME FOR MORE INFORMATION\r\n\r\nMARY KATE PURCHIA"
+    },
+    {
+        "from": "baiter_237",
+        "to": "scammer_237",
+        "subject": "Re: Sir / Madam,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 5,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "6",
+        "body": "You're welcome! If you have any other questions or need further information, feel free to ask.\n\nBest wishes,\nOlive"
+    }
+]

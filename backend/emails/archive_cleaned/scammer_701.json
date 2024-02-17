@@ -1,0 +1,22 @@
+[
+    {
+        "from": "scammer_701",
+        "to": "CRAWLER",
+        "subject": "Compliment,",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "body": "Compliment,\n My name is John Webster. \nI accessed your LinkedIn\n and I feel it will be nice to communicate with you via personal email. I'm in private search for a reliable person that can handle a confidential business transaction involving the transfer of Fourteen Million Eight Hundred Thousand British Pounds. . It is the product of an over Invoiced Contract Awarded in 2006 by CAC to a Foreign Contractor for the Construction of West African Pipe Line Project.\nThe contract has long been executed and payment of the actual contract amount has been paid to the Foreign Contractor Account in Amsterdam and left behind is our over Invoiced, which myself and my colleague now want you to come in as the Foreign Beneficiary and claim the fund out of the present bank into a reliable foreign account of your choice for an investment in your country.\nThis transaction is under my custody and must be handle with legal due process. We have decided to contact you as the Foreign Beneficiary to be paid since you are a foreigner from another country. You can  receive the funds in any account of your choice for investment in your country pending my arival. I will send you more details of the transaction in your next reply.\nI wait for your response.\nBest regards,\nJohn webster\njohhnwebster@gmail.com"
+    },
+    {
+        "from": "baiter_701",
+        "to": "scammer_701",
+        "subject": "Re: Compliment,",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "body": "Hello John Webster,\n\nIt's a pleasure to meet you. Your message is quite intriguing, I must say. The business involving the transfer of such a large sum of money sounds like a significant responsibility.\n\nI'm curious about how you found my contact information and why you chose me for this task? Also, could you please provide more details about the West African Pipe Line Project?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nConnie"
+    }
+]

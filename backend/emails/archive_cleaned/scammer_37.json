@@ -2,21 +2,21 @@
     {
         "from": "scammer_37",
         "to": "CRAWLER",
-        "subject": "On Behalf of the FACEBOOK Team",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "On Behalf of the FACEBOOK Team",
         "body": "On Behalf of the FACEBOOK Team, We are pleased to inform you of the\nresult of the just concluded Facebook Pandemic Lottery Program (\nCovid19) draws held on the (25th of AUGUST 2021) by Facebook Team in\ncash Promotion to encourage the usage of Facebook worldwide, your\nemail and Name was among the 20 Lucky winners who won $900.000.00 USD\nNine Hundred thousand united state dollars each on the the Facebook\nTeam promotion Award Attached to this email are your winning vital\ninformation which are as follow.\nSerial No: (21028646934)\nRef Number: (20652500218/772)\nTicket Number: (9217495204734)\nThe online draws was Conducted by a random selection of email you\nwhere picked by an Advanced Automated Random Computer ( AARC) search\nfrom the Facebook, Dear winner In other To claim your $900,000.00 USD\ncontact your claim agent Mrs. Andret Rayford , Email: (\nandretrayford11@gmail.com\n ) And forward her the below information to\nenable her processed your Facebook Winning Certificate.\nFULL NAME:FULL\nCONTACT ADDRESS:\nMOBILE PHONE NUMBER:\nOCCUPATION:\nMARITAL STATUS AND AGE:COUNTRY:\nTICKET NUMBER:\nBATCH NUMBER:\nYOUR EMAIL ADDRESS:\nOnce again a very big congratulations to you and your family once again.\nRegards\nFacebook Team"
     },
     {
         "from": "baiter_37",
         "to": "scammer_37",
-        "subject": "Re: On Behalf of the FACEBOOK Team",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: On Behalf of the FACEBOOK Team",
         "body": "Dear Facebook Team,\n\nI am delighted to hear about my win in the Facebook Pandemic Lottery Program. However, I would like to confirm a few details before proceeding further.\n\nCould you please provide me with more information about this program and how it was conducted? Also, could you clarify the process of claiming the prize?\n\nLooking forward to your response.\n\nBest wishes,\nMichael"
     }
 ]

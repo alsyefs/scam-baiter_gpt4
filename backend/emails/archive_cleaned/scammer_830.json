@@ -2,21 +2,21 @@
     {
         "from": "scammer_830",
         "to": "CRAWLER",
-        "subject": "I know that you will be surpri",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "I know that you will be surpri",
         "body": "I know that you will be surprised to receive this mail from me today.\nMy name is Lynne Scott This letter is highly privileged and it\nrequires your immediate attention because \nwe lost one of our Bank\ncustomers who happens to be from your country also has the same family\nname as you \nand he had a fixed-term Deposit worth of $4.7 Million with\nour Bank before his death.\nContact me through this email address;\nEmail; \nupsdeliverycompany@gmx.com\nName; Lynne Scott\nGiven to your nationality with our late Customer Michael.\n I know you\nmay not actually be in any way related to him but for you sharing the\nsame name with him will make it easy to get the funds to your name \nand\nboth of us will divide the funds 50% 50% once the money is transferred\ninto your account.\nI look forward to your immediate response.\nKind Regards,\nLynne Scott"
     },
     {
         "from": "baiter_830",
         "to": "scammer_830",
-        "subject": "Re: I know that you will be surpri",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: I know that you will be surpri",
         "body": "Dear Lynne Scott,\n\nI am surprised to receive your email. I would like to know more about this situation and the person who shares my family name. Could you please provide more details about him and the process of transferring these funds?\n\nBest wishes,\nJessica"
     }
 ]

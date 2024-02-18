@@ -2,21 +2,21 @@
     {
         "from": "scammer_557",
         "to": "CRAWLER",
-        "subject": "  URGENT NOTIFICATION ON  PAYM",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  URGENT NOTIFICATION ON  PAYM",
         "body": "  URGENT NOTIFICATION ON  PAYMENT IN YOUR FAVOUR REPLY ASAP.\n \nOur office has sent you several mails but you failed to reply hence I choose to send you this from my personal mail.\nThe British High Commission in the United States, Mexico, Canada, Trinidad and Tobago in partnership with the United  Nations received a report of a scam against you and other British/US and Asia Citizens, Etc. The countries of the United States, Mexico, Canada, Trinidad and Tobago have recompensed you following the meeting held with the four countries' governments and various countries' high commission for the fraudulent activities against you and other affected victims.\nYour name was among those scammed as listed by the British High Commission Financial Intelligence Unit (BHCFIU). As a further matter compensation has been issued out in ATM MASTER CARDS valued sum of  US$850,000 dollars to all the affected victims and has already been in distribution to all the bearers. Your ATM MASTER CARD was among those that were reported undelivered as of today and we wish to advise you to seek the instructions of the Committee to ensure you receive your compensation funds sum of US$850,000 coded into ATM MASTER CARD as soon as possible.\nBritish High Commission further ask us to inform you that the use of FedEx and USPS courier services has been was abolished due to interception activities noticed in the above mentioned courier companies in North America and hereby have made a concrete arrangement with the DHL Courier Company for a safe delivery to your door-step once the beneficiary meets up the demand of the conveyance.\nWe advise that you do the needful to ensure the BHCFIU endorses your payment by tomorrow to grant DHL Courier Company carry your parcel for delivery across your location without further delay. Kindly contact me via email.Moreso,you are advised to stop further contacts with any other person/office till you receive your payment for security purposes because any money you might spend after this notification is at your own risk/act of negligence.\nPlease reconfirm the following details to satisfy you for the Compensation.\nFULL NAME: __________________________________________\nADDRESS: ____________________________________________\nAGE: ________________________________________________\nWHATSAPP PHONE NUMBER: ___________________________\nOCCUPATION: _________________________________________\nCOPY OF IDENTIFICATION CARD:\nThanks for your understanding and cooperation.\nI look forward to hearing from you at the receipt of  this notification.\nRegards   "
     },
     {
         "from": "baiter_557",
         "to": "scammer_557",
-        "subject": "Re:   URGENT NOTIFICATION ON  PAYM",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   URGENT NOTIFICATION ON  PAYM",
         "body": "Hello,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I wasn't aware that my name was involved in such a situation. \n\nCould you please provide more details about this? How did my name come up in the list of those scammed? And what exactly does the ATM MASTER CARD entail?\n\nAlso, could you clarify what steps I need to take next? You mentioned contacting someone - who would that be and how can I reach them?\n\nI appreciate your help with this matter.\n\nLooking forward to your response.\n\nBest wishes,\nCleo"
     }
 ]

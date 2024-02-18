@@ -2,21 +2,21 @@
     {
         "from": "scammer_1210",
         "to": "CRAWLER",
-        "subject": "   Attn ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Attn ",
         "body": "   Attn \nI am an Information Management Technology consultant working with the Budget Office of the Federal Republic of Nigeria as an IT consultant. We also attached to the telex unit of the Apex Bank here. I am an expert in computer software programming, and I am writing you based on some key information available to me with respect to your claim which is stocked in the Nigerian payment system due to several government and manmade bureaucracies. The current economic hardship affecting all nations as a result of this Covid 19 pandemic should be of concern to you and your pending claim. However, the good news is that I have a technology that can pull out your fund from the government’s difficult payment system, and have the fund credited into your account very smoothly without any issue whatsoever. This technology can execute this transaction from any part of the world because it can exchange server with those of major AAA rated banks across the globe.\nBut I do not wish to say much here until you respond back to me with an affirmation that you need my help. This is not a joke, just get back to me very quickly and see how this can be achieved within the few days.\nRegards,\nEngr. Samson Folarin  "
     },
     {
         "from": "baiter_1210",
         "to": "scammer_1210",
-        "subject": "Re:    Attn ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    Attn ",
         "body": "Hello Engr. Samson Folarin,\n\nThank you for reaching out to me. Your message is quite intriguing, and I must admit that I'm not very familiar with the intricacies of technology and finance. However, your explanation about this unique technology that can pull out funds from a difficult payment system sounds fascinating.\n\nCould you please elaborate more on how this technology works? And how does it manage to exchange servers with major AAA rated banks across the globe? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLorraine"
     }
 ]

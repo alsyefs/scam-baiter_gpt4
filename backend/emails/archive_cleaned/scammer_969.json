@@ -2,21 +2,21 @@
     {
         "from": "scammer_969",
         "to": "CRAWLER",
-        "subject": "   From: From Mrs Rachael Wils",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   From: From Mrs Rachael Wils",
         "body": "   From: From Mrs Rachael Wilson < \ninfo@adv-agri.co.jp\n >\nSent: Sunday, August 28, 2022 \nTo:  \nSubject: Urgent: From Mrs Rachael Wilson Director of the Statutory Department at the Diplomat Consultant Commission?\n \nHello Dear\nFirstly,I wish to introduce myself to you, my name is Mrs Rachael Wilson Director of the Statutory Department at the Diplomat Consultant Commission. We oversee and inspect all packaging on transactions for easy delivery.\nIn view of my position as introduced and explained above, I have this privileged information for you out of sympathy, It may interest you to know that any transactions with irregularities of huge sums of money which is to be routed through cash call delivery has procedures that must be duly formalized before it will be duly acceptable by any international airport or banks for further transfer to the beneficiaries account or house delivery.  For this reason, I think your pending transaction is not and has not been duly processed. Therefore,I do not think you will be able to access it. You will be informed by stories and excuses by them. However, with me as an insider in charge at the Statutory Department of diplomat consultant Commission I am ready to cooperate with you and make sure you get the transaction delivered to your house .However,It will be of immense mutual and financial benefit to both of us. For that reason I will ask for 20 percent of the total transaction as soon as you have it delivered.\nTherefore, this letter is highly confidential and top secret. you must not inform anybody about this letter or my contact with you. You must keep my relationship with you top secret and highly confidential. If you can follow my advice and guidance I guarantee/assure you the success of the transaction.I am willing to assist you to the successful conclusion as long as you are ready and willing to follow up.kindly reply to confirm the receipt of this mail. \nmrsrachael1m2@gmail.com\n \nSincerely\nRegards\nFrom Mrs Rachael Wilson     "
     },
     {
         "from": "baiter_969",
         "to": "scammer_969",
-        "subject": "Re:    From: From Mrs Rachael Wils",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:    From: From Mrs Rachael Wils",
         "body": "Dear Mrs. Rachael Wilson,\n\nThank you for your email and the information provided. I appreciate your willingness to assist me in this matter.\n\nHowever, I would like to clarify a few things before we proceed. Could you please provide more details about the pending transaction you mentioned? Also, could you explain what exactly is required from my side?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nCarole"
     }
 ]

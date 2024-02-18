@@ -2,21 +2,21 @@
     {
         "from": "scammer_1072",
         "to": "CRAWLER",
-        "subject": "GOOD NEWS ;",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "GOOD NEWS ;",
         "body": "GOOD NEWS ;\nYour Urgent Reply is Needed because (UBA Bank) has finalize all the\nnecessary arrangement of you funds, But i no hare form you long and\n$17.9Million is inside the ATM Card this moment you ATM Card is\navailable waiting for your Address where to deliver,\nContact with your full Information Below.\nFull Name:::\nHome Address:::\nCountry:::\nP.O. Box Address:::\nPostal Address:::\nTelephone Number:::\nEmail::::::::::\nAge and Sex:::\nSo am inform you that the only delay your $17.9Million is the fee of\n$100, But the ahead office UBA Bank as said that if you no have the\n$100 today , Just go ahead to play $50 to enable us stamp your package\nof the ATM CARD so that it will not be delayed or sized by any\nCustom's checking point on the way delivering to your home address\nwithin this 5hours go ahead and by iTunes card Or Steam wallet card of\nthe $50 then scratch the card and send card copies of the card to me\nOK.\nMr. Larry  Kelly\nBest Regards,"
     },
     {
         "from": "baiter_1072",
         "to": "scammer_1072",
-        "subject": "Re: GOOD NEWS ;",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: GOOD NEWS ;",
         "body": "Hello Mr. Larry Kelly,\n\nThank you for your message and the good news! It's always exciting to hear about new opportunities. I'm a bit confused though, could you please clarify what this ATM card is for? And why would it be necessary to pay a fee?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nRonald"
     }
 ]

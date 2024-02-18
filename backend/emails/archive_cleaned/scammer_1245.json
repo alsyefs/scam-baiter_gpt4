@@ -2,21 +2,21 @@
     {
         "from": "scammer_1245",
         "to": "CRAWLER",
-        "subject": "Atm Card Fund Notification.",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Atm Card Fund Notification.",
         "body": "Atm Card Fund Notification.\nThis is to officially notify you that your fund has been duly approved and gazette for immediate payment to you via ATM Master card. The ATM Master card is Valued at $10.5m. You are advised to respond immediately with the under listed information's for clarity and further direction on how to receive your ATM Master card and for avoidance of error:\nFULL NAMES======\nADDRESS=========\nMOBILE TELEPHONE AND FAX NUMBERS======\nCOMPANY NAME (IF ANY)======\nOCCUPATION======\nAGE/DATE OF BIRTH======\nMARITAL STATUS=========\nYou are advised to send all the information above to this\ne-mail: \nslyvesterduke@outlook.com\nRegards,\nSlyvester Duke"
     },
     {
         "from": "baiter_1245",
         "to": "scammer_1245",
-        "subject": "Re: Atm Card Fund Notification.",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Atm Card Fund Notification.",
         "body": "Dear Slyvester Duke,\n\nThank you for your email. I am interested in receiving the ATM Master card. Here are my details:\n\nFULL NAMES: Eliza Jane Dane\nADDRESS: 1234 Elm Street, London, UK\nMOBILE TELEPHONE AND FAX NUMBERS: +44 20 1234 5678\nCOMPANY NAME IF ANY: N/A\nOCCUPATION: Freelance Writer\nAGE DATE OF BIRTH: 35, January 1st, 1986\nMARITAL STATUS: Single\n\nPlease let me know the next steps.\n\nBest wishes,\nRosaria"
     }
 ]

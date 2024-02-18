@@ -2,21 +2,21 @@
     {
         "from": "scammer_251",
         "to": "CRAWLER",
-        "subject": "ATTENTION: xxx,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "ATTENTION: xxx,",
         "body": "ATTENTION: xxx,\nRef.: Transfer Payment Approval Notice.\nApproved Payment Valued: US$5,800,000.00.\nPayment Reference No.: Zenith Bank/WB/NF/UN/XX027.\nWe write to inform you officially that we have received and confirmed a transfer authorization instruction from the United Nations Funds Investigation Unit in your favor valued at US$5,800,000.00 (Five Million Eight Hundred Thousand US Dollars Only). Please note that this approved long awaited Contract/Inheritance payment Instruction has been verified by our Legal Department through the rightful Authorities for a smooth Credit to your Bank account via Swift Telegraphic Wire Transfer or ATM card respectively. However, it is our pleasure to inform you that your ATM Card Number; 4988 2414 7616 3496 has been approved and upgraded in your favor. Meanwhile, your Secret Pin Number will be available as soon as you confirm to us the receipt of your ATM CARD.\nAs the Chief Financial Officer, Zenith Bank (Nigeria) I write to inform you that the above amount is ready to be released to you.\nKindly reconfirm your full name, address and telephone number\n to this email. (\ncraigmorgan01109@gmail.com\n)\nThank you for your anticipated co-operation.\nAwaiting your response.\nMr. Ebenezer Onyeagwu,\nChief Financial Officer,\nZenith Bank Of Nigeria."
     },
     {
         "from": "baiter_251",
         "to": "scammer_251",
-        "subject": "Re: ATTENTION: xxx,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: ATTENTION: xxx,",
         "body": "Dear Mr. Ebenezer Onyeagwu,\n\nThank you for your email and the information provided. I am excited to hear about this development.\n\nHere are my details:\n\nFull Name: Eliza Dane\nAddress: 1234 Main Street, Sydney, NSW 2000, Australia\nTelephone Number: +61 2 9876 5432\n\nPlease let me know the next steps in this process.\n\nBest wishes,\nAnnie"
     }
 ]

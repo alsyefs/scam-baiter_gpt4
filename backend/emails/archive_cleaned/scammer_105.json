@@ -2,21 +2,21 @@
     {
         "from": "scammer_105",
         "to": "CRAWLER",
-        "subject": "  STATUS: CONFIDENTIAL",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  STATUS: CONFIDENTIAL",
         "body": "  STATUS: CONFIDENTIAL\nHello sir,\nGood day and top of the day to you.\nI am Attorney Brad Smith by name, a Legal Practitioner and a Legal Adviser with a Security Vault.\nThis is to notify you that our client  \"Dr. Jean McAlister   , Ph.D.\" who passed away on November 20th, 2020, has a deposit with a Security Vault with us and your name tallies with one of the NEXT OF KIN he mentioned on the paperwork of the deposit, my client until his death worked in different firms such as: Chief Psychiatric Social Worker, Public Health Commissioner for the County of Los Angeles, he also worked for Alma Family Services before becoming CEO until his death.\nMy late client has a deposit with a Security firm an amount in the sum of US$7,750,000.000 (Seven Million Seven Hundred and Fifty Thousand U.S. Dollars) Only which I need your cooperation to work with me and see that the fund is retrieved and moved out to you because one of your names tallies with one of the Next of Kin, he mentioned on the deposit blueprint documents.\nMy late client, having his survivors all died a few weeks in the late Year 2020 as a result of the deadly Wave of the Covid-19 then which they contracted when they met for his funeral in that year of 2020. I am ready to work this out with you to see that the money in question is released to you as the only surviving next of Kin because on the Blueprint here he mentioned a first name that tallies with yours, so I want to fix you as the surviving next of kin.\nAll I need is your response and positive co-operation to have us work this out as I am ready to share the mentioned sum on a 50/50 Base with you once we have successfully gotten it approved in your name and moved to your possession, I need your assurance that you will never deny me of this funds when it must have gotten to your possession and I sincerely assure you that this will be under a very legitimate atmosphere that will shield you from any breach of the law.\nYou can read more about me and my chambers via our official website: https:/ /www.bradsmithchambers.com/\nI look forward to your response to enable us to proceed via my direct personal email here for immediate response and action.\nYours in service\nAttorney Brad Smith.   "
     },
     {
         "from": "baiter_105",
         "to": "scammer_105",
-        "subject": "Re:   STATUS: CONFIDENTIAL",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   STATUS: CONFIDENTIAL",
         "body": "Dear Attorney Brad Smith,\n\nI am surprised to hear about this situation. I did not know Dr. Jean personally, but it is always sad to hear about someone's passing.\n\nBefore we proceed, I would like to clarify a few things. Firstly, could you please provide more details about Dr. Jean and his connection to me? Secondly, I would like to understand the legal implications of this process better.\n\nI assure you that if everything is legitimate and within the bounds of the law, I will cooperate fully with you in this matter.\n\nLooking forward to your response.\n\nBest wishes,\nRebecca"
     }
 ]

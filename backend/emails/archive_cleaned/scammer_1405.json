@@ -2,21 +2,21 @@
     {
         "from": "scammer_1405",
         "to": "CRAWLER",
-        "subject": "Dear Email ID Owner,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear Email ID Owner,",
         "body": "Dear Email ID Owner,\nUSD $5,000 PAYMENT WE SENT TODAY TO PICK UP.\nThe IMF is compensating all the email address, that was fund as one of the\nward win Victims and your mail address and your name is listed one of\napproved to pay sum of $800,000.00 U.S DOLLARS. We have concluded to\neffect your own payment through Western Union Money Transfer to easy pick\nup those fund in good condition,$5,000 twice daily until the total sum of\n$800,000.00 usd is completely transferred to you. We now need your\ninformation where we will be sending the funds,such as;Receiver name(Your\nfull Name)address and phone number. Contact Western Union with this E-mail:\n( \nwunion410@gmail.com\n ) with your full information. For urgent\nenquiry call Mr.James Ibe  +229 67331010 for the payment.\nMr.James Ibe\nCall Tel; +229-67331010\nE-mail \n \nwunion410@gmail.com\n )\nCall Mr.James Ibe immediately you get this mail to enable him speed up\nyour payment immediately to released the $5000 dollar MTCN to you for your\npick up the payment OK.\n(1)Your Full name:\n(2)Your Phone number:\n(3)Your Country:\n(4)Your Age:\nThanks you,\nMr. Frank Green\nContact Dir. Western Union Money Transfer,"
     },
     {
         "from": "baiter_1405",
         "to": "scammer_1405",
-        "subject": "Re: Dear Email ID Owner,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Dear Email ID Owner,",
         "body": "Dear Mr. Frank Green,\n\nThank you for your email. I am interested in receiving the funds you mentioned. However, I would like to clarify a few things before we proceed.\n\nCould you please provide more details about the source of these funds? You mentioned that my email was found as one of the ward win Victims - could you elaborate on this?\n\nAlso, could you please confirm the total amount that is due to me? In your email, it wasn't clear how much money I should expect.\n\nHere are my details:\n\nFull Name: John Doe\nPhone Number: +1-234-567-890\nCountry: United States\nAge: 45\n\nI look forward to hearing from you soon.\n\nBest wishes,\nMichael"
     }
 ]

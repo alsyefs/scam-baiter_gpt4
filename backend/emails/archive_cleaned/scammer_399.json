@@ -2,21 +2,21 @@
     {
         "from": "scammer_399",
         "to": "CRAWLER",
-        "subject": " This is for your Attention,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " This is for your Attention,",
         "body": " This is for your Attention,\nWe wish to notify you that you were listed as beneficiary to the total\nsum of US$9 Million only in the intent of the deceased. On my first\nemail I mentioned about my late client whose relatives I cannot get in\ntouch with. But both of you have the same last name so it will be very\neasy to front you as his official next of kin. I am compelled to do\nthis because I would not want the finance house to push my clients\nfunds into their treasury as unclaimed inheritance.\nWe contacted you because you bear the Last name with our Late Client\nand therefore can present you as the Beneficiary to the inheritance\nsince there is no written will. Our legal services aim to provide our\nprivate clients with a complete service. We are happy to set-up all\nmodalities and administer Trusts,carry out the administration of\nestates. All the papers will be processed in your acceptance of this\nTransaction.\nNote that you are to furnishing me with the requested information's\nbellow immediately.\nFull names.\nContact address.\nTelephone and fax numbers.\nIf you are interested you do let me know so that I can give you\nComprehensive details on what we are to do. Waiting for your response.\nYours truly,\nMr. Eric Howard.    "
     },
     {
         "from": "baiter_399",
         "to": "scammer_399",
-        "subject": "Re:  This is for your Attention,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:  This is for your Attention,",
         "body": "Dear Mr. Eric Howard,\n\nI am interested in your proposal, but I would like to know more details about it. Could you please provide me with more information about the deceased and the process we are going to follow? \n\nHere is my information:\nFull Name: John Doe\nContact Address: 123 Main St, Anytown, USA\nTelephone: +1-555-555-5555\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKatie"
     }
 ]

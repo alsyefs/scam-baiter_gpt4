@@ -2,21 +2,21 @@
     {
         "from": "scammer_832",
         "to": "CRAWLER",
-        "subject": "  Internal Audit, Monitoring, ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Internal Audit, Monitoring, ",
         "body": "  Internal Audit, Monitoring, Consulting and Investigations Division\nFrom Mrs.Inga-Britt Ahlenius.\nUNITED NATIONS SCAM VICTIMS COMPENSATIONS PAYMENTS.\nFrom Mrs.Inga-Britt Ahlenius.\nAttn: Scam Victim.\nThis is to bring to your notice that after I retired from this office\nI was appointed again and I was delegated from the United Nations To\nCentral Bank to pay 150 scam victims $5,000,000.00 (FIVE MILLION\nUNITED STATE DOLLAR) each. You are listed and approved for this\npayment as one of the scammed victims to be paid this amount, get back\nto me as soon as possible for the immediate payments of your\n$5,000,000.00 compensation funds.\nOn this faithful recommendation, we want you to know that during the\nlast U.N. meetings held at Abuja, Nigeria, it was alarmed so much by\nthe world in the meetings on the loss of funds by various individuals\nto the scams artists operating in syndicates all over the world today.\nIn order to compensate victims, the U.N Body in conjunction with the\nNigerian Government is now paying 150 victims of these operators\n$5,000,000.00 each in accordance with the U.N. recommendations.\nDue to the corrupt and inefficient Banking Systems in Nigeria, the\npayments are to be supervised by the United Nations' Officials and the\nCentral Bank of Nigeria as the corresponding paying treasury\ndepartment United Bank of Africa According to the number of applicants\nat hand, 114 Beneficiaries have been paid, half of the victims are\nfrom the United States, we still have 36 left to be paid the\ncompensations of $5,000,000.00 each.\nYour particulars were mentioned by one of the Syndicates who was\narrested as one of their victims of the operations, you are hereby\nwarned not to communicate or duplicate this message to him for any\nreason whatsoever as the U.S. secret service is already on the trail\nof the other criminals. Other victims who have not been contacted can\nsubmit their application as well for scrutiny and possible\nconsideration.\nYou are thereby advised to contact the private officer of the treasury\ndepartment United Bank of Africa through the following information.\nName: Mark Akinshola\nEmail: \nmarkakinshola202@gmail.com\nYou will receive your compensation payments through which the options\nYou will be detailed with the modalities as you contact the private\nofficer of the treasury department United Bank of Africa.\nSincerely yours,\nMrs.Inga-Britt Ahlenius   "
     },
     {
         "from": "baiter_832",
         "to": "scammer_832",
-        "subject": "Re:   Internal Audit, Monitoring, ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Internal Audit, Monitoring, ",
         "body": "Dear Ahlenius,\n\nI am surprised and pleased to receive your email. I was indeed a victim of a scam and lost a significant amount of money. \n\nHowever, before proceeding further, I would like to verify the authenticity of this communication. Could you please provide me with some official documentation or reference that can confirm this compensation program from the United Nations and Nigerian Government?\n\nOnce I have verified this information, I will be more than happy to provide the necessary details for receiving the compensation.\n\nThank you for your understanding.\n\nBest wishes,\nCarol"
     }
 ]

@@ -2,81 +2,81 @@
     {
         "from": "scammer_345",
         "to": "CRAWLER",
-        "subject": "Attention:",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attention:",
         "body": "Attention:\nNotification!\nThis is to notify you that, we have retrieved the total sum of\n$950,000.00 from the different transaction you were involved in West\nAfrica and the money is ready to refund back to you.\nBest Regards.\nDr. Akinwumi Adesina\nPresident /Retrieving General afdb"
     },
     {
         "from": "baiter_345",
         "to": "scammer_345",
-        "subject": "Re: Attention:",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Attention:",
         "body": "Dear Dr. Akinwumi Adesina,\n\nThank you for your email. I am surprised to hear about this sum of money as I don't recall being involved in any transactions in West Africa. Could you please provide more details about the nature of these transactions and how my name came to be associated with them?\n\nBest wishes,\nJoyce"
     },
     {
         "from": "scammer_345",
         "to": "baiter_345",
-        "subject": "Re: Attention:",
         "direction": "Inbound",
-        "days_from_first_conversation": 4,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "2",
+        "subject": "Re: Attention:",
         "body": "Alright, thanks for your feedback,\r\n\r\n\r\nSo which method would you prefer to receive your funds with?\r\n\r\n\r\nPlease the options are below please get back to me with your choice.\r\n\r\n\r\n(1)An International ATM Card?\r\n\r\n(2)International Bank Draft?\r\n\r\n(3)Bank To Bank Transfer?\r\n\r\n(4)Conner it in Cash and Deliver It To You With Consignment Box?\r\n\r\n\r\nAnd secondly please Provide The Information Below.\r\n\r\n\r\nFull name\r\n\r\nCountry\r\n\r\nAge\r\n\r\nGender\r\n\r\nHome Address\r\n\r\nOccupation\r\n\r\nDirect Phone Number\r\n\r\n\r\nYour Urgent Respond Is Needed Asap As We Don’t Have Enough Time To Waist On This Transaction Anymore.\nBest Regards\r\n\r\nDr. Akinwumi Adesanya."
     },
     {
         "from": "scammer_345",
         "to": "baiter_345",
-        "subject": "Re: Attention:",
         "direction": "Inbound",
-        "days_from_first_conversation": 4,
+        "days_from_first_conversation": 1.1574074074074073e-05,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "3",
+        "subject": "Re: Attention:",
         "body": "Re: Attention:\r\nDA\r\n[X]\r\nDr. Akinwumi Adesina\r\nTo:\r\nRocky Dj Rasekhumba\r\nSat 9/23/2023 11:52 PM\r\nAlright, thanks for your feedback,\r\n\r\nSo which method would you prefer to receive your funds with? Please the options are below please get back to me with your choice.\r\n\r\n(1)An International ATM Card?\r\n(2)International Bank Draft?\r\n(3)Bank To Bank Transfer?\r\n(4)Conner it in Cash and Deliver It To You With Consignment Box?\r\n\r\nAnd secondly please Provide The Information Below.\r\n\r\nFull name\r\nCountry\r\nAge\r\nGender\r\nHome Address\r\nOccupation\r\nDirect Phone Number\r\n\r\nYour Urgent Respond Is Need As"
     },
     {
         "from": "scammer_345",
         "to": "baiter_345",
-        "subject": "Re: Attention:",
         "direction": "Inbound",
-        "days_from_first_conversation": 4,
+        "days_from_first_conversation": 6.944444444444444e-05,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "4",
+        "subject": "Re: Attention:",
         "body": "Alright, thanks for your feedback,\r\n\r\n\r\nSo which method would you prefer to receive your funds with?\r\n\r\n\r\nPlease the options are below please get back to me with your choice.\r\n\r\n\r\n(1)An International ATM Card?\r\n\r\n(2)International Bank Draft?\r\n\r\n(3)Bank To Bank Transfer?\r\n\r\n(4)Conner it in Cash and Deliver It To You With Consignment Box?\r\n\r\n\r\nAnd secondly please Provide The information Below.\r\n\r\n\r\nFull name\r\n\r\nCountry\r\n\r\nAge\r\n\r\nGender\r\n\r\nHome Address\r\n\r\nOccupation\r\n\r\nDirect Phone Number\r\n\r\n\r\nYour Urgent Respond Is Needed Asap As We Don’t Have Enough Time To Waist On This Transaction Anymore."
     },
     {
         "from": "baiter_345",
         "to": "scammer_345",
-        "subject": "Re: Attention:",
         "direction": "Outbound",
-        "days_from_first_conversation": 4,
+        "days_from_first_conversation": 0.008368055555555556,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "5",
+        "subject": "Re: Attention:",
         "body": "Dear Dr. Akinwumi Adesina,\n\nThank you for your prompt response. I would prefer the Bank to Bank Transfer method for receiving the funds.\n\nHere are my details:\n\nFull name: Eliza Dane\nCountry: Australia\nAge: 35\nGender: Female\nHome Address: 25 Sydney Road, Sydney, NSW 2000, Australia\nOccupation: Software Engineer\nDirect Phone Number: +61-2-9876-5432\n\nLooking forward to your next steps.\n\nBest wishes,\nJoyce"
     },
     {
         "from": "scammer_345",
         "to": "baiter_345",
-        "subject": "Re: Attention:",
         "direction": "Inbound",
-        "days_from_first_conversation": 5,
+        "days_from_first_conversation": 0.9873263888888889,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "6",
+        "subject": "Re: Attention:",
         "body": "Alright, your funds have been converted into an bank  draft ,so the only thing delaying right now is that you your bank draft required a proper activation,\r\n\r\nI have already deposited and covert your funds into an Bank draft\r\n\r\nSo the only thing delaying right now is that  your Bank draft must be well activated to enable the Bank draft to be acceptable in every part of the world.\r\n\r\nAnd the activation fee is 800 dollars, after I\r\nExplained the situation to Sir Charles Feeney,he transferred the last 500 dollars that he has access to on your behalf. So the fee is remaining 300 dollars,if you can be able to send the 300 dollars,I will get yourBank  Drat activated and you will receive it in the next 24 hours after you send the money because our delivery only take 24 hours to get to the beneficiary destination.\r\n\r\nThat's the current situation now.so everything depends on you now."
     },
     {
         "from": "scammer_345",
         "to": "baiter_345",
-        "subject": "Re: Attention:",
         "direction": "Inbound",
-        "days_from_first_conversation": 5,
+        "days_from_first_conversation": 0.9873263888888889,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "7",
+        "subject": "Re: Attention:",
         "body": "Alright please get back to me with your bank details so that I can process the transfer without any further delay.\r\n\r\nBank name\r\nBank address\r\nAccount number\r\nRouting number\r\nAccount name\r\n\r\nPlease get back to me ASAP with the required information.\r\n\r\n\r\n\r\n\r\n\r\nAlright, your funds have been converted into an bank  draft ,so the only thing delaying right now is that you your bank draft required a proper activation,\r\n\r\nI have already deposited and covert your funds into an Bank draft\r\n\r\nSo the only thing delaying right now is that  your Bank draft must be well activated to enable the Bank draft to be acceptable in every part of the world.\r\n\r\nAnd the activation fee is 800 dollars, after I\r\nExplained the situation to Sir Charles Feeney,he transferred the last 500 dollars that he has access to on your behalf. So the fee is remaining 300 dollars,if you can be able to send the 300 dollars,I will get yourBank  Drat activated and you will receive it in the next 24 hours after you send the money because our delivery only take 24 hours to get to the beneficiary destination.\r\n\r\nThat's the current situation now.so everything depends on you now."
     }
 ]

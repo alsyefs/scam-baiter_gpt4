@@ -2,21 +2,21 @@
     {
         "from": "scammer_89",
         "to": "CRAWLER",
-        "subject": "   Dear ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Dear ",
         "body": "   Dear \nThank you for speaking your mind, but you don't have to back out on the deal considering my effort and monies I have put thus far to bring the deal to this final stage.\nWhat is most important at this point is to get the funds transferred in your account without delay, so paying with Ria will take only a day which will facilitate the process while account will take 4 working days. Therefore, I will advise you adhere to the bank instruction by ensuring the payment is made via Ria to enable us conclude the project immediately.\nMy savings currently has zero balance, due huge sum I have spent if not I would have asked you for details to make the payment from here but I don't have the financial wherewithal.\nThanks.\nTruly yours,\nAnung Prabawa  "
     },
     {
         "from": "baiter_89",
         "to": "scammer_89",
-        "subject": "Re:    Dear ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    Dear ",
         "body": "Hello Anung Prabawa,\n\nThank you for your response. I appreciate your dedication to this project and understand the urgency of the situation. \n\nI'm not very familiar with Ria, could you please explain how it works? Also, is there any other way we can facilitate this process without using Ria?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nTimothy"
     }
 ]

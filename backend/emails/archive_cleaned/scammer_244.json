@@ -2,21 +2,21 @@
     {
         "from": "scammer_244",
         "to": "CRAWLER",
-        "subject": "   Dear  ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Dear  ",
         "body": "   Dear  \nGood Morning\n                      FINAL REMINDER TO AVOID CONFISCATION.\nThis is to put to your notice that the above is the information associated with your funds US$5M dollars which have been approved and are in our custody and our bank has finally and safely moved your funds to the Security Vault after the 1st Fiscal Quota of the year 2023.\nThe Board of Directors has advised and instructed me to email you with immediate effect and also forward you the Video of your funds being presently deposited at the security vault.\nPlease kindly Watch the video of your funds being deposited at the security vault & get back to me.\nPlease are you interested to proceed and claim your funds out of the Security Vault?\nConfirm receipt of email\nHave a pleasant day and stay healthy\nWaiting for your swift response.\nThanks for your co-operation\nYours Sincerely,\nDavid Champion\nAccess Credit & Investment Bank United Kingdom\nTel:+447452343957  "
     },
     {
         "from": "baiter_244",
         "to": "scammer_244",
-        "subject": "Re:    Dear  ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:    Dear  ",
         "body": "Dear David Champion,\n\nThank you for your email. I am interested in proceeding with the claim of my funds from the Security Vault. Could you please provide me with more details on how to proceed?\n\nBest wishes,\nJames"
     }
 ]

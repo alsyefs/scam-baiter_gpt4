@@ -2,21 +2,21 @@
     {
         "from": "scammer_29",
         "to": "CRAWLER",
-        "subject": "    Dearest,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "    Dearest,",
         "body": "    Dearest,\nI sent a mail to you before, but did not hear from you, however I want you to know that it is very much important that you reply to this mail and cooperate with me so that your accrued interest amount of USD3,330,000 will be paid to you. It is because of the respect I have for you that made me contact you again just to assist you to receive your ATM Card because of what you have gone through in the past. Please be informed that I am not promising to pay your full inheritance/contract fund which the corrupt officials have colonized but rather I want to pay you only the accumulated interest which I know it's very possible to pay to you through ATM Card. I am contacting you in order to pay this accumulated interest amount to you. This is your chance and opportunity so there is no point delaying or wasting time.\nI am an honorable and sincere man and my words are more than a written guarantee you can ever think of. I don't believe in protocols. I am given you my words of honor as a guarantee that I will load the ATM Card with your accumulated interest amount of USD3,330,000 and have it delivered to you by EMS Speed post as soon as you confirm your readiness to pay the courier fee in other to receive your ATM Card through EMS Speed Post Courier. EMS Speed Post simply means Express Mail Services Speed Post and it is a Federal Government owned Courier Services Company that is very well secured and efficient. Note that I have a part to play in this transaction, therefore be informed that I have paid for the ATM Card processing and bank charges so it is fair you take care of the courier cost.\nYou will have nothing to worry about as your ATM Card WILL NOT be stopped by any Customs, Police or Immigration at your Airport. EMS Speed Post is a Federal Government Embassy Courier Service Company. Please I am a very busy man and I would like to have this ATM Card dispatched to you as quickly as possible hence l will not be available to exchange emails with you at all times.\nSo if you are interested in receiving this accumulated interest loaded in an ATM Card and dispatched to you, then contact me immediately with your address and telephone number. I really want to assist you and I want you to forget about your past experience and what you have gone through in the past and focus on this accumulated interest amount and I assure you that you MUST receive your ATM Card.\nYours faithfully,\nMr. Chris Innocent\nInternet/Computer Banking Department\nCentral Bank of Nigeria  "
     },
     {
         "from": "baiter_29",
         "to": "scammer_29",
-        "subject": "Re:     Dearest,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:     Dearest,",
         "body": "Hello Mr. Chris Innocent,\n\nI appreciate your email and the opportunity you're presenting to me. It's quite intriguing, I must say. However, I have a few questions that I hope you wouldn't mind answering.\n\nFirstly, could you please explain more about this accrued interest? How did it come about and why is it being offered to me specifically?\n\nSecondly, you mentioned an ATM card loaded with the interest amount. Could you provide more details on how this works? Is it like a regular debit card that I can use at any ATM?\n\nLastly, regarding the courier fee for EMS Speed Post, could you give me an estimate of how much this might cost? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLeona"
     }
 ]

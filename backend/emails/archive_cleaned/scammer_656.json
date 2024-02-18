@@ -2,31 +2,31 @@
     {
         "from": "scammer_656",
         "to": "baiter_656",
-        "subject": "Attention: Jeanette,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
-        "conversation_counter": "0",
+        "conversation_counter": "1",
+        "subject": "Attention: Jeanette,",
         "body": "Attention: Jeanette,\r\n\r\nThe registration code is (9665776) please Contact with your delivery\r\ninformation:DHL COMPANY Name; Dr, Greg Hewitt,Email: ( dhlusa@usa.com\r\n)we have paid for the Insurance & Delivery fee. The only fee you have\r\nto pay is their Security fee only $538.Please indicates the\r\nregistration Number of (9665776) Furnish them with your Address and\r\nPhone number for your delivery.\nBest Regards\r\nMrs. Rose Koffi"
     },
     {
         "from": "baiter_656",
         "to": "scammer_656",
-        "subject": "Re: Attention: Jeanette,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
-        "conversation_counter": "1",
+        "conversation_counter": "2",
+        "subject": "Re: Attention: Jeanette,",
         "body": "Hello Mrs. Rose Koffi,\n\nThank you for your message. I'm thrilled to hear about the delivery! Could you please provide me with more details? What exactly is this delivery for? And could you clarify what the security fee is and why it's necessary?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJeanette"
     },
     {
         "from": "scammer_656",
         "to": "baiter_656",
-        "subject": "Re: Attention: Jeanette,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.8936458333333334,
         "startegy": "gpt-4-Chat1",
-        "conversation_counter": "2",
+        "conversation_counter": "3",
+        "subject": "Re: Attention: Jeanette,",
         "body": "Hello  Jeanette,\r\n\r\nThe Security keeping fee of $538 is belonging to the DHL where I registered\r\nyour ATM Card, and why the Security keeping fee is  necessary and\r\nmandatorily is in order the DHL where I registered your ATM Card to  enable\r\nthem deliver the ATM Card to your address and without you be pay DHL their\r\ndelivery fee they could not deliver the ATM card to you while if pay them\r\ntheir security keeping fee they will deliver the ATM Card to you that's why\r\nit's necessary.\r\n\r\nContact DHL Office where I been registered yourATM Card, and try to send\r\nthem their  security keeping fee when you contact them at  ( *dhlusa@usa.com\r\n<dhlusa@usa.com>* )\r\n\r\nBest wishes,\r\nMrs. Rose Koffi,\r\n\r\n-- \r\nAttention: Please!!!\r\n\r\nYour compensation of your $900,000.00 has been credited into atm and I have\r\nregistered your ATM CARD with DHL EXPRESS SERVICEPOINT LOS ANGELES courier\r\nCompany USA,customer service with registration code of (9665776) please\r\nContact with your delivery information:DHL COMPANY Name; Dr, Greg\r\nHewitt,Email: ( dhlusa@usa.com )we have paid for the Insurance & Delivery\r\nfee. The only fee you have to pay is their Security fee only $105.Please\r\nindicates the registration Number of (9665776) Furnish them with your\r\nAddress and Phone number for your delivery.\nBest Regards\r\nMrs. Rose Koffi"
     }
 ]

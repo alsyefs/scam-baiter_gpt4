@@ -2,21 +2,21 @@
     {
         "from": "scammer_93",
         "to": "CRAWLER",
-        "subject": "Now Listen Bill,Attention Fund",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Now Listen Bill,Attention Fund",
         "body": "Now Listen Bill,Attention Fund Disburrsement Ownership,\njames nnadi\nAttention Fund Disburrsement Ownership, Email; \njamesnnadindcshsbcimfun@gmail.com\n \n \nAttention Fund Disburrsement Ownership,\nEmail;  jamesnnadindcshsbcimfun@gmail. com\nNow Listen,\nReconfirm your Residential Address, Your Mobile phone Number Your\nPrivate Email Address,Your Full Name and your Next of Kin,The Nearest\nInternational Airporrt.\nYour Fund Expectation Amout with Online banking with the Finance\nBank.\nOffiical amount for Diplomatic Delivery Shipping Agency 1750\ndollars only \nwith Diplomatic Tracking Number with Seal of Authority\nPaymment method for your fund Dilomatic delivery of your fund/ATM\nCards and other valid 22 Had copies is by Bitoin, Is better and save\nfor safety and security reasons.\nWaiting for your Urgent Reply here.\nThank you and God Bles you.\nYours in Service.\nDiplomat James Nnadi.\nUN and ECOWAS Representative."
     },
     {
         "from": "baiter_93",
         "to": "scammer_93",
-        "subject": "Re: Now Listen Bill,Attention Fund",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Now Listen Bill,Attention Fund",
         "body": "Dear Diplomat James Nnadi,\n\nThank you for your email. However, I must inform you that I am not expecting any funds and I believe there may be a mistake. Could you please provide more details about the origin of these funds?\n\nBest wishes,\nKatherine"
     }
 ]

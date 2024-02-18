@@ -2,21 +2,21 @@
     {
         "from": "scammer_708",
         "to": "CRAWLER",
-        "subject": "  Beneficiary,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Beneficiary,",
         "body": "  Beneficiary,\nWe are so sorry for the delay in making your contract and inheritance\npayment to you for such a long time now.\nKindly acknowledge receipt of this mail and please furnish me with the\nbelow information's.\n1.Your real names and address:\n2.Your telephone number and fax:\n3.Your age/Occupation:\n4:Your international passport/drivers license\n5.Your receiving bank information\n6.Your total payment value amount:\nAll these I will use and secure fresh payment approvals in your names\nand favor through this mode payment so that it will be easy for you.\nFaithfully,\nDr. Clement Soda\nInternational telex Director   "
     },
     {
         "from": "baiter_708",
         "to": "scammer_708",
-        "subject": "Re:   Beneficiary,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Beneficiary,",
         "body": "Hello Dr. Clement Soda,\n\nThank you for reaching out to me and I appreciate your patience in this matter. I understand that you need some information to proceed further, however, due to privacy concerns, I am unable to provide the details you requested.\n\nCould you please explain a bit more about the contract and payment? What is it for exactly? And why do we need fresh payment approvals?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nStanley"
     }
 ]

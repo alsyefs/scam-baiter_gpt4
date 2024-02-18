@@ -2,21 +2,21 @@
     {
         "from": "scammer_707",
         "to": "CRAWLER",
-        "subject": "  Dear Friend,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear Friend,",
         "body": "  Dear Friend,\nI and my committee members have a need for an individual Who is\nwilling to partner with us and pay your Overdue contract payment\nValued the total sum of $20 Million procured overseas. you can now\ncontact the United Nation USA with the information below and they are\nthe people who are in charge of your payment now. for your earlier\nInformation, Make Sure that all your Documents as the Beneficiary is\nready, you can mow contact the United Nation with their contact,and\nOnce you contacted them you shall respond to us immediately.\nMr.Robert Smith.\nUnited Nation USA.\nEmail:robert_s26@aol.com\nBest Regards,\nDr John Joe\nMy Whats app Line\n+233 2760 90480   "
     },
     {
         "from": "baiter_707",
         "to": "scammer_707",
-        "subject": "Re:   Dear Friend,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Dear Friend,",
         "body": "Hello Dr. John Joe,\n\nThank you for reaching out to me with this interesting opportunity. I'm intrigued by the prospect of partnering with your committee and assisting in the payment process.\n\nCould you please provide more details about this contract? What would be my role and responsibilities in this partnership? Also, could you clarify what documents are required?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nZachary"
     }
 ]

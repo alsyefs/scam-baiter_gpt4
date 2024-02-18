@@ -2,21 +2,21 @@
     {
         "from": "scammer_1376",
         "to": "CRAWLER",
-        "subject": " How are you doing today  ?  I",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " How are you doing today  ?  I",
         "body": " How are you doing today  ?  I just want to let you know that our customer Mrs. Daniella Johnson emailed me on Thursday 27th April asking about you, she lamented that you have decline to reply her numerous emails to you since. She further explained that her health condition at the hospital is quite deteriorating, haven been weakened by the Lung Cancer and wants to know if the transaction is completed into your bank account. I have updated her already regarding the transfer and what is holding it from completion. \nHowever, my advice to you is to email her back immediately and let her know everything she needs to know about the current state of the transaction because she told me that she is already in search of someone else to replace you as her next of kin but i told her to wait for you patiently since you haven't get back to me concerning our agreement we had last week about the payment of the $199, which is the only thing holding this transaction at the moment.\nI want you to understand that this transaction is already close to completion. So you should endeavor to try your best and get back to me as soon as possible because she is waiting to know if you are no longer interested to carry out the transaction as scheduled so that she can replace you.\nDr. Marthines H. Zinssou\nDirector Foreign Remittance Department\nECO BANK PLC.\n+22962108096   "
     },
     {
         "from": "baiter_1376",
         "to": "scammer_1376",
-        "subject": "Re:  How are you doing today  ?  I",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:  How are you doing today  ?  I",
         "body": "Hello Dr. Marthines H. Zinssou,\n\nI hope this message finds you well. I'm sorry to hear about Mrs. Daniella Johnson's health condition, it must be a tough time for her.\n\nI'm a bit confused about the situation though, could you please clarify what exactly is expected of me? And what does \"the\" refer to in your message?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJames"
     }
 ]

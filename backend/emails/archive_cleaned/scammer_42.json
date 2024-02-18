@@ -2,21 +2,21 @@
     {
         "from": "scammer_42",
         "to": "CRAWLER",
-        "subject": "FedEx Nigeria Office",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "FedEx Nigeria Office",
         "body": "FedEx Nigeria Office\n70 International Airport Road,\nMafoluku, Lagos Nigeria.\nGood day\nThis mail is to inform you of your registered package CONTENT: ATM Card worth US$950,000.00 registered by an official of the United Nations. The Fund is a donation to you from the U.N through e-mails balloting in affiliation with the commonwealth poverty eradication program.\nThe Pin code and instructions on how to use the card is inside the package with the ATM Card and you can make withdrawal in any location of the ATM machine of your choice/nearest to you anywhere in your country.\nPlease note: The VAT and COD has been paid and \nthe only money you will have to pay is the security keeping fee of $150 only must be paid before shipment.\nYou are hereby requested to forward below details to FedEx Delivery Department Mr.Henry Dan, with this email (\nairportfile02@aol.com\n) for shipment of the package to you.\n1. Your Full Name\n2. Your Mobile Phone Number\n3. Your Contact Address\nEnsure to contact FedEx Delivery Department Mr.Henry Dan, as soon as possible.\nRegards\nHenry Daniel."
     },
     {
         "from": "baiter_42",
         "to": "scammer_42",
-        "subject": "Re: FedEx Nigeria Office",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: FedEx Nigeria Office",
         "body": "Dear Henry Daniel,\n\nThank you for your email. However, I am a bit confused about the process. Could you please clarify what the security keeping fee is and why it must be paid before shipment? \n\nAlso, could you provide more information about this ATM card and how it relates to my green card application?\n\nLooking forward to your response.\n\nBest regards,\nLewis D.\n\nBest wishes,\nCharlotte"
     }
 ]

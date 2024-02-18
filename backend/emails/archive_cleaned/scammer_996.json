@@ -2,21 +2,21 @@
     {
         "from": "scammer_996",
         "to": "CRAWLER",
-        "subject": "  Hello ,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Hello ,",
         "body": "  Hello ,\nMy name is Mr. Carlos  Muzumbi from Angola and I live in America. I got your country through ( Google Search/ Investment & Partnership) . I want to know if it's possible to invest in the following below in your country.\n1, Agriculture / Animals Husbandry\n2. Manufacturing or Trading Company\n3. Property Development and project like  SHOPPING MALL PLAZA\n4. Fuel Transportation/ Station\nMy late father established a business relationship in your country before he died , so I want to continue that relationship to invest in your country.\nINVESTMENT FUND : US$ 8,500,000\nHere is my Email: \nmuzumbijose0@gmail.com\nAwait your reply\nMr. Carlos J Muzumb   "
     },
     {
         "from": "baiter_996",
         "to": "scammer_996",
-        "subject": "Re:   Hello ,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Hello ,",
         "body": "Hello Mr. Carlos Muzumbi,\n\nIt's a pleasure to hear from you and your interest in investing in my country. I'm not an expert, but I can certainly share some general information about the sectors you're interested in.\n\nAnimal Husbandry is a significant part of our economy, with many opportunities for investment. There are various types of livestock farming available, including cattle, poultry, and sheep.\n\nTrading Companies also play a crucial role in our economy. They deal with a wide range of products and services, providing ample opportunities for investors.\n\nAs for property investments like Shopping Mall Plazas and Fuel Stations, these are also popular investment options here. The real estate market has been growing steadily over the years.\n\nHowever, it's important to note that each of these sectors has its own set of regulations and requirements for foreign investors. It would be best if you consult with a local business advisor or attorney who specializes in foreign investments to get detailed and accurate information.\n\nI hope this helps! If you have any other questions or need further clarification on anything, feel free to ask!\n\nBest wishes,\nPeggy"
     }
 ]

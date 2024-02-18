@@ -2,21 +2,21 @@
     {
         "from": "scammer_827",
         "to": "CRAWLER",
-        "subject": "  Dear ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear ",
         "body": "  Dear \nThank you for contacting our department in behalf of your transaction opened with eBay Motors Protection Program.\nPayment pending....\nAll you have to do to make the payment is to go at any major retailer in your area with cash or debit/credit card and buy the eBay Cards. You can buy it from Dollar General, CVS, 7 Eleven, BEST BUY, Kroger, SAFEWAY, Albertsons, Winn Dixie, Lowe's, Fred Meyer, Pavillions, Ralph's, A & P, HEB, Pathmark and there you should buy as many eBay Cards as you need.\nFor your purchase you need to buy 4 X $200 eBay Cards. \nAfter you bought them you have to confirm the payment by replying to this email, the following information:\n- eBay Card -13 DIGIT NUMBER (scratch-off the portion covering the code). \n- Pictures with the back of the eBay Cards where we can see the PIN Numbers (color pictures & readable, clear). \n- Picture of the payment receipt readable.\nFor any questions reply at: Support Department\nThank you for using the eBay Service !  "
     },
     {
         "from": "baiter_827",
         "to": "scammer_827",
-        "subject": "Re:   Dear ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Dear ",
         "body": "Dear Sir/Madam,\n\nThank you for your response. I understand that I need to purchase the Cards from a major retailer in my area and then provide you with the Card DIGIT NUMBER, pictures of the back of the Cards showing the PIN Numbers, and a picture of the payment receipt.\n\nHowever, before proceeding with this transaction, could you please clarify which type of Cards I should buy? There are many types available at these retailers and I want to ensure I purchase the correct ones.\n\nLooking forward to your prompt response.\n\nBest wishes,\nIris"
     }
 ]

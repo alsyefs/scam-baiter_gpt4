@@ -2,21 +2,21 @@
     {
         "from": "scammer_915",
         "to": "CRAWLER",
-        "subject": " Attn: ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " Attn: ",
         "body": " Attn: \nMy name is Adam Fletcher, Chief inspection agent of United Nations\nInspection Unit at one of the international airports in the United States\nhere (Undisclosed).\n \nWe discovered an abandoned shipment from a diplomat and\nwhen scanned it revealed an undisclosed sum of money in the box and your\nname and address was tagged on it. The consignment was abandoned because\nthe contents was not properly declared by the delivery agent as money\nrather it was declared as personal effects to avoid diversion by the\nshipping agent.\nWe will have smooth delivery of the consignment to you with\nall detailed information that will be needed for claim on your behalf if\nyou will assure us your readiness to claim the shipment and secure it in\nyour possession. Sharing and other conditions will be discussed once we\nhear from you. You can call me on this number +1281-861-1404. Thank you.\nRegards\nAdam Fletcher\nChief inspection agent of United Nations    "
     },
     {
         "from": "baiter_915",
         "to": "scammer_915",
-        "subject": "Re:  Attn: ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:  Attn: ",
         "body": "Dear Adam Fletcher,\n\nThank you for your message. I am surprised to hear about this abandoned shipment tagged with my name and address. I would like to know more details about this situation.\n\nCould you please provide me with more information about the origin of the shipment, the diplomat who was supposed to deliver it, and why it was abandoned? Also, could you clarify what you mean by \"secure it in your Sharing\"?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nCurtis"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_339",
         "to": "CRAWLER",
-        "subject": "This is at least the second ti",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "This is at least the second ti",
         "body": "This is at least the second time I am contacting you for the inheritance fund of late Engineer Larry who share the same last name with you.\nThough I am a junior staff in the bank I am his personal account officer till his demise due to the covid19 pandemic. He left a valuable sum of 8.7 million USD without a written Will. I am contacting you to present you to the bank as His Next of Kin.\nI will give you more information about this once I hear from you should you be interested to mutually partner with me to execute this deal. I will let you know how to apply as his next of kin and be accepted by the bank.\nGet back to me with your full name, telephone number and Home address\n.\nThank you.\nYours sincerely,\nDouglas E.D Foster."
     },
     {
         "from": "baiter_339",
         "to": "scammer_339",
-        "subject": "Re: This is at least the second ti",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: This is at least the second ti",
         "body": "Hello Douglas Foster,\n\nWow, that's quite a story! I can't believe I share the same last name with late Engineer Larry. It's such a small world, isn't it? \n\nI'm intrigued by your proposal and would love to hear more about this deal. How did you find me? And how does one go about applying as next of kin?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nJessica"
     }
 ]

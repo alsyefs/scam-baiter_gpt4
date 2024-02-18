@@ -2,21 +2,21 @@
     {
         "from": "scammer_693",
         "to": "CRAWLER",
-        "subject": "Hello xxx",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Hello xxx",
         "body": "Hello xxx\nHope you are safe in good health regards to Covid-19 situation?\nI need your assistance and partnership for a profitable investment opportunity in the US, that I can invest money for reasonable annual return, please get back to me.\nThank you\nJakob Weber"
     },
     {
         "from": "baiter_693",
         "to": "scammer_693",
-        "subject": "Re: Hello xxx",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Hello xxx",
         "body": "Hello Jakob Weber,\n\nI hope this message finds you well. It's great to hear from you and I appreciate your interest in seeking my assistance for a profitable investment in the US.\n\nCould you please provide more details about the type of investment you're considering? Are there any specific sectors or industries that have caught your attention?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDennis"
     }
 ]

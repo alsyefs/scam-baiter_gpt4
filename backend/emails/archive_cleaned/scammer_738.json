@@ -2,21 +2,21 @@
     {
         "from": "scammer_738",
         "to": "CRAWLER",
-        "subject": "Please pardon me, i will love ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Please pardon me, i will love ",
         "body": "Please pardon me, i will love to help poor people through you' I thought I would message you to ask if you can handle it. Please don't be angry?\nWaiting for your clarification.\nSenior HR Manager,\nBureau Fange Group"
     },
     {
         "from": "baiter_738",
         "to": "scammer_738",
-        "subject": "Re: Please pardon me, i will love ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Please pardon me, i will love ",
         "body": "Hello there,\n\nThank you for reaching out to me. I'm always interested in helping those in need. Could you please provide more details about how I can assist through your organization? What kind of help are you looking for?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDenise"
     }
 ]

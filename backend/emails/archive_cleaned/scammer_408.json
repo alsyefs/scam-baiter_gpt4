@@ -2,21 +2,21 @@
     {
         "from": "scammer_408",
         "to": "CRAWLER",
-        "subject": "  HELLO",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  HELLO",
         "body": "  HELLO\nWHAT IS HAPPENING?PLEASE GET BACK\nTHANKS\nEZE WEST   "
     },
     {
         "from": "baiter_408",
         "to": "scammer_408",
-        "subject": "Re:   HELLO",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   HELLO",
         "body": "Hello Eze West,\n\nI'm not quite sure what you mean by \"get back\". Could you please provide more context or elaborate on that? I'm always eager to learn new things!\n\nLooking forward to your response.\n\nBest wishes,\nEwa"
     }
 ]

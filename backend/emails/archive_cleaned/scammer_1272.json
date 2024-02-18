@@ -2,21 +2,21 @@
     {
         "from": "scammer_1272",
         "to": "CRAWLER",
-        "subject": "Hello Beloved,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Hello Beloved,",
         "body": "Hello Beloved,\nit is obvious that this letter may come to you as a surprise but\nnevertheless, I humbly ask for your attention and hear me well. My\nname is Mrs. Susan Smith I am 54 years old and I am married to Mr.\nWilliam Smith, and we were married for a period of 30 years before he\ndied in 2017.\nWe were married for 30 years without a child and he died after a brief\nillness and since his death I decided not to remarry due to my\nreligious belief and old age. When my late husband was alive he\ndeposited the sum of  three million five hundred thousand Euros (3.5\nMillion Euros) with a Bank here. Presently this money is still in the\ncustody of the Bank. Recently, my Doctor told me that I would not last\nfor the next four months due to my cancer illness.\nHaving known my condition I decided to donate this money to churches,\norganizations or good people that will utilize this fund the way I am\ngoing to instruct for a proper idea on how this fund would be used.\nI want you to use this money for charity organizations, orphanages,\nwidows and other people that are in need. I took this decision because\nI don't have any child that will inherit this money. Moreover, my\nhusband's relatives are not close to me since I developed cancer\nillness and it had been their wish to see me dead so as to enable them\nto inherit his wealth, hence we have no Child. These people are not\nworthy of this inheritance. This is why I am taking this decision to\ncontact you and donate this fund to you for the charity works.And 30%\nof this money will be for your time and effort, while 70% goes to\ncharities.\nAs soon as I receive your reply, I will give you the contact of the\nBank where this fund is deposited by my deceased husband before his\nsudden death, also I will instruct our family lawyer to issue letter\nof authorization to the bank that will present you the beneficiary of\nthis fund and I also want you to always put me in your daily prayer.\nAny delay in your reply may give me room to look for another good\nperson for this same purpose. Please assure me that you will act\naccordingly as I stated above.\nThanks and Remain blessed.\nYours sister\nMrs. Susan Smith"
     },
     {
         "from": "baiter_1272",
         "to": "scammer_1272",
-        "subject": "Re: Hello Beloved,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Hello Beloved,",
         "body": "Hello Mrs. Susan Smith,\n\nI'm deeply moved by your story and I'm sorry to hear about your current health condition. It's admirable that you want to use your funds for charity and help those in need.\n\nHowever, I have a few questions before we proceed further. Could you please tell me more about the charities or causes you are passionate about? Also, could you provide more details about how this process will work?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJohn"
     }
 ]

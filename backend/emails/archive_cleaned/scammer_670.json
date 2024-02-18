@@ -2,21 +2,21 @@
     {
         "from": "scammer_670",
         "to": "CRAWLER",
-        "subject": "  U.S Department of the Treasu",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  U.S Department of the Treasu",
         "body": "  U.S Department of the Treasury\nAddress: 1500\nPennsylvania Avenue,\nNW, in Washington,\nD.C USA\nAttention: Unpaid Beneficiary\nBased on the meeting held with the President of the United States, Joe\nBiden, United Nations, and the IMF officials on your payment, I'm\nwriting to inform you that your payment file appeared to pay you a\npartial payment of $10.5 Million of your Inheritance fund in this\nmiddle of Year.\nBut unfortunately we have a misunderstanding with one Mrs. ROSE MARTINS who\nclaimed that she is the next of kin to the fund that you instructed\nher to receive on your behalf because you are totally sick and cannot\nwork or answer calls.\nWe are very confused about this because the authority instructed me to\ncontact you for us to know if what she is telling is true or not as\nShe forwarded this bank details to us for the remittance of the fund.\n1, ACCOUNT HOLDER: ROSE MARTINS\n2. BANK NAME: BANK OF AMERICA\n3. BANK ADDRESS: Kerrville Texas 78028 USA\n4. ACCOUNT #: 3202650\n5. ROUTING #: 114922443\nAfter she provided the account, she instructed us not to inform you\nthat we should transfer the fund to the account directly because she\nis the next of kin to pay US$370 for the dispensation bill.\nKindly check the above account and name if we should release the fund to her.\nContact me as quickly as you confirm the receipt of this mail.\nDon't keep us waiting for your own good.\nJustice delayed is justice denied.\nGreetings,\nJanet Yellen\nUnited States Secretary of the Treasury\nCC: (FBI)\nCC: (CIA)\nCC: (UNITED NATIONS)\nCC: (FEDERAL RESERVE BANK)  "
     },
     {
         "from": "baiter_670",
         "to": "scammer_670",
-        "subject": "Re:   U.S Department of the Treasu",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   U.S Department of the Treasu",
         "body": "Hello Janet Yellen,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I wasn't aware that there was any fund in my name. \n\nAs for Mrs. Rose Martins, I'm afraid there might be some misunderstanding. While I do know a Rose, she's not related to me nor is she my next of kin. Also, I'm not sick and am perfectly capable of answering calls and working.\n\nCould you please provide more details about this fund? How did it come into existence? And why was it assigned to me?\n\nLooking forward to your response.\n\nBest wishes,\nEdward"
     }
 ]

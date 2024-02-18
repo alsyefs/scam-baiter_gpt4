@@ -2,21 +2,21 @@
     {
         "from": "scammer_647",
         "to": "CRAWLER",
-        "subject": " ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " ",
         "body": " \nhansomlawchambers@lawyer.com\n11/13/17\nHow much do you have with you and i want to know if you are ready to receive the money ondear diplomatic way i will inform the bank to send you the money through diplomat and are you ready to pay the charge if the diplomat arrived there to call you on phone you have to send him at the airport to pay the clearance fee which is £2,5000 am waiting to hear from you soon  "
     },
     {
         "from": "baiter_647",
         "to": "scammer_647",
-        "subject": "Re:  ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:  ",
         "body": "Hello there,\n\nThank you for reaching out to me. I'm quite intrigued by your proposal, it sounds very interesting! Could you please provide more details about this diplomatic way of receiving money? Also, could you clarify what the clearance fee is for and how much it would be?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDenise"
     }
 ]

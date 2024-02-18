@@ -2,21 +2,21 @@
     {
         "from": "scammer_999",
         "to": "CRAWLER",
-        "subject": "  From: nancyddu664 <nancyddu6",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  From: nancyddu664 <nancyddu6",
         "body": "  From: nancyddu664 <nancyddu664@gmail.com>\nSent: Thursday, October 21, 2021 \nSubject: RE: -- Compliment of the season I am Mrs. Sandra Arline.\n Compliment of the season\nI am Mrs. Sandra Arline. I was born in Makati, Philippines. but lived\nwith my husband in California.United State of America for a long time\nuntil he died. I have been fighting cancer. My condition is getting worse\nday by day.\nI lost my husband on February 16 2018. Meanwhile I have been fighting\nfrom cancer I have had for a long time and my doctor said that now the\nstage of my disease is out of control and I have a few more months to\nlive.\nBefore my husband's death, he had a $2.8 million United State dollars\ncontract in Turkish, but his death took him before\nthe money was transferred to my bank account, while my husband was a\nphilanthropist before his death , He also encouraged me to help poor,\norphans and widows because since we got married, we couldn't have\nchildren until death separates us.\nNow Due to my state of health, I have sent One million dollars to my\nfamily back home ( Philippines) and have deposited $800,000. dollars to\nthe hospital for my treatment.\nI want to send the remaining One million dollars to you so that you\nwill help me give it to poor people and widows in your country, As\nordered by my late husband because we have no children to inherit this\nmoney, do not discriminate against religion, ethnicity when\ncontrolling this project. I want to give this money to the less\nfortunate people there through you,  I pray that God will give you a\nkind heart to take care of this project sincerely because I will not\nbe there to watch you for this project but God will be there to see\nyou, you have to take 40% of the money for your personal use and use\nthe other for charity.\nThanks and God bless us\nMrs. Sandra Arline   "
     },
     {
         "from": "baiter_999",
         "to": "scammer_999",
-        "subject": "Re:   From: nancyddu664 <nancyddu6",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   From: nancyddu664 <nancyddu6",
         "body": "Dear Mrs. Sandra Arline,\n\nI am deeply moved by your message and the unfortunate circumstances you find yourself in. I'm truly sorry to hear about your health condition and the loss of your husband.\n\nYour desire to help the less fortunate is commendable, and it's an honor that you have considered me for this noble task. However, I would need more details on how you plan to transfer this responsibility and the funds to me.\n\nPlease provide more information so we can proceed with helping those in need as per your wishes.\n\nMay God bless you and give you strength during these trying times.\n\nBest wishes,\nCheri"
     }
 ]

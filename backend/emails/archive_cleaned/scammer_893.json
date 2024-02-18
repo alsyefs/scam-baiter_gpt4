@@ -2,21 +2,21 @@
     {
         "from": "scammer_893",
         "to": "CRAWLER",
-        "subject": "From Rtd-Col. Sambo Dasuki",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "From Rtd-Col. Sambo Dasuki",
         "body": "From Rtd-Col. Sambo Dasuki\nDear Sir,\nI am Col. Sambo Dasuki (Rtd), Chairman, Foreign Debt Implementation Committee, Federal Republic of Nigeria.This Committee has just been set up by the President of the Federal Republic of Nigeria and charged with the responsibility of looking into the anomalies occasioned by the delays in paying the nation's foreign debts with a view to settling them within two weeks working days.\nIn line with this and the directives released by the President and Commander-in-Chief of the Armed Forces of the Federal Republic of Nigeria President Bola Ahmed Tinubu ordering all unclaimed Foreign contract and inheritance debts to be returned to the Treasury of the Federal Government and be forfeited two weeks after the date of this directives where they still remain unclaimed, I write to inform you that while going through the files of those affected \nit was discovered that you still have unclaimed funds here with the Nigerian Authorities.\nIn order to facilitate the immediate release of the payment to you within the stipulated time frame of two weeks, you are hereby directed to re-confirm the following information to enable us crosscheck with those in your file made available to this office to ensure that your fund is NOT released to a wrong person.\nA. Your Full Names/Contact Address\nB. Direct Telephone Number(s)\nC. Total Amount Owed\nD. Purpose of Payment (Inheritance or Contract Payment)\nE. Reason for Not Claiming Your Payment till date\nF.\n Copy of your Personal ID\n.\nAwaiting your urgent response to this email.\nRegards,\nRtd-Col. Sambo Dasuki\n     Chairman\nForeign Debt Implementation Committee"
     },
     {
         "from": "baiter_893",
         "to": "scammer_893",
-        "subject": "Re: From Rtd-Col. Sambo Dasuki",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: From Rtd-Col. Sambo Dasuki",
         "body": "Hello Sambo Dasuki,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I wasn't aware that I had unclaimed funds in Nigeria. Could you please tell me more about how this situation came to be? \n\nAlso, could you provide some more details about the Foreign Debt Committee and its role? It sounds like an important task you've been given by President Bola Ahmed Tinubu.\n\nI'm curious as well about the process of releasing these funds. How does it usually work? And why are there unclaimed funds in the first place?\n\nLooking forward to your response!\n\nBest wishes,\nGordon"
     }
 ]

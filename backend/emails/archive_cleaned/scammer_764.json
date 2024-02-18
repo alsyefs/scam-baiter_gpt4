@@ -2,31 +2,31 @@
     {
         "from": "scammer_764",
         "to": "CRAWLER",
-        "subject": "  My Dear friend,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  My Dear friend,",
         "body": "  My Dear friend,\nI'm happy to inform you about my success in getting those funds\ntransferred under the cooperation of a new partner from India,\nPresently I'm in India for investment projects with my own share of\nthe total sum.\nmeanwhile,i didn't forget your past efforts and attempts to assist me\nin transferring those funds despite that it failed us some how.\nNow contact my secretary\nHis name is Mr Kiki Roymond\nEmail:  \nkikiroymond@hotmail.com\nAsk him to send you the total of USD800,000.00 which i kept for your\ncompensation for all the past efforts and attempts to assist me in\nthis matter. I appreciated your efforts at that time very much. so\nfeel free and get in touch with my secretary and instruct him where to\nsend the amount to you.\nPlease do let me know immediately you receive it so that we can share\nthe joy after all the suffering at that time. in the moment, I'm very\nbusy here because of the investment projects which me and the new\npartner are having at hand, finally, remember that I had forwarded\ninstruction to the secretary on your behalf to receive that money, so\nfeel free to get in touch with Kiki Roymond on\n(\nkikiroymond@hotmail.com\n) he will send the amount to you without any delay.\nYours Faithfully\nDr Raul Benzi From India   "
     },
     {
         "from": "baiter_764",
         "to": "scammer_764",
-        "subject": "Re:   My Dear friend,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   My Dear friend,",
         "body": "Dear Dr. Raul Benzi,\n\nI am glad to hear about your success in India and I appreciate your kind gesture. However, you didn't provide any contact details for Mr. Kiki Roymond. Could you please provide his email address or phone number so that I can get in touch with him?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJose"
     },
     {
         "from": "scammer_764",
         "to": "baiter_764",
-        "subject": "Re: Attention",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "2",
+        "subject": "Re: Attention",
         "body": "Attention,\r\n\r\nI am in receipt of your mail and note the content under instruction of my boss and be informed that the cashier's cheque worth of Eight Hundred Thousand Dollars is here with me written on your name which was left to me to deliver to you on request.\r\n\r\nYour information is highly needed Send Your Address, Your Phone number and Your Full Name to me so I will send the cheque to your Address immediately.\r\n\r\nAm waiting to hear from you as soon as you get this message with your full address for the delivery.\nRegards,\r\n\r\nMr. Kiki Roymond\r\n\r\nCall me +229 50797304"
     }
 ]

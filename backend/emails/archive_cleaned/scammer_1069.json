@@ -2,21 +2,21 @@
     {
         "from": "scammer_1069",
         "to": "CRAWLER",
-        "subject": "  Hello,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Hello,",
         "body": "  Hello,\nHow are you doing today.\nWe are waiting for payment receipt so we can proceed with shipment\nThanks\nKinga   "
     },
     {
         "from": "baiter_1069",
         "to": "scammer_1069",
-        "subject": "Re:   Hello,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Hello,",
         "body": "Hello Kinga,\n\nI'm doing well, thank you. I have made the payment as requested. Could you please confirm that you have received it?\n\nBest wishes,\nGregory"
     }
 ]

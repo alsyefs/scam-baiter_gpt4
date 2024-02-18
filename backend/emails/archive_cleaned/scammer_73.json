@@ -2,21 +2,21 @@
     {
         "from": "scammer_73",
         "to": "CRAWLER",
-        "subject": "   Greetings",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Greetings",
         "body": "   Greetings\nThere is a proposal found to your name, respond via this email with\nyour full name and address  for more details.\nandrewbailey323@rediffmail.com\nRegards\nAndy Baile  "
     },
     {
         "from": "baiter_73",
         "to": "scammer_73",
-        "subject": "Re:    Greetings",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:    Greetings",
         "body": "Dear Andy Baile,\n\nThank you for your message. However, I would appreciate more information about the proposal you mentioned before I provide my personal details. Could you please elaborate on the nature of this proposal?\n\nBest wishes,\nTeresa"
     }
 ]

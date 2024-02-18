@@ -2,21 +2,21 @@
     {
         "from": "scammer_833",
         "to": "CRAWLER",
-        "subject": "  Dear beneficiary,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear beneficiary,",
         "body": "  Dear beneficiary,\nI am the director of claims department with a bank here in London, united kingdom. I wish to notify you that you are clear to claim the total sum of Twenty Million Five Hundred Thousand British pounds (GBP20.5M)in the codicil and last statement of a decease Costumer  (Name now withheld for security reasons).Kindly contact me for more details. \nmarkforster4445@gmail.com\nYours faithfully.\nmark forster\nmarkforster4445@gmail.com\n "
     },
     {
         "from": "baiter_833",
         "to": "scammer_833",
-        "subject": "Re:   Dear beneficiary,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Dear beneficiary,",
         "body": "Hello Mark Forster,\n\nWow, that's a lot of money! I'm quite surprised to hear this news. Can you please tell me more about how this came to be? How did the deceased customer come to leave such a large sum in my name? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nNorma"
     }
 ]

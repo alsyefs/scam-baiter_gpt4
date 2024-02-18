@@ -2,21 +2,21 @@
     {
         "from": "scammer_756",
         "to": "CRAWLER",
-        "subject": "  John Glenn Columbus Internat",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  John Glenn Columbus Internat",
         "body": "  John Glenn Columbus International Airport\nAirport Location:  4600 International Gateway,\nColumbus, OH 43219, USA.\nAttn: Consignment Owner,\nI am Mr. Kenny McDonald, Chief Inspection Department John Glenn Columbus International Airport Ohio. This is to inform you about the outcome of the meeting that was held in the United Nations headquarters in New York on the 26th of June, 2023 with the United Nations Security Council injunction with the E.C.O.W.A.S and the World Bank concerning your two trunk consignment boxes (with a consignment number: HK793/DXX692) which was withheld in our airport by the authorities of the United States Government.\nAt the end of the meeting, it was concluded and agreed with the official approvals of the United Nations, E.C.O.W.A.S, and the World Bank, ordering our airport to release your consignment to you unconditionally, and my office has been authorized to effect this assignment.\nRight now your consignment file and supporting documents has been submitted to my office for the releasing of your consignment, and I have carried out my official inspection on your two trunk consignment boxes and discovered that your consignment contains cash fund about US$4.5Million and US$4.8Million each (making a total cash fund of US$9.3Million) and each of the boxes weighs around 35Kg.\nSo, you are required to come down to our airport and meet me in my office to pick your consignment, or alternatively you can use any registered reliable courier delivery company to deliver your consignment to you, which you will take care of the courier fee.\nReconfirm your personal details to me as you respond to this.\nThank you, and I await your response.\nYours Faithfully,\nMr. Kenny McDonald\nChief Inspection Department\nJohn Glenn Columbus International Airport\nAirport Location:  4600 International Gateway,\nColumbus, OH 43219, USA. \nTel: +1(614) 429-1063 Call or SMS  "
     },
     {
         "from": "baiter_756",
         "to": "scammer_756",
-        "subject": "Re:   John Glenn Columbus Internat",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   John Glenn Columbus Internat",
         "body": "Hello Mr. Kenny,\n\nThank you for reaching out and providing such detailed information about the two trunk boxes. It's quite fascinating to hear about these developments, especially considering the involvement of such esteemed organizations like the United Nations and the World Bank.\n\nI'm curious though, how did my name come up in relation to these boxes? I don't recall having any dealings that would result in such a large sum of money being associated with me. Could you perhaps provide more context or details about this?\n\nAlso, regarding your request for me to come down to your airport or use a courier service, I'd like to understand better how this process works. What are the steps involved? And what kind of courier companies do you usually work with?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMarian"
     }
 ]

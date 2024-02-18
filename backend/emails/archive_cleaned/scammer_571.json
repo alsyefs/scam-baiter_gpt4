@@ -2,21 +2,21 @@
     {
         "from": "scammer_571",
         "to": "CRAWLER",
-        "subject": "Attn: Beneficiary:",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attn: Beneficiary:",
         "body": "Attn: Beneficiary:\nCongratulations!! Your payment has been approved and endorsed, with the\ninstruction and approvals are given from the Authorities Due to the\nincessant scam activities going around the globe, the Authorities has\ninstructed our Financial Institution to use high Performance in\nBanking System to set up a Personal Online Banking Account.\nThis is to bring to your notice that your Compensation/Contract/Iheritance fund worth of US$15,500,000.00 was deposited in our bank, The Management\nhas resolved to open Personal On-line Banking Account for you with our\nbank and then give you the on-line access which will enable you to\ncheck and make electronics wire transfer out to any part of the world\nof your choice.\nKindly send the below information to enable us to set the account open for you.\nFull Name:..................\nFull Address:.........................\nDirect Cellphone Number:..........\nPASSPORT AND ID CARDS\n:.................\nYOUR OCCUPATION.........\nPOSITION.........\nDATE OF BIRTH..............   \nLooking forward to your next letter\nRegards\nThanks for banking with us,\nMr.Charles Goodman.\nA/C Online Payment Officer,\nUS Capital Bank Branch North Carolina,\nUnited States of America"
     },
     {
         "from": "baiter_571",
         "to": "scammer_571",
-        "subject": "Re: Attn: Beneficiary:",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Attn: Beneficiary:",
         "body": "Dear Goodman,\n\nThank you for your email. I am excited to hear that my payment has been approved and endorsed. However, before I proceed with providing the requested information, I would like to clarify a few things.\n\nFirstly, could you please provide more details about the contract inheritance fund? How was it accrued and why has it been deposited in your bank?\n\nSecondly, could you please explain the process of setting up a Personal Banking Account? What are the benefits of this account and are there any associated fees?\n\nLastly, could you please provide more information about your bank's security measures? As you mentioned, scam activities are rampant these days and I want to ensure that my personal information will be safe.\n\nI look forward to hearing from you soon.\n\nBest wishes,\nDiana"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_947",
         "to": "CRAWLER",
-        "subject": "My name is Mrs. Alice francis ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "My name is Mrs. Alice francis ",
         "body": "My name is Mrs. Alice francis Greg, l am a 35 years old young lady\nfrom France married to Mr Francis Greg from Cote d'Ivoire i am very\nsorry to disturb you with my present humiliating condition.\nI lost my husband two years ago and the family members of my husband\nare against me they want i and my kid's dead just because of the\ninheritance sum of Eight Million Eight Hundred thousand Euros he left\nbehind, estate properties and funds in banks here.\nDue to their bad intention to eliminate me and my kids, we are in\nhiding. I want to seek your help to have us move into your country,\nalso to help me transfer this fund into your bank account for us to\nfly to join you over there, l really need your assistance."
     },
     {
         "from": "baiter_947",
         "to": "scammer_947",
-        "subject": "Re: My name is Mrs. Alice francis ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: My name is Mrs. Alice francis ",
         "body": "Dear Mrs. Alice Francis Greg,\n\nI'm sorry to hear about your predicament. It's unfortunate that you're going through such a difficult time. However, I would like to inform you that I am not in a position to assist you with your request.\n\nI would recommend reaching out to local authorities or a legal professional who can provide the help and support you need during this time.\n\nBest wishes,\nDavid"
     }
 ]

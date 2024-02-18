@@ -2,21 +2,21 @@
     {
         "from": "scammer_1009",
         "to": "CRAWLER",
-        "subject": "Attention:- Winner,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attention:- Winner,",
         "body": "Attention:- Winner,\nThis is to inform you that you won $1.2 Million Dollars Grocery fund from Sam's Club of Sam's West, Inc. US.\nAfter the last survey/draw your e-mail was randomly selected among others to receive this Fund as fifty people was selected and approved for payment.\nYour $1,200,000.00 (One Million Two Hundred Thousand Dollars) has been approved for payment and you are advised to contact the paying Bank. Contact Mr. Newman David on his email for your winning payment.  ( \nnewmandavidwellsfargobank@aol.com\n )\nCongratulations and Regards.\nPatrick Edward,\nSam's Club, US."
     },
     {
         "from": "baiter_1009",
         "to": "scammer_1009",
-        "subject": "Re: Attention:- Winner,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Attention:- Winner,",
         "body": "Oh wow, that's incredible news! I can't believe I've won such a large amount. Can you tell me more about this survey draw? How was my name selected? And who is Mr. Newman David?\n\nBest wishes,\nVeronica"
     }
 ]

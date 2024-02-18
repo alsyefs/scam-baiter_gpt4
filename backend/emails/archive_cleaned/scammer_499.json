@@ -2,21 +2,21 @@
     {
         "from": "scammer_499",
         "to": "CRAWLER",
-        "subject": "  HELLO DEAR SCAMS VICTIM",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  HELLO DEAR SCAMS VICTIM",
         "body": "  HELLO DEAR SCAMS VICTIM\nHello Dear Beneficiary Fund\nGood Day to you and how are you doing today hope fine? For your notice\nthe new government of UK London has decided to compensate every scam\nvictim each with a large sum of 3 million British pounds. Your name\nwas listed among scams victims and duly approved for this payment.\nBased on these faithful recommendations, note that during the last U.N\nmeetings held IN AFRICA and UK London, it was alarmed by the world on\nthe loss of funds by various individuals to those scams artists\noperating in syndicates all over the world today, most especially\nAfrican. In order to compensate scams victims, the Africans Bodies in\nconjunction with the U.K Government now pay a total 3 million British\npounds each in accordance with the UK recommendations.\nDue to corrupt and inefficient Banking Systems, your payments are\nsupervised by the United Nations Officials, CORIS bank and Finance\nInternational Bank as the corresponding paying office. For claiming\nyour compensation of 3 million British pounds, kindly feel free to\ncontact our approved private payment officer Name: Madam Mrs. Grace\nBhutta Email: \nggracebhutta24@gmail.com\n She will instruct what you will\ndo in order to successfully receive your compensation amount\nimmediately.\nContact the assigned private payment officer as soon as possible for\nthe immediate payments of your 3 MILLION BRITISH POUNDS compensation\nfunds via online banking or through ATM Gold card ,Bitcoin Wallet .\nShe is waiting for your attention and will instruct you on how your\nfunds will be transferred to you.\nSincerely Yours\nMr.Karel Kurma\nContact My Private email address here (\nkarelkummar@gmail.com\n) should\nyou have any questions.   "
     },
     {
         "from": "baiter_499",
         "to": "scammer_499",
-        "subject": "Re:   HELLO DEAR SCAMS VICTIM",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   HELLO DEAR SCAMS VICTIM",
         "body": "Dear Sir/Madam,\n\nI appreciate your concern and the initiative taken by the UK government to compensate scam victims. However, I would like to clarify that I have not been a victim of any scams. \n\nIf there has been some misunderstanding or error in listing my name as a scam victim, I kindly request you to rectify it.\n\nThank you for your understanding.\n\nBest wishes,\nPaul"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_993",
         "to": "CRAWLER",
-        "subject": "This department writes to info",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "This department writes to info",
         "body": "This department writes to inform you that we have received instructions from the World Bank to transfer your $10 million fund total to you, and after we met this morning, we have decided to pay you by online bank transfer.\nKindly get back to us for more details on how you will receive your payment. via online banking.\nRegards\nMrs. Mary Anderson."
     },
     {
         "from": "baiter_993",
         "to": "scammer_993",
-        "subject": "Re: This department writes to info",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: This department writes to info",
         "body": "Hello Mrs. Mary Anderson,\n\nWow, that's some news! I'm really excited to hear more about this. Could you please provide me with more details on how this online banking transfer process works? \n\nLooking forward to your response.\n\nBest wishes,\nDonald"
     }
 ]

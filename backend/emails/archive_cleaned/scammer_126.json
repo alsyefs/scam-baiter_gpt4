@@ -2,21 +2,21 @@
     {
         "from": "scammer_126",
         "to": "CRAWLER",
-        "subject": "BRITISH HIGH COMMISSION",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "BRITISH HIGH COMMISSION",
         "body": "BRITISH HIGH COMMISSION\nMetro Plaza, Plot 991/992\nZakari Maimalari Street\nCadastral Zone AO,\nCentral Business District, .\nDear Scam Victim,\nThe BRITISH High Commission in Benin Republic received a report of\nscam against you and other British/US citizens and Malaysia, Etc. The\ncountries of Benin Republic, Nigeria, Bokinafaso and Ghana have\nrecompensed you following the meeting held with the four\ncountries=E2=80=99 Government and various countries' high commission\nfor the fraudulent activities carried out by the four\ncountries=E2=80=99 Citizens. Your name w= as among those scammed as\nlisted by the Benin Financial Intelligent Unit (BFIU). Compensation\nhas been issued out in Bank draft to all the affected victims and has\nbeen already been in distribution to all the bearers, Your Bank draft\nwas among those that were reported undelivered as at on Friday and we\nwish to advise you to see to the instructions of the Committee to make\nsure you receive your draft immediately.\nNFIU further told us that the use of Benin Country was abolished due\nto interception activities noticed in the above mentioned courier\nservices in Benin and thereby have made a concrete arrangement with\nthe UPS Courier Company for a safe delivery to your door-step once the\nbeneficiary meets up the demand of the conveyance\n(\nbanktransfer58@citromail.hu\n) We advise that you do the needful to\nmake sure the BFIU endorse your payment this time. Be advised that you\nshould stop further contacts with all the fake lawyers and security\ncompanies who in collaboration scammed you. Furnish us with the\nfollowing details to satisfy you for the Compensation. Final; \nthe\ntransfer charge fee is $50.dollar you can go to any apple office or\nWalmart office to buy iTunes card/steam wallet or sephora gift card to\nto send immediately\nFull Name: ........\nHome address:......\nCountry:...........\nMobile number:.....\nAge: ..............\nA copy of your identification is also needed\n: Contact immediately to\ncheck if the endorsement date suits you.\nYours in Service,\nMr.JAMES MARK\nCONSULAR,"
     },
     {
         "from": "baiter_126",
         "to": "scammer_126",
-        "subject": "Re: BRITISH HIGH COMMISSION",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: BRITISH HIGH COMMISSION",
         "body": "Hello Mark,\n\nThank you for reaching out and informing me about this situation. I must say, it's quite surprising to hear that my name was among those scammed as listed by the Benin Financial Unit BFIU. \n\nI'm a bit confused about some parts of your message though. Could you please clarify what exactly the \"demand of the conveyance\" is? Also, could you explain more about how the use of Benin Country was abolished due to activities noticed in courier services?\n\nYou mentioned something about buying a card steam wallet or sephora gift card. How does this relate to my situation? \n\nLooking forward to your response.\n\nBest wishes,\nClyde"
     }
 ]

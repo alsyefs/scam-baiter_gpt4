@@ -2,21 +2,21 @@
     {
         "from": "scammer_1012",
         "to": "CRAWLER",
-        "subject": "   Dear Friend,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Dear Friend,",
         "body": "   Dear Friend,\nI hope this message will not come to you as a big surprise.\nAfter reading through it, and if you are not interested in my proposal, please delete from your mail box.\nI am a Captain Nick Ben Gomez working under the umbrella of the United Nations in a ship.\nFew months ago, the peace keeping mission commanding officer intercepted a huge trunk of gold bars whose origin was from D.R. Congo, and huge and lump sums of monies in US dollars, from sea pirates who upon interrogation which they admitted to, wasa from D.R. Congo.\nThis gold was offered by Mobutu Sese Seko, the former D.R. Congo dictator, to the then erstwhile former Liberian war lord, Charles Taylor in exchange for arms during the war that lasted two decades of conflict in the D.R Congo, which left as many as 5.4 million people dead and over 1.5 million displaced.\nThe gold was shared among the top commanders, and me as the Captain on board. My own share of the gold bars, is 50 Kg and one million, Eight hundred thousand United States dollars *US$1,800,000.00 Million*, which with the help of the commanders via a top United Nations top mission has been deposited in United Kingdom .\nAs my work does not allow me to come to shore, i need you to assist in receiving the gold and the cash at an agreed percentage which modalities we can both work out upon your response. The receiving firm will release to you upon my recommendation.\nI will be most grateful to receive a favorably response from you should you be willing to work with me in this.\nFaithfully .  "
     },
     {
         "from": "baiter_1012",
         "to": "scammer_1012",
-        "subject": "Re:    Dear Friend,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    Dear Friend,",
         "body": "Hello Captain Nick Ben Gomez,\n\nI hope this message finds you well. Your proposal is indeed a surprise, but an intriguing one nonetheless. I must admit, the story of the gold bars and the large sum of money is quite fascinating.\n\nHowever, I have a few questions that I would like to clarify before we proceed further. Firstly, how did you manage to secure such a large amount of gold and money? Secondly, why have you chosen me specifically for this task? Lastly, what are the risks involved in this process?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nWilliam"
     }
 ]

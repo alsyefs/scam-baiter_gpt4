@@ -2,21 +2,21 @@
     {
         "from": "scammer_545",
         "to": "CRAWLER",
-        "subject": "  RE: IMMEDIATE RELEASE OF YOU",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  RE: IMMEDIATE RELEASE OF YOU",
         "body": "  RE: IMMEDIATE RELEASE OF YOUR INTEREST PAYMENT OF USD$3.8M OK \n \nATTN: MR./MADAM,\n \nSometime ago, in our bank HSBC BANK London UK, your contract/ Inheritance money was brought to our bank from the Economic Community of West African Foreign Contractor Payment Panel made of the following countries: Nigeria, Ghana, Togo, Rep.Benin, Senegal, Ivory-coast, Gambia, Mali, etc.   (Ecowas), AND AFTER SOME PERIOD, They call the fund bank to their treasury in the World Bank.\n \nFor the period of time this money was in our bank, it generated an interest of US$3.8 Million, which we considered your long suffering as one of the West African Countries/ Inheritance contractors that have not received his/her payment and we decided to pay you this interest fund via Swift Transfer into your account.\nWhat we need from you now is any form of your identification for example; \nYour international passport number or your driving license number, then your telephone and fax number with your bank information for easy communication and transfer of your interest payment to your account.\nIn view of this you are hereby instructed to contact this office immediately you receive this fax message and reconfirm your bank particulars.\nContact me on  your immediate response.\n \nBest Regards\nMr. John Dumond \nDirector Treasury bill\nHSBC Bank London UK   "
     },
     {
         "from": "baiter_545",
         "to": "scammer_545",
-        "subject": "Re:   RE: IMMEDIATE RELEASE OF YOU",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   RE: IMMEDIATE RELEASE OF YOU",
         "body": "Dear Mr. John Dumond,\n\nThank you for your email and the information provided. However, I must inform you that I have never had any contract money with HSBC Bank or with the Economic Community of West African Foreign Contractor Payment Panel.\n\nI believe there may be a mistake or misunderstanding. Could you please double-check your records and confirm if this message was indeed intended for me?\n\nBest wishes,\nJames"
     }
 ]

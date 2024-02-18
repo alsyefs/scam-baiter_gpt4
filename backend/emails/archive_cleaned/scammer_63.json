@@ -2,21 +2,21 @@
     {
         "from": "scammer_63",
         "to": "CRAWLER",
-        "subject": "Hello My Dear,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Hello My Dear,",
         "body": "Hello My Dear,\n I know that this message will be a surprise to you. I was just\n searching through the Google Internet search when I found your email\n address having prayed over it. I am sending this message to you\n praying that it will reach you in good health. My Name is Mrs. Anita\n Morgan from Iondon,.I am married to Mr. Frank Morgan, A Contractor and\n gold merchant who owned a small gold Mine in Burkina Faso; He died of\n Pulmonary disease in August 2017, and our long years of marriage were\n not blessed with children. During his lifetime he deposited the sum of\n 8 Million dollars in\n Societe Generale Bank .The\n deposited money was from the sale of the shares, death benefits\n payment and entitlements of my deceased husband by his company.\n I am suffering from long time cancer and presently i am partially\n suffering from a stroke illness which has become almost impossible for\n me to move around, from all medical indications my condition has\n really deteriorated and it’s pretty obvious that i may not live long,\n owning to the rapid growth by stage and the excruciating pain that\n accrues to it. I was diagnosed and my Doctor told me privately what I\n should expect, building my spirit for the inevitable. \nShe says i may\n not last for more than six months\n, based on this i sincerely request\n for your assistance in this humanitarian work.\n I have decided to donate what I inherited from my late husband to you\n for good work of God for helping Motherless babies/Less\n privileged/Widows, because I am dying and diagnosed with cancer 4\n years ago. If this money remains unclaimed after my death, the bank\n executives or the government will take the money as unclaimed funds\n and maybe use it for selfish and worthless ventures. I need a very\n honest person who can claim this money and use it for Charity and\n humanitarian works, that will be named after my late husband and my\n name. I need your positive answer to know if you will be able to\n execute this project, and I will give you more information on how the\n fund will be transferred to your bank account. I now realize that\n wealth without life in Christ is vanity and non-sense.\n Best Regards,\n Mrs. Anita Morgan"
     },
     {
         "from": "baiter_63",
         "to": "scammer_63",
-        "subject": "Re: Hello My Dear,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Hello My Dear,",
         "body": "Hello Mrs. Anita Morgan,\n\nI'm truly sorry to hear about your health condition and the passing of your husband. It's indeed a tough time for you, but I admire your strength and determination to help others even in such difficult times.\n\nYour plan to use the funds for charity work is commendable. Helping motherless babies, less privileged individuals, and widows is a noble cause that can make a significant difference in their lives.\n\nHowever, I have some questions regarding this project. How do you plan on transferring the funds? And how can we ensure that the funds will be used solely for charitable purposes? Also, could you provide more details about the charity works that will be named after your late husband and yourself?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKristie"
     }
 ]

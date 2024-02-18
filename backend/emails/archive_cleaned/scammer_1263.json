@@ -2,21 +2,21 @@
     {
         "from": "scammer_1263",
         "to": "CRAWLER",
-        "subject": "  Sun Loan Company",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Sun Loan Company",
         "body": "  Sun Loan Company\n2713 SW 29th St Ste 5 Oklahoma City,\nOK 73119, USA.\nDear Sir/madam\nWe offer loan at low interest rate of 3% per year. We offer Personal\nloans, Debt Consolidation Loan, Venture Capital, Business Loan,\nEducation Loan, Home Loan or \"Loan for any reason!\". Have you been\nturned down by your bank? Do you have bad credit?\nDo you have unpaid bills? Are you in debt? Do you need to set up a\nbusiness? Worry no more as we are here to offer you a low interest\nloan. Our loan ranges from $20,000.00 USD to $1,000,000.00 USD.  Our\nloan processing fee is $200 only.\nIf you are interested, contact us via email: \nsunloanco@financier.com\nfor more details.\nYours Sincerely,\nKelly Jebrouni\nManager ,Sun Loan Company   "
     },
     {
         "from": "baiter_1263",
         "to": "scammer_1263",
-        "subject": "Re:   Sun Loan Company",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Sun Loan Company",
         "body": "Dear Kelly Jebrouni,\n\nThank you for your offer. However, at this time, I am not in need of a loan. I appreciate your consideration and will keep your contact information for future reference.\n\nBest wishes,\nBrenda"
     }
 ]

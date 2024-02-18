@@ -2,21 +2,21 @@
     {
         "from": "scammer_324",
         "to": "CRAWLER",
-        "subject": "  Compliment of the season. I ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Compliment of the season. I ",
         "body": "  Compliment of the season. I know it's been a long time since we stopped communicating, but I was never really going to forget you, because of the incredible efforts you made to help me secure my money when I was in the war zone. I was released from military service and now live in  Austria with my new husband who used his account at UBA bank to get the money safely. I think it would be an act of kindness if I did not share this good news with you, so I take this opportunity to appreciate your kindness and the love you have shown me in these critical days on the war fronts .\nI swore to myself that I would never forget you or leave you empty-handed after my success and so I decided to compensate you with two hundred and fifty thousand US Dollars ($250,000,000) on a Visa UBA credit card. Please accept this as a token of my gratitude for the help you have given me over time, even if it has not been successful.\nPlease contact the Trust Finance Bank customer service to draw the attention of the Head of the Bank as detailed below, so that you receive the credit card and use it to withdraw money from any ATM center near you. You will need to confirm your identity and address before the bank can identify you as the real beneficiary of the UBA Visa card and release it for use.\nBelow is their contact address do not hesitate to contact them,\nTrust Finance BankOffshore\nBanking Director: Mr Gabriel Wilson\nEmail:  (\nbankcustomerserivce@gmail.com\n )\nPhone what's new-app: +221704512689\nBest Regard,\nSgt Nancy  "
     },
     {
         "from": "baiter_324",
         "to": "scammer_324",
-        "subject": "Re:   Compliment of the season. I ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Compliment of the season. I ",
         "body": "Dear Sgt Nancy,\n\nI'm glad to hear that you are safe and well in Austria with your new husband. It's heartwarming to know that you've managed to secure your money safely.\n\nI appreciate your kind gesture of wanting to compensate me for the help I provided during those critical days. However, I must clarify that my intention was never to receive any form of compensation but rather to assist a fellow human being in need.\n\nNonetheless, if you insist on this act of generosity, I will accept it with gratitude. Could you please provide more details about how I can contact Trust Finance Bank? The contact address seems incomplete.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nNilsa"
     }
 ]

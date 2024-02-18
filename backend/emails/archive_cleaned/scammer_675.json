@@ -2,21 +2,21 @@
     {
         "from": "scammer_675",
         "to": "CRAWLER",
-        "subject": " Ref: admin/usgov/dept/2018/ a",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " Ref: admin/usgov/dept/2018/ a",
         "body": " Ref: admin/usgov/dept/2018/ asiadevbank.cla.hors/xxcxv/docfile/004i\n8th October, 2018\nAttn:  \nAddress:  \nTel:  \nEmail:  \nYour message received, we have confirmed that you are not serious about claiming your your approved part payment funds (US$5.5Million) because the earlier two bank account details giving to you were very okay.\nYou are just wasting our precious time, we might begin a process of cancelling your approved part payment funds (US$5.5Million) and recommending it for recall back to treasury as “UNCLAIMED” funds or “SUSPECTED” funds.\nWe have wasted more than enough time with you not knowing that we were just wasting our time which can be productively invested in other viable areas.\nThanks.\nSigned : Ms. April Dawn Rippel\nSenior Manager, Int'l Services\nGlobal Offshore Financial Centre (GOFC)\nAdd: 6068 Business Park Dr., Columbus, GA 31909\nTel: +1 (706) 225-8644 (Call Direct)\nTel: +1 (940) 602 4848 (Extension)\nTel: +1 (940) 238 6318 (Extension)\nE-mail: \ngofcColumbus@outlook.com\nE-mail: \nadawnrippel@goff-c.org\nWorking Hours: 24/7\nCc: US Treasury department\nCc: Office of the Accountant General\nCc: Accounts Department\nCc : Records / File   "
     },
     {
         "from": "baiter_675",
         "to": "scammer_675",
-        "subject": "Re:  Ref: admin/usgov/dept/2018/ a",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:  Ref: admin/usgov/dept/2018/ a",
         "body": "Hello Senior Manager,\n\nThank you for your message. I apologize if I've given the impression that I'm not serious about claiming the approved part payment funds. It's just that, being a bit of a simpleton, I sometimes struggle to understand complex matters like these.\n\nCould you please explain again why the two bank account details were okay?\n\nBest wishes,\nPatricia"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_79",
         "to": "CRAWLER",
-        "subject": "Dear Beloved, Greetings to you",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear Beloved, Greetings to you",
         "body": "Dear Beloved, Greetings to you, I know my message will come to you as a surprise but i want you to know that am contacting you for Friendship and business partnership.I really wish to have you as my good friend/partner and wishes to hand over my funds to you for investments on trust.I will send to you my photos and my military identity scan copy in my next mail to you. I will like to use this opportunity to let you know about me , I Sergeant Novoa USA Army ,single,serving in USA army ,my contact address in USA is 76B Van Ness Avenue Westward San Jose - California -United States of America but i was serving in USA Victory Base Baghdad but was posted to work as Intelligence Agencies attached with United States of America Embassy Baghdad- Iraq. I made total sum of $7.5 Million US dollars which I have successfully moved out of Iraq to A financial Institute for Safe Keeping and to be use for investments with reliable and trusted foreign investor.The funds is oil business money I did with some Iraqi citizens worth over 42 million US dollars, but the $7.5 million US dollars stated is my share on the business and its legal. I have successfully moved the funds out of Iraq as family valuables with help of Financial consultant firm in UK. The most important thing is ''' Can We Trust each other?,Am offering you 30% share of the total funds while we use the rest 70% for our investments.You have to take control of all investments and will be coming to meet with you later as soon as i have vacation but please i have more interest on real estate.Kindly indicate on your next mail if you are really interested to partner with me so i will provide to you more detail information on how we will move forward. Note that the whole process is very simple and we must keep a low profile at all times and I want all our communications to remain on emails for now.I look forward to your reply and co-operation. Reply to my private email (\nAngieNovoa1999@protonmail.com\n) My Regards, Sgt Angie"
     },
     {
         "from": "baiter_79",
         "to": "scammer_79",
-        "subject": "Re: Dear Beloved, Greetings to you",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Dear Beloved, Greetings to you",
         "body": "Dear Sgt Angie,\n\nThank you for your message. I am intrigued by your proposal and would like to know more about it. However, I must insist on complete transparency and legality in all our dealings.\n\nCould you please provide more details about the business and how we will proceed? Also, could you clarify what exactly my role would be in this partnership?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMary"
     }
 ]

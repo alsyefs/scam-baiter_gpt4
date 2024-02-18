@@ -2,21 +2,21 @@
     {
         "from": "scammer_444",
         "to": "CRAWLER",
-        "subject": "Markgraf Dieter Wolf",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Markgraf Dieter Wolf",
         "body": "Markgraf Dieter Wolf\nNeorex Biomedical Pharma\nCanada\n387 followers 387 connections\nGEREKLI YATIRIMIAR\nUniversity Canada West\nAbout\nGEREKLI YATIRIMIAR is a young dynamic organization that blends experience with funding project that needs funds, providing a professional financial service to private and non private companies."
     },
     {
         "from": "baiter_444",
         "to": "scammer_444",
-        "subject": "Re: Markgraf Dieter Wolf",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Markgraf Dieter Wolf",
         "body": "Dear Markgraf Dieter Wolf,\n\nThank you for reaching out. It's great to hear about your dynamic approach at GEREKLI YATIRIMIAR in blending experience with funding projects that need funds. \n\nAs a representative of University Canada West, I am interested in learning more about how your financial services could potentially benefit our institution. Could you please provide more details on the types of projects you typically fund and the process involved?\n\nLooking forward to hearing from you.\n\nBest wishes,\nGertrude"
     }
 ]

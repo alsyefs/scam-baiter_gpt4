@@ -2,21 +2,21 @@
     {
         "from": "scammer_555",
         "to": "CRAWLER",
-        "subject": "  Dear Valued Customer Fund Re",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear Valued Customer Fund Re",
         "body": "  Dear Valued Customer Fund Release Order\n     I write to inform you that this Honorable Bank received a telex instruction from  (WORLD BANK DEBT COMMITTEE), to release your long awaited FUND and the Remittance Department of this bank are acting on their capacity as payment releasing Bank to credit your bank account with $10,500,000.00.  Here are approved code for your FUND. 1. Payment release advice A/C #: WH5783219, 2. INTERNATIONAL MONETARY FUND release code: #: CV009436HG.  3.UNITED NATION Anti-Terrorist Clearance Reference Code: #: x7311/64669, with confirmation of these relevant codes, we have been authorized to affect your payment from their Reserved account with this bank transferring the same to your bank Account in United States Dollars equivalent.\nIn the course of our General Auditing and Account revision of the Final quarter of the financial fiscal year 2022, we discovered that the Bank\nAccounts belonging to some Benefactors have been changed and their addresses also have been changed for receiving their approved fund.\nAfter the investigations however, it was revealed that there are foreigners who are collaborating with Staffs of our commercial banks to make these changes illegally without the knowledge of the Bonafide Benefactors and one traced to your own change is this Mr. Qu Risheng who said you died of Covid-19 and he has also submitted Affidavit of claim, letter of administration, Deed of ownership and bank account which is not in your name to claim your fund.  The only required approval which he was not able to obtain, that made us to discover that he is not the rightful beneficiary of the FUND is (INTERNATIONAL DECLARATION OF FUND).\n.\n But we want to confirm if this is actually true and hence we decided to write to your email address. If you are not dead or authorize Mr.\nMr. Qu Risheng to receive your fund on your behalf by trying to divert your money through the documents he presented.\nIn this manner, you are required to reconfirm your personal details below to ensure immediate payment within 3 bank working days in line\nwith international best practice.\nDo reconfirm your details to us.\n1. YOUR NAME:.................\n2.YOUR ADDRESS:......................\n3. YOUR TELE/FAX:...................\n4.YOUR IDENTITY CARD:.....................\n \n \nYours truly,\nMr. IBE KACHIKWU (CON) Pay- Master Central Bank of Nigeria\nTinubu Square Custom street, Marina Rd, Lagos Island, Nigeria\nOFFICE: WEST AFRICA NIGERIA.\nE-mail:  \nibekachikwu48@gmail.com\nEmail: \nofficeremitdepartment@gmail.com\n "
     },
     {
         "from": "baiter_555",
         "to": "scammer_555",
-        "subject": "Re:   Dear Valued Customer Fund Re",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Dear Valued Customer Fund Re",
         "body": "Hello Mr. IBE KACHIKWU CON,\n\nThank you for reaching out to me. This is quite a surprise! I had no idea that someone was trying to claim my funds. It's really shocking to hear about this Mr. Qu Risheng and his actions.\n\nI'm curious, how did you manage to find out about this fraudulent activity? And what measures are being taken to prevent such incidents in the future?\n\nAs for the information you requested, I'm afraid I can't provide it at this time due to privacy concerns. However, I'd be more than happy to discuss further steps we can take together to resolve this issue.\n\nLooking forward to your response.\n\nBest wishes,\nKathy"
     }
 ]

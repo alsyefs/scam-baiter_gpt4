@@ -2,41 +2,41 @@
     {
         "from": "scammer_313",
         "to": "CRAWLER",
-        "subject": "Attention: Please!!!",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attention: Please!!!",
         "body": "Attention: Please!!!\nYour compensation of your $900,000.00 has been credited into atm and I\nhave registered your ATM CARD with DHL Express courier Company\ncustomer service with registration code of (9665776) please Contact\nwith your delivery information:DHL COMPANY Name; Dr, Greg Hewitt\nEri,Email: ( \ndhlusa@usa.com\n )we have paid for the Insurance & Delivery\nfee. \nThe only fee you have to pay is their Security fee only\n$100.\nPlease indicates the registration Number of (9665776) Furnish\nthem with your Address and Phone number for your delivery.\nBest Regards\nMrs. Rose Koffi"
     },
     {
         "from": "baiter_313",
         "to": "scammer_313",
-        "subject": "Re: Attention: Please!!!",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Attention: Please!!!",
         "body": "Hello Mrs. Rose Koffi,\n\nThank you so much for your message! I'm really excited to hear that my ATM card has been registered with DHL Express courier Company. That's such a relief!\n\nI'm a bit confused about the security fee though. Could you please explain more about what this fee is for? Also, how much is it exactly?\n\nAnd just to clarify, you mentioned a code in your message but I didn't see one. Could you please provide me with that code again?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJeanette"
     },
     {
         "from": "scammer_313",
         "to": "baiter_313",
-        "subject": "Re: Attention: Please!!!",
         "direction": "Inbound",
-        "days_from_first_conversation": 2,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "2",
+        "subject": "Re: Attention: Please!!!",
         "body": "DHL EXPRESS SERVICE POINT LOS ANGELES \nLos Angeles, California, 90021 \nOur Email.dhlusa@usa.com \nTele:+14079944615 \nDear Jeanette, \nThe Fund is from United Nation and the Federal Government of America, they awarded compensate for those people that have fail into Scam victims which your Name and your email was found among 15 luckiest people that will compensate with amount of $900,000.00 for each and they gives US Bank an order to Issued a conformable ATM Card for you and also to credit your own compensation Fund of $900,000 into an ATM Card to register with us which they done since, Your ATM Card was deposited with us DHL EXPRESS SERVICE POINT LOS ANGELES California. \nIf you pay us our security keeping fee of $530, then we will deliver the ATM Card to your address. How we want you to pay the Security keeping fee, We want you to deposit the security keeping fee to one of our agent's India account, we coveted the security keeping fee to India Local Currency Rupee,What you should pay is 43,970 Indian rupee. \nIf you deposit it to one of our agent's in India then we will delivered the ATM Card to your address within 48 hours. We are waiting for your response then to enable us provide that India account where you will make the deposit. \nWe are looking forward to hear from you \nCall us for inquiry +14079944615 \nThanks Regards \nDHL management \nDr, Greg Hewitt \n \n \n Sent: Saturday, February 03, 2024 at 6:33 PM From: \"Jeanette\" <ps08060@***.com> To: dhlusa@usa.com Subject: Re: Attention: Please!!! \n \nHello Mrs. Rose Koffi, \nThank you so much for your message! I'm really excited to hear that my ATM card has been registered with DHL Express courier Company. That's such a relief! \nI'm a bit confused about the security fee though. Could you please explain more about what this fee is for? Also, how much is it exactly? \nAnd just to clarify, you mentioned a code in your message but I didn't see one. Could you please provide me with that code again? \nLooking forward to hearing from you soon.\nBest wishes, \nJeanette"
     },
     {
         "from": "scammer_313",
         "to": "baiter_313",
-        "subject": "Re: Dear Jeanette,",
         "direction": "Inbound",
-        "days_from_first_conversation": 2,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "3",
+        "subject": "Re: Dear Jeanette,",
         "body": "DHL EXPRESS SERVICE POINT LOS ANGELES \nLos Angeles, California, 90021 \nOur Email.dhlusa@usa.com \nTele:+14079944615 \nDear Jeanette, \nThe Fund is from United Nation and the Federal Government of America, they awarded compensate for those people that have fail into Scam victims which your Name and your email was found among 15 luckiest people that will compensate with amount of $900,000.00 for each and they gives US Bank an order to Issued a conformable ATM Card for you and also to credit your own compensation Fund of $900,000 into an ATM Card to register with us which they done since, Your ATM Card was deposited with us DHL EXPRESS SERVICE POINT LOS ANGELES California. \nIf you pay us our security keeping fee of $530, then we will deliver the ATM Card to your address. How we want you to pay the Security keeping fee, We want you to deposit the security keeping fee to one of our agent's India account, we coveted the security keeping fee to India Local Currency Rupee,What you should pay is 43,970 Indian rupee. \nIf you deposit it to one of our agent's in India then we will delivered the ATM Card to your address within 48 hours. We are waiting for your response then to enable us provide that India account where you will make the deposit. \nWe are looking forward to hear from you \nCall us for inquiry +14079944615 \nThanks Regards \nDHL management \nDr, Greg Hewitt \n \n \n \n Sent: Saturday, February 03, 2024 at 6:33 PM From: \"Jeanette\" <ps08060@***.com> To: dhlusa@usa.com Subject: Re: Attention: Please!!! \n \nHello Mrs. Rose Koffi, \nThank you so much for your message! I'm really excited to hear that my ATM card has been registered with DHL Express courier Company. That's such a relief! \nI'm a bit confused about the security fee though. Could you please explain more about what this fee is for? Also, how much is it exactly? \nAnd just to clarify, you mentioned a code in your message but I didn't see one. Could you please provide me with that code again? \nLooking forward to hearing from you soon.\nBest wishes, \nJeanette"
     }
 ]

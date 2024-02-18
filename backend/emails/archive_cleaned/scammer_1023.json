@@ -2,31 +2,31 @@
     {
         "from": "scammer_1023",
         "to": "CRAWLER",
-        "subject": "  US AMBASSADOR TO NIGERIA",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  US AMBASSADOR TO NIGERIA",
         "body": "  US AMBASSADOR TO NIGERIA\n11 GARKI ROAD ABUJA, NIGERIA\nEmail    (\noffice846323@gmail.com\n  )-\nATTN:    SIR/MADAM\n          I'm  AMBASSADOR Richard Merrill Mills Jr.,  I WILL    BE\nARRIVING TO YOUR COUNTRY FOR AN    OFFICIAL MEETING NEXT  WEEK\nWEDNESDAY    AND I WILL BE BRINGING WITH ME YOUR CONSIGNMENT WORTH OF\n$10 MILLION  UNITED STATE DOLLARS ALONG WITH ME BUT THIS TIME I WILL\nNOT GO THROUGH CUSTOMS BECAUSE AS AN AMBASSADOR TO NIGERIA, I AM A US\nGOVERNMENT AGENT AND I HAVE THE    POWER TO GO THROUGH  WITHOUT\nCUSTOMS CHECK.\nAS SOON AS I AM THROUGH WITH THE MEETING I SHALL THEN PROCEED TO\nMEETING WITH YOU. (KINDLY SEND YOUR CELL PHONE NUMBER AND THE ADDRESS\nWHERE YOU WANT ME TO DELIVER THE CONSIGNMENT). YOU HAVE REALLY PAID SO\nMUCH TO GET YOUR CONTRACT/WINNING/ INHERITANCE FUNDS, BUT STILL YOU\nHAVE NOT RECEIVE IT, THAT MAKES ME WONDER WHY. YOU ARE A LUCKY PERSON\nBECAUSE I DECIDED TO SEE YOU GET THESE FUNDS SOON MYSELF AND THERE IS\nNOTHING ANYONE CAN DO TO STOP IT.\nMY FLIGHT LEAVES ON NEXT TWO WEEKS WEDNESDAY AND I EXPECT YOU TO\nCOMPLY BEFORE THEN    SO THAT THE DELIVERY CAN BE  COMPLETED. PLEASE\nYOU KNOW WHAT YOU HAVE GONE THROUGH TRYING TO GET THESE FUNDS SO I\nADVISE  YOU TO FOLLOW UP WITH MY INSTRUCTION    SO YOU GET THESE FUNDS\nSOON.HOWEVER IMMEDIATELY I GET ALL YOUR REQUIRED    INFORMATION'S I\nWILL FURTHER IMMEDIATE SHIPMENT TO YOUR ADDRESS . IF YOU DO NOT\nCOMPLY, THEN IT WILL NOT BE MY FAULT IF YOU    DO NOT    RECEIVE YOUR\nPACKAGE.\nVISIT WEBSITE:https:/ /en.wikipedia.org/wiki/Richard_M._Mills_Jr.\nI WILL BE HOPPING TO HEAR FROM YOU SOON!\nTHANKS,UNITED STATE OF AMERICA AMBASSADOR\nEmail (\noffice846323@gmail.com\n)   "
     },
     {
         "from": "baiter_1023",
         "to": "scammer_1023",
-        "subject": "Re:   US AMBASSADOR TO NIGERIA",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   US AMBASSADOR TO NIGERIA",
         "body": "Dear Sir,\n\nI am delighted to hear from you and I appreciate your efforts in ensuring the safe delivery of my funds. \n\nHere are my details:\n\nCell Phone Number: \nAddress: \n\nI look forward to meeting with you after your official meeting. Please let me know if there's anything else you need from me.\n\nBest wishes,\nHelene"
     },
     {
         "from": "scammer_1023",
         "to": "baiter_1023",
-        "subject": "Re: US AMBASSADOR TO NIGERIA",
         "direction": "Inbound",
-        "days_from_first_conversation": 2,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "2",
+        "subject": "Re: US AMBASSADOR TO NIGERIA",
         "body": "Helene\r\n\r\nThanks for your email\r\n\r\nIn regards to your email, sorry there's no address or phone number on your\r\nmessage, kindly reconfirm.\nThanks\r\n\r\nambassador Richard"
     }
 ]

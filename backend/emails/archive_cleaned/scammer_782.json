@@ -2,21 +2,21 @@
     {
         "from": "scammer_782",
         "to": "CRAWLER",
-        "subject": "  We offer loans for business ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  We offer loans for business ",
         "body": "  We offer loans for business or private purposes; the interest rate is 3%. If interested, e-mail with the Following information Email: \nlarryhelpsinvestment10@gmail.com\nFull Name:\nAmount:\nDuration:\nCountry:\nPhone\nLarry James   "
     },
     {
         "from": "baiter_782",
         "to": "scammer_782",
-        "subject": "Re:   We offer loans for business ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   We offer loans for business ",
         "body": "Hello Larry James,\n\nThank you for reaching out to me with this offer. It sounds interesting! Could you please provide more details about these loans? For instance, what is the interest rate and what are the terms of repayment? Also, could you explain a bit more about the process of applying for one of these loans?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nCalvin"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_1388",
         "to": "CRAWLER",
-        "subject": "   please you have to go now a",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   please you have to go now a",
         "body": "   please you have to go now and transfer the money and send me the payment slip because we are delaying we are dealing in this production please you have to go and make the payment right now and send me the payment slip ok   "
     },
     {
         "from": "baiter_1388",
         "to": "scammer_1388",
-        "subject": "Re:    please you have to go now a",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:    please you have to go now a",
         "body": "Dear Sir/Madam,\n\nI understand the urgency of the situation. However, I would like to clarify a few details before proceeding with the payment. Could you please provide me with a detailed breakdown of what this payment is for? Also, could you confirm the exact amount and the payment method?\n\nOnce I have this information, I will proceed with the payment as soon as possible.\n\nBest wishes,\nLonnie"
     }
 ]

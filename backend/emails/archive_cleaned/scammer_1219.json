@@ -2,21 +2,21 @@
     {
         "from": "scammer_1219",
         "to": "CRAWLER",
-        "subject": " It never takes so long to wir",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " It never takes so long to wir",
         "body": " It never takes so long to wire money if you don't have it or don't want to send it why don't you say the truth may God forgive you,\nKann Lam  "
     },
     {
         "from": "baiter_1219",
         "to": "scammer_1219",
-        "subject": "Re:  It never takes so long to wir",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:  It never takes so long to wir",
         "body": "Hello Kann Lam,\n\nThank you for your message. I understand that you're concerned about the time it's taking to wire money. Could you please provide more details about this situation? I'm here to help and would like to understand better.\n\nRemember, it's important to be patient when dealing with financial transactions as they can sometimes take longer than expected due to various reasons such as bank processing times or international transfers.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nRoger"
     }
 ]

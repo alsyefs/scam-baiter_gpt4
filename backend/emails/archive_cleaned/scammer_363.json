@@ -2,21 +2,21 @@
     {
         "from": "scammer_363",
         "to": "CRAWLER",
-        "subject": "Under construction.",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Under construction.",
         "body": "Under construction.\nFor navigation, contact administrator.\nadmin@dbonline-portal.com"
     },
     {
         "from": "baiter_363",
         "to": "scammer_363",
-        "subject": "Re: Under construction.",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Under construction.",
         "body": "Dear Marykate Purchia,\n\nThank you for your prompt response. I am excited about this opportunity and would like to proceed with the necessary steps. Could you please provide me with detailed instructions on what I need to do next?\n\nLooking forward to hearing from you soon.\n\nBest regards,\nLewis D.\n\nBest wishes,\nYvonne"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_562",
         "to": "CRAWLER",
-        "subject": "  Dear Consignment Owners/Bene",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear Consignment Owners/Bene",
         "body": "  Dear Consignment Owners/Beneficiaries,\nDear Banking transfer of Funds Beneficiaries,\nDear Gold transactions and Cocoa transactions Beneficiaries,\nDear Crude oil and other Petroleum Contract Beneficiaries,\nDear Sir,\nThis is a STOP ORDER from the PARTNERS  AFRICA UNION DEVELOPMENT BANK and INTERNATIONAL BANK FOR AFRICA.\nThis STOP ORDER is to inform all beneficiaries to stop all transactions indefinitely.  Failure to do so will cost you more money and waste more time. The IMF/ UN / AFrican Union Act19 Sec-419. This is to avoid payments of more fees and loss of money.\nThis new year our banks have been Assigned to make all payments in Funds and in Gold.\nNOTE: Provide your Bank details for payment.\n      Provide your personal details and bank details.\n      Your telephone number and whatsapp number for fast communication.\n      Provide your Home Address for door to door delivery of your consignment.\n      Your first payment of $25,000,000.00 for this month is ready now.\n \nBest regards,\nManagement AUDB AND IBOA.   "
     },
     {
         "from": "baiter_562",
         "to": "scammer_562",
-        "subject": "Re:   Dear Consignment Owners/Bene",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Dear Consignment Owners/Bene",
         "body": "Hello there,\n\nThank you for reaching out and sharing this information. It's quite interesting to hear about the STOP ORDER from the PARTNERS AFRICA UNION BANK and BANK FOR AFRICA. I'm curious, could you explain a bit more about what this order entails? \n\nAlso, it's intriguing that your banks have been assigned to make all payments in Funds and Gold this new year. Could you provide more details on how this process works? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSean"
     }
 ]

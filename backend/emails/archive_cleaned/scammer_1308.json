@@ -2,31 +2,31 @@
     {
         "from": "scammer_1308",
         "to": "CRAWLER",
-        "subject": "Attn: To Foreign Beneficiary",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attn: To Foreign Beneficiary",
         "body": "Attn: To Foreign Beneficiary\n UBA BANK PLC\n   ACCRA - GH.\n \n \nSir,\n \nGood Afternoon to You.    \n \nUBA Bank Plc.\nMail Notice.\n I am MR.ASARE DANIEL. A highly placed official of the UBA BANK PLC ACCRA - GHANA, on  foreign Remittance Department.\nWe wish to know if you are still alive in good health. In respect to your unpaid payment of $3.5 Millions Dollar with the Royal Bank Of Asia. All Governmental and Non-Governmental prostates, NGOs, Banks, Security Companies which have been in contact with you of late have been instructed to back up from your transaction and you have been advised NOT to respond to them anymore since the IMF with UNITED BANK FOR AFRICA  PLC. Is now directly in charge of your( FUND $3.5 M).\n Which is pending in our ( ESCROW ACCOUNT). In respect to wire transfer, for the fact it will attract a fee which will cost to obtain documentations for international wire K.TT Transfer.\n The bank has mapped out a short cut for you to receive these funds via ATM CARD, which you are only charged $685.\n The ATM Card works in 89 countries in the world, this is the reason the bank contacted you to receive your funds without any further hindrances.\n The ATM CARD will be posted to you through DHL. Which will arrive at your doorstep within 3/4 days. We await your feedback intentions to enable us to send you information to send the required fee.\n Your ATM CARD will be posted this next Tuesday based on you as soon as you send the required fee to the bank that will process your payment.\n Your mail response will highly be appreciated to enable us to proceed further. Reply to: \nubaban.remit.dept@hotmail.com\n \nYours Sincerely,\n \nMr. Daniel Asare\nRemit. Director UBA Bank Plc.\nAccra - Ghana Breach.\nTel: +233-268-976-544\nCode 000066112023"
     },
     {
         "from": "baiter_1308",
         "to": "scammer_1308",
-        "subject": "Re: Attn: To Foreign Beneficiary",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Attn: To Foreign Beneficiary",
         "body": "Dear Mr. Daniel Asare,\n\nThank you for your email and the information provided. I am indeed alive and in good health, thank you for asking.\n\nHowever, I must admit that I am a bit confused about the situation. Could you please provide more details about this unpaid payment of Millions Dollar with the Royal Bank Of Asia? I don't recall having any dealings with them.\n\nAlso, could you please clarify what is the required fee for processing my payment via ATM Card?\n\nLooking forward to your response.\n\nBest wishes,\nRuth"
     },
     {
         "from": "scammer_1308",
         "to": "baiter_1308",
-        "subject": "Re: Attn: To Foreign Beneficiary",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "2",
+        "subject": "Re: Attn: To Foreign Beneficiary",
         "body": "*Attn: To Mrs Ruth  Foreign Beneficiary  UBA BANK PLC    ACCRA - GH.\r\n    Madam,     UBA Bank Plc.   Good Afternoon to You.*\r\n\r\n*We acknowledged the receipt of your email response.*\r\n* listen Mrs Ruth, This is your unpaid funds from UN, our bank is hereby to\r\nrelease the funds to you through E-Transfer VIA ATM Card? Please you will\r\nbe required to  pay $695 only. For account opening in your name and Atm\r\nCard processing fee.*\r\n\r\n*Kindly send to us your details as listed below and forward it to this\r\nemail address  : info.ubabankremitdept.gh@linuxmail.org\r\n<info.ubabankremitdept.gh@linuxmail.org>*\r\n\r\n*1. Full Names:....*\r\n*2. Mobile Number:....*\r\n*3. A scan copy of your ID Card:....*\r\n\r\n\r\n*As soon as we receive your mail feedback we shall send to you our bank\r\napplication FORM A1 to fill and forward it back to us for your payment\r\nprocessing.*\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n* Your mail response will highly be appreciated.   Thank You;   Yours\r\nSincerely,           Remit. Director UBA Bank Plc. Accra - Ghana Breach.\r\nTel: +233–535-078-139. Code 000066112024 Transit Code 2024*"
     }
 ]

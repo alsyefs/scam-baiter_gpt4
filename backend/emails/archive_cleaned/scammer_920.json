@@ -2,21 +2,21 @@
     {
         "from": "scammer_920",
         "to": "CRAWLER",
-        "subject": " ATTN:",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " ATTN:",
         "body": " ATTN:\nyou are legally contacted regarding the release of your long awaited\nfund of $10million. After a detailed review of your file,i wish to\ninform you that your Swift Credit Card payment is being processed and\nwill be released to you as soon as you respond to this office.Please\nre-confirm to us the following,\nYour Name,\nYour Address,\nPhone,\nYour Age,Private email address:\nmralexogu2014@aol.com\nGod Blessed    "
     },
     {
         "from": "baiter_920",
         "to": "scammer_920",
-        "subject": "Re:  ATTN:",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:  ATTN:",
         "body": "Dear Sir/Madam,\n\nThank you for your message. I am interested in the release of my long-awaited fund. Here are the details you requested:\n\nName: John Doe\nAddress: 123 Main Street, Anytown, USA\nPhone: (123) 456-7890\nEmail Address: johndoe@email.com\n\nI look forward to hearing from you soon.\n\nBest wishes,\nKaren"
     }
 ]

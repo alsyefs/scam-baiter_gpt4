@@ -2,21 +2,21 @@
     {
         "from": "scammer_556",
         "to": "CRAWLER",
-        "subject": "  Hello,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Hello,",
         "body": "  Hello,\n \nWe are operating a funding program that offers collateral-free loans\nand project funding to individuals, organizations, and private\nestablishments.\n \nIf you are seeking funding for a specific shovel-ready project, you\nwill be funded at 2% principal annual interest.\n \nIf you would like to collaborate with us as a middleman/facilitator,\nyou will earn 5% of the total project cost or loan as your commission\nfor every successful loan or project funding deal facilitated by you.\nOur loan is special and we would clarify you with more details, Please\nget in touch if this is of interest to you for further details.\n \n \nRegards,\nCFO   "
     },
     {
         "from": "baiter_556",
         "to": "scammer_556",
-        "subject": "Re:   Hello,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Hello,",
         "body": "Hello,\n\nThank you for reaching out and sharing this information. It sounds like an interesting opportunity. I'm curious to know more about your funding program. Could you please provide more details about how it works? \n\nAlso, could you clarify what you mean by \"principal annual interest\"? And when you mention acting as a middleman, what would that entail exactly?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nRicky"
     }
 ]

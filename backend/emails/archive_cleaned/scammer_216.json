@@ -2,21 +2,21 @@
     {
         "from": "scammer_216",
         "to": "CRAWLER",
-        "subject": "  Received: from 127.0.0.1",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Received: from 127.0.0.1",
         "body": "  Received: from 127.0.0.1\nReturn-Path: < \nbarrdavidchristian55@gmail.com\n >\nX-Originating-Ip: [209.85.128.172]\nReply-To: \nbarrdavidchristian47@aol.com\nFrom: BARRS DAVID CHRISTIAN <barrdavidchristian55@gmail.com>\nDate: Wed, 17 Aug 2022 00:53:25 -0700\nMessage-ID: <CANKoEv=cqCsNO8t_34rdoiVK7B0pmWzHFju5qSo6t_CL_NxX1w@mail.gmail.com>\nSubject: urgent Barrister David Christian   "
     },
     {
         "from": "baiter_216",
         "to": "scammer_216",
-        "subject": "Re:   Received: from 127.0.0.1",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Received: from 127.0.0.1",
         "body": "Dear Marykate,\n\nThank you for your prompt response. I am very excited about this opportunity and would like to proceed as quickly as possible. Could you please provide me with the next steps in this process?\n\nBest regards,\nLewis D.\n\nBest wishes,\nJames"
     }
 ]

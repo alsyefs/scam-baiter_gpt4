@@ -2,21 +2,21 @@
     {
         "from": "scammer_1108",
         "to": "CRAWLER",
-        "subject": "Good Sir/Madam,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Good Sir/Madam,",
         "body": "Good Sir/Madam,\nI got your contact from USA embassy here in the United Kingdom.\nI'm Mr.Peter Cruz, with Audit & Accounts Unit, FIDELITY  BANK London.\nPlease, treat this information as secret and highly confidential.\nThere's an abandoned  account with the sum of $10.5 Million United states\nDollars that hasn't been operated for the past 4 years.\nThis account belongs to a Japanese oil dealer who unfortunately died with\nhis family in a Tsunami. He had neither a legal will nor a surviving next\nof kin. I need your help as a foreigner to claim the money through my\nadvice and we share it 50%/50% with me.\nThere is practically no risk involved, the transaction will be executed\nunder a legitimate arrangement that will protect you from any breach of\nlaw in London and your country.\nIf you are doubt of my person, kindly visit  the victim on:\nhttp: / / www. dailymail.co.uk/news/article-1368531/Japan-earthquake-tsunami-Workersdig-mass-grave-countrys-major-burial.html\nYours Sincerely,\nMr.Peter Cruz\nFidelity Bank\nUnited Kingdom\nNB:please reply to this email: \npcruzinvestment52@gmail.com"
     },
     {
         "from": "baiter_1108",
         "to": "scammer_1108",
-        "subject": "Re: Good Sir/Madam,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Good Sir/Madam,",
         "body": "Dear Cruz,\n\nThank you for your email. I understand the sensitivity of the situation and assure you that I will treat this matter with utmost confidentiality.\n\nHowever, before we proceed, I would like to know more about the process involved in claiming this money. Could you please provide me with a detailed plan on how we are going to execute this?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nBetty"
     }
 ]

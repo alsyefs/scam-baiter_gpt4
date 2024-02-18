@@ -2,21 +2,21 @@
     {
         "from": "scammer_1104",
         "to": "CRAWLER",
-        "subject": "  Greetings,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Greetings,",
         "body": "  Greetings,\nYou maybe surprise to receive my mail, trust me it is for good. My\nname is Mr. Edward Carlos, I am financial broker of Isabel Dos Santos,\nthe eldest Daughter of Former Angolan president JOSE EDUARDO DOS\nSANTOS born April 20 1973, she’s a successful business woman but\npresently persecuted by General Joao Lourenco, and he is bent on\ncollecting all she has worked for with the excuse that it all belongs\nto the Angolan State hence she got four major contracts from the State\nwhile her father was the president of Angola.\nHe has cancelled those contracts and she is investigating her\ntransactions within and outside of Angola, I am contacting you for an\nassistance to move the sum of ($1.5Billion) which She deposited in\nbank, though she has other funds in some other banks in other\ncountries but she urgently need you to step in to take over this and\ninvest it in your country. But you have to be ready to travel in\nperson to meet with the bank if the need be and I will introduce you\nto the financial expert who will, assist you in handling this\ntransaction without hitches .She is ready to offer you 25% of the fund\ndirectly while we will draft an agreement that will empower you to\nmanage the fund for between five to ten years with different\nincentives, while she remain underground investor.\nI look forward to your response as that will guarantee me that you can\nhandle this project. You can read more about her on the internet or\nview the following links if you care:\nhttps:/ /en.wikipedia.org/wiki/Isabel_dos_Santos\nUpon the receipt of this mail kindly get back to me on your interest\non this Email: \npaymeninfor00@gmail.com\n.\nMr. Edward Carlos\nFinancial Adviser   "
     },
     {
         "from": "baiter_1104",
         "to": "scammer_1104",
-        "subject": "Re:   Greetings,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Greetings,",
         "body": "Dear Mr. Edward Carlos,\n\nThank you for your email and the opportunity presented. I am interested in learning more about this investment opportunity. However, I would like to understand more about the nature of the investment, the risks involved and how we can ensure that all transactions are conducted legally and ethically.\n\nI look forward to hearing from you soon.\n\nBest wishes,\nDorothy"
     }
 ]

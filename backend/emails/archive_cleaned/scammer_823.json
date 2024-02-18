@@ -2,21 +2,21 @@
     {
         "from": "scammer_823",
         "to": "CRAWLER",
-        "subject": "  Hello My Good Friend,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Hello My Good Friend,",
         "body": "  Hello My Good Friend,\nHow are you doing? Hope you have not forgotten me, I am Dr.Usman\nBello, the man from Nigeria who contacted you some time ago to assist\nme secure the release of some money accrued from the over invoicing of\na contract/inheritance that was awarded by my government some time ago\nduring the military regime.\nThough you were not able to assist me conclude the transaction, I'm\nhappy to inform you about my success in getting those funds\ntransferred under the assistance and cooperation of a new partner from\nBrazil. Presently I’m in London-United Kingdom for investment projects\nwith my own share of the total sum.\nmeanwhile, I didn't forget your past efforts and attempts to assist me\nin transferring those funds, I made sure you are not left out the\nbenefit of the transaction hence I kept aside for you sum of Five\nHundred Thousand Dollars (500,000.00)Via ATM Card.\nI and my new partner agreed to compensate you with that amount for all\nyour past efforts and attempt to assist me in this matter. I\nappreciated your efforts at that time very much, so feel free and get\nin touch with my secretary Mr. John Oge, and let him know how you want\nyour ATM Card to be Send to you.\nPlease do let me know immediately you receive the ATM Card so that we\ncan share the joy together after all the suffer-ness at that time. At\nthe moment, I’m very busy here because of the investment projects\nwhich me and my partner are having at hand.I left instruction to my\nsecretary Mr. John Oge, so as soon as you contact him, he will send\nthe ATM Card to you, so feel free to get in touch with my secretary.\n                          Below is the contact of my secretary:\nName: Mr. John Oge\nEmail \nmr.john_oge09@yahoo.com\n)\nWith Best Regards\nDr.Usman Bello     "
     },
     {
         "from": "baiter_823",
         "to": "scammer_823",
-        "subject": "Re:   Hello My Good Friend,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Hello My Good Friend,",
         "body": "Dear Bello,\n\nI'm glad to hear that you were successful in your endeavors. I appreciate your kind gesture of remembering my past efforts and attempts to assist you.\n\nHowever, I would like to clarify a few things before proceeding further. Could you please provide more details about the ATM card? How can I use it and are there any charges associated with it?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nBetty"
     }
 ]

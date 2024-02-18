@@ -2,21 +2,21 @@
     {
         "from": "scammer_1016",
         "to": "CRAWLER",
-        "subject": "  From: Kristine Wellenstein <",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  From: Kristine Wellenstein <",
         "body": "  From: Kristine Wellenstein <noreply@dgi.cm>\nDate: 14.11.23 \nAddress: Recipients <noreply@dgi.cm>\nSubject: Important $2.5 Million now!!\nHello\nI've emailed you several times because my foundation has chosen you to receive a $2.5 million dollars cash donation for my charity project in which I won a fortune of $426 million Mega Millions jackpot on January 28th. Your name and email address came out victorious. When you get this email, please get in touch with me ASAP for more details and the claiming process.\nBest wishes,\nMrs. Kristine Wellenstein\nCopyright ©?2023 The Wallerstein Foundation. All Rights Reserved   "
     },
     {
         "from": "baiter_1016",
         "to": "scammer_1016",
-        "subject": "Re:   From: Kristine Wellenstein <",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   From: Kristine Wellenstein <",
         "body": "Dear Mrs. Kristine,\n\nThank you for your generous offer. However, I would need more information about your foundation and the charity project before proceeding further. Could you please provide me with more details?\n\nBest wishes,\nChristina"
     }
 ]

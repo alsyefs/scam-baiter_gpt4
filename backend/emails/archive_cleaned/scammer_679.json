@@ -2,21 +2,21 @@
     {
         "from": "scammer_679",
         "to": "CRAWLER",
-        "subject": "  Greetings and I hope this em",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Greetings and I hope this em",
         "body": "  Greetings and I hope this email finds you well, You happened to be\namong the 3 beneficiaries that are receiving this message.\nThe U.S. Department of Labor in collaboration with Standard Chartered\nBank compensation award of USD$1M\nYour email address has been selected for the award of USD$1M This\nprogram is to help individuals that lost their jobs to covide19, Scam\nvictims, ETC.\nYour funds are scam free and risk free. Kindly contact branch manager\nof Standard Chartered Bank\n ( Sir S.G ) on hid direct email address ( \nstandardchatban@zohomail.com\n)\nSend him your\n1. Full Name\n2. Home or Office Address\n3. Telephone Number\nGood-luck and may no one cast evil eyes on you and your entire family\nAdmin Werner   "
     },
     {
         "from": "baiter_679",
         "to": "scammer_679",
-        "subject": "Re:   Greetings and I hope this em",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Greetings and I hope this em",
         "body": "Dear Sir Werner,\n\nI am very surprised and pleased to receive your email. I would like to confirm the details of this award. Could you please provide more information about the process and what is required from me?\n\nBest wishes,\nLindsey"
     }
 ]

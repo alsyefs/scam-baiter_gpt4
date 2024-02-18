@@ -2,21 +2,21 @@
     {
         "from": "scammer_1306",
         "to": "CRAWLER",
-        "subject": "  Attn: Beneficiary ,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Attn: Beneficiary ,",
         "body": "  Attn: Beneficiary ,\nWe got a report this afternoon from Zenith Bank, MR RUBEN FRANCISCO\nGARCIA from HONDURAS forward his below Account information to Zenith\nBank that you instructed to transfer your  Fund USD$10.5 Million into\nMR RUBEN FRANCISCO GARCIA account.\nBelow is the account information MR RUBEN FRANCISCO GARCIA forwarded\nto Zenith Bank this afternoon.\nBANK NAME: WELLS FARGO BANK, N.A.\nBANK ADDRESS: P.O.BOX 6995\n                      PORTLAND, OR 97228-6995\n                      USA.\nACCOUNT NUMBER: 1010107810690.\nACCOUNT NAME: MR RUBEN FRANCISCO GARCIA.\nSWIFT: WFBIUS6S.\nROUTING: 121000248.\nHOME ADDRESS:\nCOLONIA ORQUIDEA BLANCA, 18 AVE., 9 CALLE, N.O., # 903.\nSAN PEDRO SULA, HONDURAS\nPlease reply immediately the Zenith Bank and the Federal Government\nurgently want to know if you are the one instructed  MR RUBEN\nFRANCISCO GARCIA to claim your Fund USD$10.5 Million .\nLooking  forward for your urgent reply.\nUnited States Ambassador to Nigeria   "
     },
     {
         "from": "baiter_1306",
         "to": "scammer_1306",
-        "subject": "Re:   Attn: Beneficiary ,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Attn: Beneficiary ,",
         "body": "Dear Sir,\n\nI am writing to inform you that I have not authorized anyone, including Mr. Ruben Francisco Garcia, to claim any funds on my behalf. I have no knowledge of the account details provided and I request that no transactions be made into this account related to any funds intended for me.\n\nPlease ensure that all communication regarding this matter is directed to me personally and not through any third parties. \n\nThank you for your prompt attention to this matter.\n\nBest wishes,\nNorma"
     }
 ]

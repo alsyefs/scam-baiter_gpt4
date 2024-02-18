@@ -2,21 +2,21 @@
     {
         "from": "scammer_1032",
         "to": "CRAWLER",
-        "subject": "We wish to inform you that the",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "We wish to inform you that the",
         "body": "We wish to inform you that the diplomatic agent conveying the\nconsignment box valued the sum of $ 5.5 million United States Dollars\nhas misplaced your address and he is currently at (San Diego\nInternational Airport California) CA USA now. We required you\nreconfirm the following information's below so that he can deliver\nyour consignment box to you today or tomorrow as information provided\nwith open communications via email and telephone for security reasons.\nNAME:=======\nADDRESS:=====\nMOBILE NO:=====\nNAME OF YOUR NEAREST AIRPORT: ====\nA COPY OF YOUR IDENTIFICATION\n:======\nPlease do contact the diplomatic agent with the email below with the\ninformation's required.\nContact Person: DIPLOMAT Mr. Greg Wingo\nEMAIL:officefin021@gmail.com\nMOBILE: ( +1 919 886 6174(TEXT OR CALL HIM)\nGo ahead and see that you contact the diplomatic agent immediately\nbecause he is waiting to hear from you today with the information's.\nBest Regards.\nDHL COURIER COMPANY\nMISS HELEN JOYCE"
     },
     {
         "from": "baiter_1032",
         "to": "scammer_1032",
-        "subject": "Re: We wish to inform you that the",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: We wish to inform you that the",
         "body": "Dear Miss Helen Joyce,\n\nI'm sorry to hear that the diplomatic agent has misplaced my address. Here are the details you requested:\n\n\n\n\n\n\nPlease ensure that the diplomatic agent receives this information promptly so there are no further delays.\n\nBest wishes,\nDianne"
     }
 ]

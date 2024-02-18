@@ -2,21 +2,21 @@
     {
         "from": "scammer_606",
         "to": "CRAWLER",
-        "subject": "My name is Mr. Antonio Barrio,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "My name is Mr. Antonio Barrio,",
         "body": "My name is Mr. Antonio Barrio, delivery agent from the United Kingdom\n(UK) I just arrived in your Country with your online\naward winning lottery total £300,000.00 pounds but \nthe airport\nauthorities are demanding a £100 pounds clearance fee before I will\nproceed to your home address and deliver your package to you\n.\nI wait for your response,\nMr. Antonio Barrio\nDelivery agent.\nEmail: \n{infoalemuwiinfoalemuwi@gmail.com\n}"
     },
     {
         "from": "baiter_606",
         "to": "scammer_606",
-        "subject": "Re: My name is Mr. Antonio Barrio,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: My name is Mr. Antonio Barrio,",
         "body": "Dear Mr. Antonio Barrio,\n\nThank you for your message. I'm surprised to hear about this lottery winning as I don't recall entering any lottery. Could you please provide more details about this? \n\nAlso, regarding the clearance fee, could you please clarify why this wasn't taken care of before the package was shipped? It seems unusual that such a fee would be requested upon arrival.\n\nLooking forward to your response.\n\nBest wishes,\nRobert"
     }
 ]

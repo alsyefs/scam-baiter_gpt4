@@ -2,21 +2,21 @@
     {
         "from": "scammer_1190",
         "to": "CRAWLER",
-        "subject": "My name is Rosemary Ivan. I wr",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "My name is Rosemary Ivan. I wr",
         "body": "My name is Rosemary Ivan. I write to you from Ukraine because I am in\ndire need of your help. As you must know, my city Donetsk where I have\nlived for years, and now everything has been destroyed, including all\nmy family. My  granddaughter and I were saved by a miracle.\nI want her to live a better life FAR AWAY from this madness and I need\nyour help to make it happen\n. Fortunately, my husband managed to\ndeposit my family fortune in a security firm outside Marinka a city in\nDonetsk. As I am old and weak, I need someone I can trust to receive\nit and help my granddaughter start a new life, as she is all that is\nleft of our happy family, please i plead with a broken heart that her\nsafety is all that matters to me right now, as i am old and weak,\nbullets or bomb can hit our camp any time and it doesn't matter\nanymore,all i want is for my grandchild to leave this place and go far\naway and start a new life.\nI will give you more details when you reply and indicate your\nacceptance to help me.\nMany thanks to you in advance for everything.\nRosemary Ivan\nEmail: \nrosemaryivan1948@gmail.com"
     },
     {
         "from": "baiter_1190",
         "to": "scammer_1190",
-        "subject": "Re: My name is Rosemary Ivan. I wr",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: My name is Rosemary Ivan. I wr",
         "body": "Hello Rosemary Ivan,\n\nI'm really sorry to hear about your situation. It must be incredibly tough for you and your family. I can't even begin to imagine what you're going through right now.\n\nYou mentioned a security firm outside Marinka city in Donetsk where your family fortune is deposited. Could you tell me more about this? How did your husband manage to do that amidst all the chaos?\n\nAlso, how do you plan on getting your grandchild out of there? Do you have any specific plans or ideas in mind?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAnn"
     }
 ]

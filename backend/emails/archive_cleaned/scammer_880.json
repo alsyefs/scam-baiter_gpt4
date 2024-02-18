@@ -2,21 +2,21 @@
     {
         "from": "scammer_880",
         "to": "CRAWLER",
-        "subject": "Hello!",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Hello!",
         "body": "Hello!\nI have come across investment opportunities on the internet and expressed my interest.\nI am an independent broker that links entrepreneurs/fund seekers with Investors who are ready to invest in good business projects and ideas that will yield a high ROI (Return On Investment). Our investment range is $1M - $50M USD for a period of ten (10) years.\nFeel free to reach me back for more information and startup.\nRegards,\nSofia Fernandes\nClient Relations\nCocheras de Aluche\nM 2854, Madrid Spain.\nInvestment Opportunity Available"
     },
     {
         "from": "baiter_880",
         "to": "scammer_880",
-        "subject": "Re: Hello!",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Hello!",
         "body": "Dear Sofia Fernandes,\n\nThank you for your email and the opportunity to discuss potential investment opportunities. I am always open to exploring new ventures that could yield high returns on investment.\n\nCould you please provide more details about the nature of these investments, the sectors they are in, and what kind of business projects or ideas your investors are particularly interested in? \n\nI look forward to hearing from you soon.\n\nBest wishes,\nDoreen"
     }
 ]

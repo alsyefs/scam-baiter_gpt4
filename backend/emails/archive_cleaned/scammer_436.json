@@ -2,31 +2,31 @@
     {
         "from": "scammer_436",
         "to": "CRAWLER",
-        "subject": "Greetings from the WHITE HOUSE",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Greetings from the WHITE HOUSE",
         "body": "Greetings from the WHITE HOUSE office at USA. I have a vital\ninformation which needs to be attended immediately. Did you authorized\nanyone to pick up your inheritance fund from our branch in Washington\nDC, a man called Mr. Andrew came to our office in -respect of your\n$6.5 million dollars which has been credited with us for the past 1\nyears now by the Federal Government to be transferred into your\naccount. He said that you authorized him to pick up the fund.\nThis fund has been in our custody for the past one years now and we\nhave been waiting for you to contact us but we didn't know what is\nhindering you from reaching us since. So we decided to write to you to\nmake sure that you are fine and aware of the inheritance fund of $6.5\nmillion dollars in our branch office\nFull Name..........\nAddress.............\nPhone number........\nPrivate email.........\nRegards,\nYours Sincerely,\nWHITE HOUSE\nManager Mr.Felix Gallardo Frank\nYou can contact us through this number ..\n+1605-606-9796"
     },
     {
         "from": "baiter_436",
         "to": "scammer_436",
-        "subject": "Re: Greetings from the WHITE HOUSE",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Greetings from the WHITE HOUSE",
         "body": "Dear Manager Gallardo Frank,\n\nI am surprised to hear about this situation. I have not authorized anyone named Mr. Andrew or any other individual to pick up any funds on my behalf from your branch in Washington DC.\n\nCould you please provide more details about this fund? How did it come to be credited to me by the Federal Government? \n\nHere are my details as requested:\n\nFull Name: John Doe\nPhone Number: +1-202-555-0183\nPrivate Email: johndoe@email.com\n\nI look forward to your prompt response.\n\nBest wishes,\nMonte"
     },
     {
         "from": "scammer_436",
         "to": "baiter_436",
-        "subject": "Re: Greetings from the WHITE HOUSE",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "2",
+        "subject": "Re: Greetings from the WHITE HOUSE",
         "body": "Ok Mr John I received your email since you didn't authorize Mr Andrew to\r\ncalm your funds here choose how you want to receive your funds here Ok\r\n\r\n(1) FedEx shipping company...Delivery charge: $150 Diplomatic immunity\r\nseal:$150 Total:$150 Time 5 hours minutes delivery\r\n\r\n(2) Dhl courier service .....Delivery charge: $200 Diplomatic immunity\r\nseal:$200 Total:$200 Time 7 hours delivery\r\n\r\n(3) Ups......Delivery charge:$100 Diplomatic immunity seal:$100\r\nTotal:$100 Time 4 hours 15 minutes delivery\nBest regard\r\nMr Felix Gallardo Frank"
     }
 ]

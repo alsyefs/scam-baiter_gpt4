@@ -2,21 +2,21 @@
     {
         "from": "scammer_1406",
         "to": "CRAWLER",
-        "subject": "Attention My Dear,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attention My Dear,",
         "body": "Attention My Dear,\nYour first payment of $5000 Is about to sent today through Western\nUnion transfer You are advised to\nContact money gram office Director Rev.James White with your full\ninformation.such as\nYour full name..........\nHome address:.........\nYour country...........\nYour city..............\nTelephone......\nOccupation:.......\nAge:………………..\nTo enable him to send your First Payment of $5000 today.For more\ninformation contact Rev.James White,  Email\n(\nwunionoffice91@gmail.com\n)he will keep sending\nyou payment until your total fund is Completed $900,000.00 Usd.\nBest Regards\nMrs.Jawaria Ahsan"
     },
     {
         "from": "baiter_1406",
         "to": "scammer_1406",
-        "subject": "Re: Attention My Dear,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Attention My Dear,",
         "body": "Hello Ahsan,\n\nThank you for your message. It's exciting to hear about this payment! Could you please provide more details? For instance, what is the purpose of this payment and how did it come about? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nTimothy"
     }
 ]

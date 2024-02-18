@@ -2,21 +2,21 @@
     {
         "from": "scammer_50",
         "to": "CRAWLER",
-        "subject": "   Hello,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Hello,",
         "body": "   Hello,\nI am Mr Alexander Milner, a member of the Audit Committee on contracts\nof Exxon Mobil Corporation (UK).\nI need a silent foreign partner in the United States who I can trust\nto receive an outstanding fund for lucrative investment and charity\nwork in the United States.\nI will give you details of this project as you respond promptly to\nthis proposal. The funds shall be moved to your nominated account from\nour operating bank here in the United Kingdom.\nThe fund is valued at Thirty Million U.S Dollars and you will not be\nobliged to be responsible for the expenses in this transaction as I\nand my committee have made adequate arrangement for a credible and\nreliable US Investor to provide us with all the funding / finance we\nneed to settle all expenses and costs associated with the release of\nthe funds to your nominated account.\nRegards,\nMr Alexander Milner   "
     },
     {
         "from": "baiter_50",
         "to": "scammer_50",
-        "subject": "Re:    Hello,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:    Hello,",
         "body": "Dear Mr. Milner,\n\nI am interested in your proposal and would like to know more about this project. Could you please provide me with more details?\n\nBest wishes,\nJessie"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_812",
         "to": "CRAWLER",
-        "subject": "Good Day",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Good Day",
         "body": "Good Day\nThis is a follow up of my last massage to you which I hope will now meet you in good condition\nMy name is Mr.Larry Williams, Head of the Committee on Federal Reserve System Affairs (“Payments Co”) and the Clearing House Inter bank Payments System (CHIPS). We have received approval from the Federal Reserve System to release your Long overdue payment of the sum of $10.5m (Ten Million Five Hundred Thousand United States Dollars) through the New York Clearing House of the Federal Reserve System FedWire Payments System (FPS).\nWe have reviewed the issued payment mandate and the certified payment instrument released by OFAC containing your personal details, but we noticed different bank details in favor of your financial representative and partner Mr Allan Element. who claimed you gave Him Power Of Authority to assist you receive the funds we require your confirmation to proceed with the provided account before transfer of your funds is initiated via S.W.I.F.T MT2O2 COV in favor of your representative Mr Allan Element. Please Confirm details below to receive your payment:\nCITIZENS BUSINESS BANK\n1801 N. SEPULVEDA BLVD., MANHATTAN BEACH, CALIF. 90266\nACCOUNT: 044043327\nROUTING: 122234149\nSWIFT CODE: CBBKUS6L\nBENEFICIARY KELEMEN ENTERPRISES\nWe need your final confirmation that Mr Allan Kelemen is your partner so that we can complete transfer of $10.5million to the U.S. Citizen Business Bank account\nYours Faithfully\nMr. Larry Williams\nHead of Committee on Federal Reserve System Affairs (“PaymentsCo”)"
     },
     {
         "from": "baiter_812",
         "to": "scammer_812",
-        "subject": "Re: Good Day",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Good Day",
         "body": "Dear Mr. Larry Williams,\n\nI am writing to clarify that I do not have any financial partner named Mr. Allan Element, nor have I given power of authority to anyone regarding the receipt of these funds. \n\nI would like to proceed with the transfer directly to my personal account. Please provide me with the necessary steps and documentation required for this process.\n\nThank you for your attention to this matter.\n\nBest regards,\nLewis D.\n\nBest wishes,\nScott"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_517",
         "to": "CRAWLER",
-        "subject": "  Attn Sir",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Attn Sir",
         "body": "  Attn Sir\nthe option given to you is the best way for you if there is honesty\nand seriousness on your part because I do not what you are saying or\nhow you are playing with this but we cannot force you to comply. the\noptions are  strictly yours\nBuy Money Order and send it and that solves the issue .\nDo not report about that Bank account because is not true\nRegards\nGraham   "
     },
     {
         "from": "baiter_517",
         "to": "scammer_517",
-        "subject": "Re:   Attn Sir",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Attn Sir",
         "body": "Dear Graham,\n\nI'm not sure I understand your message. Could you please clarify what you mean by \"the option given to you is the best way for you if there is honesty and on your part\"? Also, could you provide more details about the money order? \n\nLooking forward to hearing from you.\n\nBest regards,\nLewis D.\n\nBest wishes,\nRebecca"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_1257",
         "to": "CRAWLER",
-        "subject": "Dear xxx.",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear xxx.",
         "body": "Dear xxx.\nYour mail received with all the contents well noted, you can receive the $12.5m USD through these three options;\n1. Telegraphic transfer {ktt}.\n2. Diplomatic delivery to your door step in your country.\n3. ATM card payment.\nYou are expected to chose any of the options you prefer to receive the fund so that we can commence actions immediately.\nFurthermore, you required to funish me with your telephone number and copy of your international passport so as to identfy whom you are to have full confidence about you.\nThanks for your co-operation.\nBest regards.\nKnight."
     },
     {
         "from": "baiter_1257",
         "to": "scammer_1257",
-        "subject": "Re: Dear xxx.",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Dear xxx.",
         "body": "Dear Knight,\n\nThank you for your prompt response and the options provided. I appreciate your efforts in making this process as smooth as possible. \n\nI am intrigued by the three options you've mentioned. Could you please provide more details about each one? For instance, how does the transfer ktt work? And what are the procedures involved in diplomatic delivery and ATM card payment?\n\nAs for my personal information, I hope you understand that due to privacy concerns, I prefer not to share my telephone number or passport copy over email. However, rest assured that I am genuinely interested in proceeding with this.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nPeter"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_335",
         "to": "CRAWLER",
-        "subject": "   Okay sir you can also make ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Okay sir you can also make ",
         "body": "   Okay sir you can also make donation through the link below with your credit/debit card thank you and God bless you.\nhttps:/ /www.paypal.com/donate/?hosted_button_id=KR9EYT35YCFTG    "
     },
     {
         "from": "baiter_335",
         "to": "scammer_335",
-        "subject": "Re:    Okay sir you can also make ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:    Okay sir you can also make ",
         "body": "Sure, I can make a donation. Could you please provide me with the link?\n\nBest wishes,\nInez"
     }
 ]

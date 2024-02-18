@@ -2,21 +2,21 @@
     {
         "from": "scammer_96",
         "to": "CRAWLER",
-        "subject": "Service options: Drive-through",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Service options: Drive-through",
         "body": "Service options: Drive-through\nAddress: 290 S Pleasant burg Dr,\nGreenville, SC 29607, USA\nDepartments: Regions Mortgage\nHours: Open · Closes 5PM · More hours\nAttention:\nIn respect of your fund inheritance payment US$44.000.000.000.00\nBillion US Dollars, we the bank Authorities Commercial Bank.\n(C.B.T),head office will deliver you a new (2022) ATM VISA CARD that\nwill accumulate your total funds of US$44 Billion USD according to the\ninstruction from our creditor department here in the bank After the\nboard of directors meeting held on 19th OCT 2022 the total payment was\napproved for payment to you in new ATM VISA CARD which you must use to\nmake withdraw of your fund in any ATM slotting machine around the\nworld with maximum amount of $40,000 USD in daily payment until you\ncash the total payment of US$44 Billion USD credited in your ATM account.\nAnd \nyou have to send the required fee of $50.00 USD Itune card or\nsteam wallet card \nrequest for obtain the Affidavit of claim Ownership\nin your transaction with government of your fund origin been Federal\nJustice Greenville SC USA ,the US Monitory Fund Investigation Union\nhead office in Greenville will declare your payment free from any\nmoney laundry and terrorism drug money sponsor activities to enable\nour service have the authority of release the payment to you and\nregister it with US IMPEX COURIER SERVICE for over-night delivery to\nyour address without delay.\nAnd here is information to send the fee to them or send Itune card\nSteam wallet card because all modality has already been worked out\neven before you were contact and noted, Also all we request from you\nis to follow our instruction so we can deliver your ATM parcel to your\naddress today. Send the $50.00 USD by Gift cards as list below to\nenable them release the document today.\nSend the payment $50.00 usd buy a Steam wallet card, iTune card\n$50.00 send (Pin code and picture here.\nReconfirm the following information to Receive the ATM VISA CARD.\nYour Name:\nAddress:\nMobile phone:\nDirect phone number:\nMrs Vivian Sarah Micheal\nChief Financial Officer"
     },
     {
         "from": "baiter_96",
         "to": "scammer_96",
-        "subject": "Re: Service options: Drive-through",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Service options: Drive-through",
         "body": "Hello Mrs. Vivian Sarah Micheal,\n\nThank you for your detailed message. It's quite exciting to hear about this opportunity! I'm a bit confused though, could you please explain more about how the ATM VISA CARD works? \n\nAlso, I'm not very familiar with Itune cards or steam wallet cards. Could you tell me more about them and why they are needed in this process?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMichelle"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_1279",
         "to": "CRAWLER",
-        "subject": "   Bangkok Bank Thailand, 919/",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Bangkok Bank Thailand, 919/",
         "body": "   Bangkok Bank Thailand, 919/1 Jewelry\nTrade Center 6-B1 Si Lom, Silom,\nBang Rak, Bangkok 10500\nREF:- PAYMENT CODE: ECB/066\nEmail: \nsamirelsaleh033@gmail.com\nAttention: Beneficiary,\nOfficial Notice: this is to acknowledge the receipt of an instruction\nPayment Order in your favor Valued at US$10.000.000.00, Ten Million\nUnited States Dollars Only from United Nations and World Bank.\nBe informed that this Bank has been mandated by the United Nations and\nWorld Bank Organization to offset your due Payment Valued\nUS$10.000.000.00 with immediate effect. To proceed with the release of\nyour funds as instructed by the United Nations and World Bank, you are\nrequired to get back to us with information below.\nMeanwhile, we have concluded all arrangements to open an online bank\naccount in your name and forward the online bank account to you so\nthat you will start to make a transfer from your online bank account\nto any bank of your choice.\nFile the information below:\nFull Name:\nResidential Address:\nMobile Number:\nDate of Birth:\nNationality:\nA copy of your Drive License:\nFurthermore, upon confirmation of this information. we shall proceed\nfurther for the final process of your online bank account.\nNote: you will be required to make a payment of $950.00 only so that\nwe can give you the transfer Pin Code Number for you to start making a\ntransfer to any bank of your choice.\nThank you for choosing Bangkok Bank Thailand. We appreciate the\nOpportunity to serve you. Do not hesitate to ask question (s) where\nyou consider necessary for clarification.\n            CONGRATULATIONS!\nThank you,\nSincerely yours,\nMrs. Samir EL Saleh\nCEO / Head of Transaction & Transfer Department   "
     },
     {
         "from": "baiter_1279",
         "to": "scammer_1279",
-        "subject": "Re:    Bangkok Bank Thailand, 919/",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    Bangkok Bank Thailand, 919/",
         "body": "Hello Mrs. Samir EL Saleh,\n\nThank you for your message. It's quite a surprise to hear about this payment order in my favor. I must say, it's not every day that one receives news of such a large sum! \n\nI'm curious though, how did the United Nations and World Bank come to select me for this? And could you please explain more about this online bank account that will be opened in my name? How does it work exactly?\n\nLooking forward to hearing from you.\n\nBest wishes,\nChristopher"
     }
 ]

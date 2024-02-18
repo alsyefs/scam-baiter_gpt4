@@ -2,21 +2,21 @@
     {
         "from": "scammer_567",
         "to": "CRAWLER",
-        "subject": " George Bush Intercontinental ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " George Bush Intercontinental ",
         "body": " George Bush Intercontinental Airport\n2800 N Terminal Rd, Houston,\nTX 77032, United States\n \n \nAttn:    \n \n \nThank you for your response and  Kindly  use the new bank account below to send it and you have to do your best to send it across so that we can conclude your delivery arrangement coming next week.\nName of the beneficiary: B. O.\nBank Name: Wells Fargo\nAccount Type: Checking\nAddress:   Middletown ,19709 Delaware, USA\nRouting Number: 121000248\nAccount Number: 4063015233127XXXX\nAmount: US$560.00\n \nKindly get back to us with the payment copy.\n \nYours faithfully\n \nMr. Albert Nicholas\nOperation Manager\nGeorge Bush Intercontinental Airport\n2800 N Terminal Rd, Houston,\nTX 77032, United States   "
     },
     {
         "from": "baiter_567",
         "to": "scammer_567",
-        "subject": "Re:  George Bush Intercontinental ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:  George Bush Intercontinental ",
         "body": "Dear Mr. Albert Nicholas,\n\nThank you for your response. However, I must inform you that I am unable to make any payments without proper verification and documentation. Could you please provide me with more details about the delivery and its associated costs? \n\nAlso, could you please provide some form of identification or official document that verifies your position as the Operation Manager at George Bush Airport?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nJacob"
     }
 ]

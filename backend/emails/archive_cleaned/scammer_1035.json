@@ -2,21 +2,21 @@
     {
         "from": "scammer_1035",
         "to": "CRAWLER",
-        "subject": "   Hello Friend",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Hello Friend",
         "body": "   Hello Friend\n \nGood News for you, it's been a while\n \nHow are you and your family doing ?\n \nI want you to know that I finally succeeded in getting out the cash boxes into the USA\nI have deposited $2.5m as your compensation for all your assistance trying to help get out the cash to a safe location all these years. \n \nQuickly contact CBI WALLET with your full names , and they will open your wallet and fund you immediately as I have instructed. You will receive this compensation payment in crypto-currency from CBI Wallet Company. Therefore, Contact CBI Wallet official as below.\nCBI WALLET\nContact Name : Mr. P C. Ming\nEmail : \nofficemailforgood@gmail.com\n \nYours Sincerely,\n \nMr. P C. Ming  "
     },
     {
         "from": "baiter_1035",
         "to": "scammer_1035",
-        "subject": "Re:    Hello Friend",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    Hello Friend",
         "body": "Hello Mr. C. Ming,\n\nWow, that's some news! I'm glad to hear you've managed to get the cash boxes into the USA. My family and I are doing well, thank you for asking.\n\nI'm curious about this CBI Wallet though. Can you tell me more about it? How does it work exactly? And how did you come across this company?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nAmanda"
     }
 ]

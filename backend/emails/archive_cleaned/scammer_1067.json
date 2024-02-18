@@ -2,21 +2,21 @@
     {
         "from": "scammer_1067",
         "to": "CRAWLER",
-        "subject": "Receive Your ATM Card From Fed",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Receive Your ATM Card From Fed",
         "body": "Receive Your ATM Card From FedEx Office\n Ship Center St Louis Missouri, Mo, USA\nFedEx Office  Ship Center\nSt Louis Mo, Mo, USA\nOpen until 9:00 PM\nContact: Stephen Lawrence via Email on (\nonlincare90@aol.com\n)\nDear Beneficiary,\nThe management of this company, wishes to inform you that, we received\na parcel containing an (ATM VISA Card)  for safety\ndelivery to your residential. This parcel was brought to us by the\nVisa Card payment office of  Bank of America, \nplease\nreconfirm the below information to us to avoid a wrongful delivery.\n(1) YOUR Full names............\n(2) YOUR Parcel owner address......\n(3) YOUR Country/State..............\n(4) YOUR Cell Number...........\nWe will register your package and send you the tracking before we\nproceed for safety delivery of your package as soon as you reconfirm\nthe required information’s for safety delivery, Contact the delivery\nofficer Stephen Lawrence on Email via (\nonlincare90@aol.com\n)\nPlease make a Choice of delivery for the FedEx Shipping and Airport\nclearance charge of your (ATM VISA Card) as they are as charges\nBelow;\n(1)24hrs/$150\n(1)48hrs/$90\n(2)72hrs/$65\nFedEx Office is your local  company in St Louis Missouri,\noffering a wide range delivery and self-service copying. Come and ship\nwith FedEx®."
     },
     {
         "from": "baiter_1067",
         "to": "scammer_1067",
-        "subject": "Re: Receive Your ATM Card From Fed",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Receive Your ATM Card From Fed",
         "body": "Dear Office Ship Center,\n\nI received your message regarding the delivery of an ATM VISA Card. However, I would like to clarify a few things before proceeding.\n\nFirstly, could you please provide more details about this card? For instance, who is it from and what is its purpose? \n\nSecondly, you mentioned some charges for shipping and airport clearance. Could you please specify these costs?\n\nLastly, could you confirm that my personal information will be kept confidential during this process?\n\nLooking forward to your response.\n\nBest wishes,\nAgnes"
     }
 ]

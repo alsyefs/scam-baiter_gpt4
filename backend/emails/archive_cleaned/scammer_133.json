@@ -2,21 +2,21 @@
     {
         "from": "scammer_133",
         "to": "CRAWLER",
-        "subject": "Wema Bank Plc is a universal b",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Wema Bank Plc is a universal b",
         "body": "Wema Bank Plc is a universal banking institution incorporated in 1945 as a Private Limited Liability Company (under the old name of Agbomagbe Bank Limited) and commenced banking operations in Nigeria the same year. The Bank later transformed into a Public Limited Company (PLC) in April 1987 and was listed on the floor of the Nigerian Stock Exchange (NSE) in January 1990. On February 5, 2001, Wema Bank Plc was granted a universal banking licence by the Central Bank of Nigeria (CBN), thus allowing the Bank provide the Nigerian public with diverse financial and business advisory services."
     },
     {
         "from": "baiter_133",
         "to": "scammer_133",
-        "subject": "Re: Wema Bank Plc is a universal b",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Wema Bank Plc is a universal b",
         "body": "Hello there,\n\nThank you for sharing this information about Wema Bank Plc. It's interesting to learn about its history and how it evolved from a Private Limited Liability Company to a Public Limited Company. \n\nI'm curious, what led to the decision of Wema Bank Plc to transition into a universal bank? Also, could you please elaborate more on the diverse financial and business advisory services that the bank provides?\n\nLooking forward to your response!\n\nBest wishes,\nMichael"
     }
 ]

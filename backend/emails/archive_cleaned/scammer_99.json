@@ -2,31 +2,31 @@
     {
         "from": "scammer_99",
         "to": "CRAWLER",
-        "subject": "YOUR COMPENSATION FUNDS",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "YOUR COMPENSATION FUNDS",
         "body": "YOUR COMPENSATION FUNDS\nDear Friend,\nI did not forgot your past effort for your attempt to assist me get\nthose funds transfer, Now I'm happy to inform you that I have\nsuccessfully succeeded in\ngetting those Funds transferred under the cooperation of a new partner\nfrom Japan and presently I am in United Kingdom for investment\nproject.\nNow \nI am advise you to Contact my secretary and ask him\nto send your compensation fund\n sum of ($12,900.000.00) worth of ATM card.\nHis,Name John Obi and his\nE-mail ( \natmcardcenter54@gmail.com\n )\nphone: +2349150807432\n1, Your Full Name\n2, Your Delivery Address\n3, Your Contact Telephone Number\n4, Your Occupation\n5, Your nearest Airport\n6, Your current email Address\nRegards\nDr Atiku Usman"
     },
     {
         "from": "baiter_99",
         "to": "scammer_99",
-        "subject": "Re: YOUR COMPENSATION FUNDS",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: YOUR COMPENSATION FUNDS",
         "body": "Hello Dr Atiku Usman,\n\nI'm so glad to hear from you and that your project has been successful! It's wonderful news that you've managed to secure the funds with a new partner from Japan. I hope your investment project in the United Kingdom is going well.\n\nIt's very generous of you to think of me and offer to send an ATM card. However, I'm a bit confused about how this works. Could you please explain more about this process? How does the ATM card work? Is it like a regular bank card?\n\nLooking forward to hearing more about this exciting opportunity!\n\nBest wishes,\nVelva"
     },
     {
         "from": "scammer_99",
         "to": "baiter_99",
-        "subject": "Re: YOUR COMPENSATION FUNDS",
         "direction": "Inbound",
-        "days_from_first_conversation": 1,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "2",
+        "subject": "Re: YOUR COMPENSATION FUNDS",
         "body": "deptserviceatm@gmail.com"
     }
 ]

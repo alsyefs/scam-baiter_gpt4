@@ -2,21 +2,21 @@
     {
         "from": "scammer_1422",
         "to": "CRAWLER",
-        "subject": "DEAREST BELOVED IN CHRIST",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "DEAREST BELOVED IN CHRIST",
         "body": "DEAREST BELOVED IN CHRIST\nRE: LOAN APPLICATION AMOUNT OF US$200,000.00 IN YOUR FAVOR\nGreetings in the name of the lord almighty and our lord Jesus Christ.\nI acknowledge the receipt of your email and the contents were fully understood.\nIN RESPECT TO THE LOAN AMOUNT OF US$200,000.00\nWe would need your personal data Which would enable us process your\nloan Which would be Transferred to you as soon as possible! The\ntransfer of the loan must be a bank to bank transfer, except otherwise\nstated by the borrower Which means, you will have to Provide the means\nfor Which you want your loan transfer to you.\nUsually to start up the loan process, We would like to Inform you That\ngetting the loan in your country, will be easy as long as you have a\njob at hand and you are well above 18 years, and with a proof of\nidentity.\nThe services of JESUS ??IN HIS mightiness GLOBAL MINISTRY CHURCH. are\nrendered all over the world. All you need to do is 'comply with our\nrules and Regulations and Provide us with your correct details and\ncontact address to be able to Process the loan in your favor, so far\nso good we have had most of people paid us back our money in the due\ntime while some have given us incorrect and fake identities, with the\nintention of going with our money. May God forgive Those who plan to\nrun away with JESUS ??IN HIS CHURCH MINISTRY mightiness GLOBAL MONEY!\nBut we assure you That once your details are well given, we would\noffer you the Loan you want within (2) days of processing the Loan.\nTherefore, you will have to provide the following details:\nNAME:.................................\nAGE:.................................\nSEX:.................................\nMARITAL STATUS:.................................\nCONTACT PHONE NUMBER:.................................\nADDRESS:.................................\nCITY:.................................\nSTATE:.................................\nCOUNTRY:.................................\nZIP CODE:.................................\nOCCUPATION:.................................\nMONTHLY INCOME:.................................\nAMOUNT NEEDED:.................................\nFULL BANK DETAILS\n:.................................\nWHEN NEEDED:.................................\nPURPOSE OF LOAN:.................................\nREPAYMENT DURATION:.................................\nWE AWAIT YOUR SWIFT REPLY TO THIS E-MAIL.\nMAY THE GRACE OF OUR LORD JESUS CHRIST, THE LOVE OF GOD, AND THE\nFELLOWSHIP OF THE HOLY SPIRIT BE WITH YOU AND THE REST OF YOUR FAMILY.\nSTAY BLESSED."
     },
     {
         "from": "baiter_1422",
         "to": "scammer_1422",
-        "subject": "Re: DEAREST BELOVED IN CHRIST",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: DEAREST BELOVED IN CHRIST",
         "body": "Dear Sir/Madam,\n\nThank you for your email. I am interested in the loan offer, however, I would like to know more about the terms and conditions of this loan. Could you please provide me with more information regarding the interest rate, repayment period and any other fees or charges that may apply?\n\nBest wishes,\nWillard"
     }
 ]

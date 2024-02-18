@@ -2,21 +2,21 @@
     {
         "from": "scammer_785",
         "to": "CRAWLER",
-        "subject": "Hello my dear!",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Hello my dear!",
         "body": "Hello my dear!\nhow are you doing?..Please I do not have a formal relationship with\nyou, but due to my current situation and circumstances I contacted\nyou. I have an important discussion to discuss with you if you don't\nmind. I hope to hear from you as soon as possible."
     },
     {
         "from": "baiter_785",
         "to": "scammer_785",
-        "subject": "Re: Hello my dear!",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Hello my dear!",
         "body": "Hello,\n\nI'm doing well, thank you. I'm open to discussing important matters. Please feel free to share more details about the situation you're in and what you'd like to discuss.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRhonda"
     }
 ]

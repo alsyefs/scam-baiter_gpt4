@@ -2,21 +2,21 @@
     {
         "from": "scammer_1171",
         "to": "CRAWLER",
-        "subject": "Attention:Beneficiary",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attention:Beneficiary",
         "body": "Attention:Beneficiary\nI am Diplomat Richard Harry, I am presently in United States mandated\nto deliver your inheritance fund to you in your country of residence.\nThe funds total US$8.3Million and you were made the beneficiary of\nthese funds by a beneficiary whose details will be revealed to you\nafter handing over the funds to you in accordance with the Agreement I\nsigned with the benefactor when he enlisted my assistance in\ndelivering the funds to you.\nI am presently at International Airport here in United States of\nAmerica and before I can deliver the package (funds) to you, you have\nto reconfirm the following information so as to ensure that I am\ndealing with the right person:\n1. Full Name\n2. Residential Address\n3. Age\n4. Occupation\n5. Direct Telephone Numbers\n6.\n A Copy of Your Identification\nAfter verification of the information with what I have on file, I\nshall contact you so that we can make arrangements on the exact time I\nwill be bringing your package to your residential address. Send the\nrequested information so that we can proceed.\nRegards\nDiplomat Richard Harry"
     },
     {
         "from": "baiter_1171",
         "to": "scammer_1171",
-        "subject": "Re: Attention:Beneficiary",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Attention:Beneficiary",
         "body": "Dear Diplomat Richard Harry,\n\nThank you for your message. However, I am unable to provide the information you requested as it seems there are some missing details in your message. Could you please resend the complete information so that I can understand better what is required of me?\n\nBest wishes,\nMark"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_1196",
         "to": "CRAWLER",
-        "subject": "Très urgent",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Très urgent",
         "body": "Très urgent\nDear in the lord how are you doing today?\nhowever is not mandatory nor will I in any manner compel you to honor\nagainst your will. I am Mrs Ruth Roberto from Republic of France.\nI married to Mr.Roberto Thomas from Republic of Cote d'Ivoire who\nworked with France Embassy here in Cote d’Ivoire for nine years before\nhe died in the year 2018.\nBefore his death we were both born again Christian. Since his death I\ndecided not to remarry or get a child outside my matrimonial home\nwhich the Bible is against.\nWhen my late husband was alive he deposited the sum of $2,900,000.00\nMillion in a bank.\nRecently, my DOCTOR told me that I would not last for the next Eight\nmonths due to cancer problem. Having known my condition I decided to\ndonate this fund to an Orphanage or good organization that will utilize\nthis money the way I am going to instruct here in.\nI want a Church organization or good person that will use this fund\nfor orphanages, widows, propagating the word of God and to endeavor\nthat the house of God is maintained.\nI took this decision because I don't have any child that will inherit\nthis money and my husband relatives are not Christians not even good\nat all because they are the one that killed my husband in other to\nhave all my late husband properties and This is why I am making this\ndecision. I am not afraid of death hence\nI know where I am going. I know that I am going to be in the bosom of\nthe Lord.Exodus 14 VS 14 says that \"the lord will fight my case and I\nshall hold my peace\".\nWith God all things are possible.\nAs soon as I receive your message regarding your interest in this fund\nto help the charity home and the fewer privileges, I will give you\nmore details about this fund.\nGod bless you while I'm waiting for your answer.\nYour sister.\nMrs. Ruth Roberto"
     },
     {
         "from": "baiter_1196",
         "to": "scammer_1196",
-        "subject": "Re: Très urgent",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Très urgent",
         "body": "Hello Mrs. Ruth Roberto,\n\nI hope this message finds you well. I'm deeply moved by your story and your strong faith in the face of such adversity. It's truly inspiring to see someone so dedicated to helping others, even in their own time of need.\n\nI'm interested in learning more about how I can help with the charity home and the less fortunate. Could you please provide me with more details about this fund? How would it be used to support these causes?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nArleen"
     }
 ]

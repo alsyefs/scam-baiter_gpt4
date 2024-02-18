@@ -2,21 +2,21 @@
     {
         "from": "scammer_278",
         "to": "CRAWLER",
-        "subject": "Dear",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear",
         "body": "Dear\nFollowing the receipt of your email which you have denounced that you never authorize for the diversion of your funds into another bank account. I want you to know that we are doing our investigations already not to allow anyone to divert or steal your funds that is why we communicated to you to be sure that you did not actually authorize her Ms. Sophie MM Winchester to claim your long waited OVERDUE fund into her New Zealand Bank Account but you must know that this is a matter of urgency, and after our due diligence investigation we must inform the police to apprehend her. \nWe will advise you to keep this complete secret pending when we are done with our internal investigation and the funds are in your bank account because sometimes this is coming from the people you discuss with about this funds or people who you are dealing with are the once behind this so you must stop all further communication with anyone in connections to funds you are trying to claim both local and international representative must be off from you until the funds are finally in your bank account. keep it absolutely confidential until you claim your funds. This is for safety reasons\nIt is important that you send the below information so that we can commence a court stop order to redirect the funds into your bank account within 48hrs.\n1). Full Names\n2). Your address.\n3). Your Telephone numbers Mobile\n4). Your Fax Number\n5). Your age\n6). Your Occupation\n7). Reconfirm your Bank information, Bank Name, Bank Address, Account number, Routing number, Swift Code.\nNote that as soon as we receive this information then we will immediately start the final process of the funds wire transfer into your bank account which you will provide, also the information is urgently needed to prepare a counter affidavit of stop Order.\nI will be waiting\nSincerely Yours\nWilliam L. David\nDirector, International Remittance.\nLloyds Bank"
     },
     {
         "from": "baiter_278",
         "to": "scammer_278",
-        "subject": "Re: Dear",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Dear",
         "body": "Hello William L. David,\n\nThank you for your prompt response and the detailed information provided. I appreciate your efforts in ensuring the safety of my funds.\n\nI understand the urgency of this matter, and I'm glad to know that you're taking steps to prevent any unauthorized access to my funds. It's quite alarming to hear about Ms. Sophie MM Winchester's attempt, but I trust that you're handling it appropriately.\n\nHowever, before we proceed further, could you please clarify a few things for me? \n\n1) How did Ms. Sophie MM Winchester get access to my fund details?\n2) What measures are being taken to ensure such incidents don't occur in the future?\n3) Could you provide more details about the court stop order process?\n\nI'm sorry for all these questions, but as you can understand, this is a significant matter for me.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nScott"
     }
 ]

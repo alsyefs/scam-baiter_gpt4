@@ -2,21 +2,21 @@
     {
         "from": "scammer_1148",
         "to": "CRAWLER",
-        "subject": "Hello",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Hello",
         "body": "Hello\nam Mrs. Yuen Cheng there is something serious that we need to talk about if you are not too busy trying to reply to my personal mail which is \nchengyuen36362@gmail.com\n so I can tell you more about the discussion. \nMy Kind Regards."
     },
     {
         "from": "baiter_1148",
         "to": "scammer_1148",
-        "subject": "Re: Hello",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Hello",
         "body": "Hello Mrs. Yuen Cheng,\n\nI am available to discuss the matter you mentioned. Please feel free to share more details about it.\n\nBest wishes,\nIda"
     }
 ]

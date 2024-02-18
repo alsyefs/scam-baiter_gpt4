@@ -2,21 +2,21 @@
     {
         "from": "scammer_234",
         "to": "CRAWLER",
-        "subject": "From: ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "From: ",
         "body": "From: \ninfo@fbi.gov\nReply-to: \ncoleartlimited@gmail.com\nSent: 5/16/2016 4:28:52 P.M. US Mountain Standard Time\nSubj: ARE YOU WILLING TO WORK FROM HOME?\nole Art Limited.\n112 st. Mary's road,\nLiverpool L192 JG,\nUNITED KINGDOM\nMy name is Felicia Cole,I am an artist with my husband Fred Cole,We own Cole Art Limited in London(United kingdom)I live in London United Kingdom,with my two kids,four cats, one dog and the love of my life my husband Fred Cole.It is definitely a full house, I have been doing artwork since I was a small child That gives me about 23 years of experience I majored in art in high school and took a few college art courses Most of my work is done in either pencil or airbrush mixed with color pencils.\nI have recently added designing and creating artwork on the computer,I have been selling my art for the last 3 years and have had my work featured on trading cards, prints and in magazines,I have sold in galleries and to private collectors from all around the world.\nI am always facing serious difficulties when it comes to selling my art works to Americans,they are always offering to pay with MONEY ORDER OR CASHIER'S CHEQUE,which is difficult for me to cash here in London United Kingdom.\nI am looking for a representative in the states who will be working for me as a par time worker and i will be willing to pay 10% for every transaction\n,which wouldn't affect your present state of work,someone who would help me receive payments from my customers in the states,i mean someone that is responsible and reliable,because the cost of coming to the state and getting payments is very expensive,i am working on setting up a branch in the state,so for now i need a representative in the united state who will be handling the payment aspect for our company.\nThese payments will be in money order or Cashier's cheque and they would come to you in your name if you are willing to assist as a representative,so \nall you need do is cash the money order/Cashier's cheques deduct your percentage and Western Union/Money Gram Charges then wire the rest back us in the UK.\nBut the problem i have is trust,But i have my way of getting anyone that gets away with our money,i mean the FBI branch in Washington gets involve.It wouldn't cost you any amount,you are to receive payments which will be sent to you by Major and reputable Courier Service like USPS,FED EX,UPS.You are to cash it and send the remaining back to me via Western Union or Money Gram after you must have deducted your 10% and the Money sent charges.\nNOTE:All charges will be deducted from the money so you are rest assured that you wouldn't send a dime out of your personal money.\nIf you are interested,please get back to me by sending the following :\n1.Full Name\n2.Home Address\n3.Mobile and Home Phone Number\n4.Occupation\n5.Age.\nGet back as soon as possible via email a (\ncoleartlimited@gmail.com\n)\nRegards.\nCole Art Limited.\n112 st. Mary's road,\nLiverpool L192 JG,\nUNITED KINGDOM"
     },
     {
         "from": "baiter_234",
         "to": "scammer_234",
-        "subject": "Re: From: ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: From: ",
         "body": "Dear Felicia,\n\nI appreciate your offer, but I must decline. I am currently fully committed to my current responsibilities and would not be able to provide the level of service you require.\n\nBest of luck in finding a suitable representative for your business in the States.\n\nBest wishes,\nBrenda"
     }
 ]

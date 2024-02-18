@@ -2,41 +2,41 @@
     {
         "from": "scammer_393",
         "to": "CRAWLER",
-        "subject": "WELCOME TO FEDEX DELIVERY COMP",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "WELCOME TO FEDEX DELIVERY COMP",
         "body": "WELCOME TO FEDEX DELIVERY COMPANY OF AMERICA STATE.\nAm EMEKA A.GODWIN agent of FedEx delivery company right\nTO YOUR ATTENTION!\nThis is to inform you that a compensation payment in the amount of US\n$20,000,000 (twenty Million United State Dollars) was legally approved\nand deposited few days ago with our company, FedEx company Branch\nOffice here in Atlanta Georgia United States, and it was deposited in\nyour name by the foreign debts settlement/compensation committee of\nthe Executive Directors Of FedEx delivery company Group in conjunction\nwith the European Union Board Of Directors, and they instructed us to\ncredit this fund direct to your private bank account with immediate\neffect, Meanwhile, the good news about your fund now is that your\ncompensation payment file with some of the legal documents backing\nthis fund has been forwarded to the US Department of State and the\nUnited Nations for final approval, And we shall proceed with the\ntransfer immediately we hear from you because we were mandated to\ntransfer this fund to you as one of the beneficiary whose the name is\nlisted in the FedEx company foreign debts settlement/compensation\npayment file.\nHowever, Please note that FedEx companyhave decided and agreed\ntogether to send this payment to you by either bank wire transfer,\nonline bank or by ATM means depending the option you would prefer to\nreceive this fund for security purpose, so\n you are therefore advised\nto quickly get back to the management of this bank and let us know the\noption you choose to have your fund.\nNo 1. Wire transfer,costs: $100\nNo 2. Online Banking, costs : $110\nNo 3. ATM card , costs : $116\nSo you need to choose one and\nmake the payment by gift card\nor bitcoin wallet ok\nRegards. Diplomatic\nAgent :EMEKA A.GODWIN"
     },
     {
         "from": "baiter_393",
         "to": "scammer_393",
-        "subject": "Re: WELCOME TO FEDEX DELIVERY COMP",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: WELCOME TO FEDEX DELIVERY COMP",
         "body": "Hello Diplomatic,\n\nThank you for reaching out to me. I'm quite surprised to hear about this large sum of money. Can you please explain how my name ended up on the foreign debts settlement payment file? \n\nAlso, could you provide more details about the different options for receiving the funds? I'm not very familiar with bank wire transfers, online banking or ATM cards. \n\nLastly, I'm a bit confused about the payment method you mentioned - gift card or bitcoin wallet. Could you clarify what this payment is for?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nJudith"
     },
     {
         "from": "scammer_393",
         "to": "baiter_393",
-        "subject": "Re: WELCOME TO FEDEX DELIVERY COMP",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "2",
+        "subject": "Re: WELCOME TO FEDEX DELIVERY COMP",
         "body": "Hello Judith,\r\n\r\nHow are you doing today together with your family I hope fine.\r\n\r\nI wish to inform you that this is a compensation funds which your email\r\naddress was among the selected emails by UN and international monetary fund\r\nIMF.\r\n\r\nOption for receiving the funds\r\n\r\nThe money will be packaged in a box and delivered to you, or you open bank\r\naccount where it will be transfer to.\r\n\r\nHow do you wish to send the fee or you can get gift card at any store close\r\nto you.\r\n\r\nI look forward to hear from you soon"
     },
     {
         "from": "scammer_393",
         "to": "baiter_393",
-        "subject": "Re: WELCOME TO FEDEX DELIVERY COMP",
         "direction": "Inbound",
-        "days_from_first_conversation": 1,
+        "days_from_first_conversation": 0.9434259259259259,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "3",
+        "subject": "Re: WELCOME TO FEDEX DELIVERY COMP",
         "body": "hi"
     }
 ]

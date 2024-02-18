@@ -2,21 +2,21 @@
     {
         "from": "scammer_577",
         "to": "CRAWLER",
-        "subject": "  Hi  ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Hi  ",
         "body": "  Hi  \n We're waiting for your confirmation for us to proceed with everything asap.\n Thanks.  "
     },
     {
         "from": "baiter_577",
         "to": "scammer_577",
-        "subject": "Re:   Hi  ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Hi  ",
         "body": "Hello,\n\nI am ready to proceed with the next steps. Please provide me with detailed instructions on what I need to do.\n\nBest regards,\nLewis D.\n\nBest wishes,\nRuss"
     }
 ]

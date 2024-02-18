@@ -2,21 +2,21 @@
     {
         "from": "scammer_842",
         "to": "CRAWLER",
-        "subject": "  YOUR US$41.5 MILLION HAS BEE",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  YOUR US$41.5 MILLION HAS BEE",
         "body": "  YOUR US$41.5 MILLION HAS BEEN WIRED TODAY TO YOUR BANK ACCOUNT.\nAttention please,  Dear Good Friend,\n\\\nTHIS IS TO INFORM YOU WE HAVE FINALLY RECEIVED THE CLEARANCE TO WIRE YOUR APPROVED US$41.5 MILLION TO YOUR BANK.YOUR US$41.5 MILLION WAS WIRED THIS FEW HOURS AGO TO THE BANK ACCOUNT YOU PROVIDED AS CONTAIN IN YOUR PAYMENT FILE SENT TO US FROM THE FINANCIAL SERVICES AUTHORITY (FSA).\nPLEASE NOTE THAT YOUR US$41.5 MILLION WAS WIRED TO THE BANK ACCOUNT BELLOW:\nHSBC BANK HONG KONG\nEASTERN COMMERCIAL CENTER 395 HENNESSY ROAD HONG KONG\nACCOUNT NO: 3001826970\nSWIFT CODE: HSBCHKHHHKH\nPLEASE SEND ME A CONFIRMATION MESSAGE AS SOON AS YOU RECEIVE THE WIRED FUND IN YOUR BANK ACCOUNT BY WEDNESDAY AFTERNOON LAST WEEK.\nCONGRATULATIONS ONCE AGAIN,  WE ARE SORRY FOR THE DELAY IN THE PAYMENT AND TRANSFER OF YOUR US$41.5 MILLION TO YOUR BANK ACCOUNT AT THE BEGINNING OF 2016, IT WAS DUE GOVERNMENT REGULATIONS.\nYour Full Name\n Your Contact Address\n Your Direct telephone. Fax Number ( if any)\n Your AGE and what you do for a living\n How Many Months Or Years in which You Have Been Expecting\n your Payment\n The Place you sent Money Last whether Nigeria or London etc\n The Last Amount of Money You sent indicating What Month and\n Year\n WAITING TO HEAR FROM YOU TODAY.\n YOURS FAITHFULLY,\nDR MARSH DAVID SR.   "
     },
     {
         "from": "baiter_842",
         "to": "scammer_842",
-        "subject": "Re:   YOUR US$41.5 MILLION HAS BEE",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   YOUR US$41.5 MILLION HAS BEE",
         "body": "Dear Dr. Marsh David Sr.,\n\nI am writing to confirm receipt of your message regarding the transfer of funds to my account at HSBC Bank Hong Kong. However, I must inform you that I have not yet received any such funds in my account.\n\nCould you please provide me with a transaction reference number or any other details that could help me track this transfer? Also, it would be helpful if you could provide more information about the source of these funds and why they are being transferred to me.\n\nAs for the personal information you requested, I am uncomfortable providing such details over email without knowing more about this situation. Could you please explain why you need this information?\n\nLooking forward to your prompt response.\n\nBest wishes,\nNellie"
     }
 ]

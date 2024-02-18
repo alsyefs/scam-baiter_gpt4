@@ -2,21 +2,21 @@
     {
         "from": "scammer_212",
         "to": "CRAWLER",
-        "subject": " ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " ",
         "body": " \nLike i said you have to deposit the money to the below account as demanded.Once you have done that everything will be concluded fine.\nBank Name; Wells fargo Bank;12941 North Fwy,Houston Texas77060\nAccount Name; JOANAH K. , Houston Texas 77038\nAccount Numbers; 674087XXXX\nRouting Numbers;111900659\nSwift Code; WFBIUS6S.\nPlease make the deposit into this account and forward the slip to me so that we can conclude this transaction in a few days.\nSincerely\nDr. Yang Cho  "
     },
     {
         "from": "baiter_212",
         "to": "scammer_212",
-        "subject": "Re:  ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:  ",
         "body": "Dear Dr. Yang Cho,\n\nThank you for providing the bank details. However, I would like to clarify a few things before proceeding with the transaction. Could you please provide more information about the purpose of this deposit and how it relates to my Green Card application? \n\nI look forward to your response.\n\nBest regards,\nLewis D.\n\nBest wishes,\nMatthew"
     }
 ]

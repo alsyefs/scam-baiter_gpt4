@@ -2,21 +2,21 @@
     {
         "from": "scammer_676",
         "to": "CRAWLER",
-        "subject": "  Hello ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Hello ",
         "body": "  Hello \n \nThanks for your email. I am facilitating a group of private investors whose interest is to make profit by investing in profitable ventures, both start ups and already existing businesses.\n \nWe are interested in investing anywhere given that the world has become a global village. Our interests vary from stocks and bonds, Hotel and tourism, alternative/ green energy, mining, school, mall, trade financing, oil and gas, agriculture, medicine and advancing new technologies. We will strongly consider any other proposal proffered by you provided that ROI is attractive.\nOur investment offers range from (USD$1,000,000.00 - $1 Billion Dollars.), we are willing and open to discuss terms and conditions of partnership /or loan contract between us. This will be included in the MOU contract to be signed between us prior to releasing funds to you.\nIf you have a business idea or an existing business in need of expansion, kindly send a detailed proposal for my perusal and consideration for financing. I would appreciate it if you can clearly outline the regular market trends in your chosen area of business, our likely gains and constraints and any other information you deem necessary to enable us to have a clear picture to inform our decision.\nWe can provide funding by way of a Low interest loan program (LILP) or Partnership /Joint Venture (JV).\nKindly provide more information about yourself, your business and full contact information and address for documentation and easier communication.\n \nSincerely,‎\nJefferson Newton (Mr.)   "
     },
     {
         "from": "baiter_676",
         "to": "scammer_676",
-        "subject": "Re:   Hello ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Hello ",
         "body": "Hello Mr. Jefferson Newton,\n\nThank you for your email and the opportunity to discuss potential investment opportunities. It's great to hear that your group of private investors is open to investing in a wide range of sectors, from green energy and medicine to tourism and trade financing.\n\nI'm particularly interested in the Low Interest Loan Program (LILP) and Joint Venture (JV) funding options you mentioned. Could you please provide more details about these programs? For instance, what are the typical terms and conditions for these types of funding?\n\nAs for my business idea, I'm currently exploring several possibilities in different sectors. However, before I share any specific proposals, could you tell me more about what your group typically looks for in an investment? What kind of ROI do you usually aim for? And how do you assess the potential risks and rewards of a given venture?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nMark"
     }
 ]

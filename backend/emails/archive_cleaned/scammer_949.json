@@ -2,21 +2,21 @@
     {
         "from": "scammer_949",
         "to": "CRAWLER",
-        "subject": "   Attn:  ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Attn:  ",
         "body": "   Attn:  \nPayment for Courier Service / Insurance Policy Coverage Fee\n \nWe refer to our previous email regarding your Approved Cheque, You are required to send immediately  £175.00 Pounds for the Courier Service/Insurance Policy Coverage fee.\n \nYou are been advised to send the fee via World remit Online Transfer to the appointed account receiving clerk below; Kindly signup on http:/ /www.worldremit.com and send the required fee via online very simple and easy to use.\n \nReceiver Name: NOZIPHO BRIGET KHUMALO\nAddress:17 Kerk Street Alberton\nPostal code 1449\nCity:Johannesburg\nCountry:South Africa\nPhone No:+27\nOnce the payment has been made, proof of payment should be forwarded via email attachment immediately so as to enable us arrange for the dispatch. Once dispatched, your will receive the tracking number by email for your perusal.\nFurther to this, the delivery of your Cheque will take 2 – 3 workings days.  Upon delivery of your Cheque, you will be required to present a copy of your Identification for security purpose.\nShould you have any comments, do not hesitate to contact us below.\nYours Sincerely\nMrs.Anita Eastwood\nDirector of International Payment\nCommittee on Financial and Allied Matters                                        \nDirect line:    +27- 65-867-6751\nFax Number: +27-86-273-8232\n-----------------------------------------------------------------------------------------------------------------------\nDisclaimer : \nThe information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution or taking action in relation of the contents of this information is strictly prohibited and may be unlawful.   "
     },
     {
         "from": "baiter_949",
         "to": "scammer_949",
-        "subject": "Re:    Attn:  ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:    Attn:  ",
         "body": "Dear Eastwood,\n\nThank you for your email. I understand that I need to pay a fee for the Courier Service Insurance Policy Coverage. However, I would like to clarify a few things before proceeding.\n\n1. Could you please specify the exact amount in Pounds that I need to send?\n2. You mentioned using World Remit Online Transfer, but the link seems to be missing from your email. Could you please provide me with the correct link?\n3. After making the payment, do I just send you an email with proof of payment attached?\n\nI look forward to your response so we can proceed with this matter.\n\nBest wishes,\nAndrew"
     }
 ]

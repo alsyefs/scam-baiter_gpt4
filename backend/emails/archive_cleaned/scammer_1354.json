@@ -2,21 +2,21 @@
     {
         "from": "scammer_1354",
         "to": "CRAWLER",
-        "subject": "U.S. Department of State",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "U.S. Department of State",
         "body": "U.S. Department of State\nDepartment of Finance and Administration\n2201 C Street NW Washington, DC 20520\nI write to officially inform you that the U.S. Department of State has instructed the Federal Reserve Bank to release your delayed funds valued US$10.5m from the US Treasury Account with them \nto your designated Bank Account\n at no COST. Every and all cost associated with the fund transfer has been prepaid by the U.S Government.\nYours truly,\nMr.Dereck J. Hogan.\nCommissioner, Centralized Accounting,"
     },
     {
         "from": "baiter_1354",
         "to": "scammer_1354",
-        "subject": "Re: U.S. Department of State",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: U.S. Department of State",
         "body": "Hello J. Hogan,\n\nWow, this is such an unexpected surprise! I can't believe the Department of State has instructed the Federal Reserve Bank to release funds to me. Could you please tell me more about why these funds are being released to me? And how did they come to choose me for this?\n\nI'm also curious about the process. How does it work exactly? Will there be any paperwork that I need to fill out or sign?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJerry"
     }
 ]

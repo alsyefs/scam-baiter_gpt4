@@ -2,21 +2,21 @@
     {
         "from": "scammer_397",
         "to": "CRAWLER",
-        "subject": " CUSTOMS SERVICES USA AUTHORIT",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " CUSTOMS SERVICES USA AUTHORIT",
         "body": " CUSTOMS SERVICES USA AUTHORITY COUNTRY\nHARRISBURG INTERNATIONAL AIRPORT (MDT) PENNSYLVANIA UNITED STATES\nDIRECTOR OFFICE IN CHARFE.  DR. AGUILAR GEORGE\n513 AIRPORT RD. HARRISBURG,PA,17057,US\n \nATTENTION:   \n it was sent to you from U.N agent debts reconciliation department.\nTHANK AND\nGOD BLESS.\nBEST REGARDS\nDR. AGUILAR GEORGE\nCUSTOMS SERVICES USA AUTHORITY    "
     },
     {
         "from": "baiter_397",
         "to": "scammer_397",
-        "subject": "Re:  CUSTOMS SERVICES USA AUTHORIT",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:  CUSTOMS SERVICES USA AUTHORIT",
         "body": "Hello Dr. Aguilar George,\n\nThank you for reaching out to me. I'm quite intrigued by your message, but I must admit, I'm a bit confused about the context. Could you please provide more details about what this is regarding? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMichelle"
     }
 ]

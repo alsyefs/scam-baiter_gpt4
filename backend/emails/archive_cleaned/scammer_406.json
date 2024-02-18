@@ -2,21 +2,21 @@
     {
         "from": "scammer_406",
         "to": "CRAWLER",
-        "subject": " JPMorgan Chase & Co",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " JPMorgan Chase & Co",
         "body": " JPMorgan Chase & Co\n270 Park Avenue, New York, NY, United States\nOffice of Takis Georgakopoulos,\nGlobal Head of Payments\nWire Transfer & Audit Department\nRe: Availability of Your Funds\nDear Beneficiary,\nI am Takis Georgakopoulos, Global Head of Payments, JPMorgan Chase & Co . Be informed of the arrival and availability of your long-awaiting inheritance fund Part Payment value, ($20, 500,000.00) only as received. This occurred on June 11th 2023, through great effort by the USA Office of the Comptroller of the Currency (OCC). But our Chairman and Chief Executive Officer (Jamie Dimon) conspired with the Board of Directors and three of our Operating Committee Members; Asley Bacon (Chief Risk Officer), Jeremy Barnum (Chief Financial Officer) and Lora A. Beer (Global Chief Information Officer) and agreed/ warned other Executive/Management Board members not to get you informed about the availability of your funds for reasons best known to them, which I have discovered that they have been trading with it, giving loan at high rates and making much profits. I never wanted to get involved or tell you about this but after listening to the undiluted preaching of our guest pastor yesterday at the Church and as a born again Christian, I have come to realize that it is a sin for me to sit and watch this evil being perpetrated while you may have been suffering in penury.\nI have done my research in our Bank database and confirmed that I can wire the fund to your choice of Bank account and have the wire tracer wiped out from the system, where the fund wire transfer cannot be traced to your Bank account by any Financial Authority.\nTherefore, I urge you to trust my skill and assure me the absolute confidentiality of this information, and I will have your fund wired via the fastest method of wire transfer, (MT202 Cov), If you agree or can trust my skill on this matter, reconfirm your details as listed below, and I will transfer your fund as you will confirm it in your Bank account within 24 hours.\nIf you have any doubt or negative thoughts about this, please, don't bother to reply to this message, I cannot persuade you, I am only here to exercise my hatred on cheating and cheaters, using my perfect professional skill.\nBe assured of a successful completion of this deal upon adhering to my directives by acting at the right time where necessary.\nNo INTERFERENCE from the Government or any Financial Authorities, no one will have the right to intervene on the transaction following my perfect plans to make it happen.\nReconfirm the following details to enable us commence the process immediately.\nYour Full Names:\nYour Current Home Address:\nYour Direct Cell:\nYour Current Occupation:\nBank Names:\nBank Address:\nBank Account No:\nBank Account Names:\nSwift No:\nRouting No:\nI await your urgent compliance to this notification.\nTakis Georgakopoulos,\nGlobal Head of Payments,\nWire Transfer & Audit Department,\nJPMorgan Chase & Co.    "
     },
     {
         "from": "baiter_406",
         "to": "scammer_406",
-        "subject": "Re:  JPMorgan Chase & Co",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:  JPMorgan Chase & Co",
         "body": "Hello Takis,\n\nWow, this is quite a surprise! I had no idea about all these happenings at Chase Co. It's really brave of you to step forward and share this information. \n\nI'm curious though, how did you manage to find out about this? And why have the other members decided to keep it a secret? It seems like such a big thing to hide.\n\nAlso, could you explain more about the Cov method of wire transfer? I've never heard of it before. Is it safe and secure?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nAnthony"
     }
 ]

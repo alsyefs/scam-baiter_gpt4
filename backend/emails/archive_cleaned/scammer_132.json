@@ -2,21 +2,21 @@
     {
         "from": "scammer_132",
         "to": "CRAWLER",
-        "subject": "Attention,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attention,",
         "body": "Attention,\nI am looking for an investment opportunity to practically discuss,\nagree and negotiate with you so I can finance it.\nI have to tell you more information on my plans on your acknowledgement of this.\nI look forward to your reply,\nBarr Edward Price\n40 Winchmore Hill London, SW1A 1AA."
     },
     {
         "from": "baiter_132",
         "to": "scammer_132",
-        "subject": "Re: Attention,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Attention,",
         "body": "Hello Barr Edward Price,\n\nThank you for reaching out and considering me for your investment plans. I'm quite intrigued by the prospect of discussing this further. Could you please provide more details about the nature of the investment? What kind of project are we talking about here?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nScott"
     }
 ]

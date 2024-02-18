@@ -2,21 +2,21 @@
     {
         "from": "scammer_1215",
         "to": "CRAWLER",
-        "subject": "Attention Please,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attention Please,",
         "body": "Attention Please,\nI am Barrister Marie I. Crossley ,  How are you, I hope you are fine\nand healthy? This is to inform you that i have concluded the\ntransaction successfully with the help of a new partner from Venezuela\nand now the fund has been transferred to Venezuela into the bank\naccount of the new partner.\nMeanwhile, I have decided to compensate you with the sum of\n(US$1.5Million) due to your past effort, though you disappointed me\nalong the line. But nevertheless I am very happy for the successful\nending of the transaction without any problem and that is the reason\nwhy i have decided to compensate you with the sum of (US$1.5Million)\nso that you will share the joy with me.I advise you to contact my\nsecretary for Atm Card of (US$1.5Million),which I kept for you.\nContact him now without any delay.\nSo\n all you have to do today been Thursday is for you to send only\nApple card $50 to him so that he will deliver your ATM card\n$1.5Million to your home address information in one hour 30 minutes\nfrom now that is all \nPlease and please if you are really want to\nreceive your ATM card $1.5Million today to your home address\ninformation you have to get back to me with the Apple card $50 after\nthat wait for me at your home address information in one hour 30\nminutes you will receive me at your home address information with your\nATM card $1.5Million?immediately you receive this email please send me\nthe Apple card $50 with your home address information so that I will\nleave from here to your home address information with your ATM card\n$1.5Million but if I did not hear from you with the Apple card $50 and\nyour home address information I will release your ATM card $1.5Million\nto Mr Williams Bill that is all so I am wait for your reply urgent\nName: Solomon Brandy\nEmail:( \nsb2453188@gmail.com\n )\nKindly reconfirm to him the following below information:\nYour full name_________________________\nYour address__________________________\nYour country___________________________\nYour age______________________________\nYour occupation________________________\nYour cell Phone number______________________\nNote that if you did not send him the above information complete, he\nwill not release the Atm card to you because he has to be sure that it\nis you.\n Ask him to send you the total sum of (US$1.5Million) Atm\ncard,which I kept for you.\nBest regards,\nBarrister Marie I. Crossley"
     },
     {
         "from": "baiter_1215",
         "to": "scammer_1215",
-        "subject": "Re: Attention Please,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Attention Please,",
         "body": "Dear Barrister Marie I. Crossley,\n\nI am fine and healthy, thank you for asking. I appreciate your decision to compensate me with the sum of US dollars due to my past effort.\n\nHowever, I must inform you that I do not have an Apple card at the moment. Could you please provide more details about this requirement? Is there any other way to proceed without the Apple card?\n\nHere are my details as requested:\n\nFull name: John Doe\nAddress: 123 Main Street, Anytown\nCountry: United States\nAge: 45\nOccupation: Software Engineer\nCell Phone number: (123) 456-7890\n\nI look forward to hearing from you soon.\n\nBest wishes,\nLilliana"
     }
 ]

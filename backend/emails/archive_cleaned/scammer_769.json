@@ -2,11 +2,11 @@
     {
         "from": "scammer_769",
         "to": "baiter_769",
-        "subject": "Attention: Ms. Madeline",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
-        "conversation_counter": "0",
+        "conversation_counter": "1",
+        "subject": "Attention: Ms. Madeline",
         "body": "Attention: Ms. Madeline\r\n\r\nDear Madam,\r\n\r\nMy name is Mr. Klaus E. Eldridge, 85 years old American citizen. I have been diagnosed with terminal ailment which has defied treatment. I had operated businesses in America and Africa during my active days working but now unable to do much now due to the present ailment and my old age.\r\n\r\nI found your e-mail/contact address in the web directory and believe you will be kind enough to handle charity works, so I have decided to make my little contribution towards this noble cause by donating to help you establish charity works in your country.  Before now I was into major Cocoa exports from Africa and had a fund deposit at a bank there totaling Seven Million Five Hundred Thousand US Dollars (US$7,500,000). I want you to become the beneficiary of these funds and use same for helping the poor and less privileged in your country. Please reply me at your earliest convenience for more directions on how to receive the funds urgently as I have already notified the bank of my intention to present a beneficiary whom I wish to bequeath the funds to, also pleaded with the bank for easy and successful transfer of funds to you without any hitches. Please send your reply to my private email:  klauseldridge@live.com\nBest regards,\r\nKlaus Eldridge"
     }
 ]

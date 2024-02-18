@@ -2,21 +2,21 @@
     {
         "from": "scammer_661",
         "to": "CRAWLER",
-        "subject": "MESSAGE FROM CHIEF IMMIGRATION",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "MESSAGE FROM CHIEF IMMIGRATION",
         "body": "MESSAGE FROM CHIEF IMMIGRATION OFFICER.\nLos Angeles International Airport.\n3435 Wilshire Blvd., Suite 1025\nLos Angeles, CA 90010.\nTel: (747) 233-9492\nRe: Your Package For Delivery\nI am Mr. Kalstrom S. James, head of luggage/baggage storage facilities here at the Los Angeles International Airport, [LAX] CA 90010. USA. During my recent withheld package routine check at the Airport Storage Vault, I discovered an abandoned shipment from a Diplomat from London and when scanned it revealed an undisclosed sum of money in a metal trunk box. The consignment was abandoned because the Contents of the consignment was not properly declared by the consignee as “MONEY” rather it was declared as personal effect to avoid interrogation and also the inability of the diplomat to pay for the United States Non Inspection Charges which is $3,700USD. On my assumption the consignment is still left in our Storage House here at the Los Angeles International Airport, [LAX] till date. The details of the consignment including your name, your email address and the official documents from the United Nations office in Geneva are tagged on the  Trunk box.\nHowever, \nto enable me confirm if you are the actual recipient of this consignment as the assistant director of the Inspection Unit, I will advise you provide your current Phone Number and Full Address, to enable me cross check if it corresponds with the address on the official documents including the name of nearest Airport around your city. \nPlease note that this consignment is supposed to have been returned to the United States Treasury Department as unclaimed delivery due to the delays in concluding the clearance processes so as a result of this, I will not be able to receive your details on my official email account. So in order to enable me to cross check your details, I will advise you to send the required details to my private email address for quick processing and response. Once I confirm you as the actual recipient of the trunk box, I can get everything concluded within 48 hours upon your acceptance and proceed to your address for delivery.\nLastly, be informed that the reason I have taken it upon myself to contact you personally about this abandoned consignment is because I want us to transact this business and share the money 80percent for you and 20 percent for me since the consignment has not yet been returned to the United States Treasury Department after being abandoned by the diplomat so immediately the confirmation is made, I will go ahead and pay for the United States Non Inspection Fee of $3,700 dollars and arrange for the box to be delivered to your doorstep Or I can bring it by myself to avoid any more trouble but you have to assure me of my 20 percent share.\nI wait to hear from you urgently if you are still alive and I will appreciate it if we can keep this deal confidential. Please get back to me via for further directives.\nThank you.\nRegards,\nMr. Kalstrom S. James,\nChief Immigration officer.\nLos Angeles International Airport.\n3435 Wilshire Blvd., Suite 1025\nLos Angeles, CA 90010.\nCell: (747) 233-9492"
     },
     {
         "from": "baiter_661",
         "to": "scammer_661",
-        "subject": "Re: MESSAGE FROM CHIEF IMMIGRATION",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: MESSAGE FROM CHIEF IMMIGRATION",
         "body": "Hello Mr. Kalstrom S. James,\n\nThank you for reaching out to me with this intriguing information. I must say, it's not every day that one receives a message about an abandoned shipment containing a large sum of money!\n\nI'm curious about the details of this situation. How did my name and email address end up being tagged on this trunk box? And why was it declared as personal effects instead of money?\n\nAlso, could you please explain more about the United States Non Inspection Charges? I'm not familiar with these charges and would like to understand them better.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRichard"
     }
 ]

@@ -2,31 +2,31 @@
     {
         "from": "scammer_1250",
         "to": "baiter_1250",
-        "subject": "Kindly get back to me now",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
-        "conversation_counter": "0",
+        "conversation_counter": "1",
+        "subject": "Kindly get back to me now",
         "body": "Dear Arielle.\r\n\r\nGreeting to you and how are you doing today?\r\n\r\nI have just received your email dated Sat, Feb 3.\r\n\r\nPlease this should not be a surprise to you to hear that someone is trying\r\nto claim your funds under the false pretense, that is the truth and dont be\r\ncurious or to asked how did he come across this information, this is true\r\nand that is why we contacted you to know if you are aware of it.\r\n\r\nHowever, please with all duo respect, your payment has been approved from\r\noffice of the presidency and waiting for signing the release order for your\r\npayment, please to avoid delay and any mistake, we need just your full\r\nnames, telephone number,  contact address, any copy of your id now.\r\n\r\nPlease send all this info very urgent now and let us work together for your\r\nown benefit.\r\n\r\nThank you.\nBest Regards\r\nDr. Usman Wakalia,"
     },
     {
         "from": "baiter_1250",
         "to": "scammer_1250",
-        "subject": "Re: Kindly get back to me now",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
-        "conversation_counter": "1",
+        "conversation_counter": "2",
+        "subject": "Re: Kindly get back to me now",
         "body": "Hello Dr. Usman Wakalia,\n\nI hope this message finds you well. I must say, your email has taken me by surprise! It's not every day that one hears about someone trying to claim their funds under false pretenses.\n\nCould you please provide more details about this situation? How did it come to be that someone is attempting to claim my funds? And how were you able to discover this?\n\nAs for the information you requested, I'm afraid I can't provide them at the moment due to privacy concerns. However, I am eager to learn more about this situation and how we can resolve it together.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nArielle"
     },
     {
         "from": "scammer_1250",
         "to": "baiter_1250",
-        "subject": "let us work together and you have nothing to regre",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.8063888888888889,
         "startegy": "gpt-4-Chat1",
-        "conversation_counter": "2",
+        "conversation_counter": "3",
+        "subject": "let us work together and you have nothing to regre",
         "body": ""
     }
 ]

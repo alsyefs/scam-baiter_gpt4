@@ -2,21 +2,21 @@
     {
         "from": "scammer_1160",
         "to": "CRAWLER",
-        "subject": "Western Union Money Transfer.",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Western Union Money Transfer.",
         "body": "Western Union Money Transfer.\nAddress: no. 5 western avenue Abuja\nWest Africa, ' Nigeria\nAttention please\nThis is to notify you about the latest development concerning all your\npayments that are left in our custody which your were supposed to\nreceive ending of last year 2021. Besides, you were given a bill of\n$250 in order to receive your payments of which we didn’t hear from\nyou for sometime now....\nHence, our western union is now offering a special bonus to help all\nour customers that are having their payments in our custody due to of\nprices in other words; \nwe are now requesting that you should only pay\nthe sum of $65  only to receive your payments\n.Besides, my dear these\nare the opportunity for you to comply and your funds shall be transfer\nto your designated address.\nBut \nremember that after (3 days) you did not make the payment then we\nwill retrieve your transfers, so try to avoid this problem because\nthis year is not like last year\n. Again after (three days) we will\nenter a new project for the year and that is the reason why we decided\nto help you before we enter into the new project.\nSo we advise you send only $65 today so that we will register and\nupdate your payments for you to start receiving your $5000 daily as\nfrom today.\nBe advice that there is no time again for we to call any person on\nphone unless you will call. Phone: Tel:  +2349152098498\nAfter the payment of $65 you will start receiving your money every day\n5,000 But in slip of $2,500 through western union until your total\namount of funds $1.3 Million  is fully paid to you. Below is the mtcn\nnumbers which you will use to pick up the first $2,500 it will be\nupdate in few hours time once we receive the fee from you.\nSenders Name  Johnson  Emake\nMTCN    083-458-7954\nAmount: $2,500\nDon’t expose this numbers to anybody else. You should send the $65\nthrough western union money transfer with the written information\nbelow and email me back with the payment information once you do that.\nSEND THE REQUIRED FEE TO THIS INFO:\nRECEIVER'S NANE: Maxwell Egini\nCOUNTRY:        NIGERIA\nCITY            ABUJA\nAMOUNT          $65\nThe moment you do that, write out the payment information written on\nthe payment slip, forward it back to us which will enable in\nconfirming the payment you sent such as,\nMTCN#\nSENDER'S NAME\nSENDER'S ADDRESS\nAMOUNT:\nNote; this is the only payment you are required to make in this\nregards for every other fee have been waived by the Federal Ministry.\nAs soon as we confirm the fee today, we will immediately activate your\nmtcn# and notify you then you go and pick up your first payment  today\nas stated. Please note that you need to go along with your passport ID\nor Drivers license when you need to pick up the transfer today okay.\nWaiting on your urgent respond.\nSincerely,\nSender: Robert C. Iger\nWestern Union Abuja Nigeria"
     },
     {
         "from": "baiter_1160",
         "to": "scammer_1160",
-        "subject": "Re: Western Union Money Transfer.",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Western Union Money Transfer.",
         "body": "Dear Western Union Abuja Nigeria,\n\nThank you for your email. However, I must inform you that I have not been expecting any payments to be transferred to me via Western Union. \n\nCould you please provide more details about the nature of these payments? Who is the sender and what is the purpose of this transfer?\n\nI look forward to your response.\n\nBest wishes,\nRaymond"
     }
 ]

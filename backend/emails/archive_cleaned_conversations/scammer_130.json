@@ -2,51 +2,51 @@
     {
         "from": "scammer_130",
         "to": "CRAWLER",
-        "subject": "  Hello",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Hello",
         "body": "  Hello\nMy name is Barkev Hagopian and I am one of the assistants of Mr. Bo Li\nthe current Deputy Managing Director of the IMF (The International\nMonetary Fund) here in Washington DC, United States.\nThe reason for my email to you today is to let you know that, unknown\nto the general public, The IMF receives close to a total of US$10\nbillion each year in donations from wealthy philanthropists around the\nworld. Some of the donations are even bestowed anonymously. I am\ncontacting you to let you know that I am in a position to earmark some\nof these funds for disbursement which can fall under the category of\neither low interest loans or humanitarian funding. I wish to use my\ninside knowledge here at the IMF to retain a portion of these funds\nfor myself and that is why I have written to you.\nHere is my proposal:\nIf you have a business that you think would qualify for either a low\ninterest loan or humanitarian assistance please get in touch with me\nupon receiving this email. I would then refer you to the contact that\nwould help you by filling out the exact forms needed and guiding you\nthrough the procedures for you to receive funds anywhere from $5\nmillion to $20 million. You would in effect have an “inside person”\ntelling you exactly how to get funds from The IMF in a fully\nlegitimate way. Most people have no idea how to achieve this, but I\nhave the knowledge and know which strings to pull to make it happen.\nFor my assistance, I would ask that after you receive funding, that\nyou kick back 10% of the funds to me if it is a loan, and 15% of the\nfunds if it is for humanitarian purposes.\nPlease let me know if you are interested and I will call you for a\ndiscussion. It is against protocol to offer anyone this type of\nassistance, so I have written to you from my private email to start. I\ncan give you my official email address at the IMF once we get started.\nIf I do not hear back from you in the next 5 business days I will\nassume you are not interested and I will continue my search for\nsomeone who is. However if you are interested, please send me your\ndirect phone number so that we can speak.\nHoping to hear from you.\nBarkev Hagopian   "
     },
     {
         "from": "baiter_130",
         "to": "scammer_130",
-        "subject": "Re:   Hello",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Hello",
         "body": "Hello Barkev Hagopian,\n\nThank you for reaching out to me with such an interesting proposal. I must say, it's not every day that one receives an email from someone associated with the IMF! \n\nI'm curious about this process. Could you please elaborate more on how these funds are usually allocated? And what kind of businesses typically qualify for these low-interest loans or funding assistance?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nScott"
     },
     {
         "from": "scammer_130",
         "to": "baiter_130",
-        "subject": "Re: Hello",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "2",
+        "subject": "Re: Hello",
         "body": "Attn: Scott\r\n\r\nHello,\r\n\r\nThank you for your response, to make an informed decision to proceed, we\r\nwill need to receive your contact information and a proof of\r\nidentification. please fill the attached IMF funding form and send back\r\nwith A copy of your valid ID, international passport or driver's license or\r\nnational ID.\r\n\r\nLooking forward to hearing from you.\r\n\nSincerely yours,\r\n\r\nBarkev Hagopian\r\nPhone & WhatsApp No: 929 900 1612"
     },
     {
         "from": "scammer_130",
         "to": "baiter_130",
-        "subject": "Fwd: Hello / REMINDER",
         "direction": "Inbound",
-        "days_from_first_conversation": 2,
+        "days_from_first_conversation": 2.1552083333333334,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "3",
+        "subject": "Fwd: Hello / REMINDER",
         "body": "---------- Forwarded message ---------\r\nFrom: Barkev Hagopian <barkevhagopian007@gmail.com>\r\nDate: Mon, Feb 5, 2024 at 12:11 PM\r\nSubject: Re: Hello\r\nTo: Scott <hx12684@***.com>\r\n\r\n\r\nAttn: Scott\r\n\r\nHello,\r\n\r\nThank you for your response, to make an informed decision to proceed, we\r\nwill need to receive your contact information and a proof of\r\nidentification. please fill the attached IMF funding form and send back\r\nwith A copy of your valid ID, international passport or driver's license or\r\nnational ID.\r\n\r\nLooking forward to hearing from you.\r\n\r\nSincerely yours,\r\n\r\nBarkev Hagopian\r\nPhone & WhatsApp No: 929 900 1612\r\n\r\nOn Sun, Feb 4, 2024 at 7:34 PM Scott <hx12684@***.com> wrote:\r\n\r\n>\r\n>\r\n>\r\n> Hello Barkev Hagopian,\r\n>\r\n> Thank you for reaching out to me with such an interesting proposal. I must\r\n> say, it's not every day that one receives an email from someone associated\r\n> with the IMF!\r\n>\r\n> I'm curious about this process. Could you please elaborate more on how\r\n> these funds are usually allocated? And what kind of businesses typically\r\n> qualify for these low-interest loans or funding assistance?\r\n>\r\n> Looking forward to hearing from you.\r\n>\r\n> Best regards.\r\n>\r\n> Best wishes,\r\n> Scott\r\n>\r\n>\r\n>\r\n>\r\n>"
     },
     {
         "from": "baiter_130",
         "to": "scammer_130",
-        "subject": "Re: Fwd: Hello / REMINDER",
         "direction": "Outbound",
-        "days_from_first_conversation": 2,
+        "days_from_first_conversation": 2.248576388888889,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "4",
+        "subject": "Re: Fwd: Hello / REMINDER",
         "body": "Hello Barkev,\n\nThank you for your prompt response. I'm really excited about this opportunity, but I have a few questions before we proceed further. Could you please explain more about the IMF funding form? What kind of information does it require? \n\nAlso, could you provide me with more details about the process after submitting the form? I'm just trying to understand everything clearly.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nScott"
     }
 ]

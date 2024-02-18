@@ -2,21 +2,21 @@
     {
         "from": "scammer_717",
         "to": "CRAWLER",
-        "subject": "HI,how are you doing, I'm Ms.M",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "HI,how are you doing, I'm Ms.M",
         "body": "HI,how are you doing, I'm Ms.Mary S.Johnson,I would like to willfully entrust the rest of my monetary assets to you as I am currently on my last days in a hospital diagnosed of cancer, I needed a very honest and God fearing person, Reply back to my email box for further details, ( johnsonmarry112@ yahoo.com ) I am not always online here."
     },
     {
         "from": "baiter_717",
         "to": "scammer_717",
-        "subject": "Re: HI,how are you doing, I'm Ms.M",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: HI,how are you doing, I'm Ms.M",
         "body": "Dear Sir/Madam,\n\nI'm deeply sorry to hear about your current health situation. It's a difficult time and I understand that you're looking for someone trustworthy to handle your assets.\n\nBest wishes,\nLawrence"
     }
 ]

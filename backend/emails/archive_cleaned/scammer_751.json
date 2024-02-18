@@ -2,21 +2,21 @@
     {
         "from": "scammer_751",
         "to": "CRAWLER",
-        "subject": "CITIBANK INTERNATIONAL NEW YOR",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "CITIBANK INTERNATIONAL NEW YOR",
         "body": "CITIBANK INTERNATIONAL NEW YORK\nDIRECTOR, FOREIGN OPERATIONS DEPARTMENT\nADDRESS: 87-11 Queens Boulevard, Elmhurst, NY 11373\nOUR REF: CTBNYUS/BBU\nFrom Desktop of Mr. kelvin Williams\nDIRECTOR OF FUNDS CLEARANCE UNIT.\nE-mail: \nkelvinwilliams584@aol.com\nAttention Fund Beneficiary,\nPayment Release Instruction from Federal Reserve Bank of New York\nActing on our capacity as the international correspondent bank to the International Monetary Fund Organization, this is to officially notify you that we have received a confirmation advice from the International Monetary Funds External Auditors Committee, World Bank, United Nations Organization and the Federal Reserve Bank of America respectively via International Payment Voucher Number: IMF/FRBWDC/BOA-93WB82UN567-G requesting our bank Citibank of New York, to disburse your due wining/inheritance  contract payment valued at Ten Million Three Hundred Thousand United States Dollars (US$10.3M) in your favor.\nIn consideration of the above, you have been issued with this Exclusive Reference Identification Number (IMF/FRB-NY/9USXX10751/09)Transfer Allocation No.: FRB/X44/701LN/NYC/US, Password: 339331, Pin Code: 78569, Certificate of Merit No: 104, Release Code No: 0876; Secret Code: XXTN014. Having received these vital payment numbers, you are instantly qualified to receive and confirm your payment within the next 96hrs. As necessary clearance has been granted from the International Monetary Funds External Auditors to release the funds to you with immediate effect.\nIn view of this directive received from the International Monetary Funds (IMF), we have on our own part verified your payment file as directed to us, and your name is next on the list of outstanding fund beneficiaries to receive their payment at this Second quarter of year 2018. With that being done, you are required to urgently contact Citibank  in New \nWe wish to inform you of the need for you to also re-confirm the following information before the Citibank to enable us proceed with the preliminary arrangements that will enhance the immediate release of your funds. Owing to security reasons, be clearly informed that we will not respond to any phone calls/general inquiries placed to our bank with regards to the remittance of your funds by beneficiaries as we are barred from doing so, you are therefore advised to communicate only with the accredited officer for further remittance advice.\n1) Full Name;\n2) Full Address;\n3) Your contact telephone and fax number;\n4) Your Age and Profession;\n5) Copy of any valid form of your Identification;\n6) Your Bank name;\n7) Your Bank Address;\n8) Account name and Number;\n8) ABA/Routing Number;\n10) Swift or Sort Code:\nThank you for your anticipated co-operation.\nTREAT AS URGENT.\nMr. Kelvin Williams\nDIRECTOR OF FUNDS CLEARANCE UNIT.\nCITIBANK NEW YORK"
     },
     {
         "from": "baiter_751",
         "to": "scammer_751",
-        "subject": "Re: CITIBANK INTERNATIONAL NEW YOR",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: CITIBANK INTERNATIONAL NEW YOR",
         "body": "Hello Mr. Kelvin Williams,\n\nThank you for reaching out to me and providing such detailed information about this exciting opportunity. I must say, it's not every day that one receives a message about a substantial sum of money!\n\nI'm curious, how was my name selected for this? And could you please explain more about the Monetary Funds External Auditors Committee? It sounds like an important organization.\n\nAlso, I noticed that you mentioned some codes like Exclusive Reference Number IMF Transfer Allocation No., Password Pin Code of Merit No., Release Code No., and Secret Code. Could you kindly elaborate on what these codes are used for?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nSteven"
     }
 ]

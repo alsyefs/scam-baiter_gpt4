@@ -2,21 +2,21 @@
     {
         "from": "scammer_258",
         "to": "CRAWLER",
-        "subject": "   Dear Beloved friend;",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Dear Beloved friend;",
         "body": "   Dear Beloved friend;\nI am pleased to inform you about my success in getting my funds transferred under the cooperation God sent help man from Russian Moscow I am currently in the Russian Moscow now here in Russian meanwhile, I will not forget your past efforts and attempts to assist me in transferring funds that we raised this in some way.\nIs one Rev.father Daniel  who help me get this man from Russian Moscow that see me though; Beloved friend; Now you need to contact this Rev.Father Daniel who also come down with this God sent man to help he is a good father to me in prayers he is from Senegal Dakar, Senegal, his name is Rev Father Daniel and his email address is as follows ( \nrevcallben@outlook.com\n )  and his phone number is (+221706066757)\nI told him to send a certified bank check of $200.000.00 which I prepared and kept for your compensation for all efforts and attempts to assist me in this matter. I appreciate your efforts at that time very much. so feel free to contact the Rev Father Daniel and instruct him where to send you the check.\nPlease let me know immediately you receive;my advice is that there is still a real and good story, finally, remember that I had forwarded instruction to the Rev Father on your behalf to receive that money. So do not hesitate to contact him and he will send the amount to you without any delay. and please do not forget to inform me as soon as you receive the certified bank check of $200.000.00 Take care and God bless you and goodbye for now.\nYours in the lord\nMrs.Cynthia   "
     },
     {
         "from": "baiter_258",
         "to": "scammer_258",
-        "subject": "Re:    Dear Beloved friend;",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:    Dear Beloved friend;",
         "body": "Dear Beloved Friend,\n\nI am glad to hear about your success in securing the funds. I appreciate your kind gesture of acknowledging my efforts and attempts to assist you.\n\nI will contact Rev Father Daniel as per your instructions and will inform him about where to send the check. \n\nOnce I receive the check, I will let you know immediately. Thank you for your trust and God bless you too.\n\nBest wishes,\nPauline"
     }
 ]

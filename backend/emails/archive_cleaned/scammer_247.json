@@ -2,21 +2,21 @@
     {
         "from": "scammer_247",
         "to": "CRAWLER",
-        "subject": "  THIS IS THE NEW PAYMENT ARRA",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  THIS IS THE NEW PAYMENT ARRA",
         "body": "  THIS IS THE NEW PAYMENT ARRANGEMENT\nThis is to notify you that your fund are currently being lodged into\nwood forest bank in USA because we held meeting today with the\n(FBI)which they totally gives beneficiaries like you the opportunity\nto transfer fund via telephone banking to be able to escape IMF\nagainst transfer of fund above 1million US dollars .\nThis new payment arrangement is designed to help you get access to\nglobal telephone banking and complete transfer of fund without any\ndelay.Reconfirm your full name,address,occupation,your mobile phone\nand your ID , this is to make sure you are the right person\nThank you for banking with us\nJames Lew.   "
     },
     {
         "from": "baiter_247",
         "to": "scammer_247",
-        "subject": "Re:   THIS IS THE NEW PAYMENT ARRA",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   THIS IS THE NEW PAYMENT ARRA",
         "body": "Dear James Lew,\n\nThank you for your email. I am interested in the new payment method you mentioned, but I need more information about it. Could you please provide more details about how this telephone banking system works? \n\nAlso, could you clarify what you mean by \"escape IMF against transfer of fund above US dollars\"? I'm not sure I understand this part.\n\nLooking forward to your response.\n\nBest wishes,\nAudrey"
     }
 ]

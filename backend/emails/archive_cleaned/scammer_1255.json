@@ -2,21 +2,21 @@
     {
         "from": "scammer_1255",
         "to": "CRAWLER",
-        "subject": "Dear Sir,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear Sir,",
         "body": "Dear Sir,\nThis is to notify you that after a tripartite meeting held on the 10th\nof July, 2023 between my office and the approved referral bank (UNITED\nSTANDARD  BANK  CALIFORNIA) regarding the instant ONLINE BANKING\nACCOUNT transfer of your over due Investment Fund Deposit (I.F.D.)\nAt the end of the meeting a communique was issued and your payment\nfile immediately sent to the UNITED STANDARD  BANK  CALIFORNIA UNITED\nSTATES OF AMERICA for the immediate release of this fund to your\ndesignated receiving bank account co-ordinates.\nSEND THE BELOW INFORMATION'S.\n--------------------------------------------------\n1.YOUR BANK NAMES AND ADDRESS.-----------------------------------------\n2.YOUR BANK SWIFT CODE AND ROUTING CODE.-------------------------------\n3.YOUR BANK ACCOUNT NUMBER.--------------------------------------------\n4.\nYOUR INTERNATIONAL AND WORKING ID CARD\n.------------------------------\n5.YOUR PRIVATE CELL PHONE NUMBER.----------------------------------\n6.YOUR CONTRACT AMOUNT AMOUNT THAT HAS APPROVED FOR PAYMENT IS\n$10.MUSD-----------\nFinally as soon as you send the required information's above the\ncontact of the paying Bank where your funds will be paid will be\ngiven to you to reach them for easy communication and for the release\nof your funds payment.\nYour urgent response is highly expected.\nYours faithfully\nMs Stella Jack.\nFeel Free to call me.\nSecretary Minister of Finance.\nMs Stella Jack.\nSpecial Adviser(Mr Musa Malik)\nSecretary Minister of Finance\nFederal Government of Nigeria."
     },
     {
         "from": "baiter_1255",
         "to": "scammer_1255",
-        "subject": "Re: Dear Sir,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Dear Sir,",
         "body": "Dear Ms. Stella Jack,\n\nThank you for your email. However, I must inform you that I am not expecting any investment fund deposit from Nigeria or any other country. \n\nI believe there may be a mistake or misunderstanding. Could you please provide more details about this matter?\n\nBest wishes,\nMichael"
     }
 ]

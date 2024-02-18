@@ -2,21 +2,21 @@
     {
         "from": "scammer_899",
         "to": "CRAWLER",
-        "subject": "  Dear Friend,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear Friend,",
         "body": "  Dear Friend,\nI am Mr. Abdulla Qassem. A Bank Officer with Emirates NBD here in U.A.E / Dubai. I can present all my credentials to you so that you can be sure of my person.\nMy reason to be contacting you is that I wish to place your name as the beneficiary to Thirty million dollars only due to the death of the depositor who died years ago and bears the same last name as yours. He died there in Ghana where he had gone for his business purposes. You can read more about it in the May 11 2007 fatal accident in Ghana involving seven vehicles near Awutu-Effutu-Senya district in the Central Region of Accra where thirty-five people were killed on the spot. Read article:\nhttp:/ /www.ghanaweb.com/GhanaHomePage/NewsArchive/artikel.php?ID=123861\nMy bank management is yet to know about his death, I knew about it because he was my friend and I am his account officer. He did not mention any next of kin or heir when the account was opened and he was not married and had no children. Last week my bank management requested that I should give instructions on what to do about his funds if to renew the contract.\nI know this will happen and that is why I have been looking for a means to handle the situation because if my bank directors happen to know that he is dead and do not have any next of kind or heir, they will take the funds for their personal use and I don't want such to happen. That was why when I saw your name I was happy and I am now seeking your cooperation to present you as next of kin or heir to the account since you bear the same last name as him.\nMy bank headquarters will release the proceeds of the account to you. I assure you that this transaction will be executed under a legitimate arrangement that will protect you from any breach of the law both in your country and here in UAE / Dubai. I assure you that this transaction will be executed under a legitimate arrangement that will protect you from any breach of the law both in your country and here in Dubai once the fund is transferred to your bank account.\nA copy of my credentials will be forwarded to you and we shall go over the details once I receive your response strictly through my email address below: \nmmrabdullaqassem@gmail.com\nThank you and I anticipate your earliest communication.\nMr. Abdulla Qassem\nGroup Chief Operating Officer and Director Emirates NBD\nGeneral Manager of ITO & Admin Emirates NBD\nChairman Network International LL   "
     },
     {
         "from": "baiter_899",
         "to": "scammer_899",
-        "subject": "Re:   Dear Friend,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Dear Friend,",
         "body": "Dear Mr. Abdulla Qassem,\n\nI am intrigued by your proposal, but I must admit that it raises a few questions. How did you find my name and why have you chosen me for this task? \n\nAlso, I would like to know more about the legal procedures that will be involved in this process. You mentioned that everything will be executed under legitimate arrangements, but could you please provide more details about these arrangements?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nCharles"
     }
 ]

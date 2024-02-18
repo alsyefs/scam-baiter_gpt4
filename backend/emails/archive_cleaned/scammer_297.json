@@ -2,21 +2,21 @@
     {
         "from": "scammer_297",
         "to": "CRAWLER",
-        "subject": "Attention:",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attention:",
         "body": "Attention:\nMy name is Thomas. P. Gibbons.\nThe Director Bank of New York, Please we are Sorry for late reply due\nto some circumstances that surrounds your payment, but we were able to\nsolve them and ready to open a new bank online account for you so that\nyou will have access to your money.\n, the online account will be available soon, but \nthe bank will not\ngive you the password until you provide your United Nations Approval\ncode NO, in order to get your code number, you will contact the United\nNations attorney General for your UN Approval Code NO if not you will\nnot have access to your ten million dollars Approved by the United\nNations. \nPlease contact the Attorney; John Blessing with this Email:\njohnblessing@consultant.com\n/ Tel: ‪(424) 888-2763\nThomas. P. Gibbons\nThe Bank of New York Director\nEmail: \ndepartmentacc22@gmail.com"
     },
     {
         "from": "baiter_297",
         "to": "scammer_297",
-        "subject": "Re: Attention:",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Attention:",
         "body": "Hello Thomas. P. Gibbons,\n\nThank you for reaching out to me and explaining the situation regarding my payment. I appreciate your efforts in resolving the issues surrounding it.\n\nI understand that I need to get a United Nations Approval code NO to access my online bank account. Could you please guide me on how I can contact Attorney John Blessing? You mentioned an email and a telephone number, but I don't see them in your message.\n\nAlso, could you please provide more details about this United Nations Approval code NO? What is its purpose and why is it necessary for accessing my online bank account?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJames"
     }
 ]

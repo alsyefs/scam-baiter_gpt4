@@ -2,51 +2,51 @@
     {
         "from": "scammer_344",
         "to": "CRAWLER",
-        "subject": "  Attention:  Beneficiary",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Attention:  Beneficiary",
         "body": "  Attention:  Beneficiary\nLong overdue Inheritance Consignment:\nI hereby formally inform you that President Nana Akufo-Addo has\nappointed me as the new Governor of the Bank of Ghana to replace\nmypredecessor, Dr. Abdul Nashir Issahak.\nAll the corrupt practices that my predecessor led has finally come to\nan end, and now you can breathe a sigh of relief as I solemnly promise\nto release to you the outstanding long-overdue contract/Inheritance\nfunds of ($ 3.5 million), as mandated to me by the President.\nFind the official letter attachment and a copy of my ID.\nYours sincerely,\nDr. Ernest Kwamina Addison.\nNew Governor, Central Bank of Ghana (bog)\nDirect Number + 233-570819715,\nOfficial Website: /www.bog.gov.\nPrivate Email: \ndre015006@gmail.com\n "
     },
     {
         "from": "baiter_344",
         "to": "scammer_344",
-        "subject": "Re:   Attention:  Beneficiary",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Attention:  Beneficiary",
         "body": "Hello Dr. Ernest Kwamina Addison,\n\nIt's a pleasure to meet you! Congratulations on your new appointment as the Governor of the Bank of Ghana. It sounds like a very important role.\n\nI'm intrigued by your mention of contract funds. Could you please elaborate more on this? What is the nature of these funds and how are they related to me?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nErnesto"
     },
     {
         "from": "scammer_344",
         "to": "baiter_344",
-        "subject": "Re: Attention: Beneficiary",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "2",
+        "subject": "Re: Attention: Beneficiary",
         "body": "THanks a lot Mr Ernest My Name Sake.\r\n\r\nIt is my presure talking to you as well and thank you once again for your\r\ncompliment.\r\n\r\nFor your question, these funds were  mapped out by our President / all the\r\nparliamentary board members of the house of assembly to re-settle all the\r\noutstanding beneficiaries funds, eg: contract payment, next of Kin, award\r\nwilling and bonus funds, which the outgoing Governor could not handle.\r\n\r\nYour name and email contact was included on the list given to me and was\r\nsent to you by my secretary.\r\n\r\nCongratulations once again.\r\n\r\nI have attached my Id card and our form for you to fill and return back for\r\nthe processing of your funds.\r\n\nBest regards.\r\nDr Ernest Kwamina Addison"
     },
     {
         "from": "baiter_344",
         "to": "scammer_344",
-        "subject": "Re: Attention: Beneficiary",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0434375,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "3",
+        "subject": "Re: Attention: Beneficiary",
         "body": "Hello Dr. Ernest Kwamina Addison,\n\nIt's a pleasure to be in contact with you! I'm quite intrigued by the information you've shared. It sounds like a significant initiative taken by your President and the board members of the house of assembly.\n\nCould you please elaborate more on how my name and email contact ended up on this list? I'm curious to know more about this process. Also, could you explain a bit more about these funds? What are they intended for?\n\nI appreciate your time and look forward to hearing from you soon.\n\nBest wishes,\nErnesto"
     },
     {
         "from": "scammer_344",
         "to": "baiter_344",
-        "subject": "Re: Attention: Beneficiary",
         "direction": "Inbound",
-        "days_from_first_conversation": 1,
+        "days_from_first_conversation": 0.8124305555555555,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "4",
+        "subject": "Re: Attention: Beneficiary",
         "body": "Dear Ernesto.\r\n\r\nI must let you know that I have so much interest in you having noticed that\r\nwe bear the same name.\r\n\r\nWell it will interest you to know that our name (AFRICA) at-large has been\r\nblacklisted with so many lies about what we do and what we has not done.\r\n\r\nHowever by releasing these funds to the rightful owners will go along way\r\nto redeem our image globally as it will be on record in accordance with\r\nsection \"A\"\r\n\r\nI will advise you to fill in the form I have sent to you and return back\r\nasap for the processing of your funds alongside with others.\r\n\r\nI know you might have executed a contract here with our government or your\r\nInheritance funds as stipulated on the list.\r\n\r\nI will wait for the form.\r\n\r\nHave a great day.\nBest regards.\r\nDr Ernest Kwamina Addison"
     }
 ]

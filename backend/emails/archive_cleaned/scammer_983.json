@@ -2,21 +2,21 @@
     {
         "from": "scammer_983",
         "to": "CRAWLER",
-        "subject": "Dear Beneficiary.",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear Beneficiary.",
         "body": "Dear Beneficiary.\nThis is to inform you that the United Nation Organization in conjunction with the World Bank has released the 2022 compensation Fund which you are one of the lucky 40 winners that the committee has resolved to compensate with the sum of US$2,500,000 ( Two Million Five Hundred United State Dollars)  after the 2022 general online compensation raffle draw held last WEEK during the UNCC conference this year with The Secretary-General of the United Nations Mr. António Guterres in Geneva Switzerland. This payment program is aimed at charities / fraud Victims and their development to help individuals to establish their own private business/companies.\nYour E-mail was randomly selected among others to receive this Fund through our International Micro Soft Network during the compensation Ballot survey/draws.\nTherefore, contact Engineer Account Mrs Kristalina Georgieva, he is our representative and also United Nation`s Coordinator in United State of America that will organize with you in Dispatch or handling Your DISCOVER CARD to your Destination.You are to make sure that you received the UN Approved DISCOVER CARD in your names which is in list\nfounds in names of U.N world list to receive this UN Guest Compensation.\nWe are at your service.\nMany Thanks,\nUnited Nations Liaison Office,\nMr Younge lvan"
     },
     {
         "from": "baiter_983",
         "to": "scammer_983",
-        "subject": "Re: Dear Beneficiary.",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Dear Beneficiary.",
         "body": "Dear Mr. Younge Ivan,\n\nThank you for your email and the wonderful news about my selection in the online raffle draw. I am thrilled to hear that I am one of the lucky winners.\n\nI understand from your email that I should contact Engineer Account Mrs Kristalina Georgieva for further instructions on how to receive the UN Approved DISCOVER CARD. Could you please provide me with her contact details?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLaurette"
     }
 ]

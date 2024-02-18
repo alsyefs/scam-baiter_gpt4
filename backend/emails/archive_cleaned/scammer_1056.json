@@ -2,21 +2,21 @@
     {
         "from": "scammer_1056",
         "to": "CRAWLER",
-        "subject": "  Attention. Dear",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Attention. Dear",
         "body": "  Attention. Dear\nThis is. Mr. Ronald  AlanKlain of the US Central Intelligence Agency\n(CIA). Send you a text message today for the official email and text\nof the scam we received about sending money to an African scammer who\nclaims to have the funds. Moreover, you didn't even inform the US\nPresidential office or the military, even the worst part of this, is\nthat they are yawning Christopher Asher Ray into a scam. Now, we at\nthe Central Intelligence Agency (CIA) have decided to get into this\nsituation and prevent anyone from sending money to these scammers. If\nyou try to do or send something without asking for confirmation, you\nare being monitored from today. You will be in jail for two years and\nthen you will return to your senses.\nSeparately, we, the C.I.A, have decided to indemnify you with a total\nof US $9,000,000 million's for fraudulent losses and other unpaid\nfunds. And now you should choose the way you need to deliver it to\nyou. There are three options\n(1) In the case of interbank wire transfer, you will be required to\npay transfer fee. The price is $120\n(2) Consignment box delivery only pays $75\n(3) We will deliver the ATM card to the front door. Send your address.\nThe shipping fee is only $50\nAnd you should keep this secret to ensure that you make your money\nsuccessful. We look forward to hearing from you.\nBest regards,\nMr. Ronald  AlanKlain of the US Central Intelligence Agency (CIA).\nEmail address:( \noflie1083@gmail.com\n )    "
     },
     {
         "from": "baiter_1056",
         "to": "scammer_1056",
-        "subject": "Re:   Attention. Dear",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Attention. Dear",
         "body": "Hello Mr. Ronald,\n\nThank you for reaching out to me and informing me about this situation. I must say, it's quite surprising to hear from the CIA! \n\nI'm relieved to know that you're taking steps to prevent people from falling into such traps. It's unfortunate that there are individuals out there who try to take advantage of others.\n\nRegarding the indemnification, I appreciate your offer. However, I would like more information before proceeding further. Could you please provide more details about these three options? Specifically, I'd like to understand what the transfer fee is for the interbank wire transfer and what exactly does box delivery entail?\n\nAlso, could you clarify what you mean by keeping this secret? Is it necessary for my safety or is there another reason?\n\nLooking forward to hearing back from you.\n\nBest wishes,\nIra"
     }
 ]

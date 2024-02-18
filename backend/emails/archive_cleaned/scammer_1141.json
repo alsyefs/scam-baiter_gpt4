@@ -2,21 +2,21 @@
     {
         "from": "scammer_1141",
         "to": "CRAWLER",
-        "subject": "  It’s been a deafening silenc",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  It’s been a deafening silenc",
         "body": "  It’s been a deafening silence for more than four (4) concerning the transfer of your fund amounting to US$200 Million.  Kindly note that the Government of the Republic of South Africa has given an order requesting all outstanding transactions to be transferred to its rightful owners and its next of kin.\nPlease confirm that you know about this transaction and you intend to work with the Reserve Bank of South Africa in completing the transaction.\nMR. CALLIE HUGO\nHEAD OF ADMINISTRATION\nPAYMENT VERIFICATION COMMITTEE\nRESERVE BANK OF SOUTH AFRICA\nTel: +27 81 069 4085\nReserve Bank South Africa - Email Confidentiality Notice\nThis communication contains information which is confidential and may also be privileged. It is for the exclusive use of the intended recipient(s). If you are not the intended recipient(s) please note that any distribution, copying or use of this communication or the information in it is strictly prohibited.    "
     },
     {
         "from": "baiter_1141",
         "to": "scammer_1141",
-        "subject": "Re:   It’s been a deafening silenc",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   It’s been a deafening silenc",
         "body": "Dear Mr. Callie Hugo,\n\nI am writing in response to your email regarding the transfer of funds. I must admit, I was not aware of this situation and it comes as a surprise to me.\n\nCould you please provide more details about this matter? Specifically, I would like to know how my name came up in connection with these funds and what steps need to be taken for the completion of this transfer.\n\nLooking forward to your prompt response.\n\nBest wishes,\nEthel"
     }
 ]

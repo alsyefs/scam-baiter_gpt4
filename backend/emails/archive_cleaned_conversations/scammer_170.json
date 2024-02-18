@@ -2,41 +2,41 @@
     {
         "from": "scammer_170",
         "to": "CRAWLER",
-        "subject": "  Hello,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Hello,",
         "body": "  Hello,\n \nMy name is Brian Louis Mann and I represent a business group in the Gulf region and Europe looking for projects to fund; we seek any business that will guarantee a safe and secure returns on investments. Alternative powers, oil & Gas, mining, real estate, aggro allied, health related start-up companies etc. We are also looking for commercial building projects, hotels, casinos, strip malls etc.\n \nIf you have a project that differs from these and current budget is $10 Million or above, write us and provide executive summary and project details.\n \nPossible 100% long-term loans, project must be between $10 Million and $5 Billion total budget.\n \nI look forward to your positive response.\n \nRegards,\n \nBrian Louis Mann\nProject/investment consultant\nLONDON E1 1FR, U.K   "
     },
     {
         "from": "baiter_170",
         "to": "scammer_170",
-        "subject": "Re:   Hello,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Hello,",
         "body": "Dear Brian Louis Mann,\n\nThank you for your email and the opportunity to present potential projects for your consideration. I am currently involved in several ventures that may align with your investment interests, particularly within the real estate and health sectors.\n\nBefore proceeding, could you please provide more information about your investment criteria? Specifically, I would like to understand:\n\n1. The typical investment size and structure (equity, debt, or a combination of both).\n2. The preferred stage of business (start-up, growth, established).\n3. Any specific geographic preferences.\n4. The decision-making process and timeline.\n\nOnce I have this information, I can provide a more detailed overview of the most relevant opportunities.\n\nI look forward to hearing from you soon.\n\nBest wishes,\nCarol"
     },
     {
         "from": "scammer_170",
         "to": "baiter_170",
-        "subject": "Dear Carol",
         "direction": "Inbound",
-        "days_from_first_conversation": 1,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "2",
+        "subject": "Dear Carol",
         "body": "Dear Carol ,\r\n\r\nThank you for getting back to us regarding your business loans/funding.\r\n\r\nFunds are available for Land Development, Business expansion capital,\r\nworking capital, real Estate property, construction projects, factoring,\r\nbank instruments, energy, manufacturing, telecommunications and real estate\r\nacquisitions such as hotel and commercial. We also take a look at the need\r\nfor financing in a wide variety of other industries as well, such as oil\r\nand gas, new technologies, and forestry and mining to name a few.\r\n\r\nOur pool of funds is provided by high net worth individuals, trust funds,\r\nfamily office funds as well as corporate and institutional funds. We act as\r\nthe direct custodian of these funds provided by our clients who request\r\nthat we operate with the utmost of privacy and discretion.\r\n\r\nWith regards concerning the investment opportunities in your area, we are\r\ninterested and ready to proceed with you. As an international Investment\r\nConsultant, I am privileged to handle portfolios' of high network,\r\npoliticians, power players which their source of wealth are mostly through\r\nPolitical Empowerment {PEP}. Funds are clean with no any trace of\r\ninvestigation from the funds locations nor the investors. Its process will\r\npass through the international legal banking terms which include DUE\r\nDILIGENCE.\r\n\r\nOur financier/ investment firm is financing different projects as soft loan\r\nat 3% interest rate for a period of 10 years (Renewable). But before the\r\nfunds will be released and disbursed to your Bank account we want to agree\r\non terms with you as the receiver/ borrower.\r\n\r\n1. Both Financier and Borrower ( Receiver of the funds ) will sign and\r\naccept the Loan Term Sheet/ Agreement Contract which will be sent to you by\r\nus ( Financial Adviser and Lender)\r\n\r\n2. My Client ( Financier) agreed and accepted to Invest the funds overseas\r\nif you have a good Project which can give us reasonable Profit within 10-15\r\nYears we are ready to finalize this transaction within 10 days.\r\n\r\n3. The Financier and borrower will agree on how to move funds to receiver\r\nBank account directly from Investor Bank or affiliated Banks within\r\nEuropean Union.\r\n\r\nBelow are brief on the Investment Portfolio:\r\n\r\nMinimum Funding: 1 Million Euros\r\nMaximum Funding: 500 Million Euros\r\nPlacement Opens to: Entrepreneurs, Corporations and Investors\r\nFunding Type: Loan Investment\r\nFunding Rate: 3% Interest Rate per annum\r\nTerm: 10 years - Renewable tenure\r\nNo upfront / Hidden charges required\r\n\r\nBased on the above information, I will be glad to receive your below\r\ninformation to proceed.\r\n\r\n(1) Your Name:\r\n\r\n(2) Company name:\r\n\r\n(3) Address:\r\n\r\n(4) Telephone Numbers:\r\n\r\n(5) Needed Project Amount:\r\n\r\n(6) Project Plan/ Executive Summary, if you do not have it ready, feel free\r\nto write a brief detail about the project you wish to invest funds into and\r\nstate the total amount in US$ or Euros needed to fund the project. (if it\r\nis an already existing project or a new project).\r\n\r\nPlease review and digest the above email so we can proceed accordingly.\r\nUpon your readiness, I will send you all documentations related to this\r\ntransaction including the Loan Term Sheet, Investment Agreement, proof of\r\nfunds etc.\r\n\nBrian Louis Mann\r\nInvestment Consultant"
     },
     {
         "from": "baiter_170",
         "to": "scammer_170",
-        "subject": "Re: Dear Carol",
         "direction": "Outbound",
-        "days_from_first_conversation": 1,
+        "days_from_first_conversation": 0.05623842592592593,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "3",
+        "subject": "Re: Dear Carol",
         "body": "Dear Brian Louis Mann,\n\nThank you for your response and the detailed information about the loan funding. I am interested in proceeding with this opportunity.\n\nHere are my details:\n\nName: Eliza Dane\nCompany name: Dane Enterprises\nAddress: 1234 Main Street, Sydney, Australia\nTelephone Numbers: +61-2-9876-5432\nNeeded Project Amount: $500,000 USD\n\nThe project I wish to invest in is a new real estate development in Sydney. The funds will be used for land acquisition, construction costs, and marketing expenses. The project involves the construction of a residential complex with amenities such as a gym, swimming pool, and community center. \n\nI believe this project will yield significant returns within five years due to the high demand for quality housing in Sydney.\n\nI look forward to receiving the related documents including the Loan Term Sheet and Investment Agreement.\n\nBest wishes,\nCarol"
     }
 ]

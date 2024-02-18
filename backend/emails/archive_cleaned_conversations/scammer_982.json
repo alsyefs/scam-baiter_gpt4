@@ -2,31 +2,31 @@
     {
         "from": "scammer_982",
         "to": "CRAWLER",
-        "subject": "I am Jastro Finey",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "I am Jastro Finey",
         "body": "I am Jastro Finey\nFrom the UK\nRead below;\nAs of now.\nThere is a contract opportunity to supply raw materials to my Employers.\nThe company needs specific raw materials.\n \nYou can gain from the  profit share if you can bring in a capable person that can handle the contract  supply of the raw material from the USA to the UK.\n10% of the profit margin will be paid to you as your commission .\nThis will not disturb your job with your company.\nOnly to connect a capable contractor\nThe farmer of the raw material herbal plant is in the USA and the end user company is in the UK.\nThe contractor can bridge the gap to source from the farmer and sell at a profit margin to the end user company.\nWill you be able to connect a trustworthy and reliable contractor that will not (betray me and you) if we link him up to such a contract opportunity?\nOr do you have the competency to handle such directly?\nwe can share the profit at 40/60%  between us.\nI can explain further if interested.\nThe first supply is expected to earn us over 6 million USD profit.\nThis is privileged information.\nAs an Employee of the company. I can not be a contractor or supplier to my employers.\nI will send further details via your direct email if you are interested in this offer.\nThanks\nJastro Finey."
     },
     {
         "from": "baiter_982",
         "to": "scammer_982",
-        "subject": "Re: I am Jastro Finey",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: I am Jastro Finey",
         "body": "Dear Jastro Finey,\n\nThank you for your email and the business proposal. I am intrigued by the opportunity, however, I would need more information before making a decision.\n\nCould you please provide more details about the raw material that needs to be supplied? Also, it would be helpful to know more about the terms of the contract, such as duration and delivery expectations.\n\nI look forward to hearing from you soon.\n\nBest wishes,\nAmber"
     },
     {
         "from": "scammer_982",
         "to": "baiter_982",
-        "subject": "OFFER TO SUPPLY",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "2",
+        "subject": "OFFER TO SUPPLY",
         "body": "Dear Friend.\r\n\r\nGreetings and best compliments of the season to you.\r\n\r\nI hope this email finds you well.\r\n\r\nFollowing your contact connection on google, I am interested to share a\r\ncontract opportunity with you for partnership consideration towards earning\r\nlegitimate brokers fees or commission.\r\n\r\nCan you handle international contract supply of raw materials to an end\r\nuser company? Or can you be able to bring a trustworthy competent person to\r\nhandle such a contract for you to earn 10% on net profit share commission\r\nbenefit fee?\r\n\r\nI shall provide you with further details if you are interested in receiving\r\nsuch a proposal to study further to take appropriate action to benefit from\r\nthe contract opportunity.\r\n\r\nI look forward to your response.\nRegards\r\nThanks\r\nSupervisor."
     }
 ]

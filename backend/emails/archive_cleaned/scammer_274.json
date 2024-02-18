@@ -2,21 +2,21 @@
     {
         "from": "scammer_274",
         "to": "CRAWLER",
-        "subject": "  INTERPOL General Secretariat",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  INTERPOL General Secretariat",
         "body": "  INTERPOL General Secretariat\n200, quai Ronald Noble,\n69006 Lyon\nFrance.\nAttention: Sir,\n    We received a letter of attestation from an attorney representing you in respect to your overdue fund demanding for issuance of letter of Authorization(LOA) from our office to cover the relevant security clearance as demanded by Bank of Settlement where your fund is invested, with the aim of awarding the change of ownership to another person stating that you died in a vehicle accident that occurred in your country where only pictures inscribed with the date of the accident was taken at the scene of the accident was provided as evidence.\n    On the contrary, the signal, and report gathered from our real-time and a pain-staking investigation carried out with the help of our high-tech infrastructure of both technical and operational support systems aiding us in meeting the growing challenges of fighting crime in this 21st century. It was discovered that your name, identity, and email were currently used to transfer and invest the total sum of $51,000,000.00 in the Settlement Bank of United States and the dividend currently running up to $ 15,000,000.00. We have all the document here to confirm this claim\n    Now the questions are, how can a dead man be actively involved in fund investment without the presence of the next of kin who is supposed to be the signatory?  Secondly, could this lawyer be trying to play a smart one? and lastly but not the least, This office has not at any time been notified either by email or letter by any medical practitioner certifying your deceased state or any document issued by any member of your family or from a registrar of vital statistics that declares the date, location, and cause of your death.\nWe have tried severally to reach-out to you by sending emails to your address and several attempted calls made, but all have so far proved abortive, hence this office is left with no other option than to send this reminder message to your email ones again, as we would not accept to be held liable for any loss of your rights and fund to a wrong person. If you are still alive, do respond with your form of identification for final confirmation without delays, as we have already informed the bank that the real beneficiary of the fund may likely still be alive without even realizing what the lawyer whom so much was entrusted to have been up to.\nBest Regards,\nAnderson Noah, For,\nMr. Jürgen Stock,\nNew Secretary-General of the International\nCriminal Police Organization (INTERPOL)   "
     },
     {
         "from": "baiter_274",
         "to": "scammer_274",
-        "subject": "Re:   INTERPOL General Secretariat",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   INTERPOL General Secretariat",
         "body": "Hello Mr. Anderson Noah,\n\nThank you for reaching out to me with this information. I must say, it's quite a shock to hear that someone is claiming I'm deceased! Rest assured, I am very much alive and well.\n\nI'm curious about the details of this situation. How did my name and identity get involved in such a large fund investment? And who is this lawyer that's trying to change the ownership of the funds?\n\nAlso, could you please clarify what you mean by \"form of for final without delays\"? I'm not sure I understand what you're asking for.\n\nLooking forward to your response.\n\nBest wishes,\nEsmeralda"
     }
 ]

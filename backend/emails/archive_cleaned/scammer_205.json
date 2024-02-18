@@ -2,21 +2,21 @@
     {
         "from": "scammer_205",
         "to": "CRAWLER",
-        "subject": "  From: Mr Peter Charles <char",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  From: Mr Peter Charles <char",
         "body": "  From: Mr Peter Charles <charleslee047@appraiser.net\nSent: Monday, August 19, 2019  \nTo: \nSubject: Your Payment Is Ready,,,,,,,,,,,,,,,,, \n \nWELCOME TO WESTERN UNION MONEY TRANSFER URGENT\nFROM OFFICE OF THE WESTERN UNION MONEY TRANSFER. \nWelcome to Western Union®\nSend Money Worldwide\nww w.westernunion.com\n   Phone    +234 66271594\n \nATTENTION BENEFICIARY ,\n \nI JUST READ YOUR E-MAIL CONCERN YOUR WESTERN UNION PAYMENT WHICH YOU WILL BE RECEIVING YOUR FUND ( $5000 U.S.D ) PER DAY AND YOU WILL RECEIVE THE TOTAL SUM OF $8.5M USD.\n \nBE INFORM THAT WE WILL BE TRANSFERRING THIS FUND TO YOU WITHOUT WASTING ANY TIME AND NOTE THAT WE WILL BE TRANSFERRING THE FUND TO YOU BY $5000.00USD EVERYDAY UNTIL YOUR TOTAL FUND VALUED OF   $8.5M USD  IS FINISH, AND BEAR IN MIND THAT ONCE WE TRANSFER THE PAYMENT TO YOU THEN WE WILL FORWARD YOU THE MTCN WESTERN UNION PICK UP INFORMATION FOR YOU TO PICK YOUR PAYMENT AT ANY WESTERN UNION AROUND YOU.\n \nBUT YOU ARE REQUIRE TO PAY US $175 USD FOR THE TRANSFER CHARGES OF THE TRANSFER OF YOUR FUND TOTAL  $8.5M USD  TO ENABLE US RELEASE YOUR TRANSACTION ,  MEANWHILE SEND THE $175 USD TO US IMMEDIATELY TODAY FOR FASTER RELEASING OF YOUR FUND CORRECTLY TODAY .\n \nREASON WHY WE NEED YOU TO SEND US THE $175 USD IS THAT WE TRIED TO DEDUCT THE CHARGES OUT FROM YOUR FUND BUT THE MINISTER ADMINISTRATOR TRUST FUND OF BENIN REPUBLIC TOLD US THAT NO ONE HAS RIGHT OVER YOUR FUND AS IT HAVE BEEN SIGNED AND STAMPED THAT NO MONEY SHOULD BE DEDUCTED UNTIL IT GETS TO YOUR HAND TO AVOID STEALING SOME OF THE FUNDS.\n \nFINAL URGENT PAY THE $175 USD FOR THE TRANSFER CHARGES OF YOUR TRANSFER TO ENABLE US PROCEED ON FOR YOUR TRANSFER  IMMEDIATELY RIGHT.\n \nBELOW IS OUR ACCOUNT'S  INFORMATION FOR YOU TO SEND THE $175 USD BEEN OUR TRANSFERRING CHARGES OF YOUR PAYMENT THROUGH WESTERN UNION MONEY TRANSFER  TODAY  AND YOU WILL START RECEIVING YOUR TRANSFER BY $5000.00USD EVERY DAY UNTIL YOUR TOTAL $8.5M USD IS FINISH .\n \n \nRECEIVER NAME.............. CHRISTINANAH\nMIDDLE NAME..........................GOGO\nLAST NAME...............................POLOGBO\nCOUNTRY.........................NIGERIA\n \nMTCN............................?\n \n \nWAITING TO HEAR FROM YOU AS SOON AS YOU RECEIVE THIS MESSAGE TO QUICKEN THE PROCESS.\nPHONE +234 66271594\n \nREGARDS \nMR.PETER CHARLES.\nGENERAL MANAGER \nWESTERN UNION OFFICE NIGERIA  "
     },
     {
         "from": "baiter_205",
         "to": "scammer_205",
-        "subject": "Re:   From: Mr Peter Charles <char",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   From: Mr Peter Charles <char",
         "body": "Dear Charles,\n\nThank you for your email. However, I am a bit confused about the details of this transaction. Could you please clarify the following points:\n\n1. The exact amount that I will be receiving per day.\n2. The total sum of USD that I will receive.\n3. The specific amount of USD required for the transfer charges.\n\nOnce these details are clear, we can proceed with the transaction.\n\nBest wishes,\nHarry"
     }
 ]

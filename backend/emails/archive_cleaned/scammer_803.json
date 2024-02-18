@@ -2,21 +2,21 @@
     {
         "from": "scammer_803",
         "to": "CRAWLER",
-        "subject": "  Dear Friend,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear Friend,",
         "body": "  Dear Friend,\nI am Mrs. Bonnie Gomez a US citizen, 65 years Old. I reside here in\n108 Crockett Court. Apt 303, New Braunfels Texas, United States, am\nthinking of relocating since I am now rich. I am one of those that\ntook part in contract  in Nigeria many years ago and they refused to\npay me, I had paid over $30,000 usd while in the US, trying to get my\npayment out all to no avail, before I was directed to contact one\nMrs.Loveth Kumah at  Dept Management office (DMO) in Nigeria, and\nafter contacted her she requested for my contract number and after\nconfirming my contract number, my fund was transfer to my account\nimmediately.\nRight now I am the most happiest woman on  earth because I have\nfinally received my funds from Nigeria. Mrs. Loveth Kumah, showed me\nthe full info of those that are yet to receive their payments and I\nsaw your name and email address, as one of the beneficiaries, that is\nwhy I decided to email you to stop dealing with those people,\ncontacting you from Nigeria because they are not with your\npayment,they are only making money out of you.\nI will advise you to contact  Mrs. Loveth Kemah. You have to contact\nher directly through her below contact info:\nName: Mrs. Loveth Kumah\nEmail:lokemah201444@gmail.com\nDept. Management office (DMO)\nNigeria.\nYou really have to stop dealing with those people that are contacting\nyou and telling you that your fund is with them, it is not in anyway\nwith them, they are only taking advantage of you and they will dry you\nup until you are left nothing.\nOnce again stop contacting those people, I will  advise you to contact\nMrs. Loverth Kumah and get your payment out as soon as possible\ninstead of dealing with those liars that will be turning you around\nasking for different kind of money to complete your transaction.\nGomez   "
     },
     {
         "from": "baiter_803",
         "to": "scammer_803",
-        "subject": "Re:   Dear Friend,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Dear Friend,",
         "body": "Dear Mrs. Bonnie Gomez,\n\nThank you for your email and the information provided. I appreciate your concern and advice regarding my dealings with people from Nigeria. \n\nHowever, I would like to clarify that I have not been involved in any contracts in Nigeria or any other transactions that you mentioned in your email. It seems there might be a misunderstanding or mix-up of some sort.\n\nI would advise you to double-check the information you received about me being involved in such activities. If there's anything else you need from me, feel free to ask.\n\nBest wishes,\nTracy"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_214",
         "to": "CRAWLER",
-        "subject": "  From: \"chris@onlinejobsnetwo",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  From: \"chris@onlinejobsnetwo",
         "body": "  From: \"chris@onlinejobsnetwork.com\" <chris@onlinejobsnetwork.com\n Date: June 27, 2018 \n To:  \n Subject: (2nd Attempt) E-Work Applications Open\n Reply-To: \"chris@onlinejobsnetwork.com\" <chris@onlinejobsnetwork.com\n \n Thanks for your application.\n \n While we review it please go and\n complete your first assignment \n \n \n thanks and we look forward to\n working with you soon.   "
     },
     {
         "from": "baiter_214",
         "to": "scammer_214",
-        "subject": "Re:   From: \"chris@onlinejobsnetwo",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   From: \"chris@onlinejobsnetwo",
         "body": "Hello there,\n\nThank you for your message. I'm really excited about this opportunity and eager to get started on my first assignment. Could you please provide me with more details about it? What exactly does the task involve and what is the expected deadline?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAlice"
     }
 ]

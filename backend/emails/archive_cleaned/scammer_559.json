@@ -2,21 +2,21 @@
     {
         "from": "scammer_559",
         "to": "CRAWLER",
-        "subject": "Hope you are doing great!",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Hope you are doing great!",
         "body": "Hope you are doing great!\nI just wanted to check if you received my previous e-mail and got a\nchance to review it, If there is a disconnect then please let me know.\nYour response will be greatly appreciated via my private email { \nigorkolomiiets1@protonmail.com\n }\nBest regards,\nIgor Kolomiiets."
     },
     {
         "from": "baiter_559",
         "to": "scammer_559",
-        "subject": "Re: Hope you are doing great!",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Hope you are doing great!",
         "body": "Dear Igor,\n\nI hope this message finds you well. I did receive your previous email, however, it seems there may have been some information missing as I'm not entirely sure what you're referring to. Could you please provide more details or resend the information? \n\nLooking forward to hearing from you.\n\nBest wishes,\nCarrie"
     }
 ]

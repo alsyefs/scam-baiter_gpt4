@@ -2,21 +2,21 @@
     {
         "from": "scammer_636",
         "to": "CRAWLER",
-        "subject": "  We are waiting for your paym",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  We are waiting for your paym",
         "body": "  We are waiting for your payment receipt to enable our lawyer get the certificate from the court.  "
     },
     {
         "from": "baiter_636",
         "to": "scammer_636",
-        "subject": "Re:   We are waiting for your paym",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   We are waiting for your paym",
         "body": "Dear Sir/Madam,\n\nI understand that you are waiting for the payment receipt. However, I would like to clarify a few things before proceeding with the payment. Could you please provide me with more details about the lawyer and the court proceedings?\n\nBest wishes,\nBernard"
     }
 ]

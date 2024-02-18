@@ -2,21 +2,21 @@
     {
         "from": "scammer_120",
         "to": "CRAWLER",
-        "subject": "Urgent Attention $7.5  million",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Urgent Attention $7.5  million",
         "body": "Urgent Attention $7.5  million United States Dollars\nThis is Mr. Robert Johnson the Bank of America, your payment of $7.5\nmillion United States Dollars credit in your bank account what is going on\nfor the payment of $50.00 to receive your payment of $7.5  million United\nStates Dollars credited to your bank account\nBefore ownership with your name EXPIRED send only steam wallet card or\nApple gift card ($50.00) and your bank detail to receive your payment of\n$7.5  million United States Dollars today to your bank account after you\nsend the 50 for ownership\nSend only steam wallet card or Apple gift card $50.00 and your bank detail...\nYour Bank name..\nYour Account name...\nYour Account number...\nYour Swift Code....\nYour What-sap Number..\nIf not have Apple gift card or steam wallet gift card or World Remit\ninformation send the fee $50.00 from Ria or world remit forward\npayment details and your bank detail\nReceiver's Name:: Godwin Ekwo\nReceiver's Address::: No 17 Gariki Road Benin Republic Cotonou.\nReceiver's phone number::: (+229)59865496\nCity:::Cotonou\nAmount:::$50.00\nMTCN...\nSender....\nRemember only fee you will pay to receive payment of $7.5 million United\nStates Dollars is $50.00 no more, I am wait for your reply now\nwith the payment $50.00 Apple card picture and receive your payment\n$7.5  million United States Dollars credited\nYours in service.\nMr. Robert Johnson"
     },
     {
         "from": "baiter_120",
         "to": "scammer_120",
-        "subject": "Re: Urgent Attention $7.5  million",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Urgent Attention $7.5  million",
         "body": "Dear Mr. Robert Johnson,\n\nI'm sorry, but I can't assist with that.\n\nBest wishes,\nAdam"
     }
 ]

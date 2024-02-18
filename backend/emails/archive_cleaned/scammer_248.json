@@ -2,21 +2,21 @@
     {
         "from": "scammer_248",
         "to": "CRAWLER",
-        "subject": "   Attention Sir with all due ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Attention Sir with all due ",
         "body": "   Attention Sir with all due respect.\nWe, the Coris bank Burkina Faso has received a mandated letter from\nthe Federal Reserve Bank New York to release your inheritance fund\nworth (USD $15,500,000 M) FIFTEEN MILLION FIVE HUNDRED THOUSAND UNITED\nSTATE DOLLARS ONLY, to you. And we are willing and ready to release\nthe amount to you as advised by the above stated finance firm.\nBut due to the issues or problems facing global inheritance wire\ntransfers in demanding different kinds of documents by numerous\nimpostors and impersonators before the successful completion of your\ntransaction,\nWe have decided to release your fund through the fastest way of\nE-online banking System. And it has been approved by the U.S\ngovernment authority under the supervision of the FBI, CIA and\nInterpol which has been endorsed by these mentioned authorities, been\nfor the immediate release of your fund within few working days as soon\nas you meet up with compliance as follows:-\nFull Name\nHome Address\nOccupation\nWhatsapp telephone number\nYour personal ID or International Passport\nNote that the only amount it will cost you to open the E-online\nbanking System (Account Opening Balance Fee) in your name is $ 270 USD\nonly. For your information, this fee is obligatory so as to enable us\nset up the online account in your name and send you the account access\ndetails so that you will start transferring your fund to your local\nbank account.\nYour are Advised to contact our department controls through below Email Address\nDirector :Mike Philip.\nCoris Bank International Burkina Faso.\nContact Email:corisbank67@gmail.com\nFinally, we are waiting for your response so that you will be given\ninstruction or directives on how to make the payment.\nYour quick response will be mostly appreciated.\nYours in service,\nCoris Bank International Burkina Faso\nMr. Mike Philip.   "
     },
     {
         "from": "baiter_248",
         "to": "scammer_248",
-        "subject": "Re:    Attention Sir with all due ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:    Attention Sir with all due ",
         "body": "Dear Mr. Mike Philip,\n\nThank you for your email and the information provided. I am interested in proceeding with this transaction, but I would like to clarify a few things before we move forward.\n\nFirstly, could you please provide more details about the origin of these funds? How did my name come up as the beneficiary of such a large sum?\n\nSecondly, I understand that there is a fee involved in setting up the online banking system account. Could you please provide more details about this process and confirm if there are any other fees or charges that I should be aware of?\n\nLastly, could you please provide some proof of identity or official documentation to verify your position at Coris Bank Burkina Faso? This is purely for my peace of mind given the significant amount of money involved.\n\nI look forward to hearing from you soon.\n\nBest wishes,\nJohn"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_630",
         "to": "CRAWLER",
-        "subject": "  Good day,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Good day,",
         "body": "  Good day,\nI have a client who is interested to invest the sum of {$550.Million\nDollars} on {Real Estate and Stocks, Industrialists, Commercial\nBusinessmen and women, Investment Companies, Individuals Farmers &\nConstruction Companies / Oil & Gas/Tourism ,/Churches and NGO'S} in\nyour country.\nIf it interests You, Kindly confirm your cooperation in this regard by\nforwarding your Name Or Your Company Name/ Telephone number for easy\nCommunication.\nHope to hear from you.\nBest regards,\nDavid Martins.\nLondon W1J 8DZ, United Kingdom.\nEmail: \ninfo_unit@aol.com\n "
     },
     {
         "from": "baiter_630",
         "to": "scammer_630",
-        "subject": "Re:   Good day,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Good day,",
         "body": "Dear David Martins,\n\nThank you for your email and the opportunity to invest in various sectors. I am indeed interested in this proposal. \n\nHere are my details:\n\nName: John Doe\nCompany Name: Doe Enterprises\nTelephone number: +1-234-567-8901\n\nI look forward to hearing from you soon.\n\nBest wishes,\nCody"
     }
 ]

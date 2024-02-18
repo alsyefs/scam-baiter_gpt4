@@ -2,21 +2,21 @@
     {
         "from": "scammer_928",
         "to": "CRAWLER",
-        "subject": "  Attention,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Attention,",
         "body": "  Attention,\nThe conduct which is (ATM-0411) so you have to show this code when\ncontacting the card centar by using it as the subject,This is DHL\ncourier Delivery Company of Benin,the management of this\ncompany,wishes to inform you that,we received a parcel containing an\nATM Master Card valued $15 million Dollars with the vital PIN on it\nfrom the ecowas for safety delivery to your residential address in\nyour country.This parcel was brought to us this morning by the IMF\nPackage ATM Card office, please reconfirm the below information,to\navoid delivery of your ATM Master Card to wrong hand.\n1) Your Full Name:..\n2) Address, City, State And Country:..\n3) Personal Cell Phone, Fax And Mobile:...\n4) Company Name (If Any) Position And Address:..\n5) Occupation, Age And Marital Status:..\n6) Copy Of Your Int'l Passport/Drivers Licence:..\nSend Your Require information via Email Address ( \nmrdonjackson39@gmail.com\n )\nMr.David Thompson.\n78\nWe will register your package and send you the tracking numbers\nbeforewe proceed for safety delivery of your package as soon as you\nreconfirm the required information for safety delivery.Send your\nrequire information via Email  \nmrdonjackson39@gmail.com\nPACKAGE REGISTERED CODE NO OVX950.\nSECURITY CODE EYTU/3055WEZ/263/\nTRANSACTION CODE 7126/JLFS/7138/17305/\nSHIPMENT CODE GJK72DWQ\nTotal Amount in ATM CARD $15 million Dollars\nDHL is one of the world's great success stories,the start-up that\nrevolutionized the delivery of packages and information.In the past\n33years,we've grown up and grown into a diverse family of companies as\nDHL that's bigger,stronger, better than ever.\nYours Faithfully.\nThank,s\nRegrade\nMr.David Thompson   "
     },
     {
         "from": "baiter_928",
         "to": "scammer_928",
-        "subject": "Re:   Attention,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Attention,",
         "body": "Dear Thompson,\n\nThank you for your email. I am excited to hear about the ATM Master Card valued at million dollars. However, I would like to clarify a few things before we proceed.\n\nFirstly, could you please provide more details about the origin of this card and why it has been assigned to me? \n\nSecondly, I noticed that some information seems to be missing in your email, such as the specific amount on the card and the full name of the IMF Package ATM Card office.\n\nLastly, could you please confirm if there are any fees or charges associated with receiving this card?\n\nLooking forward to your response.\n\nBest wishes,\nMyrl"
     }
 ]

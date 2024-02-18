@@ -2,21 +2,21 @@
     {
         "from": "scammer_870",
         "to": "CRAWLER",
-        "subject": "Attention Beneficiary,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attention Beneficiary,",
         "body": "Attention Beneficiary,\nThis message is officially bring to you from International Monterey\nFund (IMF) director Mrs Kristalina Georgieva,that sum of disclosed\nmillions of dollar which was deposited in your favor was mishandled by\nthe official who has been using this fund to extort some money from\nyou for one reason or the other.\nWe learnt that they are still demanding some money from in the sense\nthat you will receive your fund through diplomatic or through bank\nwire transfer.\nYou are here by order to stop further communication with them or any\nmeans of payment to them as the money you are chasing after is under\nour custody now.\nyou are advice to contact (IMF) Director now at (\nmgeorgieva111@aol.com\n ) Kindly reconfirm your full name and home\naddress and phone number to claim your fund without delay.\nYou will pay sum of $153 for affidavit stamp and your fund will\nactivated be delivered to you\n.\nThanks\nEdward Benson"
     },
     {
         "from": "baiter_870",
         "to": "scammer_870",
-        "subject": "Re: Attention Beneficiary,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Attention Beneficiary,",
         "body": "Hello Edward Benson,\n\nThank you for reaching out to me with this information. It's quite surprising to hear about the mishandling of such a large sum of money. I'm glad that it's now under your custody and safe from any further misuse.\n\nI have a few questions though, if you don't mind. Could you please explain more about what the Monterey Fund IMF is? And how did my name come up in relation to this fund?\n\nAlso, could you clarify what the affidavit stamp is for and why there's a fee associated with it? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nEugene"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_1239",
         "to": "CRAWLER",
-        "subject": "  Sir,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Sir,",
         "body": "  Sir,\nHow are you doing and with thanks that you were among the survivors of Covid 19 Pandemic. This is to inform you that the international community in\nconjunction with World bank and Bgr international Bank USA moved your above long-time unpaid fund to a newly assigned Central Bank of Nigeria for immediate\ntransfer to you.\nIn making sure that this resolution is being carried out with no questions or delays, I was also transferred to Africa being the origin continent of this\nfund. So I am passing this urgent and good news notice to you from Nigeria being the head of all African nations.\nWith due respect to you and in accordance with the security certification of any beneficiary as was given by the authorities, you have to contact  the\nDirector International Remittance of Central Bank of Nigeria in person of :\nDR. USMAN SHAMSUDEEN\nDIRECTOR : INTERNATIONAL REMITTANCE\nCENTRAL BANK OF NIGERIA (CBN)\nEmail : \nshausman861@gmail.com\nFor immediate release of your fund.\nKINDLY RE-CONFIRM TO HIM THE FOLLOWING:\n1) YOUR FULL NAME :  ...............................................\n2) YOUR CONTACT ADDRESS : .................................\n3) PHONE, AND MOBILE # .................................\n4) YOUR FULL BANK DETAILS : ...................................\n5) YOUR OCCUPATION : .............................................\n6) COPY OF YOUR IDENTIFICATION : ................................\nThank you\nMr Benson Jack.\nSecretary   "
     },
     {
         "from": "baiter_1239",
         "to": "scammer_1239",
-        "subject": "Re:   Sir,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Sir,",
         "body": "Hello Mr. Benson Jack,\n\nI hope this message finds you well. It's indeed a relief to have survived the Covid Pandemic, and I appreciate your concern.\n\nThe information you've shared is quite intriguing! The involvement of such esteemed institutions like the World Bank and BGR Bank USA certainly piques my interest. However, I'm curious about a few things.\n\nCould you please elaborate on why my unpaid fund was moved to the Central Bank of Nigeria? Also, could you explain more about the role of Africa as the origin continent of this fund?\n\nRegarding Dr. Usman Shamsudeen, it would be helpful if you could provide more details about his role in this process. Is he the main point of contact for all matters related to this fund?\n\nLastly, I noticed that you requested some personal information from me. While I understand that these details might be necessary for certain processes, I'm afraid I can't share them over email due to privacy concerns.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nLena"
     }
 ]

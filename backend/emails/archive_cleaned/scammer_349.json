@@ -2,21 +2,21 @@
     {
         "from": "scammer_349",
         "to": "CRAWLER",
-        "subject": "Prestige Assurance Courier and",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Prestige Assurance Courier and",
         "body": "Prestige Assurance Courier and Security Co offers a host of logistic management services, secured vault and supply chain solutions. We provide innovative solutions with the best people, processes, and technology. With \nover 60 years\n of providing world class service to their customers on the asset side, a need to provide a one stop shop for a” true customer service logistic solution” was introduced. By adding this dimension to an already dynamic and customer centric asset based provider, we feel we bring a total solution."
     },
     {
         "from": "baiter_349",
         "to": "scammer_349",
-        "subject": "Re: Prestige Assurance Courier and",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Prestige Assurance Courier and",
         "body": "Hello there,\n\nThank you for sharing this information about Prestige Assurance Courier and Security Co. It sounds like a comprehensive service with a lot of experience in the field. I'm intrigued by the mention of innovative solutions and customer-centric approach.\n\nCould you please elaborate more on what these innovative solutions are? And how does the company ensure a customer-centric approach in its operations?\n\nLooking forward to hearing more about it!\n\nBest wishes,\nDonald"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_1211",
         "to": "CRAWLER",
-        "subject": "  National Westminster Bank pl",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  National Westminster Bank pl",
         "body": "  National Westminster Bank plc, London.\n(Natwest Bank U.k )\n135 Bishopsgate, London EC2M 3UR\nInternational  Remittance Dep’t,\nLondon (U.k).\nTel: +44 77 00 309 274.\nTel: +44 77 00 309 043..\nOfficial Email;  \nnatwestoliverplcinf@accountant.com\nPrivate Email:  \nplcnatwestbank9@gmail.com\nDate: 05th  of  June  2018.\nAttn:  Dear:   \nWe the NatWest Bank Plc Of London has received your  option .\nAfter the confirmation order from the United Nations regarding your fund  of $10.5million United state dollar. The application for  the  option  you selected. \nThe approval of your fund released has been issued to our bank for immediate released of your fund to any method you decided to received your fund.\nThe approval order has been given today being the 05th of June 2018.\nWe are hereby to inform you that you should  read the following procedures.\n1, Due to our new banking rules and regulations.  Any amount of Money above $1million , the customer in person must open an account with our bank which will cost him/her the total cost of  £980.00 GBP, in total.\nThis is the only amount needed to enable us open  the account on your name and to complete the transfer process without any delay:\nSecond option: An Approval has been issued to obtain an atm card on your name as the beneficiary of the total fund,  and we will deposit the whole money into the Atm card on your name and send it to  any of your post address.\nThird option: An Approval was issued as well, to issue a certified Bank Draft on your name,  and the Draft will be post to you as well, which will allowed you to deposit it with your bank for immediate payment.\nFinally, before we can proceed to complete the transfer process , you have to  first of all open an account with our bank to recognized you in our banking data system.  that will help us to complete your transfer to any of you given option you have selected. \nReply as soon as possible by requesting the details to send the £980.00 GBP. \nYou have 3 working days to reply , otherwise, the application for your payment will be cancelled by our bank.\nIf you dear have any question or suggestion , do not hesitate to ask.\nAwaiting for your Urgent responds?\nKind Regards\nMr. Oliver Jerrome,\nHead Corporate Banking Transactional Products & Services Manager.\nTel: +44 77 00 309 274\nTel: +44 77 00 309 043. \nDISCLAIMER\n-----------------------------------------------------------------------------------------------------------------------\nThis message and any attachment contained here is confidential and  proprietary to FNB™. Contents may be privileged or otherwise protected by law. The information is solely intended for the individual or the entity it is addressed to. If you are not the intended recipient of this message, you are not authorized to read, forward, print, retain, copy or disseminate this message or any part of it. If you have received this e-mail in error, please notify the sender immediately by return e-mail and delete it from your computer  "
     },
     {
         "from": "baiter_1211",
         "to": "scammer_1211",
-        "subject": "Re:   National Westminster Bank pl",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   National Westminster Bank pl",
         "body": "Hello Mr. Oliver Jerrome,\n\nThank you for your email and the information provided. It's quite interesting to learn about the new banking rules and procedures.\n\nI'm a bit confused about the process though. Could you please elaborate more on why I need to open an account with your bank? Also, could you explain how this will help in completing the transfer?\n\nFurthermore, I would like to know more about the GBP cost mentioned in your email. What does it cover exactly?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJessica"
     }
 ]

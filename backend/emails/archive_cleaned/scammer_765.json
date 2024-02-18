@@ -2,21 +2,21 @@
     {
         "from": "scammer_765",
         "to": "CRAWLER",
-        "subject": "From: Dr. Kingsley Obiora",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "From: Dr. Kingsley Obiora",
         "body": "From: Dr. Kingsley Obiora\nCENTRAL BANK OF NIGERIA\nRef: STBL/IRD/TLX/03/11.\nAttn: Scam Victim;\nDid you authorize Mrs. Gertrude Smith with the below bank account to\nreceive your contract payment worth $12.5m on your behalf?\nBANK: WELLS FARGO\nADDRESS: 500 NORTH CIRCLE DRIVE\nCOLORADO SPRING\nCOLORADO 80909\nROUTING NO: 121000248\nA/C NO: 2042509535\nSWIFT CODE: WFBIUS6S\nACCOUNT BENEFICIARY: GERTRUDE SMITH.\nARE YOU STILL ALIVE?\nIS MRS. GERTRUDE SMITH YOUR PARTNER?\nMeanwhile, \nyou are advised to get back to my office immediately with\nthe requested details to enable us to have your correct information.\nDetails to wire your fund:\n1.Your Full Name:\n2.Your Full Residential Address:\n3.Your Country of Origin:\n4.Age\n5.Sex\n6.Position Held in Office:\n7.Present Occupation:\n8.Your Direct Phone Number\n9. Banking Details:\nHowever, we shall proceed to issue all payment details to the said MRS\nGERTRUDE SMITH, if we do not hear from you within the next seven\nworking days from today.\nYour Sincerely,\nDr. Kingsley Obiora\nDeputy Governor, Economic Policy Directorate\nCentral Bank of Nigeria\n+2348025827566"
     },
     {
         "from": "baiter_765",
         "to": "scammer_765",
-        "subject": "Re: From: Dr. Kingsley Obiora",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: From: Dr. Kingsley Obiora",
         "body": "Hello Dr. Kingsley Obiora,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I don't recall authorizing Mrs. Gertrude Smith to receive any contract payment on my behalf. Could you please provide more details about this contract? \n\nAlso, I'm curious as to how Mrs. Smith came into the picture? Did she claim to know me or did she provide any specific information that led you to believe she was my partner?\n\nI appreciate your patience and look forward to hearing from you soon.\n\nBest wishes,\nHector"
     }
 ]

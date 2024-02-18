@@ -2,21 +2,21 @@
     {
         "from": "scammer_602",
         "to": "CRAWLER",
-        "subject": "USPS is present in over 120 co",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "USPS is present in over 120 co",
         "body": "USPS is present in over 120 countries and territories across the globe, making it to be among the most international company in the world. With a workforce exceeding 140,000 employees, we provide solutions for an almost infinite number of logistics needs"
     },
     {
         "from": "baiter_602",
         "to": "scammer_602",
-        "subject": "Re: USPS is present in over 120 co",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: USPS is present in over 120 co",
         "body": "Indeed, USPS is a global entity with a significant presence in numerous countries. Its vast workforce and extensive network allow it to cater to a wide range of logistics needs, making it one of the most reliable and efficient postal services worldwide. Whether it's domestic or international shipping, USPS has solutions for all.\n\nBest wishes,\nKevin"
     }
 ]

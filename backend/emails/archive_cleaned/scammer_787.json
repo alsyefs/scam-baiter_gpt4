@@ -2,21 +2,21 @@
     {
         "from": "scammer_787",
         "to": "CRAWLER",
-        "subject": "ATTENTION: Beneficiary.",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "ATTENTION: Beneficiary.",
         "body": "ATTENTION: Beneficiary.\nI am writing to inform you that your compensation/winning payment was\napproved today by the Board and Directors of United Nation Committee\non Rewards and Compensation.\nYou are therefore advised to reconfirm your details to enable the\nfinancial department release your payment to you without any delay.\nThus, reconfirm the following:\n1. Your Full Name:\n2. Your residential address:\n3. Your direct phone number:\n4. Occupation\nWe look forward to your prompt response.\nThank you.\nMr Larry Dillon\nContact Email: \nld09682400@gmail.com\nDirector of Payments,\nUnited Nations Ministry of Foreign Affairs"
     },
     {
         "from": "baiter_787",
         "to": "scammer_787",
-        "subject": "Re: ATTENTION: Beneficiary.",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: ATTENTION: Beneficiary.",
         "body": "Dear Mr. Larry Dillon,\n\nThank you for your email. I am excited to hear about the approval of my winning payment by the United Nations Committee on Rewards. Here are the details you requested:\n\nFull Name: Eliza Dane\nAddress: 123 Main Street, Sydney, NSW 2000, Australia\nDirect Phone Number: +61 2 9876 5432\nOccupation: Software Engineer\n\nI look forward to hearing from you soon.\n\nBest wishes,\nHarold"
     }
 ]

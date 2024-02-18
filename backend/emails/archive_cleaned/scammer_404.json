@@ -2,21 +2,21 @@
     {
         "from": "scammer_404",
         "to": "CRAWLER",
-        "subject": " From the desk of: Mr.Clayton ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " From the desk of: Mr.Clayton ",
         "body": " From the desk of: Mr.Clayton Chesarek,\nAccounts Dept. Evergreen Bank USA\nBank Address: 1515 W 22nd St # 100, Oak Brook,\nIL 60523,\nUSA. Date: Tuesday, 18' December 2018.\nTo the attention of: \nSequel to your mail response please find details of a Chase Bank corresponding account information for the payment of $645.00 only.\nChase Bank\nBusiness name: D. LLC\nAccount # 33581XXXX\nRouting Wire #21000021\nSwift code: CHASUS33\nBank address: 6940A S Ashland Ave.Chicago.IL 60636\nBeneficiary Business Address:  Chicago Illinois 60649\nThanks,\nMr.Clayton Chesarek, Branch Manager,\nFor: Evergreen Bank, USA.\nNotice of Legal Status and Confidential Information: This electronic mail message and any accompanying attachment may contain information that is privileged and CONFIDENTIAL. If you are not the intended recipient you are advised that any use, review, dissemination, distribution or reproduction of the information is strictly prohibited and may be unlawful. If you have received this document in error, please notify the sender immediately and destroy the message.© Ever Green Bank USA, 2018.  "
     },
     {
         "from": "baiter_404",
         "to": "scammer_404",
-        "subject": "Re:  From the desk of: Mr.Clayton ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:  From the desk of: Mr.Clayton ",
         "body": "Hello Chesarek, Branch Manager,\n\nThank you for your prompt response. I appreciate the information you've provided about the Chase Bank account. \n\nI'm curious, could you please explain a bit more about how this payment process works? And also, is there any specific reason why we are using only Chase Bank for this transaction?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nLauretta"
     }
 ]

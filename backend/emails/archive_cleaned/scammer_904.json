@@ -2,21 +2,21 @@
     {
         "from": "scammer_904",
         "to": "CRAWLER",
-        "subject": "Business sponsorship!! Get up ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Business sponsorship!! Get up ",
         "body": "Business sponsorship!! Get up to $20 million dollars for your business or projects.Contact Us now  for more detail"
     },
     {
         "from": "baiter_904",
         "to": "scammer_904",
-        "subject": "Re: Business sponsorship!! Get up ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Business sponsorship!! Get up ",
         "body": "Hello there,\n\nWow, that sounds like an incredible opportunity! I'm always interested in learning more about business growth. Could you please provide me with some more details? Like, what are the requirements to qualify for this? And how does the repayment process work?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nBrian"
     }
 ]

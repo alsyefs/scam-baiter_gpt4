@@ -2,21 +2,21 @@
     {
         "from": "scammer_429",
         "to": "CRAWLER",
-        "subject": "Urgent Attention:",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Urgent Attention:",
         "body": "Urgent Attention:\nMy name is Ms. Christine R. Wesley, And i work with the international monetary fund (IMF) I am writing you to let you know that finally your ATM CARD worth $6,000,000.00 used has been delivered through FedEx to Mr. Peter Perry for activation, who works with the (IMF) where it is going to be activated before final delivery to your home address.\nYou can use the tracking number with the tracking site below to track the ATM CARD to be sure it has been  Pending by Mr. Peter Perry for activation.\nDelivery Company:  FedEx Courier Company\nTracking number:  794801750851\nTracking site:  www. fedex.com\nYou are simply advice to contact our claim Agent Mr. Peter Perry with this information right now: Email Address:fedexcourierc45@gmail.com\nContact him with your data as stated below:\n1. Your full name.........................\n2. Your full address..................\n3. Cell/telephone numbers...............\nNote: the only fee you are to send is for the activation of your ATM Card only $100.00 and the fee suppose to pay by iTunes Gift Card or Amazon card or Google play card or Steam wallet card.\nBest regards,\nMs. Christine R. Wesley\nInternational Monetary Fund (IMF)\nUrgent Attention:"
     },
     {
         "from": "baiter_429",
         "to": "scammer_429",
-        "subject": "Re: Urgent Attention:",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Urgent Attention:",
         "body": "Hello Ms. Christine R. Wesley,\n\nThank you for reaching out to me about this matter. I'm quite intrigued by the information you've shared regarding the ATM card. It's not every day that one receives such news.\n\nCould you please provide more details about this? For instance, how did my name come up in relation to this ATM card? And what is the role of Mr. Peter Perry in all of this?\n\nI look forward to your response.\n\nBest wishes,\nAbbey"
     }
 ]

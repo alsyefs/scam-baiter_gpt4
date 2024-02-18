@@ -2,61 +2,61 @@
     {
         "from": "scammer_75",
         "to": "CRAWLER",
-        "subject": "Very Urgent!",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Very Urgent!",
         "body": "Very Urgent!\nThis is to inform you about your abandoned consignment box held at our\nstorage vault.\nMy Name is Mr. Andrew J. Savage, III, Senior Storage officer at\nCharleston International Airport (CHS) SC USA. During our recent\nwithheld package routine check at the Airport Storage Vault, we\ndiscovered an abandoned shipment from one Diplomat agent, under\nshipping forwarder from Hatfield-Jackson Atlanta Intl Airport to our\nfacility custody here in Charleston International Airport SC and when\nscanned, it revealed an undisclosed sum of money in one Metal Trunk\nBox.\nThe consignment was abandoned because the Contents of the consignment\nwas not properly declared by the consignee as MONEY rather it was\ndeclared as personal effect to avoid diversion by the shipping agent\nor inability of the diplomat to pay for United States Inspection\ncharges which Cost $105 Dollar only NO ADDITIONAL CHARGES.\nThe details on the consignment including your email which were tagged\non the consignment box, Please note that this consignment supposed to\nhave return to the United States Treasury Account as an unclaimed fund\ndue to your delays in contacting us and to pay for United States\nInspection charges Cost $105.\nTo verify you as the exact owner of the consignment box kindly provide\nyou full details below\n1] Your Full Name::::::\n2] Country / City ::::::::\n3] Occupation :::::::::\n4] Valid Phone Number:::::\n5] \nAny valid Governmental identification Card [ I.D Card]\nFor this reason, i will urgently advise you to contact me at my\nprivate email address [ \nandrewjsavages00@gmail.com\n ] for further\ninstruction on how to claim your consignment which await delivery at\nCharleston International Airport SC.\nWarmest Regards,\nMr. Andrew J. Savage, III,\nthe Senior Storage officer at Charleston International Airport SC."
     },
     {
         "from": "baiter_75",
         "to": "scammer_75",
-        "subject": "Re: Very Urgent!",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Very Urgent!",
         "body": "Dear Mr. Andrew J. Savage, III,\n\nI am surprised to hear about this abandoned box at your storage vault. I don't recall sending or expecting any shipment, especially one containing a large sum of money.\n\nHowever, if you believe that I am the rightful owner of this box, I would like to cooperate fully in order to clear up this matter. Here are my details:\n\nFull Name: John Doe\nCountry City: London, United Kingdom\nOccupation: Software Engineer\nValid Phone Number: +44 20 1234 5678\n\nPlease note that for security reasons, I cannot provide my card details via email. \n\nI look forward to hearing from you soon with further instructions on how to claim this box.\n\nBest wishes,\nDavid"
     },
     {
         "from": "scammer_75",
         "to": "baiter_75",
-        "subject": "Re: Very Urgent!",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "2",
+        "subject": "Re: Very Urgent!",
         "body": "Your details are well recorded.\nBelow is our shipping service and their prices\n1) FedEx Express delivery: 24hrs =$1340\n2) DHL Express delivery: 24hrs =$1390\n3) Faster link Express delivery: 48hrs =1290\n4) UPS Express delivery: 48hrs = $1370\n5) Global Express delivery: 24hrs =$2150\n\nKindly choose above your preferred option for your delivery and get back to me for further shipping procedures.\n\nRegards\nAndrew j\n\n[Andrew J. Savage Savage - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2g74yy)\t[2g74yy]"
     },
     {
         "from": "scammer_75",
         "to": "baiter_75",
-        "subject": "Re: Very Urgent!",
         "direction": "Inbound",
-        "days_from_first_conversation": 2,
+        "days_from_first_conversation": 1.6634259259259259,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "3",
+        "subject": "Re: Very Urgent!",
         "body": "I'm still waiting on your respond regarding the shipment of your consignment box,\n\n[Andrew J. Savage Savage - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2g9w17)\t[2g9w17]"
     },
     {
         "from": "baiter_75",
         "to": "scammer_75",
-        "subject": "Re: Very Urgent!",
         "direction": "Outbound",
-        "days_from_first_conversation": 3,
+        "days_from_first_conversation": 2.9458796296296295,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "4",
+        "subject": "Re: Very Urgent!",
         "body": "Dear Andrew J. Savage,\n\nI apologize for the delay in my response. Could you please provide more details about the box you mentioned? I would like to know its contents, origin, and the necessary steps I need to take for its shipment.\n\nLooking forward to your prompt response.\n\nBest wishes,\nDavid"
     },
     {
         "from": "scammer_75",
         "to": "baiter_75",
-        "subject": "Re: Very Urgent!",
         "direction": "Inbound",
-        "days_from_first_conversation": 3,
+        "days_from_first_conversation": 3.0988078703703703,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "5",
+        "subject": "Re: Very Urgent!",
         "body": "Dear David\n\nThis consignment box was abandoned at airport storage which need to be delivered to your doorstep\n\nNote: The content of the consignment box is 10.5 million US dollars only\nKindly choose your prefer option for delivering.\n\nAndrew j\n\n[Andrew J. Savage Savage - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gcvpj)\t[2gcvpj]"
     }
 ]

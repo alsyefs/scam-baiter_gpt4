@@ -2,21 +2,21 @@
     {
         "from": "scammer_760",
         "to": "CRAWLER",
-        "subject": "   Wells Fargo Bank101 N.",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Wells Fargo Bank101 N.",
         "body": "   Wells Fargo Bank101 N.\nPhillips Avenue Sioux Falls,\nSouth Dakota 57104\nSIR\n   I am Mr Gregory Lawrence Yale , Director of operations from ( Wells Fargo Bank) United States of America Head Office. My office monitors and controls the affairs of all banks and financial institutions in the United States of America concerned with foreign claim payments.    \n \nI am the final signatory to any transfer or remittance of huge funds moving within banks both on the local and international levels in line with foreign claim settlement. I have before me a list of funds, which could not be transferred to some nominated accounts as these accounts have been identified either as unclaimed deposits and over-invoiced sums etc.    \nYour Name was among the people expecting the funds to be transferred into their account, on this note; I wish to have a deal with you as regards to your unpaid funds.I have your file before me and hope your data's are correct and un-tampered unless you reconfirm it is not correct.    \n \nAs it is my duty to recommend the transfer of these surplus funds to the Federal Government Treasury and Reserve Accounts as unclaimed deposits, I have the opportunity to write you based on the instructions I received two days ago from the Foreign Debts reconciliation dept to submit the List of payment reports/ expenditures and audited reports of revenues.    \n \nAmong several others, I have decided to remit your claim sum following my idea that we can have a deal/agreement and I am going to do this legally.My conditions:\n \n1. The sum of USD$35M only will be transferred into your account after the processing of all relevant legal documents with your name as the bonafide beneficiary,the transfer will be made by Draft or telegraphic Transfer (T/T), confirmable in 7 working days.\n \n2. This deal must be kept secret forever, and all correspondence will be strictly by email / telephone, for security purposes.\n \n3. There should be no third parties as most problems associated with your fund release are caused by your agents or representatives.\n \nIf you AGREE with my conditions, l advise you on what to do immediately and the transfer will commence without delay as I will proceed to fix your name on the Payment schedule instantly to meet the seven days mandate.    \n \nI hope you don't reject this offer and have your funds transferred.\nWaiting for your reply soon\n \nYours faithfully,\nMR. ANTHONY ROBINSON   "
     },
     {
         "from": "baiter_760",
         "to": "scammer_760",
-        "subject": "Re:    Wells Fargo Bank101 N.",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    Wells Fargo Bank101 N.",
         "body": "Hello Mr. Anthony Robinson,\n\nThank you for reaching out to me. I must say, your message is quite intriguing! It's not every day that one hears about unclaimed funds and such opportunities.\n\nI'm curious though, how did my name end up on the list of people expecting these funds? And could you please elaborate more on what this deal agreement entails?\n\nAlso, I'd like to know more about the process of transferring these funds. You mentioned it will be done by Draft or Transfer in working days - could you explain a bit more about how this works?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nRhonda"
     }
 ]

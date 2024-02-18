@@ -2,21 +2,21 @@
     {
         "from": "scammer_629",
         "to": "CRAWLER",
-        "subject": "Hello,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Hello,",
         "body": "Hello,\n \nWe wish to inform you that your compensation payment has finally been approved and you need to contact the compensation payment director below\nto get paid.\n \nContact Person: Anshula Kant\nEmail: \ninfo_anshulakant@citromail.hu\n \nThanks,\nMrs. Rosemary Woods"
     },
     {
         "from": "baiter_629",
         "to": "scammer_629",
-        "subject": "Re: Hello,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Hello,",
         "body": "Hello Mrs. Rosemary Woods,\n\nThank you for your message. I'm thrilled to hear that my payment has been approved! Could you please provide me with more details about this? What is the payment for and how much is it? Also, could you tell me a bit more about the payment director I need to contact?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDanielle"
     }
 ]

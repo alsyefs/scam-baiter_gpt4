@@ -2,21 +2,21 @@
     {
         "from": "scammer_941",
         "to": "CRAWLER",
-        "subject": "  Hi my beloved friend ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Hi my beloved friend ",
         "body": "  Hi my beloved friend \nI am  Mr. PAUL ANKROM  , I got your email address from a mail directory, i decided to give permission to inherit my funds ($1.5Million USD) One Million Five Hundred Thousand U.S. Dollars) which is with the Shoreland Pacific bank. It's sad and painful that I am living on this earth without a wife or children.\nI am originally from Norway. My father passed away when I was 21 while my mother passed away in 2009. I have uncles but we are not in a good relationship, i don't know the reason but it all started from my father and I couldn't question him at that moment.\nPresently I am 77 years old and I work with American Airlines. It was so shocking and sad that I contacted this deadly virus (COVID-19) which has taken so many lives out of this world.\nI am presently in a hospital where I have been undergoing treatment.I have since lost my ability to talk and the doctor has told me that i have only a few weeks to live on this earth. So I think the best thing to do is to use someone who is trustworthy that will inherit my funds, the reason why I decided to give out my funds is to avoid being taken by the government. I want you to utilize 60% of my funds to orphanages and widows around the world.\nPlease as soon as you receive this email reply back to me i will give the details of my bank and also issue you a permission letter that will prove you as the new recipient of my funds\nPlease assure me that you will use it as I mentioned.\nI wait for your reply\nRegards\nMr. PAUL ANKROM   "
     },
     {
         "from": "baiter_941",
         "to": "scammer_941",
-        "subject": "Re:   Hi my beloved friend ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Hi my beloved friend ",
         "body": "Dear Mr. Paul Ankrom,\n\nI am deeply moved by your email and the unfortunate circumstances you find yourself in. It's indeed a noble thought to want to help others even in such trying times.\n\nHowever, I would like to know more about how you intend for this process to proceed. Also, it would be helpful if you could provide more details about the bank and how I can assure them of my legitimacy in this matter.\n\nI look forward to hearing from you soon.\n\nBest wishes,\nJoseph"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_485",
         "to": "CRAWLER",
-        "subject": "   Hello",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Hello",
         "body": "   Hello\nI am contacting you in regard to the handling of an investment\nproject. I represent a client who wants to invest in your country.\nI will give you more information upon your response.\nSincerely yours\nFrank West  "
     },
     {
         "from": "baiter_485",
         "to": "scammer_485",
-        "subject": "Re:    Hello",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    Hello",
         "body": "Hello Frank West,\n\nThank you for reaching out to me. I'm intrigued by your proposal and would love to hear more about this investment project. Could you please provide some more details? What kind of investment are we talking about here? And what role would I be expected to play in it?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nEdith"
     }
 ]

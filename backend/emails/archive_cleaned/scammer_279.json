@@ -2,21 +2,21 @@
     {
         "from": "scammer_279",
         "to": "CRAWLER",
-        "subject": "Congratulation",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Congratulation",
         "body": "Congratulation\nIt is a great pleasure to inform you that y\nou emerged winner to the sum of 2,500,000.00 dollars which will be transfer through our Bank, United Bank for Africa - Africa's Global Bank as a release from United Nation to compensate scam victims\nFor more inquiries \ncontact us \nthrough our Email Address  ( \nunited_bank.of_africa@qualityservice.com\n ) \nwith your Bank Account information\n :for your transfer. \nYours faithfully,\nBank Director Dr. Dan Okeke UBA"
     },
     {
         "from": "baiter_279",
         "to": "scammer_279",
-        "subject": "Re: Congratulation",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Congratulation",
         "body": "Dear Dr. Dan Okeke,\n\nI am delighted to hear about this unexpected windfall. However, I would like to know more details about this compensation from the United Nations. Could you please provide me with more information on how I was selected and what the next steps are?\n\nLooking forward to your response.\n\nBest wishes,\nJames"
     }
 ]

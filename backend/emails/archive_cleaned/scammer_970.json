@@ -2,11 +2,11 @@
     {
         "from": "scammer_970",
         "to": "baiter_970",
-        "subject": "Urgent",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
-        "conversation_counter": "0",
+        "conversation_counter": "1",
+        "subject": "Urgent",
         "body": "Dear  Robin\r\nHi please send your house address and your phone number to me with your\r\nbank details\r\n\r\nThanks and Remain Bless\r\n\r\nMrs Adam Rebecca Alice.\r\n\r\n\r\nSure, I will wait for your update. Please let me know as soon as you have\r\nthe tracking information. God bless you too.\nBest wishes,\r\nRobin"
     }
 ]

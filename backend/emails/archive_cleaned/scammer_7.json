@@ -2,21 +2,21 @@
     {
         "from": "scammer_7",
         "to": "CRAWLER",
-        "subject": "Federal Reserve Bank of New Yo",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Federal Reserve Bank of New Yo",
         "body": "Federal Reserve Bank of New York - EROC\n100 Orchard Street, Funds Transfer Dept - 1st\nEast Rutherford, NJ 07073\nThis is in respect to earlier instruction from the FBI Financial department, to redirect your total sum of SEVEN MILLION FIVE HUNDRED THOUSAND UNITED STATES DOLLARS ONLY to Bank of America, online  banking department for further online deposit of the approved sum in your favor..\nHowever earlier on the date of 21TH NOV, 2022, the sum was deposit into Bank of America, online banking department Escrow account, while they await your corresponding communication and also to acknowledge from you the required information need for online banking account registration, so that they will commence process of your account registration and to effect deposit of the approved sum.\nBe advice to contact the director online dept  Bank of America, Mr.Moon , to commence process for online deposit of the total fund in your favor. We will advice you to send Email directly to Mr.Moon , with below Email and include your personal information's.\nDirector Kelvin Moon\nEmail:\n80onlinedepartment@gmail.com\n \nOn your Email content reference to your total sum of Seven Million Five Hundred Thousand United States Dollar’s only (US$7,500,000.00)  from Federal Reserve Bank and your message will be acknowledge..\nForward the following information's as listed below as you Email the director, to enable your online account registration and deposit of the sum into the account.\nBank Name:\nAddress:\nMy account number:\nRouting number:\nSwift code:\nBranch Cod\n1.Full Name:.....................................................\n2.Address:.......................................................\n3.Nationality:...................................................\n4.Age:........Date of Birth:.....................................\n5.Occupation:....................................................\n6.Phone:...............Mobile:.............:...................\n7.State of Origin:......................Country:.................\n8. Copy of your Identity Card\nOn receipt of the above information in Bank of America online department, your online account will be approved and online login information's for the account will be deliver to you, including the ATM Card, for cash withdrawal in any ATM Machine in your location.\nDr.Ruben George\nFund Remittance Director\nRemittance Department Federal Reserve Bank."
     },
     {
         "from": "baiter_7",
         "to": "scammer_7",
-        "subject": "Re: Federal Reserve Bank of New Yo",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Federal Reserve Bank of New Yo",
         "body": "Dear George,\n\nThank you for your email. I am excited to hear about the transfer of SEVEN MILLION FIVE HUNDRED THOUSAND UNITED STATES DOLLARS ONLY into an account in my favor.\n\nHowever, before I proceed with providing my personal information, I would like to confirm a few details. Could you please provide me with more information about this transaction? How did this sum come to be transferred to me? \n\nI look forward to hearing from you soon.\n\nBest wishes,\nCarlos"
     }
 ]

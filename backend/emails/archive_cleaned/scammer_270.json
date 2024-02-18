@@ -2,21 +2,21 @@
     {
         "from": "scammer_270",
         "to": "CRAWLER",
-        "subject": "Dear Friend,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear Friend,",
         "body": "Dear Friend,\nI would respectfully request that you keep the contents of this mail\nconfidential and respect the integrity of the information you come by as a\nresult of this mail. I contact you independently and no one is informed\nof  this communication. We can work together for our common good.\nI am John Zhu, Principal Assurance manager for the WING HANG BANK\nhere in Hong Kong.I am getting in touch with you regarding the estate of a\ncustomer and an investment placed under our banks management 10 years ago.\nIn 2009, the subject matter came to our office to engage in business\ndiscussions with our private banking division. He informed us that he had\na  financial portfolio of $18.750 million United States dollars, which he\nwished  to have us invest on his behalf.\nHowever this money has not been claimed. On further enquiries we found out\nthat he was involved in an accident in Mainland China , which means he\ndied  intestate, He has no next of kin.\nWhat I propose is that since I have exclusive access to his file, you will\nbe  made the beneficiary of these funds. My bank will contact you\ninforming you  that money has been willed to you. On verification, which\nwill be the details  I make available to my bank, my bank will make\npayments to you. You do not  have to have known him. I know this might be\na bit heavy for you but please  trust me on this. For all your troubles I\npropose that we split the money in  half.\nIn the banking circle this happens every time. The other option is that\nthe  money will revert back to the state.Nobody is getting hurt, this is a\nlifetime opportunity for us. I hold the KEY to these funds, and as a\nChinese  National, we see so much cash and funds being re-assigned daily. I\nwould want  us to keep communication for now strictly by email.\nPlease, again, note I am a family man, I have a wife and children. I send\nyou  this mail not without a measure of fear as to the consequences, but I\nknow  within me that nothing ventured is nothing gained and that success\nand riches  never come easy or on a platter of gold. This is the one truth\nI have learned  from my private banking clients. Do not betray my\nconfidence. If we can be of  one accord, we should act swiftly on this.\nPlease pardon my writing mistakes.\nPlease get back to me immediately to this email with\nyour details as follows so we may discuss more on this.\n1. Full Names\n2. Complete Addresss\n3. Telephone and fax number\n4. Means of identification.\nI await your response.\nRegards\nJohn Zhu"
     },
     {
         "from": "baiter_270",
         "to": "scammer_270",
-        "subject": "Re: Dear Friend,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Dear Friend,",
         "body": "Hello John Zhu,\n\nI hope this message finds you well. I must say, your email has certainly piqued my interest. The situation you've described is quite intriguing and I appreciate your trust in reaching out to me.\n\nHowever, before we proceed further, I would like to understand a bit more about the situation. Could you please provide some additional details? For instance, how did you come across my contact information and why do you believe that I would be the right person for this endeavor?\n\nAlso, could you elaborate on the process of transferring these funds? How does it work exactly? And what kind of responsibilities would fall onto me if we were to proceed with this arrangement?\n\nI'm looking forward to hearing from you soon.\n\nBest wishes,\nPeggy"
     }
 ]

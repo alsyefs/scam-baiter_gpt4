@@ -2,21 +2,21 @@
     {
         "from": "scammer_203",
         "to": "CRAWLER",
-        "subject": "  Once again Thanks for your r",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Once again Thanks for your r",
         "body": "  Once again Thanks for your response, You can go ahead and send it with my name as soon as I get the money tomorrow morning I will go direct to the Cote d’Ivoire Department of justice and get the file done in less than 2 hrs, I will send it directly  to the western union office for the release of your money,\nFirst NAME; Jean\nLast NAME; Kamil\nWould be in eager anticipation of your prompt response\nYours in service,\nBarrister Jean Kamil (Esq.)  "
     },
     {
         "from": "baiter_203",
         "to": "scammer_203",
-        "subject": "Re:   Once again Thanks for your r",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Once again Thanks for your r",
         "body": "Hello Barrister Jean Kamil Esq.,\n\nThank you for your prompt response. It's great to hear that the process can be completed so quickly! I'm really looking forward to resolving this matter.\n\nJust out of curiosity, could you please explain a bit more about how the Cote Ivoire Department of Justice works in these cases? And what exactly will they do with the file once it's done?\n\nLooking forward to hearing from you soon!\n\nBest regards.\n\nBest wishes,\nGregory"
     }
 ]

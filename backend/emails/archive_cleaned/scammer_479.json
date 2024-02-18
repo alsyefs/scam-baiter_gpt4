@@ -2,21 +2,21 @@
     {
         "from": "scammer_479",
         "to": "CRAWLER",
-        "subject": "   Attention Fund Owner:",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Attention Fund Owner:",
         "body": "   Attention Fund Owner:\nDear Sir/Madam\nWe deemed it fit to inform you that after due consultation with all\nthe world bodies concerned in monetary affairs, we are contacting you\nto inform you the following:\nThis is to notify you that your over due inheritance funds\nUS$10.500,000.00 (Ten Million Five Hundred Thousand Dollars Only) has\nbeen gazette to be released to you, via key telex transfer\n(KTT)-direct wire transfer to your bank account.\nInvestigation has been carried out diligently, and we discovered with\nutmost dismay that the delay on all unpaid COMPENSATION on the above\nmentioned has been intentional by some corrupt officials of banks\ntrying to divert or confiscate your funds for their private use.\nTherefore, you are legally and highly notified with every absolute\nauthorization on your funds US$10.500,000.00.\nAdequate arrangement has been put in place to released the fund to\nyou, via key telex transfer (KTT)-direct wire transfer to your bank\naccount through our Affiliated Bank within 7 working days with no cost\nfrom your side.\nPlease if you are still INTERESTED to claim your fund.It is imperative\nthat you furnish us with the following of your details necessary to\nprocess release/remittance of your payment:\nYour Full Name(s):-\nYour Direct Telephone Number:-\nContact Address\nLooking forward to your immediate response. For further\nclarifications, do not hesitate to email me upon the receipt of this\nmessage for more directives on how to claim your fund through the\nAffiliated Bank with no cost from your side. As we have set up to\nfight against scams and frauds activities ravening World Wide\nYours faithfully.\nMrs. Catherine De Bolle\nExecutive Director European Financial and Economic Crime Center -EFECC  "
     },
     {
         "from": "baiter_479",
         "to": "scammer_479",
-        "subject": "Re:    Attention Fund Owner:",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    Attention Fund Owner:",
         "body": "Hello Mrs. Catherine De Bolle,\n\nThank you for reaching out to me with this information. I must say, it's quite surprising to hear about these funds. Could you please provide more details on how my name was associated with this amount? \n\nAlso, could you explain a bit more about the key telex transfer (KTT) wire transfer process? I'm not very familiar with it.\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nYahaira"
     }
 ]

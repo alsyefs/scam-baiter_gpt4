@@ -2,21 +2,21 @@
     {
         "from": "scammer_1018",
         "to": "CRAWLER",
-        "subject": "ACCESS BANK CREDIT CARDS",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "ACCESS BANK CREDIT CARDS",
         "body": "ACCESS BANK CREDIT CARDS\nThe access bank has agreed  to pay your interest payment  of 1.5m US\nDollars from WHO USAID compensation scheme,  assigned to you as\nbeneficiary.  The bank will make this payment only through ATM card,\nplease go through this ATM process and get back to us with your full\ndetails.  This payment is scheduled  to pay on or before December 20th\nlatest.\nThe Access Bank Credit Visa card is a dual-currency denominatedpayment\ncard which allows you spend and settle in naira for\n domestic transactions while all your international transactions are\nbilled and settled in US dollars\nAccess Bank offers a bouquet of card products for individual and\ncorporate customers under the major card schemes – Visa, MasterCard,\nand Verve. Our electronic payment cards are available in the following\nvariants:\n Credit Cards – VISA\nDebit Cards – VISA, Verve, MasterCard\n Prepaid Cards – VISA, Verve, MasterCard\nUS Dollars denominated card.Accepted at 2 million ATMs and 30 million\nmerchant locations, across over 220 countries globally. Interest free\nperiod of up to 40 days. Minimum monthly repayment of 15% of\noutstanding balance\nAvailable in Gold, Platinum and Infinite variants.\nVerified By Visa (VbyV) additional security for online transactions\nPay for domestic spends in Naira and international spends in US Dollar\nSupplementary cards available\nCard limit per variant:\nClassic - 0 to $10,000\nGold - $10,001 to $20,000\nPlatinum - $20,001 to $50,000\nCollect your card, pin and VbyV pin from the account officer .\nChat our contact centre on 0902 for cardholder authentication and card\nactivation.\nNote that some of the information provided by you during the\napplication process will be required during the activation process.\nYour Credit card is accepted in over 30 million merchant locations, 2\nmillion ATMs in 220 countries.\nThanks\nPeter"
     },
     {
         "from": "baiter_1018",
         "to": "scammer_1018",
-        "subject": "Re: ACCESS BANK CREDIT CARDS",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: ACCESS BANK CREDIT CARDS",
         "body": "Dear Peter,\n\nThank you for your email regarding the Access Bank Credit Visa card. I am interested in this offer and would like to proceed with the application process.\n\nBest wishes,\nJamie"
     }
 ]

@@ -2,31 +2,31 @@
     {
         "from": "scammer_1049",
         "to": "CRAWLER",
-        "subject": "  Attention:",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Attention:",
         "body": "  Attention:\nThis is to bring to your notice that the status of your payment has\narrived to our department and verification process/due diligence\nconcluded,a draft bill of 10.5M.USD covering your fund payment have\nbeen approved for transmission.\nIn line with the agreement signed with the newly inaugurated\ngovernment of Nigeria, The Supreme Court will notarize Waiver\nClearance as a legal document (agreement) to remove all expenses\nincurred in the course of transmission to your preferred destination.\nYou are required to pay NOTARIZATION FEE ONLY and court will issue\norder to enable bank apply waiver of charges and transmission of your\nfund US$10.5M proceed to you without additional costs/fees/charges.\nExpecting to receive from you.\nYours Faithfully,\nMr. Alex Alozie,\n(Chief Operating Officer)\nUNITED BANK FOR AFRICA (UBA)   "
     },
     {
         "from": "baiter_1049",
         "to": "scammer_1049",
-        "subject": "Re:   Attention:",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Attention:",
         "body": "Dear Mr. Alex Alozie,\n\nThank you for your email. However, I would like to clarify a few things before proceeding further.\n\nFirstly, could you please provide more details about the payment status that has arrived at your department? What does this entail and how does it affect me?\n\nSecondly, you mentioned a fee that needs to be paid. Could you please specify the amount of this fee and provide instructions on how to make the payment?\n\nLastly, could you please explain what the waiver of charges means in this context? Does it mean that once I pay the specified fee, there will be no additional costs or fees charged?\n\nI look forward to your response.\n\nBest wishes,\nGreg"
     },
     {
         "from": "scammer_1049",
         "to": "baiter_1049",
-        "subject": "Re: Attention:",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "2",
+        "subject": "Re: Attention:",
         "body": "Attention:\r\n\r\nYour email response is received and content noted. Regards to your\r\nquestions, the status  of your payment that arrived our department\r\nshows that you have not received your fund yet and after verification\r\nprocess/due diligence was concluded, we discovered your fund has been\r\napproved for payment and you are listed as one among beneficiaries due\r\nto receive their duly approved payment hence a draft bill of US$10.5M\r\ncovering your fund payment was  approved and signed for onward\r\ntransmission as you comply with the instructions in line with the\r\nagreement.\r\n\r\nSecondly, the mentioned fee to be paid by you beneficiary is the\r\nNOTARIZATION FEE\r\n $450. ONLY and court will issue order to enable bank apply waiver of\r\ncharges and transmission of your fund US$10.5M proceed to you without\r\nadditional costs/fees/charges. Without court notarization, we, the\r\n(issuing bank) cannot apply waiver\r\nuntil it's notarized by the court as legal document making it official\r\nand binding on the bank to adhere strictly to and never request for\r\nfees of any kind from beneficiary until their fund is successfully\r\ntransmitted to them as they may prefer.\r\n\r\nThe fee can be sent via bank transfer, western union money transfer,\r\nMoneygram/RIA money transfer or any other means of transfer that will\r\nbe easier for you beneficiary and that is internationally acceptable.\r\nI shall send you payment instruction based on the means through which\r\nyou are sending so I can give you the needed to do the payment, I hope\r\nyou understand it? So, you let me know your preferred and easiest\r\nmeans of sending.\r\n\r\nLastly, waiver implies that all other charges including, taxes levies,\r\nhandling charges, processing fees, cost of transfer (COT) etc. will\r\nnot be requested from you again once you pay notarization fee for\r\ncourt to notarize waiver application as legal document (Agreement)\r\nthat all other charges be waived for you until you receive your fund.\r\n\r\nExpecting to receive from you.\r\n\r\nYours Faithfully,\r\nMr. Alex Alozie,\r\n(Chief Operating Officer)\r\nUNITED BANK FOR AFRICA (UBA)"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_439",
         "to": "CRAWLER",
-        "subject": "Send Money Worldwide",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Send Money Worldwide",
         "body": "Send Money Worldwide\nFROM THE DESK OF THE FIDELITY BANK\nMONEY TRANSFER AGENT\nCOTONOU, REPUBLIC OF BENIN.\nWEBSITE; www. westernunion.com\nDear Beneficiary,\nTo The Owner Of This E-mail, How are you today, I write to inform you that we\nhave already sent you USD5000.00 dollars through Western union as we have been\ngiven the mandate to transfer your full compensation payment total sum of\nUSD850,000.00 via western union by this government.\nI was calling your telephone number to give you the information through phone\nbut you did not pick up my calls throughout that yesterday even this\nmorning. Now, I decided to email you the MTCN and sender name so that you will\npick up this USD5000.00 to enable us send another USD5000.00 today as you know\nwe will be sending to you USD5000.00 per day.\nPlease pick up this information and run to western union to pick up the\nUSD5000.00 and call back to send you another payment today,our direct phone\nline is +229/ 51559736, Manager Mr Chris Patrick\nEmail:(\nfidelitybankusa5@gmail.com\n)\ncall or email once you picked up this USD5000.00 today.\nHere is the western union information to pick up the Money; MTCN:0431713425\nSender's Name: Ifeanyi Michael. Text Question: HOW MUCH, Answer:$5000\nAmount’s $5000.00 I am waiting for your call once you pick up this\nUSD5000.00,Please email your direct telephone number because I need to be\ncalling you once we send any payment for the information.\nContact Manager Mr. Chris Patrick\nPhone +229/ 51559736\nThanks\nJAMES OSUMAN"
     },
     {
         "from": "baiter_439",
         "to": "scammer_439",
-        "subject": "Re: Send Money Worldwide",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Send Money Worldwide",
         "body": "Hello James Osuman,\n\nI hope this message finds you well. I'm quite surprised to receive your email, but it's a pleasant surprise nonetheless. \n\nI must say, the information you've shared is intriguing. However, I have a few questions that I'd like to clarify before proceeding further.\n\nFirstly, could you please provide more details about the mandate for transferring my payment via Western Union? Who exactly has given this mandate?\n\nSecondly, you mentioned that you tried calling me yesterday and this morning. Unfortunately, I didn't receive any calls. Could there be an issue with the phone number you have on file?\n\nLastly, regarding the MTCN and sender name - could you please explain what these are and how they work? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMinnie"
     }
 ]

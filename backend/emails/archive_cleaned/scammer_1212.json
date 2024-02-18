@@ -2,21 +2,21 @@
     {
         "from": "scammer_1212",
         "to": "CRAWLER",
-        "subject": "This is to officially inform y",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "This is to officially inform y",
         "body": "This is to officially inform you that (ATM Card number: 4848 4229 1185 2261) has been accredited in your favor. Your Personal Identification Number is 8221. The ATM Card Value is US$5.5M You are advice to contact me with the following information: Name, Address,Phone, Age, Sex, and Occupation. You can also call me on my cell phone number +234-806-292-9264, for more  confirmation.\nThank you,\nDr. John Eze\nATM Logistics Unit,\nTel: +234-806-292-9264"
     },
     {
         "from": "baiter_1212",
         "to": "scammer_1212",
-        "subject": "Re: This is to officially inform y",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: This is to officially inform y",
         "body": "Hello Dr. John Eze,\n\nThank you for your message. It's quite exciting to hear about this ATM card! Could you please provide more details about it? How does it work and why has it been accredited in my favor?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJay"
     }
 ]

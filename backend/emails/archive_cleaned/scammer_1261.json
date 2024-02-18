@@ -2,21 +2,21 @@
     {
         "from": "scammer_1261",
         "to": "CRAWLER",
-        "subject": "  Hello , Am  Summers Richard,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Hello , Am  Summers Richard,",
         "body": "  Hello , Am  Summers Richard,i have your compensation fund  which i have been\nassigned to deliver to you .But a woman came to my office and said that you are now incapacitated and you no longer live in\nyour house.She said that you live in a  nursing home and that you gave\nher the authority to claim your fund and you instructed her to use\npart of your fund for charity .It important you contact me through\neither my so that i will not make mistake of releasing your fund to\nsomeone you did not authorize since you are incapacitated now.Note i\nwill also need your Mobile phone number and the address of the nursing\nhome where you are\nMr Summers Richard   "
     },
     {
         "from": "baiter_1261",
         "to": "scammer_1261",
-        "subject": "Re:   Hello , Am  Summers Richard,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Hello , Am  Summers Richard,",
         "body": "Dear Mr. Summers Richard,\n\nI'm afraid there seems to be some misunderstanding. I have not authorized anyone to claim any funds on my behalf, nor am I currently residing in a nursing home. \n\nCould you please provide more details about the fund you're referring to? Also, could you clarify who this woman is and what exactly she has told you?\n\nThank you for bringing this matter to my attention.\n\nBest wishes,\nRonald"
     }
 ]

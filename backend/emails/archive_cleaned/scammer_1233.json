@@ -2,21 +2,21 @@
     {
         "from": "scammer_1233",
         "to": "CRAWLER",
-        "subject": "  Attention:Sir/Madam",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Attention:Sir/Madam",
         "body": "  Attention:Sir/Madam\nThe BNP PARIBAS SA of Switzerland have Signed a Bank Draft of $7.5\nMillion USD in your favor via the instruction of the international\nmonetary fund (IMF) in view of this,i want you to choose how you want\nthe Bank Draft Fund to get to you,Either you want us to send it to\nyour bank account directly for its immediate clearance within 24 hours\nbecause it is an open bank draft or we send it to your home address\nfor you to receive it and clear it by your self.so let us hear from\nyou.\nIf you wish to receive it in your account ,Send us your Banking detail\nonly with your ID.\nThen if you wish to receive it and cash it by your self,send us your\naddress and your ID with your phone number.\nWe look forward to hear from you.\nYours in service.\nDouglas L. Kennedy\nChief Executive Officer\nCommercial Bank of New York\nDirect Line +1 928 265 5459   "
     },
     {
         "from": "baiter_1233",
         "to": "scammer_1233",
-        "subject": "Re:   Attention:Sir/Madam",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Attention:Sir/Madam",
         "body": "Dear Douglas L. Kennedy,\n\nThank you for your email. I would prefer to have the bank draft sent directly to my bank account for immediate clearance. Here are my banking details:\n\nBank Name: Bank of Latvia\nAccount Holder: Lewis D. Noogie\nAccount Number: 1234567890\nSwift Code: BKLALV22\n\nPlease let me know if you need any further information.\n\nBest regards,\nLewis D.\n\nBest wishes,\nMark"
     }
 ]

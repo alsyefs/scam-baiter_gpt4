@@ -2,21 +2,21 @@
     {
         "from": "scammer_1234",
         "to": "CRAWLER",
-        "subject": "Greetings,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Greetings,",
         "body": "Greetings,\nPROPOSAL\nIt may surprise you to receive this letter from me, since there has been no previous correspondence between us but before I tell you about myself I want you to please forgive me for sending this mail without your permission. I will also like to make it clear here that l know that the internet has been grossly abused by criminal minded people making it difficult for people with genuine intention to correspond and exchange views without skepticism.\nMy name is MRS. Helen william, The Branch Manager of a Financial Institution here in Nigeria, West Africa. It may interest you to hear that I am a woman of PEACE and don't want problems, I only hope we can assist each other. I got your contact through a reliable source called the database through the Nigeria chamber of commerce. I am a Nigerian married with 3 kids. I am writing to solicit your assistance in the transfer of US$10,500,000.00 Dollars. This fund is the excess of what my branch in which I am the manager made as profit just last year (i.e. 2022 financial year). After I submitted an annual report for the last year 2022 to my head office in Lagos-Nigeria, I watched with keen interest as they never knew of this excess. I placed this amount of US$10,500,000.00 on an Escrow Coded account without a beneficiary (Anonymous) to avoid a trace.\nAs an officer of the bank, I cannot be directly connected to this money thus I am impelled to request for your assistance to receive this money into your bank account on my behalf. I agree that 40% of this money will be for you as a foreign partner, in respect to the provision of a foreign account, and 60% would be for me and I will join you in your country once the fund arrives in your account for an Investment plan. I do need to state that there is practically no risk involved in this, It's going to be a bank-to-bank transfer. All I need from you is to stand as the original depositor of this fund so that the fund can be transferred to your account.I will give you more details on how we can achieve it successfully.\nThis is 100% risk free and 100% legal\n and your earliest response to this matter would be highly appreciated,\nYours Sincerely,\nMRS. Helen william."
     },
     {
         "from": "baiter_1234",
         "to": "scammer_1234",
-        "subject": "Re: Greetings,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Greetings,",
         "body": "Dear Mrs. Helen William,\n\nThank you for your email and the proposal you have outlined. I understand that you are seeking assistance in transferring a sum of money and require a foreign partner to facilitate this process.\n\nHowever, before we proceed, I would like to know more about the legality of this transaction. You mentioned that it is risk-free and legal, but could you please provide more details on how this is ensured? \n\nAlso, could you please clarify what exactly my role would be in this process? You mentioned that I need to stand as the original depositor of the fund - could you explain what this entails?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nHelen"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_154",
         "to": "CRAWLER",
-        "subject": "  Barrister J. Williams LLP",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Barrister J. Williams LLP",
         "body": "  Barrister J. Williams LLP\nNATIONAL SECRETARIAT:NBA House,\nPlot 1101 Mohammadu Buhari Way,\nCentral Business District,\nAbuja F.C.T. Nigeria\nVERY IMPORTANT MASSAGE FOR YOU\nDear Brother  \nHow are you today? i hope not bad.\nThis to let you that Mrs Derrick is dead, she died 3 days ago, some\nhow the change of ownership of her assets are partly in your name\nthough not fully.\nI am sending you this message because i want us to work as team with\nagreement to realize the final conclusion of this funds and assets. If\nyou agree with me as a lawyer that i am, i know what can be done in\ngood time to make this fund be ours. If you accept, we can easily get\nthe funds in your name fully and make transfer to your nominated\naccount, but it must be shared on the basis of 50/50. Lucky enough she\ngave me documents to her Estate which is worth over $3million US\nDollars.\nLet me hear what you have to say about this. Whatever decision you\nwant to make must be fast and urgent. Please re confirm your full\ndetails\n(1) Your full Name.......\n(2) home address......\n(3) telephone Number/ occupation for more information .\nRegards\nBarrister J. Williams LLP\nNATIONAL SECRETARIAT:NBA House,\nPlot 1101 Mohammadu Buhari Way,\nCentral Business District,\nAbuja F.C.T. Nigeria   "
     },
     {
         "from": "baiter_154",
         "to": "scammer_154",
-        "subject": "Re:   Barrister J. Williams LLP",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Barrister J. Williams LLP",
         "body": "Dear Barrister J. Williams,\n\nI'm sorry to hear about Mrs. Derrick's passing. However, I must admit that I am quite surprised by your message as I had no prior knowledge of any assets being in my name.\n\nBefore we proceed, could you please provide more details about these assets and how they came to be partly in my name? Also, could you clarify what you mean by \"the funds being ours\"? \n\nAs for my personal details, I would prefer to share them once I have a better understanding of the situation at hand.\n\nLooking forward to your response.\n\nBest wishes,\nKevin"
     }
 ]

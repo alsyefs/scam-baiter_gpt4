@@ -2,21 +2,21 @@
     {
         "from": "scammer_797",
         "to": "CRAWLER",
-        "subject": "Greetings my good friend,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Greetings my good friend,",
         "body": "Greetings my good friend,\nI am Barrister Chris Onu, i contacted you for a business transaction\nsome time ago but something led to another and we couldn't achieve our\naim of transferring the money to your Bank account as planned. I'm\nhappy to inform you that i have had the fund transferred with the\ncooperation of a new partner from Japan Presently, I'm in Japan for\ninvestment projects with my own share of the total sum.\n My new partner Mrs. Yōko Kamikawa tested Positive in Covid-19, I\ngives praise to God that she recovered from the virus after adequate\nand constant treatment. Meanwhile, I have not forgotten your past\nefforts and attempt to assist me in transferring those funds despite\nthat it failed us somehow. Now contact my personal secretary Mrs.\nLinda Joy via her Email:\n( \nlj9678713@gmail.com\n )  ask her to send you a certified ATM VISA\nCARD, sealed and kept in an envelope worth (US$850,000.00 ) I kept it\nfor your compensation for all the past efforts and attempts to assist\nme in this matter. I appreciate your collective efforts at that time\nso, feel free and get in touch with my secretary. Please, do let me\nknow immediately you receive it so that we can share the joy after all\nthe suffering at that time.\nAt moment, I am very busy here in JAPAN because of the investment\nprojects which I and the new partner are having at hand without\nconfrontations. As a straight forwarded person, I instructed my\nsecretary to make sure she carries out the assignment of 100%. So feel\nfree to get in touch with her and she will act according to my\ndirectives.  My Regards to your good family.\nYours Sincerely.\nBarrister Chris Onu. Plesae reply back from this E-mail Address\n( \nlj9678713@gmail.com\n )"
     },
     {
         "from": "baiter_797",
         "to": "scammer_797",
-        "subject": "Re: Greetings my good friend,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Greetings my good friend,",
         "body": "Hello Barrister Chris Onu,\n\nIt's a pleasure to hear from you again! I'm glad to know that you're doing well in Japan and that your partner, Mrs. ko Kamikawa, has recovered from the virus. That's indeed a reason to give praise.\n\nI remember our previous interactions and although we couldn't achieve our aim at that time, it was an interesting experience for me. You mentioned about an ATM VISA CARD kept by your secretary Mrs. lj for me? That's quite generous of you!\n\nCould you please tell me more about this card? How can I get in touch with Mrs. lj? And what should I expect once I receive this card?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMichael"
     }
 ]

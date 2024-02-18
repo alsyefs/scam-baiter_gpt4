@@ -2,21 +2,21 @@
     {
         "from": "scammer_160",
         "to": "CRAWLER",
-        "subject": "   THE BRITISH FINANCE INTELLI",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   THE BRITISH FINANCE INTELLI",
         "body": "   THE BRITISH FINANCE INTELLIGENCE AGENCY\n35 LANARK SQUARE, LONDON\nFROM THE DESK OF GARY WINSTON,\nAttention  \n \nDear Madam,\n  My name is Gary Winston chief operating officer of the \nBritish finance intelligence agency\n this office has a mandate to recover unpaid debts\nassociated with NNPC contracts in Africa, Lottery fund, inheritance fund, loans and grants etc ranging from $1M-$50.5M owed to various beneficiaries and companies across the globe (Asia, Europe, USA, Africa, and Australia the Caribbeans)being the mandate given by the G8 MEMBER NATIONS WORLD INDUSTRIALIZED NATIONS AND, BACK BY THE ICPC IN HAGUE, AND THE WORLD BANK.\nIn the course of our investigation, your email address/particulars were shortlisted among the first individuals yet to be paid hence this message However, we received a petition today from your your  relation  that you are sick. According to her, you were sick of terminal sickness and life threatening in the USA  and, such  fund should be paid to her as the heir apparent. She has also submitted her Bank account details for the transfer of the funds to her.To avoid undue delay or paying the fund to wrong individual/beneficiary,\nI have decided to contact you for confirmation. If I fail to hear from you\nafter 72 hours, it would be assumed that the petition of your  relation  is true and the fund will be paid to her without further delay.\nTherefore, if you are still alive, reconfirm your particulars,\n1. Address:______________________ ________\n2. Nationality:____________\nDate of Birth:________\n3. Occupation:___________________ ________\n4. Phone:_______\n5. Copy of int'l passport or any scanned identity to prove your identity.\nAll submitted information will be treated strictly private and confidential and, duly processed for the release of the funds to you.\nplease respond as quickly as possibly and no third party .\n \nthank you.\nsincerely yours\nGARY WINSTON\nCHIEF OPERATING OFFICER\n[This e-mail contains confidential information intended only for the addressee(s). Information in or attached to it may be privileged, confidential or protected by law. If you are not the addressee (or a person responsible for delivering this transmission to the addressee) you are strictly prohibited from reading, copying, disseminating or distributing it. If you have received this e-mail in error please delete it and any attachments from your system and destroy any print outs you may have made. Thank you.   "
     },
     {
         "from": "baiter_160",
         "to": "scammer_160",
-        "subject": "Re:    THE BRITISH FINANCE INTELLI",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    THE BRITISH FINANCE INTELLI",
         "body": "Hello Gary Winston,\n\nThank you for reaching out to me. I must say, your message is quite surprising! I'm not aware of any unpaid debts or contracts associated with NNPC in Africa, Lottery fund, loans and grants etc. Also, I'm not sick and don't have any relatives who would claim such a thing.\n\nI'm curious about how my email address ended up on your list of people yet to be paid. Could you please provide more details about this? \n\nAlso, could you clarify the nature of these funds? Are they related to some kind of inheritance or something else?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLatoya"
     }
 ]

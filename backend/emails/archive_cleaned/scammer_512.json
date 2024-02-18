@@ -2,21 +2,21 @@
     {
         "from": "scammer_512",
         "to": "CRAWLER",
-        "subject": "  Office Of The Senate Preside",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Office Of The Senate Preside",
         "body": "  Office Of The Senate President - Abuja\nSenator Godwin Akpabio GCON\nNational Assembly Complex, Three Arms Zone,\nP.M.B, 141, FCT, Abuja,\nON PAID CONTRACT PAYMENT THE SUM OF TEN MILLION SEVEN HUNDRED AND\nFIFTY THOUSAND UNITED STATES DOLLARS ONLY\nDear Sir,\nI wish to use this opportunity and time the 16th of June 2023 to let\nyou know that  i Senator Godwin Akpabio GCON is  the new Senate\nPresident Federal Republic of Nigeria.\nI  come across your contract registration number on your\nCBN/FMF/NNPC/00-9  file no  this morning the sum of Ten Million Seven\nHundred Thousand United Stated Dollars Only which was not release to\nyour account since 2009 till date.\nI want to use this  opportunity  to let you know that i will use my\npower as the new Senate President Federal Republic of Nigeria to make\nsure that your fund will be release to your account if you can be able\nto send to me your following details for the transfer below:\nYour Full Name:\nYour Address:\nYour Working Cellphone/Telephone No:\nYour International passport/ Your Id Card back and front\nWIRE TRANSFER INFORMATIONAL DETAILS BELOW:\nYour Bank Name:\nYour Bank Address:\nYour Account No:\nBank Swift Code:\nBank Routing No:\nMoreover, the new President Federal Republic of Nigeria Mr Bola Tinubu\nhas sign and approved the release of all contract payment that is\npending since the year 2009 till date that must be released to the\nowner's which your name is among those that will receive the fund this\nweek if you should send all your details to me today to this e-mail\naddress (\ngodwinakpabio5@gmail.com\n)\nThank i hope to read from you soon\nSenator Godwin Akpabio GCON\nSenate President Federal Republic of Nigeria\n+234 916-808-5378   "
     },
     {
         "from": "baiter_512",
         "to": "scammer_512",
-        "subject": "Re:   Office Of The Senate Preside",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Office Of The Senate Preside",
         "body": "Hello Senator Godwin Akpabio GCON,\n\nThank you for reaching out to me. I'm quite surprised to hear about this contract payment. Could you please provide more details about this contract? How did my name come up in your files? \n\nI'm also curious about the process of releasing these funds. What steps would need to be taken on my end?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nBessie"
     }
 ]

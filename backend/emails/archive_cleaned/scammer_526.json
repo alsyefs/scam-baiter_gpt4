@@ -2,21 +2,21 @@
     {
         "from": "scammer_526",
         "to": "CRAWLER",
-        "subject": "Dear Sir,    ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear Sir,    ",
         "body": "Dear Sir,    \nMy name is Hamdan Bahari, a senior loan consultant with a finance and loan/investment company in Malaysia.\nDo you need funds for company innovations development, debt financing, investment, or have projects that require funding? We are capable of funding your projects with over thousands of private and corporate investment portfolios. Our Company is looking for equity partners, entrepreneurs, fundraisers and portfolio managers who will pay up to 3% interest and/or part equity position with a 5 to 10 year hold on acquisition/acquiring high-quality, low risk assets and investments to capitalize on the current market cycle.\nWe offer a wide range of investment products and services for institutions, banks and wealthy individuals, encompassing Investment Banking, Asset Management, and Investment Intermediary. An integral element of our Finance and Financial Services practice group is our continued involvement with some of the most significant and ground-breaking financial transactions in the Europe, Asia and Middle East particularly in the spheres of equity finance (public offers and private placements), debt finance (acting for lenders and borrowers), and investments (private equity and funds).\nWe're a diversified, multi-line investment institution and committed to uphold the highest levels of service quality, integrity and corporate governance standards, and place a strong emphasis on the company's principles in conducting business.\nFor further details please contact me directly with your business plans or project summary.\nKind Regards,\nHamdan Bahari\nSenior Loan Consultant/ Business\nDevelopment Manager\nAddress: Lot 1705, 17th Floor Jalan\nKebun Bunga 2/7d,\nMalaysia.\nMy Private Mail \nhamdanfinancialbrokers@outlook.com"
     },
     {
         "from": "baiter_526",
         "to": "scammer_526",
-        "subject": "Re: Dear Sir,    ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Dear Sir,    ",
         "body": "Dear Mr. Bahari,\n\nThank you for your email and the offer of financial assistance. I am currently not in need of any loans or funding for projects, but I appreciate your offer and will keep it in mind for future reference.\n\nBest wishes,\nHaydee"
     }
 ]

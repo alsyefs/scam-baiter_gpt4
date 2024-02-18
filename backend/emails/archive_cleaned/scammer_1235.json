@@ -2,21 +2,21 @@
     {
         "from": "scammer_1235",
         "to": "CRAWLER",
-        "subject": "  Hello My Dear.",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Hello My Dear.",
         "body": "  Hello My Dear.\nMy Greetings and compliments\nI sent you a letter a day ago, but I did not hear from you, I'm not sure if you got it, And that is why I am contacting you again\nGet back to me for more details is about your fund of Ten Million Five Hundred Thousand United states Dollars which has been approved in your favor  I am ready to help you release your fund into your account\nOlayemi Cardoso\nHead of operation   "
     },
     {
         "from": "baiter_1235",
         "to": "scammer_1235",
-        "subject": "Re:   Hello My Dear.",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Hello My Dear.",
         "body": "Dear Olayemi Cardoso,\n\nI received your message regarding the fund of Ten Million Five Hundred Thousand United States Dollars. Could you please provide more details about this? How was this fund approved in my favor and what are the next steps to release it into my account?\n\nLooking forward to hearing from you.\n\nBest wishes,\nAndrew"
     }
 ]

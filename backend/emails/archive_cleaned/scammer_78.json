@@ -2,21 +2,21 @@
     {
         "from": "scammer_78",
         "to": "CRAWLER",
-        "subject": "  My dear",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  My dear",
         "body": "  My dear\nYou are receiving your money through Crypto online without any delay as we got your name late among those that are supposed to be paid. You can also receive through cash delivery as the last solution before the last day of this month and year.\nReply immediately with your details which include your house and office address, mobile phone number, ID and the amount you are expecting to receive so that we can finalize within three to four days depending how fast you are to respond with your details. Your delay will only indicate you are not interested and willing to receive your money.\nBest regards\nRandy Terry\nPersonal assistant to Antonio Guterres\nUnited Nations Secretary General   "
     },
     {
         "from": "baiter_78",
         "to": "scammer_78",
-        "subject": "Re:   My dear",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   My dear",
         "body": "Hello Randy Terry,\n\nThank you for reaching out to me. It's quite exciting to hear about this opportunity. I'm curious, how did my name come up for this? And could you please explain a bit more about the process of receiving money through Crypto online? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nEmma"
     }
 ]

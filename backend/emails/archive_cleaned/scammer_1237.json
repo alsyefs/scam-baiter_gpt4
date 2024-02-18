@@ -2,21 +2,21 @@
     {
         "from": "scammer_1237",
         "to": "CRAWLER",
-        "subject": "  Dear Friend",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear Friend",
         "body": "  Dear Friend\nGreetings, I really wish to have you as my good friend and also wish\nto entrust some funds into your care but I have already sent the funds\nout of Damascus Syria before we left the country. I need your sincere\nand truthful friendship. My name is Sgt Morgan kim . I served as a\nMarine Corps in the United States of America Camp Leatherneck Damascus\nSyria then before the Taliban takeover.\nI have $6.5 Million US dollars that I successfully moved out of the\ncountry. I need a good partner, someone I can trust. It is oil\nbusiness money we did with  Syria citizens worth 42 million US\ndollars, but the 6.5 million US Dollars stated is my share of the\nbusiness and it's legal. I have successfully moved the funds out of\nDamascus Syria as family valuables with help of JP Williams Trust\nsecurity Company through their branch in the Middle East.\nThe most important thing is ''' Can I Trust You? Once the funds get to\nyou, you take your 30% out and keep my own 70%. Your own part of this\ndeal is to find a safe place where my part of the funds will be until\nI come and meet with you for discussions on investment plans,but I\nhave more interest in real estate or any other profitable investment .\nIf you are interested I will furnish you with more details.\nBut the whole process is simple and we must keep a low profile at all times.\nI look forward to your reply and co-operation, and I thank you in\nadvance as I anticipate your cooperation.\nMy Regards,\nSgt Morgan kim   "
     },
     {
         "from": "baiter_1237",
         "to": "scammer_1237",
-        "subject": "Re:   Dear Friend",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Dear Friend",
         "body": "Dear Sgt Morgan Kim,\n\nThank you for your email and for considering me as a potential partner in this endeavor. I understand the need for trust and confidentiality in such matters.\n\nHowever, before we proceed further, I would like to know more about how you intend to carry out this transaction. Specifically, I am interested in understanding the legal implications of receiving such a large sum of money from overseas.\n\nI look forward to hearing from you soon.\n\nBest wishes,\nChristine"
     }
 ]

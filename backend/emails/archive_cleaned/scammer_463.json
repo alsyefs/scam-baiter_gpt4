@@ -2,31 +2,31 @@
     {
         "from": "scammer_463",
         "to": "CRAWLER",
-        "subject": "PRIME LOTTERY INTERNATIONAL",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "PRIME LOTTERY INTERNATIONAL",
         "body": "PRIME LOTTERY INTERNATIONAL\nCustomer Service\nRef:ABC/34085746305872/34\nBatch: 293/34/3473\nWINNING NOTIFICATION:\nWe happily announce to you \nthe draw of the ONLINE-LOTTO Sweepstakes\nLottery International programs held on the 27th of June 2022 in United\nState of America,\nYour e-mail address and phone number was attached to ticket number\n:\n564 75600545188 with Serial number 5368/02 drew the lucky numbers:\n19-6-26-17-35-7,\nwhich subsequently won you the lottery in the 2nd category.\nYou have therefore been approved to claim a total sum of\nUS$10,500,000.00 (Ten million five Hundred Thousand United States\nDollars)in cash credited to file ktu/9023118308/03.\nThis is from a total cash prize of U.S $100 Million dollars, shared\namongst the first nine (9) lucky winners in this category.\nAll participants were selected randomly from World Wide Web site\nthrough computer draw system and extracted from over 100,000\ncompanies.\nThis promotion takes place annually. Please note that your lucky\nwinning number falls within our booklet representative office in new\nYork City as indicated in your play coupon. In view of this, your\nU.S$10.500,000.00 (Ten million, five Hundred Thousand United States\nDollars) will be released to you by our payment office in United State\nof America.\nOur lottery agent will immediately commence the process to facilitate\nthe release of your funds as soon as you contact him. For security\nreasons, you are advised to keep your winning information confidential\ntill your claims is processed and your money remitted to you in\nwhatever manner you deem fit to claim your prize.\nThis is part of our precautionary measure to avoid double claiming and\nunwarranted abuse of this program by some unscrupulous elements.\nPlease be warned.\nTo file for your claim,  you will be required to contact the Director\nin-charge (Dr frank k Jackmon  ) via e-mail. Kindly look below to find\nappropriate contact information:\nCONTACT AGENT NAME: Dr frank k Jackmon\n E-MAIL: (\nfmoffinanceoffice@gmail.com\n)\nYou will be required to e-mail him with the following information:\nFULL NAME:\ncountry;\nADDRESS:\nCITY:\nSTATE:\nZIP CODE:\nDIRECT CONTACT CELL NUMBER:\nOCCUPATION:\nYou will also be required to request payment details on how to send\nthe required $300.00 in order to immediately ship your prize of $10.5\nmillion\nto avoid unnecessary delays and complications, please quote your\nreference/batch numbers in any correspondence with us or our\ndesignated agent .\nCongratulations once more from all members and staffs of this program.\nThank you for being part of our promotional lottery program.\nSincerely,\nSIR SAMSON LEE\nLOTTO Co-ordinator"
     },
     {
         "from": "baiter_463",
         "to": "scammer_463",
-        "subject": "Re: PRIME LOTTERY INTERNATIONAL",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: PRIME LOTTERY INTERNATIONAL",
         "body": "Dear Sir Samson Lee,\n\nI am thrilled to hear about my lottery win. I would like to proceed with the claim process as soon as possible. Could you please provide me with more details on how to do this? \n\nLooking forward to your prompt response.\n\nBest regards,\nLewis D.\n\nBest wishes,\nTiffany"
     },
     {
         "from": "scammer_463",
         "to": "baiter_463",
-        "subject": "Re: PRIME LOTTERY INTERNATIONAL",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "2",
+        "subject": "Re: PRIME LOTTERY INTERNATIONAL",
         "body": "Attention Lewis D.\r\n\r\nThis is to acknowledge the recipient of your email to this office regarding\r\nyour winning fund.\r\n\r\nTo claim your winning prize all you need to do is to reconfirm your full\r\ndelivery information and cell phone number and WhatsApp number if you have.\r\n\r\nFurthermore, everything has been done and the delivery is ready but we are\r\nyet to receive the necessary requirements in order to deliver your package\r\nto you.\r\n\r\nNoted, the delivery will take 24 hours to get to you once all the necessary\r\nrequirements is provided to this office.\r\n\r\nRegards.\r\n\r\nSamson lee.\r\nCoordinator general."
     }
 ]

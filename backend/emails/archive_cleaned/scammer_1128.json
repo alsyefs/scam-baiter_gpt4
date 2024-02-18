@@ -2,21 +2,21 @@
     {
         "from": "scammer_1128",
         "to": "CRAWLER",
-        "subject": "  Attention ,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Attention ,",
         "body": "  Attention ,\nMy name is Paul Nelson. I'm an Executive Officer of the Federal Reserve\nBank in New York. My Coleage John Williams asked me to handle your\ncase about your Compensation. I am aware that you are being handled by\nMr. Franklin Pingason but you are having trouble with him that's why I\nwill be in charge from now on. Mr. Pingason is having stress problems\nand is drinking a lot and using drugs that are not reliable.\nSo, in order to have your $18 million dollars Funds be transferred to\nyour bank you have to pay pay the Liberation Fee of $2000 dollar's\nFunds, as soon as you do that, I will transfer the Funds money to your\naccount. Other option is for the money Funds to be sent in a Visa\nBlack Premium debit card that you can use at your convenience all\naround the World and give you one time only the opportunity to join\nthe exclusive Visa Senior Club, that grants you access to golf clubs\nin every country VIP rooms and travels in first class with every\naeroline. The cost for printing the card is $1000 dollar Funds, I know\nit is expensive but doesn't compare to all the Benefits you are going\nto receive\nYou can choose your payment method for the Liberation Fee:\n1) google placards or iTunes cards.\n2) transfer western union or MoneyGram\n3) bitcoin\nAlso if you choose to receive the card at your home we send it via\nFedEx or DHL and there's an extra fee of $200 dollars.\nIf you choose the bank transfer you have to pay only the Liberation Fee\nof $2000 dollars.\nIf you chose the cards and all the benefits you have to pay a total of $3200\nPlease get back to me as soon as possible.\nPaul Nelson\nSenior Manager, Financial Department\nFederal Reserve Bank   "
     },
     {
         "from": "baiter_1128",
         "to": "scammer_1128",
-        "subject": "Re:   Attention ,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Attention ,",
         "body": "Hello Paul Nelson,\n\nThank you for reaching out and explaining the situation. I'm sorry to hear about Mr. Pingason's troubles, I hope he gets the help he needs.\n\nI appreciate your offer to assist me with my case. However, I have a few questions before we proceed further.\n\n1. Could you please explain what exactly is this Liberation Fee? \n2. What are the benefits of joining the Visa Senior Club? \n3. Is there any other way to receive these funds without having to pay such high fees?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLois"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_1017",
         "to": "CRAWLER",
-        "subject": "WELCOME TO NORTH SHORE BANK UN",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "WELCOME TO NORTH SHORE BANK UN",
         "body": "WELCOME TO NORTH SHORE BANK UNITED STATE OF AMERICA.\nDESK OF SIR-MR. DAVID LA'FLAMME\nPRESIDENT-CEO NORTH SHORE BANK\nAttention Dear Friend:\nWe wish to congratulate you over your success in our computer\nballoting sweep-stake held on 16th JAN, 2023 yearly Donation Promo\nfrom the US government's Treasury and UNITED NATION OFFICE. This is a\nmillennium scientific computer permission fund. This transaction\nincludes every foreign contractor that may have not received their\ncontract sum due to bad Authorization Government official staff.\nSome people that have had an unfinished transaction or international\nbusinesses that failed due to problems or irregularities by\ngovernments etc. This has been agreed upon and has been signed by the\nBoard of Directors and Trustees of the United Nations Office and IMF\nOFFICE and UN OFFICE.\nI'm using this great opportunity to inform you that your approval of\ndonation funds worth the sum of $5 million US dollars have been\napproved and ready to be released to you through our Bank scheduly\nNorth Shore Bank system.\nTHIS IS THE INFORMATION WE NEED FROM YOU.\nYour name:\nYour Country: State & City:\nYour Occupation:\nHome address:\nYour Phone Number:\nI await your quick response.\nRegards Signed / Yours Faithfully,\nSir. Mr. David LaFlamme - President & CEO - North Shore Bank\nAddress: 248 Andover St, Peabody, Massachusetts, 01960, United States."
     },
     {
         "from": "baiter_1017",
         "to": "scammer_1017",
-        "subject": "Re: WELCOME TO NORTH SHORE BANK UN",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: WELCOME TO NORTH SHORE BANK UN",
         "body": "Hello Sir. Mr. David President CEO North Shore Bank,\n\nThank you for reaching out and sharing this exciting news with me! I'm thrilled to hear about the yearly Donation Promo from the US Treasury and UNITED NATION OFFICE.\n\nI'm curious, how was I selected for this donation? And could you please explain more about this \"millennium scientific computer permission fund\"? It sounds fascinating!\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nLeonardo"
     }
 ]

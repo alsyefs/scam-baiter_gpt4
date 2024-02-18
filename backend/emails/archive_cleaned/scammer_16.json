@@ -2,21 +2,21 @@
     {
         "from": "scammer_16",
         "to": "CRAWLER",
-        "subject": "Hello,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Hello,",
         "body": "Hello,\n I am sorry for sending this unsolicited proposal to you. I believe\nthat the internet is a global village where you meet people for\nbusiness and coupled with the fact that the nature of this project\nneeds a foreign business partner.\nBefore I proceed   I am Abdulaziz Alkuwari, I worked in the contract\nand project department of Qatar petroleum Doha,  I have an investment\nopportunity of $75M for investment in your country either in real\nestate.or n any profitable venture of your choice\n I need your assistance and cooperation to move this fund into your\naccount as a contract payment with QP for onward investment in your\ncountry.\nIf you are ready and serious to work with me, I will send to you the\nfull detailed information of this project for you to read before we\nwill sign a MOU agreement.  if you can't ,don't let this be known by\nany other person. it's between you and me.\nLooking forward to hear from you.\nThanks,\nYours Faithfully in Islam\nAbdulaziz Alkuwari\nEmail: \nabdukuwari002@gmail.com"
     },
     {
         "from": "baiter_16",
         "to": "scammer_16",
-        "subject": "Re: Hello,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Hello,",
         "body": "Hello Abdulaziz Alkuwari,\n\nThank you for reaching out to me with this proposal. It's quite interesting to hear about your investment plans in my country. I'm always open to new opportunities and ideas.\n\nCould you please provide more details about the project? What kind of venture are we talking about here? And how exactly would I be assisting you?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMichael"
     }
 ]

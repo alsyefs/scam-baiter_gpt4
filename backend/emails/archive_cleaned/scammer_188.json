@@ -2,21 +2,21 @@
     {
         "from": "scammer_188",
         "to": "CRAWLER",
-        "subject": "  Attention:Beneficiary,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Attention:Beneficiary,",
         "body": "  Attention:Beneficiary,\nI have registered your ATM CARD worthy total sum of US$(10.5M) with\nCourier Delivery Company with registration code of (Shipment Code awb\n33xzs)I have already paid\nDelivery Charge cost sum of $450 usd\n , So please kindly contact the\nAgent with your delivery information and make sure you send them their\nneeded security keeping fee\nsum of $95 usd for security purpose since I have already settled with\ndelivery charge together with Insurance Paper.\nAgent contact Email address: \ncb555977@gmail.com\nBELOW ARE REQUESTED DETAILS NEEDED URGENT TODAY...\nYour Full Names........\nResidence Address.......\nWhatsApp Telephone # Only....\nYour Age........\nIdentification Copy.\nContact Name: Diplomat Phillip Mark\nContact Email Address : \ncb555977@gmail.com\nWhatsApp Tel:+1 6614016916\nBest Regards,\nRev. Douglas N. Walter.   "
     },
     {
         "from": "baiter_188",
         "to": "scammer_188",
-        "subject": "Re:   Attention:Beneficiary,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Attention:Beneficiary,",
         "body": "Hello Rev. Douglas N. Walter,\n\nThank you for your message and the information about the ATM card. It's quite a surprise to hear about this! \n\nCould you please provide more details about this? How did I come to be in possession of such a sum? And could you explain more about the security keeping fee?\n\nLooking forward to hearing from you.\n\nBest wishes,\nAnthony"
     }
 ]

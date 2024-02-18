@@ -2,21 +2,21 @@
     {
         "from": "scammer_988",
         "to": "CRAWLER",
-        "subject": "  Attn/Pls Dear,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Attn/Pls Dear,",
         "body": "  Attn/Pls Dear,\nI would like to apply through this medium for your cooperation and to secure an opportunity to invest and do joint business with you in your country. I have a substantial capital i honorably intend to invest in your country into a very lucrative business venture of which you are to advise and execute the said venture over there for the mutual benefits of both of us.\nMy name is Lara Davidson Dean, a widow with stage 4 cancer. There is something very important i want to discuss and share with you. Please can i trust you. I saw your email in my search for someone i can trust to assist and utilize the proceeds realized from my time i have been working and my investments for years before i became sick and very unwell to continue for charity, basically helping the less privileged, widows and orphans because according to the doctors my days are numbered.\nYour able cooperation is to become my business partner in your country and create ideas on how money will be invested,properly managed and the type of investment after the money is transferred to your custody with your help and assistance.\nMeanwhile,on indication of your willingness to handle this transaction sincerely by protecting our interests and upon your acceptance of this proposal,I would furnish you with the full detailed information, procedure,amount involve and mutually agree on your percentage interest or share holding for helping me to secure the release of the deposit and investing the money in your country under your proper management and care.\nI shall be glad to reserve this respect and opportunity for you,if you so desire,but do urge you to give the matter your immediate attention it deserves. If this proposal is acceptable by you,please do not make undue advantage of the trust i bestow on you,and your urgent reply is highly needed,for more details information.\nLooking forward to your candid and urgent reply today and for a mutual healthy business relationship with you,\nBest regards,and have a great day.\nYours Faithfully,\nMs.Lara Davidson Dean.\nMy e-mail ;   \nmslaradavidsondean@gmail.com\n "
     },
     {
         "from": "baiter_988",
         "to": "scammer_988",
-        "subject": "Re:   Attn/Pls Dear,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Attn/Pls Dear,",
         "body": "Hello Davidson Dean,\n\nI'm really sorry to hear about your health condition. It's indeed a noble cause that you want to help the less fortunate widows and orphans. I appreciate your trust in me, but I must admit, I'm not very experienced in managing large sums of money or investments.\n\nCould you please provide more details about the type of business venture you have in mind? Also, how did you come across my email address?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nBrenda"
     }
 ]

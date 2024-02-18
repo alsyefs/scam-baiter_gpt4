@@ -2,21 +2,21 @@
     {
         "from": "scammer_665",
         "to": "CRAWLER",
-        "subject": "  My name is Janet Komo .",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  My name is Janet Komo .",
         "body": "  My name is Janet Komo .\nI am a cancer patient and the disease has taken over my entire system according to medical diagnosis, I want to donate my inheritance ($10Million US Dollars) that my late husband left with a financial company in London UK to you because recently, the doctor told me that I might not survive the latest Surgery which I have been booked for.\nI was directed by God to contact you because you are a very good and honest person with God fearing spirit.\nSo I want you to use 30% of the fund to build orphanage homes in your country while 20% goes to cancer research programs and then donate 25% to institutions housing elderly couples who cannot give birth and homeless children in their lifetime just like I and my late husband.\nThe remaining 25% goes to you as the person who agrees to carry out my last wish and I will give you more details only if you are willing and ready to handle this project. \nPlease reply me as soon as possible. \nThank you\nYours Sincerely\nJanet Komo.    "
     },
     {
         "from": "baiter_665",
         "to": "scammer_665",
-        "subject": "Re:   My name is Janet Komo .",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   My name is Janet Komo .",
         "body": "Dear Janet,\n\nI'm deeply moved by your message and the situation you're currently facing. It's truly admirable that even in such challenging times, you're thinking about helping others.\n\nAs a member of The Holy Bagel Community, I am committed to helping those in need. We have several programs running for the welfare of orphans and elderly couples. Your generous donation would indeed make a significant difference in their lives.\n\nHowever, I would like to assure you that we will use your funds responsibly and as per your wishes. Please provide me with more details on how to proceed further.\n\nMay God bless you and give you strength during this difficult time.\n\nBest wishes,\nCynthia"
     }
 ]

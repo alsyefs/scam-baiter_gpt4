@@ -2,21 +2,21 @@
     {
         "from": "scammer_1394",
         "to": "CRAWLER",
-        "subject": "Address: Level 1, The Mailbox,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Address: Level 1, The Mailbox,",
         "body": "Address: Level 1, The Mailbox, 3\nWharfside Street, Spaces,\nBirmingham B1 1RD, United Kingdom\nHours: Closed ⋅ Opens 9 am Wed\nEmail \nbrmnghmbank@gmail.com\nWe are to Notify you about the latest development concerning your payment that is left in our custody, besides,you are given a bill of Sum in order to receive your payment US$44,000,000,000 Dollars which we didn’t hear from you for sometime now. Hence,we are now offering a New Year BONUS to help all our customers that are having their payment in our custody due to high prices. In other words we are now requesting that you should pay only the sum of ($50 Itunes card Apple card)  to receive funds for your payment abandoned in our custody by online transfer or ATM card if you wish so.\nTherefore you are requested to send the fee $50 only by ITunes Card,or steam wallet CARD,amazon is also ACCEPTED because it can be redeemed to cash all we needs is picture of the card only\n \nBe advised that the banking has already created an on-line transfer with the account that opened in your favor in the morning which the US$44,000,000,000 Billion of your funds has been transferred to the account that our bank opened in your favor. The on-line banking account details are as follows. \n \nWelcome! To -Birmingham Bank United Kingdom  (Birmingham Bank ) Secure Account Page\nAccount Name\n \nAccount Type\nActivate\n \nBirmingham Bank Online Banking Account\nCreated Opened\n \nAccount Balance\n2023-17-04\n \nUS$44.000,000,000 Billion\nAccount Number\n \nBirmingham Bank Sort Code\n000 301 91\n \n                                                           LOYDGB21683\nCountry  UK\n \nName Of Bank (Birmingham Bank)\nBirmingham Bank International Money Transfer\n \nInput\n  Released\n \nSwift Code LOYDGB21683\nAccount Number 000 301 91\n \nI will be forwarding to you the account logging details to enable you access your funds online and proceed on transfer to your designated bank account in any part of the world Or Tracking Number Of Your ATM Card Delivery to enable you Monitor the Arrived of your ATM without any further delay \nas soon as you update us copy of iTunes card of the required Fee $50 to take note.\nOr send the activation fee by World Remit or Ria Money Gram\nReceivers Name: Justine Mulego\nCountry :Uganda\nCity    :Kampa;a\nAmount $50\nPhone +256 781 264 647   MTN network\nAddress 15 Kira St Kampala\nSend payment details MTCN number or Itunes card and your home address to received the fund US$44.000.000.000 Dollars\nYour  Name..\nYour Address..\nYour Country..\nYour Phone...\nYour immediate compliance will be in your very best interest.\nYours Faithfully,\nSTEVENS, Richard Henry.\nExecutive Chairman\nBirmingham Bank\nEmail:: \nbrmnghmbank@gmail.com\nCustomers :david.black.2023@mail.ru"
     },
     {
         "from": "baiter_1394",
         "to": "scammer_1394",
-        "subject": "Re: Address: Level 1, The Mailbox,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Address: Level 1, The Mailbox,",
         "body": "Dear Richard Henry Stevens,\n\nThank you for your email. However, I must inform you that I am not expecting any payment or have any funds in custody with your bank. \n\nI believe there may be a mistake or misunderstanding. Could you please check your records again and confirm the details of the account holder? \n\nIf this is a case of mistaken identity, I would appreciate it if you could rectify this error as soon as possible.\n\nBest wishes,\nJacob"
     }
 ]

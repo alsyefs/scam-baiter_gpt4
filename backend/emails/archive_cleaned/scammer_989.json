@@ -2,21 +2,21 @@
     {
         "from": "scammer_989",
         "to": "CRAWLER",
-        "subject": "  UNITED NATION'S DIRECTIVES F",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  UNITED NATION'S DIRECTIVES F",
         "body": "  UNITED NATION'S DIRECTIVES FOR SCAM VICTIMS COMPENSATION CENTER\n21A, Libreville Crescent,\noff Aminu  Cres. Abuja-Nigeria\nAttn: Scam victims/ Beneficiary\nScam victims Compensation amount:\nUS$2, 500,000.00  (Two Million Five Hundred Thousand United State Dollars).\nI will be sending you a form, which you are expected to fill out and attach back to me without delay. The process has already started. Reply for more details on how to receive your compensation with no cost. Reply back to this email ID \nmsliliya04@citromail.hu\nNote: Working ours are 8am to 6pm Nigeria time.\nThanks\nMrs.Maria Chukwu   "
     },
     {
         "from": "baiter_989",
         "to": "scammer_989",
-        "subject": "Re:   UNITED NATION'S DIRECTIVES F",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   UNITED NATION'S DIRECTIVES F",
         "body": "Hello Chukwu,\n\nThank you for reaching out to me. I'm quite intrigued by your message and the prospect of receiving such a substantial amount. Could you please provide more details about this process? How exactly does it work? And why was I chosen for this?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAngelique"
     }
 ]

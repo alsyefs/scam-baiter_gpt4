@@ -2,21 +2,21 @@
     {
         "from": "scammer_47",
         "to": "CRAWLER",
-        "subject": "  From: Samuel Akabuogu <akabu",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  From: Samuel Akabuogu <akabu",
         "body": "  From: Samuel Akabuogu <akabuogusamuel16@gmail.com>\nSent: Tuesday, May 3, 2022  \nSubject: Attention\n \n--\n20 Gresham St, London EC2V 7JE, United Kingdom\nGreetings Dear ,\nThis is to inform you that a compensation payment in the amount of\n€25,000000 (Twenty-Five Million Euro) waWELCOMEs legally approved and\ndeposited few days ago with our Bank, Standard Bank of United kingdom\nBranch Office here. Deposited in your name by the foreign debts\nsettlement/compensation committee of the Executive Directors Of World\nBank Group in conjunction with the European Union Board Of Directors,\nand they instructed us to credit this fund direct to your private bank\naccount with immediate effect, Meanwhile, the good news about your\nfund now is that your compensation payment file with some of the legal\ndocuments backing this fund has been forwarded to the US Department of\nState and the United Nations for final approval, And we shall proceed\nwith the transfer immediately we hear from you because we were\nmandated to transfer this fund to you as one of the beneficiary whose\nthe name is listed in the World Bank foreign debts\nsettlement/compensation payment file.\nHowever, Please note that Standard bank of United kingdom have decided\nand agreed together to send this payment to you by either Bank to bank\ntransfer, Cash delivery or  ATM card  depending the option you would\nprefer to receive this fund for security purpose, so you are therefore\nadvised to quickly get back to the\nmanagement of this bank and let us know the option you choose to have your funds\nNote: we want you to re-confirm your personal information below to\nenable us renew and update your file before we take the next step.\n1.Full Name_______________\n2.Country/State/ City Name_______________\n3.Delivery address\n4.Occupation_______\n5.Sex_____________\n5.Personal phone Number____________\n6.A Cope of Your Passport/ Drivers Licenses____________\nBest Regards.\nAlan Buxton    "
     },
     {
         "from": "baiter_47",
         "to": "scammer_47",
-        "subject": "Re:   From: Samuel Akabuogu <akabu",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   From: Samuel Akabuogu <akabu",
         "body": "Hello Alan Buxton,\n\nThank you for your message. It's quite exciting to hear about this opportunity! I'm a bit surprised though, as I wasn't expecting any payment. Could you please tell me more about how my name ended up on the World Bank foreign debts settlement payment file? \n\nAlso, could you provide more details about the different options for receiving the funds? What would be the process for each option and are there any fees associated with them?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nVickie"
     }
 ]

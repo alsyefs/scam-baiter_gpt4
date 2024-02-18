@@ -2,21 +2,21 @@
     {
         "from": "scammer_1231",
         "to": "CRAWLER",
-        "subject": "Golden Reliance Investments is",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Golden Reliance Investments is",
         "body": "Golden Reliance Investments is part of a Group that was \nformed many years ago\n to meet the growing needs of Companies / Clients and Promoters looking for Funding and Professional Assistance in a diversity of Projects..\nOn the premise that a single firm can combine Funding and Professional Consulting, Golden Reliance Investment can stimulate optimal performance for its clients. "
     },
     {
         "from": "baiter_1231",
         "to": "scammer_1231",
-        "subject": "Re: Golden Reliance Investments is",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Golden Reliance Investments is",
         "body": "Dear Sir/Madam,\n\nThank you for your message. It's great to hear about the formation of Golden Reliance and its mission to meet the growing needs of companies, clients, and promoters looking for funding and assistance in a diversity of projects. \n\nI am interested in learning more about how your firm combines funding and investment to stimulate optimal results for its clients. Could you please provide more details or perhaps some case studies that illustrate your approach?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDavis"
     }
 ]

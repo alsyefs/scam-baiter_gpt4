@@ -2,21 +2,21 @@
     {
         "from": "scammer_236",
         "to": "CRAWLER",
-        "subject": "  Kotoka International Airport",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Kotoka International Airport",
         "body": "  Kotoka International Airport Accra Ghana\nOffice of the Customs\nMaritime and Aviation Unit\nAccra Ghana\n \nFrom the Desk of the  Commissioner.\nDe Congestion Committee Seaports & Airport\n \nAttn: Honorable Beneficiary,\n \nThis is to bring to your notice for all the foreign consignments have been granted RELEASE after the Board Meeting which was held by the UN and Ecowas Board Members, In Collaboration with the G8 Committee.\nWe are giving you this opportunity to receive your consignment/funds which have been held for a long period of time due to your wrong dealings with None United Nations Officials and Imposters.\nyou are required to send the below information and  follow up on our instruction now that the UN has finally APPROVED the RELEASE of your consignment/funds\n \n1. Your home address\n2. Your telephone number\n3. Name of your nearest international Airport\n4. Copy of your international passport or driver's license\nOnce we received the above information from you, A UN Accredited diplomat who will accompany the delivery of your trunk boxes to your doorstep will be appointed while his flight schedule will be forwarded to you for confirmation of his time and date of arrival in your country.\n \nRegards\nCol. Kwadwo Damoah (Rtd)   "
     },
     {
         "from": "baiter_236",
         "to": "scammer_236",
-        "subject": "Re:   Kotoka International Airport",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Kotoka International Airport",
         "body": "Dear Col. Kwadwo Damoah Rtd,\n\nThank you for your email and the information provided. However, I must inform you that I have not been involved in any dealings with the United Nations or any other organization that would result in funds being held on my behalf.\n\nI believe there may be a mistake or misunderstanding. Could you please provide more details about these funds and how they came to be associated with my name?\n\nBest wishes,\nGary"
     }
 ]

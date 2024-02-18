@@ -2,21 +2,21 @@
     {
         "from": "scammer_494",
         "to": "CRAWLER",
-        "subject": "  Attention  ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Attention  ",
         "body": "  Attention  \nThis to inform you that we are waiting to hear from you for a long\ntime well, we have a technical problem with our other e-mail address,\nthat is why we missed communication with you, we want to inform you\nthat your compensation fund of $10.5Million dollars  is still here in\nour bank on your name waiting for you to clear all the charges that\nwill enable you to receive all the important Legal documents  that\nwill enable you to sign and receive your compensation fund of\n$10.5Million dollars in your account, Kindly  get back to us Urgent\nbecause we have a very good arrangement now consigning the release of\nyour fund within 24hours in your account, kindly update us as soon as\npossible\n Yours faithfully,\nMr. Hugh Sterling   "
     },
     {
         "from": "baiter_494",
         "to": "scammer_494",
-        "subject": "Re:   Attention  ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Attention  ",
         "body": "Dear Mr. Hugh Sterling,\n\nI am sorry for the delay in response. I was not aware of any funds being held in my name at your bank. Could you please provide more details about this? What are the charges that need to be cleared and how much is the fund?\n\nLooking forward to your response.\n\nBest wishes,\nJonathan"
     }
 ]

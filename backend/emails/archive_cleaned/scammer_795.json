@@ -2,21 +2,21 @@
     {
         "from": "scammer_795",
         "to": "CRAWLER",
-        "subject": "Attn: xxx",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attn: xxx",
         "body": "Attn: xxx\nWe wish to acknowledge the receipt of the authorization letter and the\nsupporting evidence presented to transfer your funds to your account.\nKindly forward us your ID card or driver’s license for our verification\nincluding your banking details and your direct mobile number.\nIn accordance with Federal Reserve regulations and our esteemed\nreputations geared up towards fund protection for the beneficiary's\ninterest, we keep the following for re-confirmation and security\nreasons.\nWe thank you for your anticipated cooperation while we await your\nresponse.\nRegards,\nMr.Alexander Williams\nPerfect Energy Credit union\ninfo@perfectenergy.online"
     },
     {
         "from": "baiter_795",
         "to": "scammer_795",
-        "subject": "Re: Attn: xxx",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Attn: xxx",
         "body": "Hello Williams,\n\nThank you for your prompt response. I appreciate the effort Perfect Energy Credit Union is putting into this matter. However, I'm a bit confused about the process. Could you please explain it to me in simpler terms? \n\nAlso, I'm curious about how my ID card or driver's license would be used in this process. Could you provide more details on that?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nWaltraud"
     }
 ]

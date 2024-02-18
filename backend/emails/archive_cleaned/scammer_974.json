@@ -2,21 +2,21 @@
     {
         "from": "scammer_974",
         "to": "CRAWLER",
-        "subject": "  Good day my dear,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Good day my dear,",
         "body": "  Good day my dear,\nI am satisfied to send you this mail now to you, though we do not know each other but i believe after some change of ideas and massages we will get to know each other very well. I'm Mrs. Talia Adisa Daniel by name the wife of late Engineer Adisa Daniel a politician and businessman who was murdered by assassins in my country South Sudan in East Africa.\nPlease can i know you more because there is an ideas i we love to share with you, thanks and hoping to hear from you again. i am waiting for your prompt respond. here is my email address :\nmrstaliadanieladisa@gmail.com\nSincerely,\nMrs.Talia Adisa Daniel.   "
     },
     {
         "from": "baiter_974",
         "to": "scammer_974",
-        "subject": "Re:   Good day my dear,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Good day my dear,",
         "body": "Hello Mrs. Adisa Daniel,\n\nI'm sorry to hear about your late husband, that must have been a very difficult time for you. I hope you're doing well now. It's nice to meet you, even if it's just over email.\n\nYou mentioned that there are some ideas you'd like to share with me? I'm quite interested in hearing more about them. Could you please elaborate on what these ideas might be?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nPeter"
     }
 ]

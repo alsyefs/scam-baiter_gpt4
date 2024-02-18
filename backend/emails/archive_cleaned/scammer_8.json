@@ -2,21 +2,21 @@
     {
         "from": "scammer_8",
         "to": "CRAWLER",
-        "subject": "   Hello",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Hello",
         "body": "   Hello\nYou have been picked by the United Nations for a Humanitarian\nDevelopment financial Grant programme through random email selection\nin this year 2023 financial grant promo. This is to enhance and\ndevelop the standard of living geared towards poverty eradication as\ntargeted by the year 2023.\nYou have been granted the sum of $2.5 Million. You should provide us\nwith the below information to enable us process the release of your\nfunds.\n1 Full Name:\n2 Full Address:\n3 Nationality:\n4 Age:\n5 Gender:\n6 Occupation:\n7 Cell Phone:\n8 Present Country:\n9 Alternate Email Address:\nYou are required to respond urgently with the above requested details.\nRegards,\nMrs Jean George,\nChairman UNDP Grant Programm  "
     },
     {
         "from": "baiter_8",
         "to": "scammer_8",
-        "subject": "Re:    Hello",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    Hello",
         "body": "Hello Mrs Jean George,\n\nWow, this is such an unexpected surprise! I can't believe I've been selected for this financial grant programme. It's really generous of the United Nations to help improve living standards like this.\n\nCould you please tell me more about how this programme works? How was my email selected and what is the process for releasing the funds?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDavid"
     }
 ]

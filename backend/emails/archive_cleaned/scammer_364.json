@@ -2,21 +2,21 @@
     {
         "from": "scammer_364",
         "to": "CRAWLER",
-        "subject": "  Attention Beneficiary",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Attention Beneficiary",
         "body": "  Attention Beneficiary\nThis letter is to change your life from today. I am Dr. Usman\nShamsudeen the Director, International Remittance Department of the\ncentral bank of Nigeria (CBN), my Boss, Mr. Godwin Emefiele the\nGovernor of the Central bank of Nigeria is presently on suspension by\nthe new administration and all power have been vested on me to make\nall international payments transfer. Also, due to reported cases of\ncorrupt practices in other Nigeria Banks, the Federal Government has\nrevoked/cancelled all power vested on those Banks and have appointed\nonly the central bank of Nigeria to make all over due foreign contract\npayments transfer.\nYour payment has been in this bank for many years unclaimed because my\nboss Mr. Godwin Emefiele have refused to tell you the truth on how to\nclaim your fund this is because he has been using the interest\naccumulated from your fund every year to enrich himself without your\nknowledge. I want to help you pull out this fund to your bank account\nusing the easiest and quickest method, which have not been made known\nto you before.\nby this method, your fund will be transferred directly to your\nnominated bank account within 5hours the same day. No Cost of Transfer\n(COT) and no stoppage from any Government departments as the transfer\nwill be done within this bank alone and it is very safe.\nThe method which was introduced to you before is the Telegraphic\nTransfer (TT) for which confirmation is 48hrs,because of the time\nfactor, petitions could come from various organizations stopping your\npayment and asking you to pay huge fee which would be difficult for\nyou to pay so that they can benefit from the huge interest your fund\ngenerates while still in the Bank. This method is not safe for you\nbecause it is not done within the bank alone as information of the\npayment would be sent to the Central Control Unit (CCU) of the Federal\nMinistry of Finance and office of the Accountant General of the\nFederation. As a good Christian, I have nothing to gain by keeping\nyour fund, I want to help you get your fund out as soon as possible\nbefore the governor of the central bank will resume office.\nYou have to follow up and work with me now, and keep this very\nconfidential because of fraudsters and impostors who goes about\npresenting various bank accounts in order to divert another\nbeneficiary's fund.\nYou don't need to pay any fee to me before i will transfer your funds\nto your account, but all you need to do is to open a domiciliary\naccount with us where your payment will first of all be lodged inn for\nfurther credit to your account.\nYou also need to assure me that, as soon as you confirm your funds in\nyour account, you are going to compensate me. Please, quickly\nre-confirm your account details to me as soon as possible, and for\nsecurity reasons, we can only communicate through E-mail for now.\nYours Truly,\nDr. Usman Shamsudeen   "
     },
     {
         "from": "baiter_364",
         "to": "scammer_364",
-        "subject": "Re:   Attention Beneficiary",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Attention Beneficiary",
         "body": "Hello Dr. Usman Shamsudeen,\n\nThank you for your message. It's quite intriguing to hear about the situation at the Central Bank of Nigeria. I must say, it sounds like a lot of responsibility has been placed on your shoulders.\n\nI'm curious about this method you mentioned that will allow the fund to be transferred directly to my nominated bank account within the same day. Could you please elaborate more on how this process works? \n\nAlso, when you mention opening an account with your bank, could you provide more details about this? What kind of account would it be and what are the requirements for opening such an account?\n\nLastly, I'd like to know more about how I can assure you that I will compensate you once I confirm the funds in my account. What kind of compensation are you expecting?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDiana"
     }
 ]

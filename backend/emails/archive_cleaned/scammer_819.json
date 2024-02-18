@@ -2,21 +2,21 @@
     {
         "from": "scammer_819",
         "to": "CRAWLER",
-        "subject": "Date: Tue, 23 Jan 2018 20:40:0",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Date: Tue, 23 Jan 2018 20:40:0",
         "body": "Date: Tue, 23 Jan 2018 20:40:04 -0500\nFrom: U.Streasury Department <test@2tn.me>\nReply-To: \nofficialassetcontrolunit@gmail.com\nTo: Recipients <test@2tn.me>\nSubject: Office of Foreign Asset Control / Unclaimed MasterCard.\nU.S DEPARTMENT OF TREASURY\nOFFICE OF FOREIGN ASSET CONTROL (OFAC).\n1500 PENNSYLVANIA AVENUE, NW.\nWASHINGTON, DC 20220.USA\nCALL/SMS (929) 256-1595\nDear Beneficiaries,\nThis letter is brought to your attention by the committee of the U.S Department of the Treasury in conjunction with the federal supreme council and the office of the foreign assets control of the treasury department. Your email information files were forwarded to my desk this morning and it's among the list to be reimbursed with a Debit MasterCard worth sum of $7,500,000.00; Which have been uploaded with cash on it by the treasury department in conjunction with the internal revenue service and united states attorney general {A.G} which is concerned with the legal affairs and law enforcement of the united state government for this fiscal quarter of the year 2018; and its duly inter-switched which makes it easy for you to make withdrawal in any location of the ATM machine center of your choice nearest to you or within your area or any where in the world.\nYou are expected to forward your full name, resident home address and cell phone number to proceed immediately and should in case you need any more information in regards to this notification be free to get back to me so that I can brief you more as I'm are here to guide you and give you directive during and after this project has been completely perfected and to ensure you received your funds as stated.\nI request that you treat the content of this information classified confidential and privileged and also respect the integrity of this vital information you come across as a result of this correspondence. Contact me immediately for more information and certification begin the normal processing of redeeming your Debit MasterCard before your funds are being compelled by law and returned back to the treasury account as unclaimed inheritance funds.\nLastly, you are required to provide the required information for the legal processing of your funds to you through automatic teller machine directly to you.\nWe look forward to serving you better.\nYours faithfully,\nBenjamin J. Maddox\nContact e-mail- \nmaddoxcontrolasset@gmail.com\nTreasury Affiliated Representative\n====================================================================================================\nNOTE: If you received this message in your SPAM/BULK folder, that is because of the restrictions implemented by your internet service provider {ISP}."
     },
     {
         "from": "baiter_819",
         "to": "scammer_819",
-        "subject": "Re: Date: Tue, 23 Jan 2018 20:40:0",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Date: Tue, 23 Jan 2018 20:40:0",
         "body": "Hello Benjamin J. Maddox,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I'm not sure how my email files ended up on your desk, but it's interesting to know that they're part of a list for reimbursement.\n\nI have a few questions though, if you don't mind. Could you please explain more about this Debit worth sum? How was it determined and what does it mean exactly?\n\nAlso, could you clarify what you mean by \"this project\"? What kind of project is it and how am I involved?\n\nLastly, when you mention the required for the legal processing of my funds, could you specify what those requirements are?\n\nI appreciate your help in understanding all of this better.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nFrancisco"
     }
 ]

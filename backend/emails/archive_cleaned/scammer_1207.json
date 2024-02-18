@@ -2,21 +2,21 @@
     {
         "from": "scammer_1207",
         "to": "CRAWLER",
-        "subject": "  Attention Sir,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Attention Sir,",
         "body": "  Attention Sir,\nWith due respect Honorable sir, please I want you to keep it secret and I will let you know why you are not succeeded in receiving your fund of $10.7million which is long time overdue payment from our Government so I will like to work with you and if you agree to work together with me you must get your fund this time.\nPast government are trying to make things difficult in the past but this new government will pay you only if the court Clark will bring out your payment file for me then I will go and submit it to the international payment committee for your onward payment but we will give the court Clark $150 only to carry out the obligations.\nPlease if you agree to work together with me let me know and it must be secret for the sake of my job.\nThanks and good luck.\nIssa  Ahmed   "
     },
     {
         "from": "baiter_1207",
         "to": "scammer_1207",
-        "subject": "Re:   Attention Sir,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Attention Sir,",
         "body": "Hello Issa Ahmed,\n\nThank you for reaching out to me. I'm intrigued by your proposal and would like to understand more about it. Could you please provide some more details? For instance, what kind of fund are we talking about here? And why has it been overdue?\n\nI appreciate your willingness to help and look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMildred"
     }
 ]

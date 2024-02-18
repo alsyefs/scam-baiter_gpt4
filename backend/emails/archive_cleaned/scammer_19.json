@@ -2,21 +2,21 @@
     {
         "from": "scammer_19",
         "to": "CRAWLER",
-        "subject": "Welcome to Bank For African (A",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Welcome to Bank For African (A",
         "body": "Welcome to Bank For African (ACCESS BANK)\nAvenue Cotonou,BP 98 Cotonou Benin Republic.\nTelex :5211 F BP COTONOU BENIN REPUBLIC.\nFrom the desk of, Mr.James Collins\nDirector Payment Department.ACCESS Bank Plc\nof West African(FB).\nAttention Dear Customer\nYou are welcome to open an online Bank account. We have received\ndetails from Mrs Margret David, regarding opening an online bank\naccount to enable us clear up your benefit and before we proceed\nfurther.We like you to know that we provide logistics and services on\nCommercial, Merchant and Retail On-line Banking, You are welcome to\nthe Bank of choice where our customers satisfaction is our top most\npriority among st other services that has been designed to enhance a\ntop of the range on-line Banking experience.\nACCOUNT OPENING REQUIREMENTS ARE BELOW:\nSince you do not have an existing account with us, you are advised to\nsign up for an offshore account to facilitate your funds remittance\nprocess in 24hours. You will have to provide us with a scanned copy of\neither your International Passport or any proof of Identity,it is our\ndesire to make sure that you experience our First Class hospitality in\nthe world of Banking and this is illustrated by the availability for\nyou to choose from our various accounts models to suit your business\ninterest.You are hereby required to make an initial deposit based on\nthe type of account you wish to hold with the online Bank,the category\nof accounts and the initial deposit available are stated below:\nACCOUNT TYPE AVAILABLE DEPENDING ON YOUR CHOICE ARE AS FOLLOWS:\n1. SAVING ACCOUNT :This has a minimum deposit of : $50.00\n2. CURRENT ACCOUNT : This has a minimum deposit: $75.00\n3. Domiciliary Or Non Citizen Account This has a minimum deposit$35\n4. PLATINUM ACCOUNT : This has a minimum deposit of:$25.00\n5. PREMIUM ACCOUNT : This has a minimum deposit of: $50.00\n6. TIME DEPOSIT ACCOUNT : This has a minimum deposit: of:$100.00\nPlease note that your choice of ACCOUNT MODELS, matters as urgent,and\nyou are to send your choice fee as quickly as possible to OUR below\nprotocol officer's information through RIA Or Steam wallet card or\nAmazon card or iTunes card. Money Transfer to open the online account\nimmediately On Your Behalf.\nReceiver Name: Jimy Amaca\nCountry : Benin Republic\nCity Cotonou\nAmount Depends On Ur Choice $\nQuestion: Powerful\nAnswer: Great\nMTCN\nSender name ?\nAmount ?\nPurpose of the fee\nFor your account to be activated immediately, you are required to make\navailable the initial deposit which will be deposited in your account\nfor it to be fully activate after set-up. \nWe are not charging you for\naccount set up please take NOTE, but this amount will enable us\nupgrade your online account into a premium account based on the kind\nof transaction you are about to begin.\nThanks in advance for banking with us. I await your swift response. Thank you.\nBest Regards,\nMr.James Collins\nRegional Director\nACCESS Bank Online Services\nBenin Republic."
     },
     {
         "from": "baiter_19",
         "to": "scammer_19",
-        "subject": "Re: Welcome to Bank For African (A",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Welcome to Bank For African (A",
         "body": "Hello Collins,\n\nThank you for your detailed message. I'm quite interested in opening an online bank account with ACCESS Bank. The services you offer sound very appealing to me.\n\nI have a few questions though, if you don't mind. Could you please explain more about the differences between the various account models? Specifically, what are the benefits of each type of account?\n\nAlso, could you clarify what exactly is meant by \"initial deposit\"? Is this a one-time fee or will there be additional charges in the future?\n\nLastly, I noticed that there are several options for sending the initial deposit - RIA, Steam wallet card, Amazon card or iTunes card. Could you please provide more information on how these methods work?\n\nLooking forward to your response.\n\nBest wishes,\nDouglas"
     }
 ]

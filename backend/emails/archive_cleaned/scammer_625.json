@@ -2,21 +2,21 @@
     {
         "from": "scammer_625",
         "to": "CRAWLER",
-        "subject": "Palliative Care payment!",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Palliative Care payment!",
         "body": "Palliative Care payment!\nWe are writing this message to you from the United Nations Centre to inform you that you have been chosen as our Representative in your country, to distribute the total sum of $500,000 US Dollars,For Palliative Care Empowerment in order to help the poor people in your city. Such as the Disabled people, The homeless, Orphanages, schools,and Generals’ Hospitals,if you receive the message reply to our Via this Email:( \nInfoundp@consultant.com\n  ) For more information about the Palliative Care payment.\nBest Regards.\nManagement\nMr. W. Harrison\nWhatsApp Number: +17189524024 call 24 & 7\nOffice phone Number: +17189524024 call 24 & 7\nOffice E-mail: \nInfoundp@consultant.com\nOffice Address: New York, NY 10017, United State"
     },
     {
         "from": "baiter_625",
         "to": "scammer_625",
-        "subject": "Re: Palliative Care payment!",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Palliative Care payment!",
         "body": "Hello Mr. W. Harrison,\n\nWow, this is such an unexpected surprise! I'm really honored to be chosen for such a noble cause. Could you please provide me with more details about the Palliative Care payment? How was I selected and what are my responsibilities in this role?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMarcel"
     }
 ]

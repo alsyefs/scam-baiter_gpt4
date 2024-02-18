@@ -2,21 +2,21 @@
     {
         "from": "scammer_689",
         "to": "CRAWLER",
-        "subject": "  Attention,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Attention,",
         "body": "  Attention,\nWe believe you receive a message from this department From Mr Jackson\nStover Assistant Director Office of Public Affairs: Surveillance,\nInvestigation & Security Consulting Services. Federal Bureau of\nInvestigation?\nBecause we passed the information to them concerning your funds which\nwas originated from  Nigeria because we have been mandated by the\nInternational Community to reach out to all the concerned\nbeneficiaries whom their funds has been denied /delayed by the corrupt\nofficials of Nigeria Government.\nIn this regards you are advise to respond to this mail by forwarding\nyour details to enable this unit swing into action to know why your\nfunds is been delayed, then after which you will be directed to the\nappropriate paying office that will process the release of your unpaid\nfunds.\nUrgent and reply to this mail.\nThanks,\nMrs Magrate.T Robinson.   "
     },
     {
         "from": "baiter_689",
         "to": "scammer_689",
-        "subject": "Re:   Attention,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Attention,",
         "body": "Dear Mrs. Robinson,\n\nThank you for your email. I am not aware of any funds originating from Nigeria that are due to me. Could you please provide more details about this matter? \n\nLooking forward to your response.\n\nBest wishes,\nHeather"
     }
 ]

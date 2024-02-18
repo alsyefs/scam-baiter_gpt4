@@ -2,21 +2,21 @@
     {
         "from": "scammer_495",
         "to": "CRAWLER",
-        "subject": "The people I encountered were ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "The people I encountered were ",
         "body": "The people I encountered were very polite, helpful and wanted to help\nme as quickly as possible. They explained everything clearly and had\nthe paperwork to me via email within the hour. They had the funds in\nmy account within a couple of hours. I would highly recommend everyone\nwho is in need of loan e.g Financial - Investment Loan - Consolidation\nDebt, - Line of Credit, - Second Mortgage, - Credit Payoff, - Personal\nLoan - Home Loan - Car Loan , -loan for medical purposes should\ncontact GEORGE FINANCE LOAN FIRM today at email:\ngeorgefinance0@gmail.com\n / whatsApp: +1(707)2613058"
     },
     {
         "from": "baiter_495",
         "to": "scammer_495",
-        "subject": "Re: The people I encountered were ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: The people I encountered were ",
         "body": "contact them. They are truly a lifesaver and I am forever grateful for their assistance in my time of need. Their service was fast, efficient, and completely professional. I cannot recommend them highly enough to anyone who needs financial help quickly and without any hassle.\n\nBest wishes,\nAmy"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_352",
         "to": "CRAWLER",
-        "subject": "  Attention to you Sir ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Attention to you Sir ",
         "body": "  Attention to you Sir \nRegarding your mail is well understood but the problem is that if I give you Bank account for the payment is going to take 5 days before it  will reflects into the account and is going to delay the posting of your ATM VISA CARD and also the fee will not be completed once the bank remove their charges from the money 290$ the money is not going to be complete again but if you can be able to complete it the sum of 395$ then let me sent you the bank account as you want and also please try and send the money tomorrow so that i can back the DHL office thing tomorrow   "
     },
     {
         "from": "baiter_352",
         "to": "scammer_352",
-        "subject": "Re:   Attention to you Sir ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Attention to you Sir ",
         "body": "Hello there,\n\nThank you for your prompt response. I understand your concern about the delay that might occur if we proceed with a bank transfer. However, I'm a bit confused about the charges you mentioned. Could you please elaborate on what these charges are and why they would make the money incomplete?\n\nAlso, could you provide more details about this ATM VISA CARD? What is its purpose and how will it benefit me? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDenise"
     }
 ]

@@ -2,31 +2,31 @@
     {
         "from": "scammer_6",
         "to": "CRAWLER",
-        "subject": " Attn: Beneficiary",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " Attn: Beneficiary",
         "body": " Attn: Beneficiary\nHow are you doing?\nAre you Still willing to receive your outstanding funds? I will help you to receive your funds without long  protocols.\nWrite back let me direct you on the way forward    "
     },
     {
         "from": "baiter_6",
         "to": "scammer_6",
-        "subject": "Re:  Attn: Beneficiary",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:  Attn: Beneficiary",
         "body": "Hello there! \n\nI'm doing well, thank you for asking. I hope you're doing great too. \n\nRegarding the funds, could you please provide me with more information? What are these funds for and how did I become eligible to receive them? I would appreciate your guidance on this matter.\n\nBest wishes,\nElizabeth"
     },
     {
         "from": "scammer_6",
         "to": "baiter_6",
-        "subject": "Dear Beloved Elizabeth",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "2",
+        "subject": "Dear Beloved Elizabeth",
         "body": "Dear Beloved  Elizabeth\r\nThanks for your response to my email and I am willing to do what I stated.\r\nWell let me tell you, I am a man of honor, God fearing and respect for\r\nhuman dignity. I have never disappointed anybody before both in my chosen\r\ncareer as a Government Official and in my community as one of the main\r\nleaders. I am really sure of what I will do to get this payment approved in\r\nour favor without any problem.\r\n\r\nWhat I need is your understanding and trust nothing more I will perfect\r\nthis transaction  . kindly send me your full names and home address. Let me\r\nstart working on those legal documents which will give you an opportunity\r\nto receive the funds into your bank account without any delay.\r\n\r\nI Wait for your quick response\nAdams Osei"
     }
 ]

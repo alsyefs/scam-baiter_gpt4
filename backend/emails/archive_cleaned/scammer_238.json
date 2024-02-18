@@ -2,21 +2,21 @@
     {
         "from": "scammer_238",
         "to": "CRAWLER",
-        "subject": "  Attention:Sir/Madam",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Attention:Sir/Madam",
         "body": "  Attention:Sir/Madam\n  Ref: US$7.5 Million USD Transaction.\nAn approval has been forward to us to transfer the sum of $7.5 Million\nUSD into your account,Kindly send your address with a copy of your\nphoto passport with your telephone number to enable us to open an\nonline banking account on your name and credit your fund on it.so that\nyou can from there transfer the fund by your self to any account of\nyour choice.our requirement as follow..\n1.Full Name:\n2.Address:\n3.State:\n4.City:\n5.Zip Code:\n6.Country:\n7.Telephone number/ Whats app if any :\n8.Attach copy of your photo Passport:\n9:Date of Birth\nWe look forward to hear from you.\nYours in service.\nMs Bestie Joe\nBranch Manager\nCommercial Bank of New York\nDirect Line +1 928 265 5459   "
     },
     {
         "from": "baiter_238",
         "to": "scammer_238",
-        "subject": "Re:   Attention:Sir/Madam",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Attention:Sir/Madam",
         "body": "Dear Ms. Bestie Joe,\n\nThank you for your email. However, I must inform you that I am not comfortable sharing my personal information such as passport details and address over email due to security reasons. \n\nI would appreciate if we could proceed with this transaction in a more secure manner. Could you please provide me with more details about the process and how my personal information will be protected?\n\nBest wishes,\nJeanette"
     }
 ]

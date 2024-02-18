@@ -2,21 +2,21 @@
     {
         "from": "scammer_1077",
         "to": "CRAWLER",
-        "subject": "  Dear Friend",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear Friend",
         "body": "  Dear Friend\nwe do not know each other, but you are the only person I sent this\nletter with hope to get a positive and sincere response, in order to\ngo into a deal that would bring life fortune to both of us.\nI am Barr.POWELL ANDREW , a solicitor. I was the personal attorney to\nlate Engr. Greg a national of your country who was a Contractor and\nChief Executive officer of {Asian development Oil Company} For 25\nyears. He has spent most of his life in (Australia & Malaysia). In\nJanuary 2020,  Engr. Greg fell sick and died due to the Corona-virus\npandemic.\nSince then I have made several inquiries in the  Embassy to locate any\nof my client's extended relatives but all efforts were unsuccessful.\nAfter these several unsuccessful attempts, I decided to contact you\nand solicit your assistance as a foreigner to execute the claim of his\nEstate Which includes cash deposits.\nI have contacted you to assist in repatriating the assets and Capital\nvalued at US$ 36.5 million left behind by my client before they get\nconfiscated or declared unserviceable by the STD bank where these huge\ndeposits were lodged. The said bank has issued me a notice to provide\nthe next of kin or have the account confiscated within the next month.\nSince I have been unsuccessful in locating the relatives. I seek the\nconsent to present you as the Next of kin to the deceased, so that the\nproceeds of this account can be paid to you. The request of a\nforeigner as the next of kin in this transaction is occasioned by the\nfact that my client was a foreigner and the money cannot be paid into\na local bank here, so it will be better for you to stand as the next\nof kin to my client. Therefore, on receipt of your positive response,\nwe shall then discuss the sharing ratio and modalities for transfer. I\nhave all necessary information and legal documents needed to back you\nup for claim.\nAll I require from you is your honest cooperation to enable us to see\nthis transaction through. I guarantee that this will be executed under\na legitimate arrangement that will protect you from any breach of the\nlaw.\nPlease reply via e-mail to indicate your interest.\nBest Regards,\nBarr.  POWELL ANDREW\npa6803079@gmail.com\n "
     },
     {
         "from": "baiter_1077",
         "to": "scammer_1077",
-        "subject": "Re:   Dear Friend",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Dear Friend",
         "body": "Hello Barr. Powell Andrew,\n\nThank you for reaching out to me with such an intriguing proposition. I must say, it's not every day that one receives a letter of this nature.\n\nI'm sorry to hear about the unfortunate demise of Engr. Greg. It's always sad when someone passes away, especially under such circumstances.\n\nYou mentioned that there are legal documents needed to back up my claim as the next of kin. Could you please elaborate on what these documents are? Also, could you provide more details about the sharing ratio and modalities for transfer?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRosa"
     }
 ]

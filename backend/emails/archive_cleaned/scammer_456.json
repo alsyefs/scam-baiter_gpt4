@@ -2,21 +2,21 @@
     {
         "from": "scammer_456",
         "to": "CRAWLER",
-        "subject": "  Sir,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Sir,",
         "body": "  Sir,\nI will make transfer of your USD4.8 Million United State Dollars in few hours\nSend your complete bank account details just now so i can transfer\nyour funds in few hours.\nPlease respond\nRegards\nJohn Anderson   "
     },
     {
         "from": "baiter_456",
         "to": "scammer_456",
-        "subject": "Re:   Sir,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Sir,",
         "body": "Dear John Anderson,\n\nI appreciate your prompt response. However, I would like to clarify a few things before proceeding with the transfer. Could you please provide more details about the transaction? Specifically, I would like to know the source of these funds and why they are being transferred to me.\n\nBest wishes,\nFrancis"
     }
 ]

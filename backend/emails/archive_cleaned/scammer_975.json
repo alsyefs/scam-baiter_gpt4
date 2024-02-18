@@ -2,21 +2,21 @@
     {
         "from": "scammer_975",
         "to": "CRAWLER",
-        "subject": "Dear Mrs. Temmy",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear Mrs. Temmy",
         "body": "Dear Mrs. Temmy\nThank you for responding to my email and for attesting to the fact that you are an honest person, which actually should stand as the bedrock of this\nbusiness relationship\nMy client  wants to invest in any lucrative investment within your country or outside. He is looking for Joint Partnership who can manage\nfunds based on his investment experience and the project he/she wants\nto invest in.\nThe total amount of investment is $50MillionUSD depending on the  project you want to invest in. We would like you to provide us with\ndetailed information about yourself and the project you want  to invest in. In your next email it will be studied and we will\nrespond back to you with the next step.\nI will be expecting your response.\nBest regards,\nMrs. Temmy FIDELISE  (Director)\nFINANCE & MANAGEMENT CONSULTANTS LTD.\nRegistered office address:691 Bradford St SW, \nGainesville, GA 30501, United States\nCompany status: Active\n470 412 2550"
     },
     {
         "from": "baiter_975",
         "to": "scammer_975",
-        "subject": "Re: Dear Mrs. Temmy",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Dear Mrs. Temmy",
         "body": "Hello Mrs. Temmy,\n\nThank you for your email and the opportunity to be part of this exciting venture. I'm thrilled to hear about your client's interest in investing in lucrative projects.\n\nI have a few ideas that could potentially be great investment opportunities. However, before we proceed, could you please provide more information about the kind of projects your client is interested in? Are there any specific sectors or industries they are particularly keen on?\n\nAlso, it would be helpful to know what kind of return on investment (ROI) your client is expecting and over what time period. This will help me tailor my suggestions to meet their expectations.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nTheodore"
     }
 ]

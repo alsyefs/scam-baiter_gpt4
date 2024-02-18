@@ -2,21 +2,21 @@
     {
         "from": "scammer_417",
         "to": "CRAWLER",
-        "subject": "FBI- Criminal Justice Informat",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "FBI- Criminal Justice Informat",
         "body": "FBI- Criminal Justice Information Services Division\nFederal Government Office\nAddress: 935 Pennsylvania Ave NW, Washington, DC 20535 ,United States\nAttention Beneficiary,\nWE KNOW YOU HAVE NOT BEEN ABLE TO RECEIVE YOUR FUNDS.\nI am FBI Director Christopher Wray. This is to officially inform you\nthat out of our thorough\ninvestigation lately ,we found out that one of the abandoned valid\nPackages such as ATM Cards And Consignment Boxes worth $2.5million\nmillion United State Dollars by diplomatic agents who complained that\nthe beneficiaries were not able to provide the anti terrorist\nclearance certificate to guide and show that the fund is no way\nrelated to fraud or drug money,with the information we have here.\nWe found out that one of the funds belongs to you and you are meant to\nreport back quickly with the fee for the needed certificate(anti\nterrorist clearance certificate) which is $55\nIn conclusion, you are advised to stop any other transaction you are\ndoing before now because your fund is now under our custody\nand we will deliver it to you directly.\nGet back to me quickly on how to send the fee and most importantly to\navoid more delays on your fund\nyou provide your phone number as well for easy communication.\nThanks,\nMr. Christopher wray\nPhone Number: +1 812 227 3692\nFBI Director"
     },
     {
         "from": "baiter_417",
         "to": "scammer_417",
-        "subject": "Re: FBI- Criminal Justice Informat",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: FBI- Criminal Justice Informat",
         "body": "Dear Mr. Wray,\n\nI am surprised to receive your email regarding the funds that are supposedly under my name. I was not aware of any such funds and this is the first time I am hearing about it.\n\nBefore proceeding further, could you please provide more details about these funds? Specifically, I would like to know:\n\n1. How did these funds come under my name?\n2. What is the exact amount of the funds?\n3. Why do I need to pay for an anti-terrorist clearance?\n\nI would appreciate if you could provide clear answers to these questions before we proceed further.\n\nBest wishes,\nDeanna"
     }
 ]

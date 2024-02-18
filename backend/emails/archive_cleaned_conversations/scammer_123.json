@@ -2,41 +2,41 @@
     {
         "from": "scammer_123",
         "to": "CRAWLER",
-        "subject": "BARCLAYS INVESTMENT BANK PLC.",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "BARCLAYS INVESTMENT BANK PLC.",
         "body": "BARCLAYS INVESTMENT BANK PLC.\nSouthgate House, Osborne Estate,\nOsborne Rd, Ikoyi, Lagos.\nTel: +234 802 681 2358\nTel: +234 818 563 4355\nRef: Remittance sum of £3,500,000.00 GBP.\nDear Sir/Madam,\nAPPROVED SUM OF £3,500,000.00 POUNDS.\nWant to bring to your notice about the due process of your outstanding Contract/Inheritance payment which was suspended by the management of this Bank by stopping the transfer of your contract/inheritance funds to your nominated bank account. During the auditing of all financial records in our Bank (Barclays Bank) it was discovered from the records of outstanding payment with our Bank that your name is next on the list of those who will receive their funds. As a result of this development, verification conducted by credit department in conjunction with the Debt Verification Panel on your contract/inheritance fund, your file has been endorsed for immediate payment awaiting your confirmations.\nWe hereby bring to your notice that your contract/inheritance payment is being processed and the sum of £3,500,000.00 Pound has been CONVERTED TO UNITED STATES DOLLAR, which is the sum of $4,190,000.00 United States Dollar (Four Million, One Hundred and Ninety thousand United States Dollar only), Will be released to you as soon as you re-confirm your information to Barclays Bank Plc.\nKindly re-confirm your information to this bank, and we will proceed on the releasing of your fund immediately into your bank account.\nYour Full Name:\nYour Address:\nYour Age and Marital Status:\nYour Occupation:\nYour Telephone Number:\nYour Identification Card:\nYour Nationality:\nYour Bank Name:\nYour Account Number\nYour Account Holders Name:\nYour Routing Number:\nYour Swift Code:\nAs soon as this information is received, your payment will be wired into your bank account directly from Barclays Bank Plc, and a copy will be given to you for you to take to your bank and confirm it.\nBest Regards,\nMr. Andrew Smith,\nArea Director,\nBarclays Investment Bank PLC."
     },
     {
         "from": "baiter_123",
         "to": "scammer_123",
-        "subject": "Re: BARCLAYS INVESTMENT BANK PLC.",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: BARCLAYS INVESTMENT BANK PLC.",
         "body": "Dear Mr. Andrew Smith,\n\nThank you for your email and the information provided. I am glad to hear that my contract payment is being processed.\n\nHowever, I noticed some parts of your email were not clear due to missing information. Could you please provide more details regarding the exact amount in United States Dollar that will be released to me? \n\nAlso, could you please clarify what specific information you need from me? You mentioned \"your Account Number\", but it's not clear if you're referring to my account number with Barclays Bank Plc or another bank.\n\nI look forward to your prompt response.\n\nBest wishes,\nMathew"
     },
     {
         "from": "scammer_123",
         "to": "baiter_123",
-        "subject": "Re: BARCLAYS INVESTMENT BANK PLC.",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "2",
+        "subject": "Re: BARCLAYS INVESTMENT BANK PLC.",
         "body": ""
     },
     {
         "from": "baiter_123",
         "to": "scammer_123",
-        "subject": "Re: BARCLAYS INVESTMENT BANK PLC.",
         "direction": "Outbound",
-        "days_from_first_conversation": 2,
+        "days_from_first_conversation": 2.457013888888889,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "3",
+        "subject": "Re: BARCLAYS INVESTMENT BANK PLC.",
         "body": "Dear Marykate Purchia,\n\nThank you for your prompt response. I am excited about the opportunity to live and work in the United States. Could you please provide more details on the next steps I need to take? \n\nBest regards,\nLewis D.\n\nBest wishes,\nMathew"
     }
 ]

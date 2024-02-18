@@ -2,21 +2,21 @@
     {
         "from": "scammer_544",
         "to": "CRAWLER",
-        "subject": "Hello,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Hello,",
         "body": "Hello,\n      We offer loans on clear and understandable terms at an interest rate of 3%. From $5,000.00 to $450,000,000.00 Euros and Pounds only. We offer business loans, personal loans, student loans, auto loans, and loans to pay bills. Contact us now."
     },
     {
         "from": "baiter_544",
         "to": "scammer_544",
-        "subject": "Re: Hello,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Hello,",
         "body": "I hope you're having a great day! I'm excited to share some information with you. What topic are you interested in?\n\nBest wishes,\nBrenda"
     }
 ]

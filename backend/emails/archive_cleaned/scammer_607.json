@@ -2,21 +2,21 @@
     {
         "from": "scammer_607",
         "to": "CRAWLER",
-        "subject": "Good day to you,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Good day to you,",
         "body": "Good day to you,\nWe have been informed by a Consultant friend of mine that you, your partners and company may be interested in credible Private Investment finance for your projects and to be explicit, my partners as credible and reputable Investors are ready, willing and able to provide you and your partners with International Private Investment Loans and JV Partnership Project Finance for the actualization of your investment desires.\nYou can Email me via: i n f o a p p r o v a l @ y a n d e x.c o m with details of your proposed project\nRegards,\nMr. Deda Dedvukaj\nTel +1 267 313 0109\nE-mail: i n f o a p p r o v a l @ y a n d e x.c o m"
     },
     {
         "from": "baiter_607",
         "to": "scammer_607",
-        "subject": "Re: Good day to you,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Good day to you,",
         "body": "Dear Mr. Deda Dedvukaj,\n\nThank you for your email and the offer of investment finance for our projects. We are indeed always open to exploring new opportunities and partnerships that could benefit our operations.\n\nCould you please provide more details about the terms of the investment loans and JV Project Finance that your partners are offering? It would be helpful to understand the interest rates, repayment terms, and any specific requirements or conditions attached to these financial instruments.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nGary"
     }
 ]

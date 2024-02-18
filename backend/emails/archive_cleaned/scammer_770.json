@@ -2,21 +2,21 @@
     {
         "from": "scammer_770",
         "to": "CRAWLER",
-        "subject": "    International Court of Jus",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "    International Court of Jus",
         "body": "    International Court of Justice\nPeace Palace\nCarnegieplein 2\n2517 KJ The Hague\nThe Netherlands\nBarr. John West. (SAN) Director Of Foreign Debts Settlements  Of the International Court of Justice\nDear:  Unpaid Beneficiary\nI have inquired deeper to come to the conclusion that few powerful individuals are  behind this dastardly act without due notice to you.\nAs it stands now, you will certainly encounter enormous problems  to convince members of the International Court of Justice that you have not been served with required number of notices before assets could be forfeited to government.The committee was set up by the payment reconciliation committee to verify and scrutinize all outstanding debts owed to foreign beneficiaries in accordance to the information received from the United States government and other countries over unpaid  huge debts owed to Foreigners.We were made to understand that all efforts by your establishment to claim your fund has severally been frustrated by some corrupt officials of the banks and other government agencies. This has resulted in the loss of your hard earned  money to the said officials for the payment of fictitious charges and levies prior to the transfer of your fund.\nHaving seen your file and my further questioning to the officials of the central bank of Nigeria and ministry of finance as to why your payment is still pending reveals the rot and corruption in the system.The bank officials told me that the reason why you haven't received your payment is due to your inability to pay for the required charges for transfer of funds to your account. When I asked them  why they didn't deduct the said charges from your principal sum, I was given the flimsy excuse that you never authorized them to do so.\nWhen I put the question across to them if they ever advised you that such charges could be deducted from your principal fund,the answer I got was no. Now, if you do not tell this beneficiary that such charges could be deducted from his or her principal fund, how will he or  she know that such options are available for such beneficiaries. From my investigation I discovered that these bank officials deliberately refused to let the charges be deducted from your principal fund because they want your fund to remain trapped in the bank, while they continue to extort money from beneficiaries under some flimsy  excuse.\nYou do not need to pay any money to any official, all you are required to do is swear an affidavit at the International Court of Justice HagueThe Netherlands, authorizing the bank to deduct all charges from your principal fund and transfer the balance of funds to your bank account after deduction.\nIf you have spent any money in the past in your quest for payment,kindly let me know so that I can follow this up. You can reach me on my  email for a directive on how you can get the deduction done as soon as possible and get your payment also.\nYours sincerely,\nBarrister. Olukemi Adeosun (SAN)\nDirector Of Foreign Debts Settlements  Of the International Court of Justice   "
     },
     {
         "from": "baiter_770",
         "to": "scammer_770",
-        "subject": "Re:     International Court of Jus",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:     International Court of Jus",
         "body": "Dear Barrister Olukemi Adeosun,\n\nThank you for your detailed explanation regarding the issues surrounding my pending payment. I appreciate your efforts in investigating this matter and providing me with a clear understanding of the situation.\n\nI am willing to swear an affidavit at the Court of Justice as you suggested. However, I would need guidance on how to proceed with this, as I am not familiar with the process.\n\nRegarding your question about any money spent in the past in my quest for payment, I have indeed incurred some expenses. I will compile a list and forward it to you shortly.\n\nOnce again, thank you for your assistance. I look forward to receiving further instructions from you on how to proceed.\n\nBest wishes,\nVictor"
     }
 ]

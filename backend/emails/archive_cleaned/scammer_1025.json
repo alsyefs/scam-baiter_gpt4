@@ -2,21 +2,21 @@
     {
         "from": "scammer_1025",
         "to": "CRAWLER",
-        "subject": "Dear Sir/Ma,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear Sir/Ma,",
         "body": "Dear Sir/Ma,\nHow are you doing today,i hope you are in good health.I have intended to lay down your name as the beneficiary of an overdue inheritance fund here in a bank where I work as one of the bank Attorney two Years Ago. Also,I want to invest part of this fund in your country under your supervision. Kindly get back to me for further details on the project of mutual benefit.\nAwaiting your response.\nYours Sincerely,\nMrs Lisa Warner."
     },
     {
         "from": "baiter_1025",
         "to": "scammer_1025",
-        "subject": "Re: Dear Sir/Ma,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Dear Sir/Ma,",
         "body": "Dear Mrs. Lisa Warner,\n\nI hope this message finds you well. I am intrigued by your proposal and would like to know more about it. Could you please provide me with more details about the project and how we can proceed?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nBarbara"
     }
 ]

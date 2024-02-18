@@ -2,21 +2,21 @@
     {
         "from": "scammer_303",
         "to": "CRAWLER",
-        "subject": "  Attn: Beneficiary,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Attn: Beneficiary,",
         "body": "  Attn: Beneficiary,\nThe United Nations Compensation Commission payment exercise has deposited your payment of (1.900, 000.00) One Million Nine Hundred Thousand Dollars with A bank ready for disbursement, This is regarding the draws the Secretary General António Guterres organized on his visit to Africa/Asia/U.S.A, to help individuals/Internet Scam Victims and charity organization which your Email address was listed among those who are to benefit from the compensation exercise.\nThe paying bank will send you an International Swift ATM Card that has been approved on your name Registration Reference N°: FDXB/xxx/100\nContact Derick B. Nazareth\nEmail: \ndericknazareth237@hotmail.com\nProvide the below information to enable the delivery of the ATM Card and the PIN CODE to you.\n(1)Full Name:\n(2)Home Address:\n(3)Telephone:\n(4)Country:\n(5)Age:\n(6)Male Or Female:\n(7)Occupation:\nBest Regard's\nJuan Aguilar\n "
     },
     {
         "from": "baiter_303",
         "to": "scammer_303",
-        "subject": "Re:   Attn: Beneficiary,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Attn: Beneficiary,",
         "body": "Dear Juan Aguilar,\n\nThank you for your email. I am intrigued by the opportunity presented, however, I would like to understand more about this process and how my email was selected for this benefit. \n\nCould you please provide more details about the United Nations Commission payment exercise and how it relates to Internet Scam Victims? Also, could you clarify who is Derick B. Nazareth and what his role is in this process?\n\nLooking forward to your response.\n\nBest wishes,\nMaryann"
     }
 ]

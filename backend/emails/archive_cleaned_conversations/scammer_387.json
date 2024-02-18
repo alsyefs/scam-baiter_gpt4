@@ -2,51 +2,51 @@
     {
         "from": "scammer_387",
         "to": "CRAWLER",
-        "subject": "  ECONOMIC DEBT RECONCILIATION",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  ECONOMIC DEBT RECONCILIATION",
         "body": "  ECONOMIC DEBT RECONCILIATION COMMITTEE BOARD\nAttention Beneficiary,\nPermit me to introduce myself. I am  Mrs. Elizabeth Johnson, the appointed director of the Debt Reconciliation Board. The information available to us is that you have done virtually everything to have been paid money owed to you yet, you have not received your money.\nWe would like you to give us brief details about your unpaid money without prejudice; We vie for funds emanated from; contract/inheritance/lottery money, send your contact details, phone numbers, and how you wish to receive your unpaid sum. Also attach your scan ID and give us clear information on your previous experience for our record. We are going to make sure that you will receive this approved sum.\nPlease help us to serve you better.\nYours truly,\nMrs. Elizabeth Johnson   "
     },
     {
         "from": "baiter_387",
         "to": "scammer_387",
-        "subject": "Re:   ECONOMIC DEBT RECONCILIATION",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   ECONOMIC DEBT RECONCILIATION",
         "body": "Hello Mrs. Elizabeth Johnson,\n\nThank you for reaching out to me. I must say, your message has piqued my curiosity. Could you please elaborate more on this unpaid money that you mentioned? I don't recall having any outstanding debts or payments due to me.\n\nAlso, could you provide more information about the Debt Board and your role as the appointed director? It would be great if you could share some details about how this process works.\n\nI'm sorry but I won't be able to provide my personal contact details or ID at this stage. However, I am interested in understanding more about this situation.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nCaroline"
     },
     {
         "from": "scammer_387",
         "to": "baiter_387",
-        "subject": "YOUR RESPONSE PLEASE",
         "direction": "Inbound",
-        "days_from_first_conversation": 1,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "2",
+        "subject": "YOUR RESPONSE PLEASE",
         "body": "Attention Mrs Caroline,\r\n\r\nThanks for your quick response to our payment notification, since you said\r\nyou know nothing about this payment we are talking about, I think this what\r\nactually  happened,  If you can recall some years back, some people wrote\r\nyou a letter/email that they wanted to transfer millions of dollars of\r\ninheritance/ contract funds into your account and you people will share at\r\nan agreed ratio.\r\n\r\nYes,you  opened up communication with them but after sometime, you cut off\r\nthe communication. That transaction is real as your name is now\r\ncontinuously appearing in the books of accounts of the World Banking Union\r\nConsolidated account as one of the external debtors to be paid. The\r\nauthorities now, have decided after negotiations with the IMF to pay only\r\n$50 Million USD to you, that is if you are willing to process it.\r\n\r\nHowever, the payment process/procedures will be made known to you once you\r\nindicate your interest to lay claim on the said fund.\r\n\r\nI wait for your response.\nThanks,\r\nMrs, Elizabeth Johnson"
     },
     {
         "from": "baiter_387",
         "to": "scammer_387",
-        "subject": "Re: YOUR RESPONSE PLEASE",
         "direction": "Outbound",
-        "days_from_first_conversation": 1,
+        "days_from_first_conversation": 0.007141203703703703,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "3",
+        "subject": "Re: YOUR RESPONSE PLEASE",
         "body": "Hello Mrs. Elizabeth Johnson,\n\nThank you for your detailed explanation. I must admit, it's a bit surprising to hear about this payment as I don't recall any such correspondence from the past. However, I'm intrigued by the situation and would like to understand more.\n\nCould you please provide some more information? For instance, when exactly was this agreement made and who were the other parties involved? Also, could you clarify what is meant by \"the payment process procedures will be made known to you once you indicate your interest to lay claim on the said fund\"?\n\nI appreciate your patience in helping me understand this better.\n\nBest wishes,\nCaroline"
     },
     {
         "from": "scammer_387",
         "to": "baiter_387",
-        "subject": "Waiting to hear from you",
         "direction": "Inbound",
-        "days_from_first_conversation": 2,
+        "days_from_first_conversation": 0.8446412037037037,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "4",
+        "subject": "Waiting to hear from you",
         "body": "Attention Mrs. Caroline.\r\n\r\nGood day and thanks for your response, I understand that you still couldn’t\r\nrecall when this happened, probably because it has been a long time\r\nnow.  However,\r\nit was made 18/01/2024 and the parties involved in this payment decision\r\nare the International Monetary Fund (IMF) and the World Bank.\r\n\r\n\"The payment process procedures will be made known to you once you indicate\r\nyour interest to lay claim on the said fund\"?\r\n\r\nMeaning, you will re-confirm your current details for payment approvals\r\nfrom the authorities responsible for the payment and the financial\r\ninstitutions.\r\n\r\n\r\nI wait for your response.\nThanks,\r\nMrs, Elizabeth Johnson"
     }
 ]

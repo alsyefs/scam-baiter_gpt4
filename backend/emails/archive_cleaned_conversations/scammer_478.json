@@ -2,41 +2,41 @@
     {
         "from": "scammer_478",
         "to": "CRAWLER",
-        "subject": "Hello Dear,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Hello Dear,",
         "body": "Hello Dear,\nFreewill Donation of £2.7 Million GBP for charitable projects and help\nto humanity, e-mail me back for details now.\nbelow to you;\nFull Name:\nHome Address:\nCountry AND City:\nZip/postal code\nOccupation:\nCell Phone Numbers\nAge AND Sex:\nA Scan Copy of your Identity\n:\nIf you are interested contact me through this e-mail (\nfreewilldonation2021@gmail.com\n ) to enable me\nfurnish you with more details.\nSincerely,"
     },
     {
         "from": "baiter_478",
         "to": "scammer_478",
-        "subject": "Re: Hello Dear,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Hello Dear,",
         "body": "Hello there,\n\nWow, that sounds like an amazing opportunity! I'm always interested in helping out with charitable projects. Could you please tell me more about these projects? What kind of help is needed? And how will this donation be used to benefit humanity?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSheryl"
     },
     {
         "from": "scammer_478",
         "to": "baiter_478",
-        "subject": "Re: Hello Dear,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "2",
+        "subject": "Re: Hello Dear,",
         "body": "Hello Dear,\r\n\r\nHow are you doing today? Please I need to know you more please before I\r\nwill give you the Donation bank information I need to know you more please,\r\ne-mail me back with details below ;\r\n\r\n     information\r\n\r\nFull Name:\r\n\r\nHome Address:\r\n\r\nCountry AND City:\r\n\r\nZip/postal code\r\n\r\nOccupation:\r\n\r\nCell Phone Numbers\r\n\r\nAge AND Sex:\r\n\r\nA Scan Copy of your Identity:"
     },
     {
         "from": "baiter_478",
         "to": "scammer_478",
-        "subject": "Re: Hello Dear,",
         "direction": "Outbound",
-        "days_from_first_conversation": 1,
+        "days_from_first_conversation": 1.0708912037037037,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "3",
+        "subject": "Re: Hello Dear,",
         "body": "Hello there,\n\nI'm doing quite well today, thank you for asking! I hope you're having a good day too. It's always nice to meet new people and learn about them. \n\nAs for your request, I'm sorry but I can't provide the details you're asking for. However, I'd love to continue our conversation and get to know each other better. Can you tell me more about this donation bank? How does it work?\n\nBest wishes,\nSheryl"
     }
 ]

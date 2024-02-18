@@ -2,61 +2,61 @@
     {
         "from": "scammer_483",
         "to": "CRAWLER",
-        "subject": "Dear Esteemed Customer",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear Esteemed Customer",
         "body": "Dear Esteemed Customer\nI have been directed by the United Nations In Collaboration with the International Monetary Fund Fund (IMF) as one of the Scam Victims. Your name has been listed and approved for this payment as one of the scammed victims to be paid US$3,950,000.00 (Three Million Nine Hundred & Fifty Thousand Dollars) via Telegraphic Wire Transfer OR ATM Master Card. Kindly respond to this email as soon as possible for immediate transfer/delivery of your compensation funds.\nThis morning  Mr. Fred Thomas who declared that he is your Next-Of-Kin submitted this account details Southside Bank, Account No: 5707528, Routing No: 111923607, Swift Code SOBBUS41 Address Beckham St.Tyler, Texas 75701 that you authorized him to claim your fund.\nKindly respond to this email if you know that you did not instruct Mr. Fred Thomas to claim your Compensation Fund. Indicate how you want to receive your fund because we have two modes of payment by Telegraphic Wire Transfer and ATM Master Card.\nRegards\nMr. Samuel Gabriel\nOfficer-in-Charge Administrative Service\nInspection Unit Fund United Nations\nE-mail:  \nfundtransfer05@gmail.com"
     },
     {
         "from": "baiter_483",
         "to": "scammer_483",
-        "subject": "Re: Dear Esteemed Customer",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Dear Esteemed Customer",
         "body": "Hello Mr. Samuel Gabriel,\n\nThank you for your email and the information provided. It's quite surprising to hear about this situation involving Mr. Fred Thomas, as I don't recall authorizing anyone to claim any funds on my behalf.\n\nCould you please provide more details about how my name ended up on this list of scam victims? Also, could you explain a bit more about these two modes of payment - Wire Transfer and ATM Master Card?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nBeulah"
     },
     {
         "from": "scammer_483",
         "to": "baiter_483",
-        "subject": "From: Samuel Gabriel Officer-in-Charge Administrative Service",
         "direction": "Inbound",
-        "days_from_first_conversation": 1,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "2",
+        "subject": "From: Samuel Gabriel Officer-in-Charge Administrative Service",
         "body": "*Our Ref:UN/XX02/08/0124IMMEDIATE COMPENSATION PAYMENT of$USD3,950,000.00\r\n(FUND NO. UN/508/2024Valued Amount: $3,950,000.00 USD PaymentFile\r\n#/UN/602/2024*\r\n\r\nAttn: Beulah ,\r\n\r\nThis is to inform you that your Compensation Fund Amounting *Three Million\r\nNine Hundred and Fifty Thousand Dollars (US$3,950,000.00)* has been signed\r\nand approved in your favor, you are hereby advised to respond to this email\r\nimmediately.\r\n\r\nYou will receive your Compensation Fund via ATM Master Card or Telegraphic\r\nWire Transfer. After our meeting today with the *Central Bank Governor Of\r\nIndonesia*, I want to notify you that *Citibank Indonesia* has been\r\nauthorized to effect the transfer of your Fund or upload your Fund on the\r\nATM Master Card.\r\n\r\nYou choose one option from our modes of payment then send the information\r\nrequired to enable Citibank to effect the transfer of your Fund or Upload\r\nyour Fund on the ATM Master Card.\r\n\r\nBear it in mind that you will pay *$255* for the *Transfer Fee* of your\r\nFund or *Delivering Fee* of the ATM Master Card.\r\n\r\nI shall send you the information which you will use to send the *Transfer\r\nFee or Delivering Fee of $255* immediately I receive your urgent response.\r\nI wait for your urgent response.\r\n\r\n*Best Regards*\r\n\r\n\r\n\r\n*Mr. Samuel GabrielOfficer-in-Charge Administrative ServiceInspection Unit\r\nFund United NationsE-mail:  fundtransfer05@gmail.com\r\n<fundtransfer05@gmail.com>*"
     },
     {
         "from": "baiter_483",
         "to": "scammer_483",
-        "subject": "Re: From: Samuel Gabriel Officer-in-Charge Administrative Service",
         "direction": "Outbound",
-        "days_from_first_conversation": 2,
+        "days_from_first_conversation": 1.2356944444444444,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "3",
+        "subject": "Re: From: Samuel Gabriel Officer-in-Charge Administrative Service",
         "body": "Hello Mr. Samuel Unit,\n\nThank you for your email and the exciting news about the fund! I'm thrilled to hear that such a large amount has been signed and approved in my favor.\n\nI'm curious, how did this come about? I don't recall participating in any activities or investments that would result in this kind of payout. Could you please provide more details on this?\n\nAlso, could you explain more about the two payment options - ATM Master Card and Wire Transfer? What are the pros and cons of each method?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nBeulah"
     },
     {
         "from": "scammer_483",
         "to": "baiter_483",
-        "subject": "From: Samuel Gabriel Officer-in-Charge Administrative Service",
         "direction": "Inbound",
-        "days_from_first_conversation": 2,
+        "days_from_first_conversation": 1.6672337962962962,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "4",
+        "subject": "From: Samuel Gabriel Officer-in-Charge Administrative Service",
         "body": "*Our Ref:UN/XX02/08/0124IMMEDIATE COMPENSATION PAYMENT ofUS$3,950,000.00\r\n(FUND NO. UN/507/2024Valued Amount: $3,950,000.00 USD PaymentFile\r\n#/UN/607/2024*\r\n\r\nAttn: Beulah,\r\n\r\nI have acknowledged the content of your email. I must bring to your notice\r\nthat SCAM itself is the paramount reason why I am here in Indonesia Asian\r\nRegional Payment Office.\r\n\r\nYour name was among the list that was approved for this payment as one of\r\nthe Scam Victim. However, after the resolution of our meeting we found out\r\nthat you did not authorize Mr. Fred Thomas to claim your funds.\r\n\r\nRight now, your file has been opened and an instruction has been given to\r\nme as Officer-in-Charge Administrative Service for your payment in\r\naccordance with the UN LAW for International Payment.\r\n\r\nWe have two different modes of payment, by Telegraphic Wire Transfer or ATM\r\nMaster Card. You are hereby advised to choose one option from our mode of\r\npayment.\r\n\r\nA)  Telegraphic Wire Transfer::::\r\n\r\nAccount Name\r\nBank Name\r\nBank Address\r\nAccount Number\r\nRouting Number\r\nSwift Code\r\nResidential Address\r\nDirect Telephone Number\r\nOccupation\r\nIdentification Card Or Drivers License\r\n\r\nB) ATM Master Card::::::\r\n\r\nFull Name\r\nResidential Address\r\nDirect Phone Number\r\nOccupation\r\nIdentification Card Or Drivers License\r\n\r\nWith the above information, our International Remittance Department will\r\nstart processing your funds. Choose one option from our mode of payment and\r\nrespond with the requirements.\r\n\r\n\r\n\r\n\r\n\r\n*Best RegardsMr. Samuel GabrielOfficer-in-Charge Administrative\r\nServiceInspection Unit Fund United NationsE-mail:  fundtransfer05@gmail.com\r\n<fundtransfer05@gmail.com>*"
     },
     {
         "from": "baiter_483",
         "to": "scammer_483",
-        "subject": "Re: From: Samuel Gabriel Officer-in-Charge Administrative Service",
         "direction": "Outbound",
-        "days_from_first_conversation": 3,
+        "days_from_first_conversation": 2.009664351851852,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "5",
+        "subject": "Re: From: Samuel Gabriel Officer-in-Charge Administrative Service",
         "body": "Hello Mr. Samuel Unit,\n\nThank you for your email and the exciting news about the fund! I'm thrilled to hear that such a large amount has been signed and approved in my favor.\n\nI'm curious, how did this come about? I don't recall participating in any activities or investments that would result in this kind of payout. Could you please provide more details on this?\n\nAlso, could you clarify the options for receiving the funds? You mentioned an ATM Master Card and Wire Transfer. How does each method work exactly?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nBeulah"
     }
 ]

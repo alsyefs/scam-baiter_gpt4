@@ -2,21 +2,21 @@
     {
         "from": "scammer_814",
         "to": "CRAWLER",
-        "subject": "  Dear Sir,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear Sir,",
         "body": "  Dear Sir,\nThanks for your mail I am waiting for the receipt attach you use to send the funds.\nThanks\nMrs. Mary Kumba    "
     },
     {
         "from": "baiter_814",
         "to": "scammer_814",
-        "subject": "Re:   Dear Sir,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Dear Sir,",
         "body": "Dear Mrs. Mary Kumba,\n\nI'm sorry for the confusion, but I haven't sent any funds yet. Could you please provide me with the details on how to proceed with the payment?\n\nBest regards,\nLewis D.\n\nBest wishes,\nJames"
     }
 ]

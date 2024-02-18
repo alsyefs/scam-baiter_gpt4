@@ -2,21 +2,21 @@
     {
         "from": "scammer_376",
         "to": "CRAWLER",
-        "subject": "Hello xxx",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Hello xxx",
         "body": "Hello xxx\nThis is Barrister Eric Donald the accredited attorney to Capital One Bank and I'm here to inform you that I'm now very willing and ready to work for you if you can send me $100 Steam Wallet gift card. I made this decision because I believe you are skeptical sending me the total amount I requested for the work. If you are still willing to receive your outstanding payment get back to me immediately so that I can commence on the job. \nI only need the $100 as a commitment that you appointed me for the job and when I'm done with the job you will pay me the total sum of $10,000.\nYours truly\nBarr, Eric"
     },
     {
         "from": "baiter_376",
         "to": "scammer_376",
-        "subject": "Re: Hello xxx",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Hello xxx",
         "body": "Hello Barrister Eric Donald,\n\nIt's a pleasure to hear from you. I'm intrigued by your proposal and would like to know more about it. Could you please explain how the Steam Wallet gift card fits into this scenario? Also, could you provide more details about the job you mentioned? I'm eager to understand better before making any commitments.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nBetty"
     }
 ]

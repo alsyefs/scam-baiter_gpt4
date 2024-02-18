@@ -2,21 +2,21 @@
     {
         "from": "scammer_1036",
         "to": "CRAWLER",
-        "subject": "Attention:",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attention:",
         "body": "Attention:\nYour first Payment of $5000 usd is approved to send to you today, So\nkindly reconfirm your receiver’s name information to the money gram\noffice for the approval of your fund payment of ($4.700`000`00USD) to\nbe sign and release to you immediately you send the below information\nto them: Note that your payment files will be returned to the IMF\nwithin\n24 hours this is the instruction given to us by the IMF.\nYour Receiver's: _______\nYour Country:__________\nYour Telephone No:_______\nYour Address: _________\nYour Passport Id: ________\nContact Money Gram Office\nName: Mr. Frederic Houndeton\nEmail: (\nmoneygramoff2ce11@gmail.com\n)\nOur Money Gram Office will release your payment to you and the maximum\namount you receiving each day from today is $5000 usd daily until the\nfunds complete Transferred. Once we receive your information. The\ntransfer will commence. \nThe IMF is compensating all the scam victims\n($4.700`000`00USD) each, and your email address was found in the scam\nvictim's\nlist.\nMr. Frederic Houndeton\nFrom Federal Government\nBenin Republic"
     },
     {
         "from": "baiter_1036",
         "to": "scammer_1036",
-        "subject": "Re: Attention:",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Attention:",
         "body": "Hello Mr. Frederic Houndeton,\n\nThank you for your message and the information about the payment. It's really exciting to hear that I have a payment approved! \n\nCould you please provide more details about this process? How did my email address end up on the scam victim's list? And what is the role of IMF in this?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nCasey"
     }
 ]

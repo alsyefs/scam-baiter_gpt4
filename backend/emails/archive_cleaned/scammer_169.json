@@ -2,21 +2,21 @@
     {
         "from": "scammer_169",
         "to": "CRAWLER",
-        "subject": "I am. Mr BRAIN L.Flynn. I got ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "I am. Mr BRAIN L.Flynn. I got ",
         "body": "I am. Mr BRAIN L.Flynn. I got your email address from a mail directory, so I decided to give permission to inherit my funds ($2.5 Million USD)Two Million Five Hundred Thousand U.S. Dollars) which is with the (Addison First credit Bank) it's sad and painful that I am living on this earth without a wife or children.\nI am originally from Norway. My father passed away when I was 21 while my mother passed away in 2009, I have uncles but we are not in a good relationship, I don't know the reason but it all started from my father and I couldn't question him at that moment.\nPresently I am 77 years old and I work with American Airlines. It was so shocking and sad that I contacted this deadly virus (COVID-19) which has taken so many lives out of this world.\nI am presently in a hospital where I have been undergoing treatment. I have since lost my ability to talk and the doctor has told me that I have only a few weeks to live on this earth. so, I think the best thing to do is to use someone who is trustworthy that will inherit my funds, the reason why I decided to give out my funds is to avoid being taken by the government. I want you to utilize 60% of my fund's orphanages and widows around the world.\nPlease as soon as you receive this email reply back to me, I will give the details of my bank and also issue you a permission letter that will prove you as the new recipient of my funds.\nPlease assure me that you will use it as I mentioned and keep these contacts confidential.\nRegards\nMr. BRAIN L.Flynn"
     },
     {
         "from": "baiter_169",
         "to": "scammer_169",
-        "subject": "Re: I am. Mr BRAIN L.Flynn. I got ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: I am. Mr BRAIN L.Flynn. I got ",
         "body": "Hello Mr.\n\nBest wishes,\nBrad"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_1205",
         "to": "CRAWLER",
-        "subject": "  Received: from 10.217.135.16",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Received: from 10.217.135.16",
         "body": "  Received: from 10.217.135.166\nReturn-Path: <bernardoseir@gmail.com>\nX-Originating-Ip: [209.85.167.175]\nFrom: R M B O <bernardoseir@gmail.com>\nDate: Fri, 22 Jul 2022 16:09:33 -0700\nMessage-ID: <CALpT0P3p7=wieKZEiSZpNCh4=Rn+XEGMEedZjBf63QtqwYMWYg@mail.gmail.com>\nSubject: Compensation Payment From me Master Jafet Simon Lagba    "
     },
     {
         "from": "baiter_1205",
         "to": "scammer_1205",
-        "subject": "Re:   Received: from 10.217.135.16",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Received: from 10.217.135.16",
         "body": "Hello there! I hope you're having a great day. I'm really interested in learning more about what you have to offer. Could you please provide me with some more details?\n\nBest wishes,\nJoseph"
     }
 ]

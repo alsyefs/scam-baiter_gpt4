@@ -2,21 +2,21 @@
     {
         "from": "scammer_146",
         "to": "CRAWLER",
-        "subject": "  Redstone Chambers",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Redstone Chambers",
         "body": "  Redstone Chambers\n2-33 Smolenskaya Embankment,\nMoscow, Russian Federation.\nBUSINESS TRANSACTION\nI have news for you in regards to the current development of my\ndeceased wealthy client who died in a mysterious helicopter crash.\nHowever my client was a very wealthy investor, and software engineer\nfor the world's largest cryptocurrency exchange and also had many\nother oil investments for over 12 years.\nYou are advised to reply to this email only if you trade with\ncryptocurrency and I will call you to talk more or email you more\ndetails.\nThanks and God bless you,\nRegards,\nNikolai Zhikharev (ESQ)\nLegal Attorney & Practitioner\nSOLICITORS CO-OPERATE CONSULTANT.   "
     },
     {
         "from": "baiter_146",
         "to": "scammer_146",
-        "subject": "Re:   Redstone Chambers",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Redstone Chambers",
         "body": "Hello Nikolai Zhikharev,\n\nThank you for reaching out to me. I'm sorry to hear about the unfortunate incident involving your client. It must be a challenging time for all those involved.\n\nI'm intrigued by your message, but I would like to understand more about this situation. Could you please provide more details? For instance, how did you find my contact information and why have you chosen to reach out to me specifically?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nLucy"
     }
 ]

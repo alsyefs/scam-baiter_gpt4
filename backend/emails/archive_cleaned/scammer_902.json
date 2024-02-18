@@ -2,21 +2,21 @@
     {
         "from": "scammer_902",
         "to": "CRAWLER",
-        "subject": "  ATTENTION: DEAR BENEFICIARY,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  ATTENTION: DEAR BENEFICIARY,",
         "body": "  ATTENTION: DEAR BENEFICIARY,\n \n                                                              TOPIC: YOUR $3.7 MILLION UNITED STATE DOLLARS\n \nGOOD MORNING, I AM MR ALFRED SCHIPKE IMF SENIOR RESIDENT REPRESENTATIVE UNITED STATE OF AMERICA,I USE THIS OPPORTUNITY TO GET IN CONTACT WITH YOU REGARDING YOUR $3.7 MILLION UNITED STATE DOLLARS IN OUR CUSTODY. INFORMATION GETTING TO US IS THAT YOU HAVE SPENT SO MUCH ON THIS AND HAVE NOT RECEIVE ANY DIME.\n \nYOU ARE ADVISED TO GET BACK TO US FOR FURTHER DETAILS IF YOU REALLY WANT TO RECEIVE YOUR FUNDS.\n \nFEEL FREE TO REACH ME ON MY DIRECT TELEPHONE NUMBER 859-567-9369.\n \nYOURS FAITHFULLY,\nALFRED SCHIPKE,\nIMF SENIOR RESIDENT REPRESENTATIVE.   "
     },
     {
         "from": "baiter_902",
         "to": "scammer_902",
-        "subject": "Re:   ATTENTION: DEAR BENEFICIARY,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   ATTENTION: DEAR BENEFICIARY,",
         "body": "Hello Mr. Alfred Schipke,\n\nGood morning! I hope this message finds you well. It's quite surprising to hear about the million dollars in your custody that you mentioned. Could you please provide more details about this? How did it come into your possession and why is it meant for me?\n\nI'm looking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nBlair"
     }
 ]

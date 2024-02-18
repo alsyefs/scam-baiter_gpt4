@@ -2,21 +2,21 @@
     {
         "from": "scammer_334",
         "to": "CRAWLER",
-        "subject": " UNITED BANK OF AFRICA PLC.",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " UNITED BANK OF AFRICA PLC.",
         "body": " UNITED BANK OF AFRICA PLC.\nChief Executive officer.\nMr Donald Ricardo\nLukings Foreign Operation/Wire Transfer Dept .\nFax No:(+221) 301-189-203\nTel No,= +221-771.765.102\nEmail: \ndonald_ricardothemanager@accountant.com\nDated on: June /8th / 2018\nImage result for uba logos\n \nDear Valued customer,\nMail Dated On: June /8th / 2018 By UBA:\nUNITED BANK FOR AFRICA (UBA) SENEGAL.\n \nFor Your Kind Attention:\n \nHello   \nSir, the corresponding bank said that you are giving only a week to move the money out from your online account to your own bank account, so you should be fast and transfer the money from the online account to your own account immediately and do inform our bank when do that.\n \nBest Regads.\nbank manager.\nMr Donald.m Ricardo,\nDirector U.B.A bank Visa Card payment Department  "
     },
     {
         "from": "baiter_334",
         "to": "scammer_334",
-        "subject": "Re:  UNITED BANK OF AFRICA PLC.",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:  UNITED BANK OF AFRICA PLC.",
         "body": "Dear Mr. Ricardo,\n\nThank you for your email. I understand the urgency of the situation and will proceed with the transfer as soon as possible.\n\nHowever, could you please provide me with more details on how to carry out this transfer? I would appreciate it if you could guide me through the process to ensure that everything goes smoothly.\n\nLooking forward to your prompt response.\n\nBest wishes,\nDarrell"
     }
 ]

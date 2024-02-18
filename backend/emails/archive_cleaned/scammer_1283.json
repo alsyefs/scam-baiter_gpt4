@@ -2,21 +2,21 @@
     {
         "from": "scammer_1283",
         "to": "CRAWLER",
-        "subject": "  Rechtsanwalt Antonio Fernand",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Rechtsanwalt Antonio Fernand",
         "body": "  Rechtsanwalt Antonio Fernando\nEmail. \ninfo-attorney@consultant.com\n \nAttention Sir  \n \nFirst, I must solicit your interest in this matter regarding the notice receive from the Office in charge for the document, I have to obtain an official affidavit of Fact/claim from the high court, Below are the total cost to Obtain the documents from Court and Finance Office. It will be my interest if you can come personally for the this process, Because your attention is highly welcome, I have to make an appointment date when i have to go there Office for the process. You call me through my phone if you have any questions: Tel: +491-5216-149-307\n \n1) Tax Clearance certificate: ----------------------------------------------------------- €1,750 Euros\n2) Non-Inspection Authorization card From Eu State Finance Authority: -------€1,270 Euros\n3) Certificate Of Bond: ------------------------------------------------------------------€1,150 Euros \n4) Certificate Of Ownership: -----------------------------------------------------------€920    Euros\n5) Affidavit of Fact/claim from the High Court:------------------------------------- €3,700 Euros\nTotal Cost:---------------------------------------------------------------------------------€8,790 Euros\n \nI expect your prompt reply urgently. Respectfully, I will wait for your urgent response.\n \nYours sincerely\nAntonio Fernando\nLegal Consultant.   "
     },
     {
         "from": "baiter_1283",
         "to": "scammer_1283",
-        "subject": "Re:   Rechtsanwalt Antonio Fernand",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Rechtsanwalt Antonio Fernand",
         "body": "Dear Antonio Fernando,\n\nThank you for your email. I appreciate the detailed breakdown of costs associated with obtaining the necessary documents. However, I would like to clarify a few things before proceeding.\n\nFirstly, could you please explain what each of these documents is for? I want to understand why they are necessary and how they will aid in our process.\n\nSecondly, regarding your suggestion that I come personally for this process - could you please provide more details about this? Where would I need to go and what would be involved?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nTom"
     }
 ]

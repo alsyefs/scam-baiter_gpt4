@@ -2,21 +2,21 @@
     {
         "from": "scammer_373",
         "to": "CRAWLER",
-        "subject": "  Ecobank Ghana Ltd",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Ecobank Ghana Ltd",
         "body": "  Ecobank Ghana Ltd\n19 Seventh Avenue Ridge West\nAccra Ghana West Africa\n \nAttn: Beneficiary,\nRe: Did You Authorized Mr. Herb Wagner to Claim Your US$3M With Our Bank\n \nWe officially write to verify if you are the one that sent this person (Herb Wagner) to clear your outstanding bill that is holding the transfer of your US$3M in our bank and order him to receive your payment on your  behalf to his bank account with Bank of America?\n \nWe are about to transfer your approved fund to him so we need a confirmation from you to avoid any misdirection of your fund. Therefore, confirm to us urgently before we can go ahead to transfer your fund to him.\n \nThis is the payment information he sent to us through western union to clear your outstanding bill.\n \nSender name:- Herb Wagner\nSender city:- Lauderhill\nSender state:- Florida\nSender country:- USA\nMTCN:- 7425250897\nAmount:- $3,000\nTest question:-transfer\nAnswer:- fund\n \nFinally, if you are not the one that instructed him to receive your fund, then send to us  your bank account information so that we will wire the fund directly to your account since we have made the clearance already.\n \nWe are waiting for your urgent respond to this matter\n \nBest Regards,\n \nMr. Opoku Morgan\nIn't Remittance Director\nEcobank Ghana Ltd\nAccra-Ghana   "
     },
     {
         "from": "baiter_373",
         "to": "scammer_373",
-        "subject": "Re:   Ecobank Ghana Ltd",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Ecobank Ghana Ltd",
         "body": "Dear Mr. Opoku Morgan,\n\nI am writing to inform you that I did not authorize anyone named Herb Wagner to receive any funds on my behalf. I have no knowledge of this person and I certainly did not instruct him to clear any bills or receive any payments for me.\n\nPlease do not transfer any funds to this individual. I will provide my bank account details for the transfer once we have clarified this situation.\n\nThank you for bringing this matter to my attention.\n\nBest wishes,\nDawn"
     }
 ]

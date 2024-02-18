@@ -2,21 +2,21 @@
     {
         "from": "scammer_1285",
         "to": "CRAWLER",
-        "subject": "   Greeting,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Greeting,",
         "body": "   Greeting,\nMy name is Capt. Jennifer Jack , I am an American member of the U.S. ARMY medical team in  UKraine.\nI just discovered One Package boxes containing  American Dollars in UKraine. I  have deposited Package boxes with a security company in  UKraine\nAm looking for a trustworthy individual who will assist me receive the fund before I come over and join him as soon as the fund gets into your hand. Please, I want this to be between me and you since I am still in the army.\nTo Prove my sincerity, We both should be honest with ourselves and be trustworthy because without trust and honestly nothing works in this life.\nI look forward to your prompt reply to enable us move forward and I will get back to you ASAP with details.\nBest Regards,\nCpt.Jennifer  Jack\nEmail.capt.jennyjack@mail.ee\n "
     },
     {
         "from": "baiter_1285",
         "to": "scammer_1285",
-        "subject": "Re:    Greeting,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    Greeting,",
         "body": "Hello Capt. Jennifer Jack,\n\nIt's a pleasure to make your acquaintance! Your message certainly piqued my interest. I'm curious about the circumstances that led to this discovery of yours. Could you share more details about how you came across these package boxes?\n\nAlso, I'd like to understand better what kind of assistance you're seeking from me in receiving this fund. What would be my role and responsibilities in this process?\n\nI appreciate your emphasis on trust and honesty, as they are indeed vital in any relationship or transaction.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nNova"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_1318",
         "to": "CRAWLER",
-        "subject": "This is MR DAVID ROBERT MALPAS",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "This is MR DAVID ROBERT MALPAS",
         "body": "This is MR DAVID ROBERT MALPASS the world bank president \nI am sorry for contacting you late this morning because  I am busy  with people who are really interested in receiving their funds and right now I am here to let you know that I'm at my office with your $11.7 million dollars to deliver to you  house address today, so are you  ready or not. \nMR DAVID ROBERT MALPASS\nPresident of the World Bank Group"
     },
     {
         "from": "baiter_1318",
         "to": "scammer_1318",
-        "subject": "Re: This is MR DAVID ROBERT MALPAS",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: This is MR DAVID ROBERT MALPAS",
         "body": "Dear Mr. David Robert Malpass,\n\nThank you for your message. I am surprised to hear about this fund as I was not expecting any such amount. Could you please provide more details about the origin of this fund and why it is being sent to me? \n\nLooking forward to your response.\n\nBest wishes,\nDebra"
     }
 ]

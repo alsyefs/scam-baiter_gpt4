@@ -2,21 +2,21 @@
     {
         "from": "scammer_935",
         "to": "CRAWLER",
-        "subject": " United Nations Headquarters, ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " United Nations Headquarters, ",
         "body": " United Nations Headquarters, \nAddress:405 E 42nd St, New York, \nNY 10017, USA.\nFax:(212) 963-1034.\nPh:430-6255792.\n                                                                                         United Nations Grants Payment.\nAttn: Winning Email Owner.\nSir/Madam.\nThis is to inform you that after the United Nations Online Email Random Balloting which was conducted last week,your email has has being Granted a UN Grant sum of USD1.5Million One Million Five Hundred Thousand Dollars as the first United Nations random email Grants which you are one of the lucky winners,this will is done twice a year to alleviate the global Inflation cost and to help you revive any lost through scam, natural disaster and the Corvid pandemic as well hence you are one of the balloted lucky beneficiaries which was conducted online by the UN Team of Techs,forward to me the following details for your immediate payment through a UN Wells Fargo Bank Cashiers Cheque or through a UN Wells Fargo Bank ATM Master Card,so choose your payment preference and get back to me immediately for your payment through my desk here at the UN HeadQuarters in NY,United States.\n1) Home or office address for your mailing\n2)Full Names For Cheque Issuing or ATM Card Activations by Wells Fargo Bank here in NY.\n3)Any form of identification.\n4) Direct WhatSapp Mobile Line.\nI will be urgently waiting for your email as instructed above and without delays and please note and as according to the UN rules guiding Grants Payments,the USPS/ American Express Mailing Fees for those winners outside the United States will be paid by you as teh Grants Winning Beneficiary and certified by the UN for your direct mailing from NY here to your home in your country or within the United States here,be well guided please.\nSincerely Yours.\nMr.John Shepard.\nUN,Humanitarian Director.\nUN Headquarters NY.United States    "
     },
     {
         "from": "baiter_935",
         "to": "scammer_935",
-        "subject": "Re:  United Nations Headquarters, ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:  United Nations Headquarters, ",
         "body": "Dear Shepard,\n\nI am thrilled to hear about this unexpected grant from the United Nations. I appreciate your organization's efforts to alleviate global inflation and help those affected by scams, natural disasters, and the pandemic.\n\nHere are my details:\n\nFull Name: Lewis D. Noogie\nHome Address: 1234 Elm Street, Novosibirsk, Latvia\nIdentification: I can provide a scanned copy of my passport if required.\nDirect Mobile Line: +371 12345678\n\nAs for the payment preference, I would prefer to receive it through a Wells Fargo Bank ATM Master Card.\n\nI understand that I will be responsible for the USPS American Express Mailing Fees as per UN rules. Please let me know how much it will cost and how I should proceed with the payment.\n\nThank you very much for your assistance in this matter.\n\nBest regards,\nLewis D.\n\nBest wishes,\nLawrence"
     }
 ]

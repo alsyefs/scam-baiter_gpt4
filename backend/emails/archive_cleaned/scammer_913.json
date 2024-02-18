@@ -2,21 +2,21 @@
     {
         "from": "scammer_913",
         "to": "CRAWLER",
-        "subject": "ARE YOU AWARE OF THIS INSTRUCT",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "ARE YOU AWARE OF THIS INSTRUCT",
         "body": "ARE YOU AWARE OF THIS INSTRUCTION TO CREDIT YOUR SUM OF $4.5MILLIONUSD\nTO MRS. RACHELL.????????.\nWe recieved an email from one Mrs.Rachell Bordoy who presented a\ntelephone number with a resident address, saying that you gave her the\npower of attorney to make your claims of $4.5MILLION USD and we have\nstop order instruction on the funds pending when your views and\ncomments are received with regards to this matter. Please try and get\nback to us immediately you got this email message sent to you before\nwe instruct her to pay for the required charges involved and have the\n$4.5MILLION USD released to her immediately.\nBelow is the informations she sent to us now.\nName: Mrs.Rachell Bordoy\nAddress: 80 west 170st, apt c4 Bronx, Ny 10452.\nYour urgent response will be highly appreciated. Feel free to contact\nus if you have any queries immediately.Email;\nmorganmrschinyere@gmail.com\n HOPE TO HEAR FROM YOU ASAP.\nMRS CHINYERE MORGAN"
     },
     {
         "from": "baiter_913",
         "to": "scammer_913",
-        "subject": "Re: ARE YOU AWARE OF THIS INSTRUCT",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: ARE YOU AWARE OF THIS INSTRUCT",
         "body": "Hello Mrs. Chinyere Morgan,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I wasn't aware of any sum being credited to my name. Could you please provide more details about this? How did this come about and what exactly does it entail?\n\nAlso, regarding the person named Bordoy who claims to have power of attorney over my supposed claims, I don't recall giving anyone such authority. Could you tell me more about her? How did she get involved in this matter?\n\nI'm looking forward to your response.\n\nBest wishes,\nKim"
     }
 ]

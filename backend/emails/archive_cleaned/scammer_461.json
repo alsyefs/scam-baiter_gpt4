@@ -2,21 +2,21 @@
     {
         "from": "scammer_461",
         "to": "CRAWLER",
-        "subject": "  Hi ,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Hi ,",
         "body": "  Hi ,\nYour employment application for the GIFTS WRAPPER position at \"Holland May Printing Service\" LLC, (Jet Post Group) has been approved. We have tried to contact you at the number provided a few times and have not been able to reach you. We are following up one more time to see if you are still interested in learning more about the GIFTS WRAPPER position.\nPlease give us a call back at (800) 993-6171  for the details. Our HR managers are available for You  Mon-Fri 10am-6pm EST.\nIf we do not hear from you, we will assume you are not currently interested in the opportunity we offer. If at some time in the future you decide that this may be a good opportunity for you, please do not hesitate to reach out to us.\nThank you.\n---\nRegards, HR Department\nToll Free:  (800) 993-6171\nFax:         (888) 813-2009\n\"Holland May Printing Service\" LLC, (Jet Post Group)\n130 Montgomery St, Jersey City, NJ 07302\nWebsite: http:/ /hollandmay.com\nPhone Support:  Mon-Fri 9am-6pm EST\nEmail  Support: 24 hours / 7 days "
     },
     {
         "from": "baiter_461",
         "to": "scammer_461",
-        "subject": "Re:   Hi ,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Hi ,",
         "body": "Dear HR Department,\n\nThank you for considering me for the GIFTS WRAPPER position at Holland May Printing Service LLC, Jet Post Group. I apologize for any inconvenience caused due to my unavailability.\n\nI am indeed interested in learning more about this position. However, it seems that the contact number was not included in your message. Could you please provide me with the correct contact details so I can get in touch with your HR managers?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMary"
     }
 ]

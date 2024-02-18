@@ -2,21 +2,21 @@
     {
         "from": "scammer_520",
         "to": "CRAWLER",
-        "subject": "Good Day,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Good Day,",
         "body": "Good Day,\nThis is to inform you that the West African Fund Compensation Unit (WAFCU) with the United Nation committee on finance held a meeting with African leaders concerning the ongoing scam/fraud in Africa. After the meeting today, three African presidents approved $2.5Million as compensation in your name. This is because you have been a victim of scam in Africa.\nYou are hereby advised to send your bank account information immediately for the immediate wire of your compensation fund to your nominated bank account.\nYour are also advised to send $750 immediately through western union\n with the name of my personal assistant (Mr Justin Peters ).Address 456BD Abuja Nigeria.The required fees $750 is for telegraphic screen charge of the transfer of your compensation fund.Please you should also send your private telephone to me.\n \nYours faithfully,\nDr Yassin Amara\nDirector (WAFCU/UN)\nEmail Address: \ngregc2034@gmail.com"
     },
     {
         "from": "baiter_520",
         "to": "scammer_520",
-        "subject": "Re: Good Day,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Good Day,",
         "body": "Dear Dr. Yassin Ara,\n\nThank you for your email and the information provided. However, I must inform you that I have not been a victim of any scam in Africa or elsewhere. Therefore, I believe there may be some misunderstanding or mistake.\n\nI would appreciate if you could double-check your records and confirm this matter.\n\nBest wishes,\nJohn"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_329",
         "to": "CRAWLER",
-        "subject": "Your beneficiary fund worth's ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Your beneficiary fund worth's ",
         "body": "Your beneficiary fund worth's sum of $9.7Million has been in our\ncustody and you would have received it for long. Are you really ready\nto receive this fund?\nRemember since when i kept telling you this, to avoid losing your fund."
     },
     {
         "from": "baiter_329",
         "to": "scammer_329",
-        "subject": "Re: Your beneficiary fund worth's ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Your beneficiary fund worth's ",
         "body": "Dear Sir/Madam,\n\nI am not aware of any funds being held in my name. Could you please provide more details about this? How did the fund come into your custody and why has it been held for so long?\n\nBest wishes,\nVernon"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_1000",
         "to": "CRAWLER",
-        "subject": "I have received your email.",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "I have received your email.",
         "body": "I have received your email.\nHere you will find the bank details that you are to use in sending the fee.\nACCOUNT DETAILS FOR PAYMENT\nIBAN: LT44 3250 0549 5193 xxxx\nBIC: REVOLT21\nName S.I J.\nCountry: Lithuania\nBank: Revolut\nPlease note that after payment is made you are to get back to us with\nthe proof of payment for confirmation.\nYours faithfully.\nNancy"
     },
     {
         "from": "baiter_1000",
         "to": "scammer_1000",
-        "subject": "Re: I have received your email.",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: I have received your email.",
         "body": "Hello Nancy,\n\nThank you for your email and the information provided. I appreciate your prompt response.\n\nI'm curious, could you please explain a bit more about what this fee is for? And why is it necessary to make this payment?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nLouis"
     }
 ]

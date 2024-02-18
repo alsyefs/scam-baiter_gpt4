@@ -2,21 +2,21 @@
     {
         "from": "scammer_761",
         "to": "CRAWLER",
-        "subject": "I'm khaled Salim, I have been ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "I'm khaled Salim, I have been ",
         "body": "I'm khaled Salim, I have been instructed to notify you of the\navailability of a package deposited by your relative (our client) in\nyour name at the event of demise. We are entrusted and empowered with\ndiplomatic immunity and status to safe keep valuable packages and\nbaggage in trust for our reputable clients.\nWe work in collaboration with top firms and government bodies of\nvarious countries as we have earned a reputation as a service whose\nhallmarks in reliability and confidentiality are revered. Our\nclienteles also include international missions, fellow diplomats as\nwell as embassies of different countries.\nA financial security package was deposited by a benefactor whose\nidentity cannot be disclosed due to a binding Non-Disclosure\nAgreement, specifically instructing us to contact you in the event of\ndemise. The Non-Circumvention and Non-Disclosure Agreement signed with\nthe benefactor mandates and authorizes us to fully divulge and\ndisclose the benefactor's identity 18 months after the beneficiary has\nreceived the funds. We confirm that these funds are fully free of any\nliens or encumbrances and are clean, clear and non-criminal origin and\nare available in the form of\nCASH.\nBy this notice, you are hereby advised to send your Full Contact\nInformation as well as the name of the closest airport to your city in\nthe format stated below. The funds with the documentations of origin\nwill be brought to your country of residence by 3 Diplomats. You will\nbe accompanied to your bank (solely by your request) to deposit the\nfunds in your name with the documentations of its origin which\nauthenticates the facts that the funds are clean with no link to\nterrorism or drugs as well as exonerates you from any form of\ninvestigations and interrogation.\nKindly ensure that no mistake or error is made in the information\nprovide below and it should be forwarded in the manner stated below:\nYour Full Name: ______________________________\nYour cell number: ______________________________\nYour Complete Address: ________________________________\nName of City of Residence: ____________________\nName of Closest Airport to your city of Residence:\n_________________________________\nI hereby confirm the the information provided above is correct and\naccurate to the best of my knowledge.\nCongratulations in advance.\nThank you and I sincerely Remain,\nkhaled Salim\nEmail: \nkhaledsalim25166@inbox.lt"
     },
     {
         "from": "baiter_761",
         "to": "scammer_761",
-        "subject": "Re: I'm khaled Salim, I have been ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: I'm khaled Salim, I have been ",
         "body": "Dear Khaled Salim,\n\nThank you for your email. I am surprised to hear about this package deposited by a relative of mine. Could you please provide more details about the benefactor and the nature of this package? \n\nHere are my contact details:\n\nFull Name: John Doe\nAddress: 123 Main Street, Anytown, USA\nNearest Airport: Anytown International Airport\n\nI look forward to hearing from you soon.\n\nBest wishes,\nBenjamin"
     }
 ]

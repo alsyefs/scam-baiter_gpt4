@@ -2,21 +2,21 @@
     {
         "from": "scammer_1415",
         "to": "CRAWLER",
-        "subject": "I am writing to you with a 100",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "I am writing to you with a 100",
         "body": "I am writing to you with a 100% legitimate business preposition that is worth your time and consideration.\nThis preposition could be of immense value to you and I would like to discuss it with you in detail.\nI understand how busy your schedule is, but I would highly appreciate if you could grant me a few moments\nof your time. I promise that it will be more than worth it.\nFor any further information regarding this preposition, please feel free to reply to this email and I will furnish\nyou with all the necessary details.\nThank you for your time and consideration.\nSincerely,\nGong Wang"
     },
     {
         "from": "baiter_1415",
         "to": "scammer_1415",
-        "subject": "Re: I am writing to you with a 100",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: I am writing to you with a 100",
         "body": "Dear Gong Wang,\n\nThank you for reaching out to me. I am intrigued by your proposal and would like to know more about this business opportunity. Could you please provide more details?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nBeulah"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_846",
         "to": "CRAWLER",
-        "subject": "  I hope this mail meets you w",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  I hope this mail meets you w",
         "body": "  I hope this mail meets you well. I duly apologize if I am interfering\nwith your privacy if this request is not acceptable to you.\nMy name is Mary Kay Bosell I am a Banker, I am contacting you because\nyou share the same last name with our client who died of Covid-19 with\nhis wife and his two sons in March (2020).The Bank has been on the\noutlook to contact his next of kin without success hence I contacted\nyou since you share same surname with our client.\nI want to present you as the next of Kin / beneficiary for immediate\npayment of this fund.. As of today, my client's cash investment with\nthe Bank Stands at US$10 Million (Ten Million\nUnited States Dollars)\nGet back to me, if you are interested in more information through my\nprivate email address below\nOpportunity comes but once\nBest Regards.\nMary K. Bosell   "
     },
     {
         "from": "baiter_846",
         "to": "scammer_846",
-        "subject": "Re:   I hope this mail meets you w",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   I hope this mail meets you w",
         "body": "Hello Mary K. Bosell,\n\nI hope this message finds you in good health. I must say, your email has certainly piqued my interest! It's not every day that one receives such an intriguing proposition.\n\nHowever, I do have a few questions if you don't mind me asking. Firstly, could you please provide more details about the client who shares my last name? It's quite a surprise to hear that I might be related to someone who had such a significant amount of money in the bank.\n\nSecondly, how did you manage to find me? My surname is quite common, so I'm curious as to how you were able to pinpoint me specifically as the next of kin.\n\nLastly, what would be the process for claiming this fund? Is there any paperwork involved?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nPaul"
     }
 ]

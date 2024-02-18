@@ -2,31 +2,31 @@
     {
         "from": "scammer_254",
         "to": "CRAWLER",
-        "subject": "  READ THE ATTACHED PAYMENT FI",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  READ THE ATTACHED PAYMENT FI",
         "body": "  READ THE ATTACHED PAYMENT FILE AND FOLLOW THE INSTRUCTIONS.   "
     },
     {
         "from": "baiter_254",
         "to": "scammer_254",
-        "subject": "Re:   READ THE ATTACHED PAYMENT FI",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   READ THE ATTACHED PAYMENT FI",
         "body": "Hello there,\n\nThank you for reaching out to me. I've received your message regarding the attached payment file. However, I'm unable to see any attachments in your previous message. Could you please resend it? \n\nAlso, could you provide a bit more information about what this payment is related to? It would be really helpful for me to understand the context better.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nMelissa"
     },
     {
         "from": "scammer_254",
         "to": "baiter_254",
-        "subject": "Re: READ THE ATTACHED PAYMENT FI",
         "direction": "Inbound",
-        "days_from_first_conversation": 2,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "2",
+        "subject": "Re: READ THE ATTACHED PAYMENT FI",
         "body": "READ THE ATTACHED PAYMENT FILE AND FOLLOW THE INSTRUCTIONS"
     }
 ]

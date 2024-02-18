@@ -2,11 +2,11 @@
     {
         "from": "scammer_608",
         "to": "baiter_608",
-        "subject": "Good-news,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
-        "conversation_counter": "0",
+        "conversation_counter": "1",
+        "subject": "Good-news,",
         "body": "Good-news,\r\n\r\nWorld Bank compensation of debit MASTER CARD valued eighteen Million United\r\nStates Dollars has been approved. in your name, You are advised to visit\r\nthe World Bank office, 1818 H Street, NW Washington, DC 20433 USA. with a\r\ncopy of your valid identification for collection. here is your ATM card pin\r\ncode ( 7659 ) to enable you start  withdraw your money in any ATM machine\r\nin any country, the maximum is eight thousand United States dollars per\r\nday,  please don't let anybody to see the pin code to avoid hacking the pin\r\n until the ATM card is delivered to your home address okay,  get back to me\r\n\r\nKindly forward  to us your followings below for the delivery\r\n\r\nYour Full Name,\r\nYour Country,\r\nYour Direct Telephone Numbers,\r\nYour Correct Home Address,\r\nYour Occupation,\r\nYour CITY:\r\nyour age,\r\nYour Next Of Kin Name,\r\nYour Next Email Address,\r\n\r\nWhatsapp Numbers  you can also add me up on whatsapp.\r\n\r\nThank you for banking with us, we shall look forward to seeing you soon.\r\n\r\nRegards.\r\nRice Hogan (ESP)\r\nHead of Chief Operating Officer World bank\r\nAddress: 827, Gail Ave, Sunnyvale, CA 94086, USA.\r\nHours: Open 24 hours"
     }
 ]

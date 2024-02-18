@@ -2,31 +2,31 @@
     {
         "from": "scammer_1333",
         "to": "baiter_1333",
-        "subject": "Attention:Tara, Here is the copy of my identification",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
-        "conversation_counter": "0",
+        "conversation_counter": "1",
+        "subject": "Attention:Tara, Here is the copy of my identification",
         "body": "Attention:Tara\r\n\r\nI acknowledge receipt of your mail and content noted with thanks. It may\r\ninterest you to know that we are not surprised that you have not received\r\nyour payment. I want you to know that we represent the United Nations and\r\nwe are assisting in making sure contracts and inheritance due payment are\r\nmade and released.\r\n\r\nYou should have faith and believe that your payment is sure this time\r\naround and all we require from you is total compliance. Have it in mind\r\nthat this is real and we need to hear from you to know how best to assist\r\nyou get your fund paid to you.\r\n\r\nI want to reveal REALITY to you about how this investigation has been all\r\nalong. We confirmed that the paying bank that was supposed to release your\r\nfunds to you has been illegally using your  funds for TERM DEPOSITS, and am\r\nvery certain that you are not aware of  this. Well you are supposed to\r\nreceive the sum of $8.5million which is your fund.\r\n\r\nEnough is enough on this sort of ugly approach towards your funds release\r\nand transfer. If you can listen and take instructions from\r\nthis noble office  your transfer will be done at the shortest possible time.\r\n\r\nDo get back to us with the following information as stated below:\r\n\r\nYour Full Names:\r\nYour Cell/ mobile phone number:\r\nYour Copy of your identification\r\nYour Contact Address:\r\n\r\nBeware about all this and I advise you to stop all communication with\r\nanyone or group of person(s) regarding this transaction.\r\n\r\nI will advise you further on the way forward as soon as you send the above\r\ninformation. Attached is my work ID for your reference.\nRegards,\r\n\r\nMr Philip Brown\r\nFunds Investigator"
     },
     {
         "from": "baiter_1333",
         "to": "scammer_1333",
-        "subject": "Re: Attention:Tara, Here is the copy of my identification",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
-        "conversation_counter": "1",
+        "conversation_counter": "2",
+        "subject": "Re: Attention:Tara, Here is the copy of my identification",
         "body": "Dear Mr. Philip Brown,\n\nThank you for your email and the information provided. I am relieved to hear that the United Nations is involved in ensuring due payments are made and released.\n\nHowever, I am quite shocked to learn about the illegal use of my funds for term deposits by the supposed paying bank. This is indeed news to me and I appreciate your transparency in this matter.\n\nAs requested, here are my details:\n\nMobile Phone Number: \n\n\nI look forward to your advice on the way forward and hope for a swift resolution to this matter.\n\nBest wishes,\nTara"
     },
     {
         "from": "scammer_1333",
         "to": "baiter_1333",
-        "subject": "Attention:Tara, Here is the copy of my identification",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.18640046296296298,
         "startegy": "gpt-4-Chat2",
-        "conversation_counter": "2",
+        "conversation_counter": "3",
+        "subject": "Attention:Tara, Here is the copy of my identification",
         "body": "Hello Tara,\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Do get back to us with the following information as stated below:Your Full\r\nNames:Your Cell/ mobile phone number: Copy of your identification:Your\r\nContact Address:*\r\n*You should send us the requested information above so we can proceed with\r\nthe transaction*.\r\n*Thank You*."
     }
 ]

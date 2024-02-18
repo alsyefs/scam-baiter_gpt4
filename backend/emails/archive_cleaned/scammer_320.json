@@ -2,21 +2,21 @@
     {
         "from": "scammer_320",
         "to": "CRAWLER",
-        "subject": "UN/WB/FNG COMPENSATION COMMISS",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "UN/WB/FNG COMPENSATION COMMISS",
         "body": "UN/WB/FNG COMPENSATION COMMISSION\nOUR REF: UN-FGA/WB4/13\nYOUR REF: (UN/WB/FGA)..00/14\nBATCH: 70-35-671-39/188/18\nAttention Dear beneficiary We have your Fund worth $950.000.00 dollar\nin our office as it could be delivered or transfer to your home\naddress or through bank transaction before two young men by name\nWILLIAM HUGES and JOHN CAMEL came with a sad news of your death they\nalso claim to be your relatives As they make inquiry to claim your\nFund as it is their rightful inheritance they told us that you gave\nthem the permissions at the hospital bed to claim your money before\nyou die we couldn't hand over your fund to them until we find out that\nyou not dead and if they are truly your sons please reconfirm with\nyour information if you are still alive and if not, they want to pay\nthe fee of $50 to claim your fund of $950.000.00 dollar so if you are\nstill alive please try get back to us with the payment of $50 as we\nsaid by steam wallet or iTunes gift card and also tell us how you want\nyour fund to be transfer or to be deliver\nYour Full Name\nYour Country\nYour Home Address\nYour Direct Phone\nNote.that the only money to pay for this transaction or delivery is\nthe registration fee of $50 and you purchase an iTunes card or steam\nwallet of $50,and send the information to us for immediate remittance\nof your fund to you.Note: that every claims has an expiring period of\nfive working days (5 days) so you have to do that very urgently Thanks\nYour sincerely\nMr.Ego Igbo\nEmail; \nmregoigbo12@citromail.hu"
     },
     {
         "from": "baiter_320",
         "to": "scammer_320",
-        "subject": "Re: UN/WB/FNG COMPENSATION COMMISS",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: UN/WB/FNG COMPENSATION COMMISS",
         "body": "Hello,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I had no idea about this fund. It's also surprising to hear about William Huges and John Camel claiming to be my relatives. I don't recall having any relatives by those names.\n\nI'm curious, how did these two gentlemen prove their relationship to me? And could you please provide more details about the fund? How did it come into existence and why was it assigned to me?\n\nAlso, I'm not familiar with steam wallet or gift cards as a method of payment. Could you explain how that works?\n\nLooking forward to your response.\n\nBest wishes,\nGeorge"
     }
 ]

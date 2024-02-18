@@ -2,31 +2,31 @@
     {
         "from": "scammer_282",
         "to": "CRAWLER",
-        "subject": "  YOUR US$41.5 MILLION HAS BEE",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  YOUR US$41.5 MILLION HAS BEE",
         "body": "  YOUR US$41.5 MILLION HAS BEEN WIRED TODAY TO YOUR BANK ACCOUNT.\nAttention please,  Dear Good Friend,\nTHIS IS TO INFORM YOU WE HAVE FINALLY RECEIVED THE CLEARANCE TO WIRE YOUR APPROVED US$41.5 MILLION TO YOUR BANK.YOUR US$41.5 MILLION WAS WIRED THIS FEW HOURS AGO TO THE BANK ACCOUNT YOU PROVIDED AS CONTAIN IN YOUR PAYMENT FILE SENT TO US FROM THE FINANCIAL SERVICES AUTHORITY (FSA).\nPLEASE NOTE THAT YOUR US$41.5 MILLION WAS WIRED TO THE BANK ACCOUNT BELLOW:\nHSBC BANK HONG KONG\nEASTERN COMMERCIAL CENTER 395 HENNESSY ROAD HONG KONG\nACCOUNT NO: 3001826970\nSWIFT CODE: HSBCHKHHHKH\nPLEASE SEND ME A CONFIRMATION MESSAGE AS SOON AS YOU RECEIVE THE WIRED FUND IN YOUR BANK ACCOUNT BY WEDNESDAY AFTERNOON LAST WEEK.\nCONGRATULATIONS ONCE AGAIN,  WE ARE SORRY FOR THE DELAY IN THE PAYMENT AND TRANSFER OF YOUR US$41.5 MILLION TO YOUR BANK ACCOUNT AT THE BEGINNING OF 2016, IT WAS DUE GOVERNMENT REGULATIONS.\nYour Full Name\n Your Contact Address\n Your Direct telephone. Fax Number ( if any)\n Your AGE and what you do for a living\n How Many Months Or Years in which You Have Been Expecting\n your Payment\n The Place you sent Money Last whether Nigeria or London etc\n The Last Amount of Money You sent indicating What Month and\n Year\n WAITING TO HEAR FROM YOU TODAY.\n YOURS FAITHFULLY,\nDR DAVID CLARK.   "
     },
     {
         "from": "baiter_282",
         "to": "scammer_282",
-        "subject": "Re:   YOUR US$41.5 MILLION HAS BEE",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   YOUR US$41.5 MILLION HAS BEE",
         "body": "Hello Dr. David Clark,\n\nWow, this is such exciting news! I can't believe my US million has been wired to my bank account. I'm just a simple person and this kind of money is beyond my wildest dreams.\n\nI'm curious though, how did you get my bank details? And why was the payment delayed? Also, could you please explain what the Financial Services Authority FSA does?\n\nI'm sorry but I don't remember sending any money to Nigeria or London. Could you please clarify that for me?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMicheal"
     },
     {
         "from": "scammer_282",
         "to": "baiter_282",
-        "subject": "ATTENTION, DEAR GOOD FRIEND, MICHEAL / AWAITS YOUR REPLY AND MAKE SURE YOU RECONFIRM TO ME YOUR FULL INFORMATION TO ENABLE US PROCEED TO START PROCESSING YOUR APPROVED SUM OF $41.5M DOLLARS IMMEDIATELY",
         "direction": "Inbound",
-        "days_from_first_conversation": 1,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "2",
+        "subject": "ATTENTION, DEAR GOOD FRIEND, MICHEAL / AWAITS YOUR REPLY AND MAKE SURE YOU RECONFIRM TO ME YOUR FULL INFORMATION TO ENABLE US PROCEED TO START PROCESSING YOUR APPROVED SUM OF $41.5M DOLLARS IMMEDIATELY",
         "body": "ATTENTION, DEAR GOOD FRIEND,MICHEAL\r\n.\r\nTHANKS FOR YOUR  AWAITED REPLY AS YOU HAVE TO STOP DELAYING OVER THIS\r\nTRANSACTION AS YOU HAVE NOTHING TO BOTHER YOURSELF OR TO PANIC   AS YOU\r\nWILL RECEIVE YOUR APPROVED SUM OF $41.5M DOLLARS WITH ANY PROBLEMS AS I\r\nWILL ADVICE YOU FIRST OF ALL TO RECONFIRM YOUR FULL INFORMATION TO ENABLE\r\nUS PROCEED TO START PROCESSING YOUR  PAYMENT AS I WILL ADVISE YOU THAT  WE\r\nWILL OPEN ONLINE BANK ACCOUNT THROUGH OUR PAYING BANK AND TRANSFER YOUR\r\nAPPROVED SUM OF $41.5M  DOLLARS INTO YOUR ONLINE BANK ACCOUNT WHICH  YOU\r\nWILL RECEIVE THE YOUR ONLINE BANK ACCOUNT INFORMATION  THROUGH THE PAYING\r\nBANK AS WE MUST FOLLOW DUE PROCESS AND PROCEDURES AS REGARDS TO YOUR\r\nTRANSACTION WHICH WE MUST CONCLUDE YOUR TRANSACTION ON BEFORE NEXT WEEKEND.\r\n.\r\n\r\nTERMS OF PAYMENT AS FOLLOWS WHICH YOU MUST CHOOSE ONE THIS OPTIONS\r\nIMMEDIATELY.\r\n\r\n1, BANK TO BANK TRANSFER / ONLINE BANKING ACCOUNT.\r\n\r\n2, THROUGH CASH PAYMENT DIRECTLY TO YOUR  COUNTRY VIA COURIER AS\r\nCONSIGNMENT.\r\n\r\n3, THROUGH CREDITED ATM CARD  TO ENABLE YOU CASHING AT LEAST THE SUM THE OF\r\n$250,000 DOLLARS PER DAY FROM ANY BANK AROUND YOU OR AROUND THE\r\nWORLD..\r\n\r\n4, TO TRAVEL TO ONE OF R OUR OUTLET OFFICES SUCH AS CANADA, NETHERLANDS\r\nHOLLAND.\r\n\r\nYour Full Name\r\n Your Contact Address\r\n Your Direct telephone. Fax Number ( if any)\r\n Your AGE and what you do for a living\r\n How Many Months Or Years in which You Have Been Expecting\r\n your Payment\r\n The Place you sent Money Last whether Nigeria or London etc\r\n The Last Amount of Money You sent indicating What Month and\r\n Year\r\n\r\n REGULATIONS.\r\n\r\n WAITING TO HEAR FROM YOU TODAY.\r\n\r\nThanks for your Cooperation\nSincerely,\r\n\r\n Dr David Clark.\r\n="
     }
 ]

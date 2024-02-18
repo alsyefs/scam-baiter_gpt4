@@ -2,21 +2,21 @@
     {
         "from": "scammer_1099",
         "to": "CRAWLER",
-        "subject": "  ALEXANDRA KUNENE  CHAMBERS &",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  ALEXANDRA KUNENE  CHAMBERS &",
         "body": "  ALEXANDRA KUNENE  CHAMBERS &\nASSOCIATES\nPrivate Email:  \nbarr.kunene@yahoo.com\nTel: +27- 83-717-0896\n  Attn:  \n                         SUBJECT: URGENT ARRANGEMENT\nDear Sir,\nCompliment of the day,\nRespond to me by telling me what you want me to do for you?\nBest regards,\nMr. Edward Kunene (Esq)\n(Barrister)\nTel: +27- 83-717-0896   "
     },
     {
         "from": "baiter_1099",
         "to": "scammer_1099",
-        "subject": "Re:   ALEXANDRA KUNENE  CHAMBERS &",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   ALEXANDRA KUNENE  CHAMBERS &",
         "body": "Dear Mr. Edward Kunene Esq,\n\nThank you for your message. I'm not sure what you're referring to when you ask what you can do for me. Could you please provide more context or details?\n\nBest wishes,\nAllene"
     }
 ]

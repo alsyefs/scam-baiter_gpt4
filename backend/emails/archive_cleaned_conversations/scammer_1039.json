@@ -2,31 +2,31 @@
     {
         "from": "scammer_1039",
         "to": "CRAWLER",
-        "subject": "   CENTRAL BANK OF NIGERIA",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   CENTRAL BANK OF NIGERIA",
         "body": "   CENTRAL BANK OF NIGERIA\nCENTRAL BUSINESS DISTRICT,\nP.M.B 0187,GARKI, ABUJA- NIGERIA,\nGood Morning,\nA power of attorney was forwarded to my office on Friday by two\ngentlemen, one of them is an American national and he is Mr. Charles\nWeston by name while the other person is Mr. Joseph Bevan by name a\nCANADIAN National.\nThis gentlemen claimed to be your representative, and this power of\nattorney stated that you are dead, they brought an account to replace\nyour information in other to claim your fund which is now lying\nDORMANT and UNCLAIMED, below is the new account they have submitted:\nCITIBANK N.A.\nTHE LAKES\n8701 W. SAHARA Ave\nLAS VEGAS NV 89117\nACCOUNT 153 132 303\nROUTING 3222-7172-4\nSWIFT CITI US 33\nBe further informed that this power of attorney also stated that you\nsuffered and died of throat cancer. You are therefore given 72hrs to\nconfirm the truth in this information, If you are still alive, You are\nto contact me back immediately, Because i work 72hrs just to ensure\nthat i monitor all the activities going on in regards to the transfer\nof beneficiaries inheritance and contract payment.\nYou are to reply to this office immediately for clarifications on this\nmatter as I will  be available 24 hrs to attend to you and give you\nthe necessary guidelines on how to ensure that your payment is wired\nto you immediately.\nAlso be informed that any further delay from your side could be\ndangerous, as I would not be held responsible for wrong payment.\nThanks\nGodwin  Emefiele  "
     },
     {
         "from": "baiter_1039",
         "to": "scammer_1039",
-        "subject": "Re:    CENTRAL BANK OF NIGERIA",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    CENTRAL BANK OF NIGERIA",
         "body": "Good Morning,\n\nThank you for reaching out to me. I must say, this is quite a surprising message to receive! I can assure you that I am very much alive and well, and certainly not suffering from throat cancer.\n\nI'm curious about these gentlemen who claim to be representing me. Could you tell me more about how they proved their identities? And how did they come across my information?\n\nAlso, could you please provide more details about this fund that is supposedly in my name? How did it come into existence and why has it been left unclaimed?\n\nLooking forward to your response.\n\nBest wishes,\nJustin"
     },
     {
         "from": "scammer_1039",
         "to": "baiter_1039",
-        "subject": "Re: CENTRAL BANK OF NIGERIA",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "2",
+        "subject": "Re: CENTRAL BANK OF NIGERIA",
         "body": "CENTRAL BANK OF NIGERIA\r\nCENTRAL BUSINESS DISTRICT,\r\nP.M.B 0187,GARKI, ABUJA- NIGERIA,\r\n\r\nDear Mr Justin,\r\n\r\nThank you so much for your email. I am so happy as your Alive based on that\r\nGOD will give you more years to come.\r\n\r\nMr.Justin, that is the problem we are having here in our bank. After some\r\ntime some people will come up to claim the Fund does not belong to them.\r\n\r\nSince you're still Alive i am going to try my best to make sure you receive\r\nthis $35Million Dollars. All I need from you is honesty.\r\n\r\nAs I have started working on your Payment I would like you to confirm the\r\nbelow information to me immediately.\r\n\r\nA. YOUR FIRST AND YOUR LAST NAME...................\r\n\r\nB. YOUR REAL BANKING INFORMATION...................\r\n\r\nC. YOUR CONTRACT AMOUNT.....................\r\n\r\nD. YOUR COMPANY NAME AND ADDRESS..............\r\n\r\nE. YOUR HOME ADDRESS.................\r\n\r\nF. YOUR MOBILE PHONE NUMBER............\r\n\r\nG. YOUR AGE................\nThanks\r\nMr. Ken Benson"
     }
 ]

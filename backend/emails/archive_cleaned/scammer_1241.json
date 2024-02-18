@@ -2,21 +2,21 @@
     {
         "from": "scammer_1241",
         "to": "CRAWLER",
-        "subject": "  Dear ,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear ,",
         "body": "  Dear ,\nIt’s shocking that after the new year I haven’t heard from you.. I never believe that whole deal will suddenly end this way without any notice from your end.  I can’t comprehend reason behind your actions.\nShirley.  "
     },
     {
         "from": "baiter_1241",
         "to": "scammer_1241",
-        "subject": "Re:   Dear ,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Dear ,",
         "body": "Dear Shirley,\n\nI apologize for the delay in my response. The new year has been quite busy and I've had a lot on my plate. I assure you that it was not my intention to end our deal abruptly or without notice. \n\nCould you please remind me of the details of our agreement? I want to make sure we're on the same page moving forward.\n\nBest wishes,\nVictor"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_1281",
         "to": "CRAWLER",
-        "subject": "Dear Sir/Ma",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear Sir/Ma",
         "body": "Dear Sir/Ma\n    Your emails have been selected by the United Nations for a\n    Humanitarian Development Cash Grant program to enhance and develop the\n    standard of living geared towards poverty\n    eradication as targeted by the year 2021/2022.You have been granted\n    the sum of US$1,000,000.00 (US$1Million) and your grant pin\n    #UNCC/JUL-926-1119 G-22.\n    1 Full Names:\n    2 Full Address:\n    3 Telephone Number:\n    4 Age:\n    5 Gender:\n    6 Occupation:\n    7 Nationality:\n    8 Alternate Email Address:\n    Upon providing the above listed details, we will issue in your name a\n    certificate of fund ownership which you will use to apply to the\n    paying bank for the claim of the fund.\n    Regards,\n    Teddy Mola\n    Chairman UNDP Grant Programme"
     },
     {
         "from": "baiter_1281",
         "to": "scammer_1281",
-        "subject": "Re: Dear Sir/Ma",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Dear Sir/Ma",
         "body": "Dear Teddy Mola,\n\nThank you for your email. I am interested in the Cash Grant program by the United Nations. Here are my details:\n\nFull Names: Eliza Dane\nFull Address: 123 Main Street, London, UK\nTelephone Number: +44 20 1234 5678\nAge: 35\nGender: Female\nOccupation: Software Engineer\nAlternate Email Address: eliza.dane@example.com\n\nI look forward to receiving the certificate of fund ownership.\n\nBest wishes,\nHannah"
     }
 ]

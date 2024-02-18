@@ -2,21 +2,21 @@
     {
         "from": "scammer_943",
         "to": "CRAWLER",
-        "subject": "I am writing to Notify you abo",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "I am writing to Notify you abo",
         "body": "I am writing to Notify you about the latest Development concerning your\nPayment that Was left in our custody, Besides you are given a bill of\nSum amount of Money in order to receive your payment of $2,500,000.00\nusd which we\ndidn’t hear from you for some time now.\nHence,we are now offering a Special BONUS to help all our customers that\nare having their payment in our custody due to high prices. In other\nwords \nwe are now\nrequesting that you should pay the only sum of $25 to receive your\nFunds payment abandoned in our custody by online transfer or atm card\nif you wish so.\nAfter all Deliberation and Meeting Held by the Financial Board Of Director's,\nYou are requested to send the Only sum of $25 only by iTunes Card,or Google\nPlay CARD,’Steam Wallet is also ACCEPTED because it can be\nredeemed to cash. All we needs is the picture of the card,\nI will be forwarding to you the account logging details to enable you\naccess your funds online and proceed on transfer to your designated\nbank account in any part of the world Or Tracking Number Of Your ATM\nCard Delivery to enable you Monitor the Arrival of your ATM without\nany further delay as soon as you update us with the copy of the required Fee\nof $25 Through iTunes Card, Google Play Card Or Steam Wallet Card to take note.\nYours Faithfully,\nMR:PETERSON BROWN\nDirector of the United States Secret Service"
     },
     {
         "from": "baiter_943",
         "to": "scammer_943",
-        "subject": "Re: I am writing to Notify you abo",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: I am writing to Notify you abo",
         "body": "Hello there,\n\nThank you for reaching out to me. I must say, this is quite an interesting proposition. However, I have a few questions that I'd like to clarify before proceeding further.\n\nFirstly, could you please provide more details about the payment that was left in your custody? How did it end up there and why was I not informed earlier?\n\nSecondly, could you explain why the payment method is specifically through Google Play CARD or Steam Wallet? Is there any particular reason for this choice of transaction?\n\nLastly, could you elaborate on what exactly the Special BONUS offer entails? It sounds intriguing but I would like to understand it better.\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nChristopher"
     }
 ]

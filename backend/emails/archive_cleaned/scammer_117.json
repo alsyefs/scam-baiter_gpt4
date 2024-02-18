@@ -2,21 +2,21 @@
     {
         "from": "scammer_117",
         "to": "CRAWLER",
-        "subject": "  Greetings to you and your fa",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Greetings to you and your fa",
         "body": "  Greetings to you and your family, I know that my message will come to you as a surprise, Please accept my apology, I am Mrs.Kadi Balla, a widow from Burkina Faso west African, I am sending this brief letter to solicit your partnership to transfer the sum of $7.5 Million Usd, Seven million five hundred thousand United States Dollars. I shall send you more information and procedures when I receive a positive response from you.\nBest Regards\nMrs.Kadi BALLA   "
     },
     {
         "from": "baiter_117",
         "to": "scammer_117",
-        "subject": "Re:   Greetings to you and your fa",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Greetings to you and your fa",
         "body": "Dear Balla,\n\nI'm sorry to hear about your situation. However, I need more information before I can assist you. Could you please provide more details about the transaction you're proposing?\n\nBest wishes,\nTom"
     }
 ]

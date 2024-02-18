@@ -2,21 +2,21 @@
     {
         "from": "scammer_314",
         "to": "CRAWLER",
-        "subject": "  general meeting held about y",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  general meeting held about y",
         "body": "  general meeting held about your fund delivery, the paying bank of UGANDA\n(ABC Bank Uganda Limited )\napproved your delivery through a conformable  DHL DELIVERED COURIER\nSERVICE COMPANY  to  delivery your  ATM CARD to you doorstep as ask\nyou mead the payment to them , in act to uphold the rule of law which\nwe represent . You\nhave to reconfirm the information below for security reasons. And also\nbe informed that delivery agent will leave this country as soon as you\ncomply with\n(Courier)Company requirement,\nE-MAIL ADDRESS OF THE DHl: ( \ndhrequirement_delivery1@outlook.com\n)\nBest regards,\nMr. Akello  Emmanuel(Chairman of Board of Directors)   "
     },
     {
         "from": "baiter_314",
         "to": "scammer_314",
-        "subject": "Re:   general meeting held about y",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   general meeting held about y",
         "body": "Hello Mr. Akello Emmanuel,\n\nThank you for your message and the information about the delivery of my ATM card through DHL Courier Service Company. It's really exciting to hear that ABC Bank Uganda Limited has approved this.\n\nCould you please provide more details about this process? For instance, how long will it take for the card to be delivered? And what are the steps I need to follow in order to comply with the Courier Company?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nBrittney"
     }
 ]

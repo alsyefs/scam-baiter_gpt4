@@ -2,21 +2,21 @@
     {
         "from": "scammer_1135",
         "to": "CRAWLER",
-        "subject": "  My Dear",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  My Dear",
         "body": "  My Dear\nattion i am doctor mrs marim abacha i just want to inform you that i\nhave concluded the transaction last week wit h the help of mr park in\nhung kung due to your finacial problem that is whay you do not assist\ni have travel to corial for investment i decided to compasate you with\na check of one million dollars contact my Mrs SEvelyn Joshua send your\nid state of origin and your address and your telephone number by\ncorial service contact her true her email address\nubabankpayingcenterplc@gmail.com\nMRS HOPE Joshua\n+234,8035175147\nAllahbless\nDr Mrs Mariam Abacha\n+81866500879   "
     },
     {
         "from": "baiter_1135",
         "to": "scammer_1135",
-        "subject": "Re:   My Dear",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   My Dear",
         "body": "Hello there,\n\nThank you for your message. It's quite exciting to hear about your travels and investment in Corial! I'm also very grateful for the generous offer of compensation. \n\nCould you please tell me more about how this process works? And what is the role of Mrs. Joshua in all this?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRichard"
     }
 ]

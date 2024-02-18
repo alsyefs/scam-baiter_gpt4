@@ -2,21 +2,21 @@
     {
         "from": "scammer_1416",
         "to": "CRAWLER",
-        "subject": "  Dear Friend,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear Friend,",
         "body": "  Dear Friend,\nI am Miss Yuri Melon A computer scientist and i am working with central bank of Nigeria I am contacting you\nconcerning your funds which were discovered in a dormant account withour bank. I noticed that your money could not be transferred because of lack of proof for the source of the funds.\nThe only thing I will need to release this fund is a special HARD\nDISK. You will buy two of this special Hard disk and send to me and i\nwill use it to  recopy your information, destroy the previous one, and\npunch the computer to reflect in your bank within 24 banking hours. I\nwill clean up the tracer and destroy your file, after which I will\nrelocate to meet with you. If you are interested. Do get in touch with\nme immediately, You should send to me your convenient tell/fax numbers for easy communications and also re confirm your banking details, so that there won't be any mistakes.\nI wait for your response, also send your current telephone contact so\nthat we can discuss this ASAP.\nRegards,\nYuri Melon.   "
     },
     {
         "from": "baiter_1416",
         "to": "scammer_1416",
-        "subject": "Re:   Dear Friend,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Dear Friend,",
         "body": "Hello Yuri Melon,\n\nThank you for reaching out to me. I must say, your job as a computer scientist sounds fascinating! I'm not very tech-savvy myself, so the idea of using a special hard disk to transfer funds is quite intriguing.\n\nCould you please explain more about this special hard disk? What makes it different from regular ones? And where could I possibly purchase such disks?\n\nAlso, I'm curious about the process of recopying and destroying files. How does that work exactly? \n\nI appreciate your help and look forward to hearing from you soon.\n\nBest wishes,\nLisa"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_734",
         "to": "CRAWLER",
-        "subject": "Attn,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attn,",
         "body": "Attn,\nThis is to officially inform you that Mr Zodik Mohammed and Mr Rasheed\nAbdul visited my office this Morning with a Sworn Affedavit requesting\nfor a change of an account that belong to you and divert your total\namount $2.5M to another account.\nNow we want to confirm from you if you authorize such changes hence we\nwant to hear from you before embark on the change of account as\ndirected by the two Men because we are not comfortable to divert your\nfund to another account without your permission.\nThis letter does not mean to cause any embarrassment but diligent and\n due process must be adhered to avoid any form of litigation. contact for more details and information ( \njt8172519@gmail.com\n )\nRegards,\n \nMr John Terry.\n(Director.Legal Department United Community Bank)"
     },
     {
         "from": "baiter_734",
         "to": "scammer_734",
-        "subject": "Re: Attn,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Attn,",
         "body": "Hello Mr. John Terry,\n\nThank you for reaching out to me regarding this matter. I must say, I'm quite surprised to hear about Mr. Zodik Mohammed and Mr Rasheed Abdul's visit to your office. \n\nI don't recall authorizing any changes to my account, especially not a diversion of funds. Could you please provide more details about this situation? What exactly did these gentlemen request? And how did they justify their request?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLinda"
     }
 ]

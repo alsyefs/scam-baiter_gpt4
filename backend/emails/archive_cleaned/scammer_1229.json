@@ -2,21 +2,21 @@
     {
         "from": "scammer_1229",
         "to": "CRAWLER",
-        "subject": "  ATTENTION!!!",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  ATTENTION!!!",
         "body": "  ATTENTION!!!\nMy Name is Andrew J Savage , III, Senior Storage officer at Charleston\nInternational Airport (CHS) SC USA.\nDuring our recent withheld package routine check at the Airport\nStorage Vault, we had discovered an abandoned shipment from one\nDiplomat agent,under shipping forwarder from Hatfield-Jackson Atlanta\nIntl Airport to our facility custody here in Charleston International\nAirport SC and when scanned, it revealed an undisclosed sum of money\nin one Metal Trunk Box.\nThe consignment was abandoned because the Contents of the consignment\nwas not properly declared by the consignee as MONEY rather it was\ndeclared as personal effect to avoid diversion by the shipping agent\nor inability of the diplomat to pay for United States Inspection\ncharges.\nWarmest Regards,\nMr. Andrew J Savage ,\nIII, the Senior Storage officer\nat Charleston International Airport SC   "
     },
     {
         "from": "baiter_1229",
         "to": "scammer_1229",
-        "subject": "Re:   ATTENTION!!!",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   ATTENTION!!!",
         "body": "Dear Mr. Andrew Savage III,\n\nThank you for your message. I am intrigued by the situation you have described, but I must admit that I am a bit confused as well. Could you please provide more details about this abandoned shipment? \n\nI would like to know why the consignee declared it as personal effects instead of money, and what are the implications of this misdeclaration? Also, what is the exact amount of money found in the Metal Trunk Box?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nIsrael"
     }
 ]

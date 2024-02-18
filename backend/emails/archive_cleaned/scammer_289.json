@@ -2,21 +2,21 @@
     {
         "from": "scammer_289",
         "to": "CRAWLER",
-        "subject": "DEBT PAYMENT REGIONAL OFFICE ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "DEBT PAYMENT REGIONAL OFFICE ",
         "body": "DEBT PAYMENT REGIONAL OFFICE \nE-Mail: \ndebtpaymentregionaloffice@gmail.com\n               Phone: +234 904-965-1096\nAttention: xxx,\nDID YOU AUTHORIZE MS DIANE WEBB WITH THE BELOW BANK ACCOUNT TO RECEIVE YOUR CONTRACT PAYMENT WORTH OF $10.5 MILLION DOLLARS ON YOUR BEHALF?\n \nBANK: WELLS FARGO\nADDRESS: 500 NORTH CIRCLE DRIVE\nCOLORADO SPRING\nCOLORADO 80909\nROUTING NO: 121000248\nA/C NO: 2042509535\nSWIFT CODE: WFBIUS6S\nACCOUNT BENEFICIARY: DIANE WEBB.\n \nARE YOU STILL ALIVE?IS MS. DIANE WEBB YOUR PARTNER?\n \nMeanwhile, you are advised to get back to my office immediately with the below requested details to enable us have your correct information.\n \nDetails to wire your fund:\n1.Your Full Name:\n2.Your Full Address:\n3.Your Country of Origin:\n4.Your Direct Phone Number\n5. Banking Details:\n6.A scan photo page copy of your driver's license or your international passport\n \nHowever, we shall proceed to issue all payments details to the said MS DIANE WEBB if we do not hear from you within the next seven working days from today.\n \nYour Sincerely,\nMr Peters Ibe\nDirector Debt payment office"
     },
     {
         "from": "baiter_289",
         "to": "scammer_289",
-        "subject": "Re: DEBT PAYMENT REGIONAL OFFICE ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: DEBT PAYMENT REGIONAL OFFICE ",
         "body": "Dear Mr. Peters Ibe,\n\nI am writing to inform you that I have not authorized Ms. Diane Webb or anyone else to receive any contract payment on my behalf. I do not know who this person is and I have no connection with her.\n\nHere are the details you requested:\n\nFull Name: Lewis D. Noogie\nFull Address: 1234 Main Street, Novosibirsk, Latvia\nCountry of Origin: Latvia\nDirect Phone Number: +371 12345678\n\nFor security reasons, I prefer not to share my banking details and a copy of my driver's license or passport via email. If necessary, we can arrange a secure method for me to provide these.\n\nThank you for your attention to this matter.\n\nBest regards,\nLewis D.\n\nBest wishes,\nDennis"
     }
 ]

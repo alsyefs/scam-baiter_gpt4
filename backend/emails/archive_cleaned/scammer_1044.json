@@ -2,21 +2,21 @@
     {
         "from": "scammer_1044",
         "to": "CRAWLER",
-        "subject": "Attn:The Beneficiary,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attn:The Beneficiary,",
         "body": "Attn:The Beneficiary,\nAre you alive ? If yes , have you received your overdue payment from\nthe Benin Republic government ?.\nI am asking this question today due to the letter we received from a\none time senator of the federation dated 14/04/23. In his letter , he\nsaid that you are now late and that your funds US$2.5M should be\ntransferred to one Mrs.Kerry Morton's bank account with First National\nBank in Arkansas, United States of America.\nSince I have your email on our system , I decided to send this message\nthrough your email address today hoping to find out if you are dead as\nhe claimed or still alive. Also to find out if you are at any time\ngiven the Power of Attorney for any one to represent you in claiming\nyour overdue payment.\nKindly respond to this letter today if you are still alive with your\ndirect working telephone number to let us know if you are aware of\nthis plan as claimed by the senator .\nYours sincerely,\nFemi John Dan"
     },
     {
         "from": "baiter_1044",
         "to": "scammer_1044",
-        "subject": "Re: Attn:The Beneficiary,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Attn:The Beneficiary,",
         "body": "Dear Femi John Dan,\n\nI am very much alive and I have not given anyone the power of attorney to represent me in claiming any overdue payment. I am not aware of any plan as claimed by the senator. \n\nPlease provide more details about this overdue payment from the Benin Republic government.\n\nBest wishes,\nLouis"
     }
 ]

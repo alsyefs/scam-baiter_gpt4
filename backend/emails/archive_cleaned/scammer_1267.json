@@ -2,21 +2,21 @@
     {
         "from": "scammer_1267",
         "to": "CRAWLER",
-        "subject": "RBTRADEFX.com Trading team of ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "RBTRADEFX.com Trading team of ",
         "body": "RBTRADEFX.com Trading team of professional traders with years of experience. We offer the best Binary Investment, Forex Signals and other profitable service by using the most advanced tools trading on cryptocurrency markets, which happens to be very profitable. RBTRADEFX.com possess around 2000 BTC, RBTRADEFX.com is truly a convenient investment platform providing people from all over the world best experience in trading. "
     },
     {
         "from": "baiter_1267",
         "to": "scammer_1267",
-        "subject": "Re: RBTRADEFX.com Trading team of ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: RBTRADEFX.com Trading team of ",
         "body": "Dear Team,\n\nThank you for reaching out and providing information about your trading services. I understand that you offer Binary Forex Signals and other profitable services using advanced tools. \n\nI am interested in learning more about how your platform can provide the best trading experience. Could you please provide more details on the following:\n\n1. What markets do you primarily focus on?\n2. How does your platform handle risk management?\n3. What are the costs associated with using your platform?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nNorma"
     }
 ]

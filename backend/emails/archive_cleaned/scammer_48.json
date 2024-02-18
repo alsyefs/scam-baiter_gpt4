@@ -2,21 +2,21 @@
     {
         "from": "scammer_48",
         "to": "CRAWLER",
-        "subject": "   DEAR SIR,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   DEAR SIR,",
         "body": "   DEAR SIR,\n \nFORWARDED BELOW WAS EMAIL FROM THE NATIONAL DRUG LAW ENFORCEMENT AGENCY DATED 19TH JUNE, 2018, PLEASE REFER. THE EMAIL IS SELF-EXPLANATORY AS IT ALSO CONTAINED THE FEE FOR OBTAINING THE CERTIFICATE. \n \nSINCE WE HAVE NOT HEARD FROM YOU FOR THE PAST FEW WEEKS NOW, HENCE THE PURPOSE OF THIS EMAIL TO LET US KNOW HOW FAR YOU HAVE GONE WITH THEM AND ALSO LET US KNOW IF YOU HAVE BEEN ABLE TO SETTLE THE REQUIRED FEE FOR SECURING THE NDLEA FUND CLEARANCE CERTIFICATE BUT IN CASE YOU ARE UNABLE TO PAY THE FEE, YOU SHOULD ALSO LET US KNOW SO THAT WE KNOW THE AREA WE CAN BE OF ANY ADDITIONAL HELP TO YOU.\n \nAND AGAIN WHY IT NECESSARY FOR YOU TO WORK HARD TO SEE THAT THIS PAYMENT IS MADE SINCE FEDERAL MINISTRY OF FINANCE HAD ALREADY APPROVED THE PAYMENT IS THAT BY NEXT YEAR, NIGERIA SHALL BE GOING ON VOTING FOR A NEW GOVERNMENT AND NOBODY KNOWS WHAT IS GOING TO THE THE POLICY OF THE NEW GOVERNMENT AFTER THE ELECTION ON FOREIGN PAYMENT CURRENCY TRANSACTIONS. THIS IS JUST AN INFORMATION ANY WAY.\n \nTHANK YOU AND HAVE A GREAT DAY.\n \nYOURS FAITHFULLY,\n \nDR. SARAH ALADE (MRS)\nDEPUTY GOVERNOR (CBN)   "
     },
     {
         "from": "baiter_48",
         "to": "scammer_48",
-        "subject": "Re:    DEAR SIR,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    DEAR SIR,",
         "body": "Hello Dr. Sarah Alade,\n\nThank you for reaching out and providing this information. I appreciate your concern about the situation.\n\nI'm curious, could you please elaborate more on the role of the National Drug Law Agency in this matter? Also, what exactly does the NDLEA Fund Clearance entail?\n\nRegarding the fee, I would like to know more about how it is calculated and what it covers. Is there a specific deadline for this payment?\n\nLastly, you mentioned that Nigeria will be voting for a new government next year. How might this impact foreign payment currency policies? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDana"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_867",
         "to": "CRAWLER",
-        "subject": "Greetings,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Greetings,",
         "body": "Greetings,\nPlease, I am sorry to invade your privacy as there is no other means to reach you for now. I am contacting you in regards to the estate/inheritance of your possible deceased relative who bears the same last name as you.\nHe died intestate and left behind an estate worth millions. We have reason to believe that you may be related to the deceased.\nPlease reply to me for more information and possible claims.\nBest Regards,\nGraham Wayne\nAn Attorney at Law "
     },
     {
         "from": "baiter_867",
         "to": "scammer_867",
-        "subject": "Re: Greetings,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Greetings,",
         "body": "Dear Graham Wayne,\n\nThank you for reaching out to me. I am intrigued by your message, but I would need more information before proceeding further. Could you please provide more details about the deceased relative and the estate in question?\n\nBest wishes,\nJacquelyn"
     }
 ]

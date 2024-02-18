@@ -2,21 +2,21 @@
     {
         "from": "scammer_959",
         "to": "CRAWLER",
-        "subject": "Attention: E-mail Address Owne",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attention: E-mail Address Owne",
         "body": "Attention: E-mail Address Owner:\nRE: 2023 SCAM VICTIM'S COMPENSATION FROM THE IMF/ ECO-WAS / UNITED\nNATIONS CONTACT EMAIL ADDRESS:The International Monetary Fund (IMF)/\nECO-WAS / UNITED NATIONS is compensating all the Scam victims and your\nemail address was found in the scam victim's list for this fiscal year\n2021. This I-ECU FINANCIER COMPANY  office has been mandated by the\nIMF / ECO-WAS / UNITED NATIONS  to transfer your compensation to you\nvia Money Gram OR western union Money Transfer OR ATM CARD.You have to\nmake your choice on how you will receive you funds immediately and\nrespond to this email address However, we have concluded your payment\nthrough  I-ECU FINANCIER COMPANY,  the total sum of ( USD$2.5Million)\nis completely transferred to you. \nWe can not be able to send the\npayment with your email address alone; therefor we need your full\ninformation to avoid mistake or wrong delivering, such as:\n(\nmrskristalinageorgieva35@gmail.com\n )\nYour Full Name:...........................\nYour Home Address:......................\nYour Country/ City: .............................\nYour Direct Phone Number:.........................\nYour ID copy\n:............................\nAttached copy of your Identification\n. \nWe are waiting for your urgent response as soon as possible, because\nall the arrangements have been made for you to receive all that belong\nto you.\n( \nmrskristalinageorgieva35@gmail.com\n )\nBEST REGARD\nMRS KRISTALINA GEORGIEVA"
     },
     {
         "from": "baiter_959",
         "to": "scammer_959",
-        "subject": "Re: Attention: E-mail Address Owne",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Attention: E-mail Address Owne",
         "body": "Dear Mrs. Kristalina Georgieva,\n\nI am surprised to receive your email stating that I am a victim of a scam and that there are funds allocated for me by the IMF and United Nations. \n\nBefore I proceed with providing my personal information, could you please provide more details about this situation? How was I identified as a scam victim and what is the exact amount that has been allocated for me?\n\nLooking forward to your response.\n\nBest wishes,\nWanda"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_27",
         "to": "CRAWLER",
-        "subject": "  Attn",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Attn",
         "body": "  Attn\nI write to bring to your notice in accordance to the finance Act of 2020 that was signed into law by the president of federal republic of Nigeria, president Muhammadu Buhari. That Finance Act 2020 gives power to the Federal government of Nigeria to borrow from or confiscate all unclaimed funds in any dormant account in any bank/company share dividends unclaimed for a period more than (6)six years in Nigeria. Sequel to that i want to inform you that i discovered outstanding funds amount of USD35 Million that fall under that category and as such i wish to solicit for your collaboration to work with me so that i can immediately process the release of the fund to you as the owner for our mutual benefits instead of loosing it to Nigeria government.\nCLICK THIS LINK FOR YOUR PERUSAL:\nhttps:/ /www.mondaq.com/nigeria/sales-taxes-vat-gst/1029956/finance-act-2020-highlights-of-latest-developments-in-nigeria39s-tax-regime\nThanks and urgently waiting your response to enable me give you more directive on the  possible way forward.\nYours Sincerely,\nAdemola Okutu(secretary).\nNigeria  debt management office.\nademolaokutu01@gmail.com\n "
     },
     {
         "from": "baiter_27",
         "to": "scammer_27",
-        "subject": "Re:   Attn",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Attn",
         "body": "Hello Ademola Okutu,\n\nThank you for reaching out to me. This sounds like a very interesting opportunity. I'm curious, how did you come across my contact information? And could you please explain more about the process of releasing these funds? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nBeth"
     }
 ]

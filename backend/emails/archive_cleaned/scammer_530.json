@@ -2,31 +2,31 @@
     {
         "from": "scammer_530",
         "to": "CRAWLER",
-        "subject": "  Greetings!    ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Greetings!    ",
         "body": "  Greetings!    \nIs this your private email address?\nShould you be interested in working with me on a financial related project? Please reply back via my personal email:\nThanks and have a nice day,\nMr. Heang Sopheak\nDirector\nShinhan Khmer Bank   "
     },
     {
         "from": "baiter_530",
         "to": "scammer_530",
-        "subject": "Re:   Greetings!    ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Greetings!    ",
         "body": "Dear Mr. Heang Sopheak,\n\nThank you for your message and the opportunity to work with you on a financial related project. I would be interested in learning more about this project, its scope, and how my skills and experience could potentially contribute to its success.\n\nPlease feel free to share more details about the project at your earliest convenience.\n\nBest wishes,\nRebecca"
     },
     {
         "from": "scammer_530",
         "to": "baiter_530",
-        "subject": "Re: REPLY",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "2",
+        "subject": "Re: REPLY",
         "body": "Hello friend,\r\n\r\nThanks for the quick response.\r\n\r\nYour mail is well understood and I will appreciate it if you will work with\r\nme in this transaction with a good understanding and sincere heart.\r\n\r\nDuring the reporting process, I discovered in 2016 that my branch made\r\n($21,537,000.00) this money which the head office is not aware of.  This\r\namount is currently placed in what we call SUSPENSE ACCOUNT without any\r\nbeneficiary. As an officer of the Shinhan Khmer Bank in Phnom Penh,\r\nCambodia, I cannot be directly connected to this money, so this is why I\r\nhave to contact you for us to work so that you can assist receive this\r\nmoney. I need you to stand as the original depositor of the money to enable\r\nmy Head office grant approval for the release of this fund.\r\n\r\nThe said amount is acrued interest undocumented within the bank which has\r\nbeen placed in a suspense account. This amount will be registered under\r\nyour name as the beneficiary if you agree to work with me in this\r\ntransaction. This is a legal transaction in which we shall follow due\r\nprocess whilst claiming the fund with no retribution to all the parties\r\ninvolved whatsoever.\r\n\r\nAs a banker, I understand transferring such a huge amount directly from\r\nbank to bank will lead to paying huge fees as a result of international\r\nbanking regulation before receiving the funds over there in your country.\r\nHence, for us to avoid this as impediment, I will bring this idea of the\r\nfund being released via an ATM card which will be sent to your address. The\r\nprocess bears no hindrance from the authority as it will be a very direct\r\nrelease process with no impediment.\r\n\r\nImmediately you receive the ATM card, you will start making withdrawals\r\nfrom it before my arrival to meet with you. I would like us to reach an\r\nagreement before we proceed further.\r\n\r\nkindly send to me your full information such as:\r\nyour full name\r\nyour address\r\ntelephone number\r\ncopy of any identification of you\r\n\r\nAs soon as I receive the above information from you, I will then draft an\r\nMOU agreement which will contain each persons share for both of us to sign\r\nbefore we complete the fund release process through an ATM card.\r\n\r\nI can assure you that whatever questions you would need to ask or any other\r\nthing you will need to know regarding this transaction will be adequately\r\nanswered to give you a clearer understanding of it all, so as to arrive at\r\na successful conclusion.\r\n\r\nAt the end of this transaction, we shall divide the amount in a 50-50 share\r\nratio of which I plan to invest a good part of my share in your country\r\nunder your supervision. All I require from you is your maximum cooperation.\r\n\r\nI look forward to hearing from you. Do call or send me a message on my\nwhatsApp for further clarification: +855967405973\r\n\r\nThanks and have a nice day,\r\nHeang Sopheak"
     }
 ]

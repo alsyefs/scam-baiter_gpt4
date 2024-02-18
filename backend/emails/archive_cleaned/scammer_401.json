@@ -2,21 +2,21 @@
     {
         "from": "scammer_401",
         "to": "CRAWLER",
-        "subject": "  FACT FINDING OFFICE",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  FACT FINDING OFFICE",
         "body": "  FACT FINDING OFFICE\nINERTATION PAYMENT CENTRE,\n152-160 CITY RD, LONDON EC1V 2NX,\nUNITED KINGDOM\nAttn: Deserving Beneficiary\nSequel to the mandate of the United Nations to clear and release all\nprocessed funds not associated with drugs and terrorist activities to\ndeserving beneficiaries without any further delay. It may interest you\nto note that based on the current financial policy on all foreign\npayments. The International payment center has approved your\noutstanding payment worth US10.5m with the accrued interest via any of\nher cash payment centers in Eur ope, Africa or Asia.\nThe implication of this approval is that every short listed\nbeneficiary like you must travel to the assigned endorsement office in\nperson to sign the necessary fund release order documents/bond before\nproceeding to the cash payment center for proper immediate payment\nrelease without requesting for any upfront fees/charges.\nWe are aware of the cost implication/expenses involved on this process\nknowing fully well that you might be unable to take care of the high\ntraveling expenses associated in this process.\nIn respect of the above subject we have contracted the services of a\nseasoned investor/ sponsor who will cover every expenses needed on\nthis process including your return flight tickets, hotel reservations,\nfeeding and taxi respectively hence you will not be expected to put\nforward any money from your pocket on this subject.\nPlease note that the investor is demanding for 5% only of your total\npayment as his entitlement for the sponsorship. I hope this\narrangement is OK by you? it is important you revert back to us\nurgently to enable us proceed with the needful accordingly.\nhanks for your kind understanding.\nYours Faithfully\nHon. Edward Hicks\nDeputy Secretary\nInternational Payment Center.    "
     },
     {
         "from": "baiter_401",
         "to": "scammer_401",
-        "subject": "Re:   FACT FINDING OFFICE",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   FACT FINDING OFFICE",
         "body": "Dear Hon. Edward Hicks,\n\nThank you for your email and the information provided. I am pleased to hear that my payment has been approved and is ready for release.\n\nI understand the need to travel in person to sign the necessary fund release order documents bond, and I appreciate the offer of a sponsor to cover all associated expenses. \n\nRegarding the investor's demand for a percentage of my total payment, could you please clarify what percentage they are asking for? Once I have this information, I will be able to make an informed decision.\n\nLooking forward to your prompt response.\n\nBest wishes,\nGene"
     }
 ]

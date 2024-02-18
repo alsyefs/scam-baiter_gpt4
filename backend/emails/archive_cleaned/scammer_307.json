@@ -2,21 +2,21 @@
     {
         "from": "scammer_307",
         "to": "CRAWLER",
-        "subject": "  DHL COURIER COMPANY,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  DHL COURIER COMPANY,",
         "body": "  DHL COURIER COMPANY,\nOffice Address: DHL Express ServicePoint, 1240 Forest Pkwy # 400, West\nDeptford, NJ 08066,\nUnited States\nAttention Dear Customer  ,\nI’m Mr. Lawrence Richard , The new appointed Manager of DHL Office at\nWest Deptford, NJ 08066 . I assumed this office on 12th, December ,\n2022. On going through the files of the previous records of this\noffice, I discovered that there are 15 parcels containing ATM cards\neach one attached with an email address of the owner on it. The former\nappointee of this office (Mr James Walsh) failed to carry out the\ndelivery as it was instructed and programmed. Probably, one of his\nreasons for not carrying out the delivery was because of your\nNon-Compliance Of Official Processes and Unbelief Of The Reality Of\nYour Genuine Visa Card.\nAccording to the content recorded in each file, the ATM card was\ndeposited by Mr Wilson Garland who died one year back as a manager of\nZenith Bank United Kingdom . On the statement he wrote on the list, he\nstated that each of the aforementioned ATM cards contains the sum of\nUS$4,500,000.00 and was supposed to transfer to you through his bank\nbut due to your unable to finish the process he uploaded the money to\ntheir ATM Visa card and registered with DHL office before he died. The\ndeposit information of the PARCEL  are as follows,\nDeposit Number: DHL/102p/parcel/2022\nSort/Clearance Code: 0545810\nDeposit Certificate N0.: 863177\nReference File: (RE - 2022 - V)\nPackage Description: 1 SIGNED and SEALED PARCEL.( ATM CARD)\nDepositor: Mr.Mr Wilson Garland\nMS 37995\nDocuments;Secured.\nMeanwhile, I've made the arrangement of posting the 15 parcels through\nour DHL fast delivery to the 15 of you to your respective mailing\naddresses. Am also sending the same message of the same content to 15\nof you that own the 10 abandoned ATM CARDS each at the same time. If\nfound in spam folder, it could be due to your Internet Service\nProvider, ISP. So move to your inbox before your reply.\nI went to our head office at Plantation, FL and reported the issue of\nthe discovered 15 ATM cards in my office and they verified it and gave\nme the veto order to carry out the delivery immediately you reconfirm\nyour mailing address to this office in order for us to mail the ATM\nCARD directly to you. Note, below information is officially needed for\nthe sending of the card and a service charge of $130 for DHL new\nofficial stamp.\nFull name:\nFull mailing info:\nYour cell phone line:\nCountry:\nNearest Airport:\nA.Copy of your I`D:\nI will send your ATM Card once you update us with the above info and\nyou shall be given a tracking number, that is, the Track and Trace\nnumber of your parcel once it is posted to your mailing address, so as\nto enable you track your parcel to know exactly when it will arrive to\nyour mailing address.\nWe give you 100% assurance that once this fee is confirmed, your ATM\nPARCEL will be in your hand within the space of 12 hours without any\nother obstruction.\nRemain blessed as I'll be looking forward to receiving your immediate response.\nYours Sincerely\nMr. Lawrence Richard .\nNew Appointed Manager\nDHL Express Worldwide   "
     },
     {
         "from": "baiter_307",
         "to": "scammer_307",
-        "subject": "Re:   DHL COURIER COMPANY,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   DHL COURIER COMPANY,",
         "body": "Hello Mr. Lawrence Richard,\n\nThank you for reaching out and congratulations on your new appointment as the Manager of DHL Office at West Deptford, NJ. It's quite a surprise to hear about these ATM cards. I must admit, it's not every day one hears about such things.\n\nI'm curious though, how did Mr. Wilson Garland come to have my email address? And why would he choose to deposit such a large sum of money onto an ATM card for me? \n\nAlso, could you please explain more about this official stamp fee? Is it a standard procedure for all DHL deliveries or is it specific to this case?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMitchell"
     }
 ]

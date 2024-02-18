@@ -2,21 +2,21 @@
     {
         "from": "scammer_776",
         "to": "CRAWLER",
-        "subject": "  Federal Ministry of  Bill se",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Federal Ministry of  Bill se",
         "body": "  Federal Ministry of  Bill settlement Compensation Unit FGN-CBN.\nOur Ref: U.N/WBO/UBA/042/17.\nYour Attention Beneficiary;\nWe have finally arranged to issue your compensation fund worth\n$1,750,000.00 into ATM CARD Via ECOBANK ATM SECTOR., Be aware that\nevery necessary arrangement has been made successfully with the\nECOBANK ATM SECTOR.\nContact person:Mr  William Solomon\nForeign Remittance Department\nEmail:talk2williamsolomonunit@gmail.com\nContact the ECOBANK ATM SECTOR. with your delivery information, your\nfull name and your phone number which they will use and issue your ATM\nCARD. Meanwhile be aware that you are going to pay for the ACTIVATION\nof your ATM CARD, Contact them and ask them how much for ACTIVATION\nFEE.\nSincerely,\nMr Godwin Ogadinnma.\nFederal Ministry of  Bill settlement Compensation Unit FGN-CBN    "
     },
     {
         "from": "baiter_776",
         "to": "scammer_776",
-        "subject": "Re:   Federal Ministry of  Bill se",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Federal Ministry of  Bill se",
         "body": "Dear Mr. Godwin Ogadinnma,\n\nThank you for your email and the information provided. I am interested in proceeding with the activation of my ATM card.\n\nHowever, before we proceed, could you please provide me with more details about this process? Specifically, I would like to know:\n\n1. The exact amount required for the activation fee.\n2. The method of payment for this fee.\n3. Any additional steps or requirements that I need to fulfill.\n\nI look forward to your prompt response.\n\nBest wishes,\nChristina"
     }
 ]

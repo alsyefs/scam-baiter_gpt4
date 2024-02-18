@@ -2,21 +2,21 @@
     {
         "from": "scammer_291",
         "to": "CRAWLER",
-        "subject": "  From: Office of Debt Settlem",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  From: Office of Debt Settlem",
         "body": "  From: Office of Debt Settlement Unit <debtsettlementunitng@gmail.com\nSent: Thursday, July 18, 2019  \nTo: \nSubject: Re:Attention: Fill the Form and Get Back.\n \nAttention:\nSir,\nThis acknowledges the receipts of your dated email without your\ninformation receive and wondering on your email content not happy\nabout the claim responds for your best interest to comply immediately.\nBased on the above, you are hereby advice to fill the below\napplication to enable us commence with your transfer process are\nbelow:\nNAME.....................................\nADDRESS..................................\nTEL.......................................\nFAX........................................\nOCCUPATION...............................\nAGE......................................\nBANK NAME................................\nBANK ADDRESS.............................\nBANK TEL................................\nBANK FAX.................................\nCOUNTRY..................................\nACCOUNT NUMBER...........................\nSWIFT CODE...............................\nIBAN NO:.................................\nROUTING NO:..............................\nACCOUNT NAME:........................\nATTACHED YOUR ID COPY.\nHowever, please fill the processing application above and return the\nback  to commence with the transfer.\nThanks to your understanding and waiting to the info to commence forward.\nRegards and sincerely wait.\nYours faithfully,\nDr. Oluyemi Dipeolu.\nCoordinator, Debt Settlement Unit,\nOffice of the Pay-Master General of Federation.\nEmail:debtsettlementunitng@gmail.com  "
     },
     {
         "from": "baiter_291",
         "to": "scammer_291",
-        "subject": "Re:   From: Office of Debt Settlem",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   From: Office of Debt Settlem",
         "body": "Hello Dr. Oluyemi Dipeolu,\n\nThank you for your email and the information provided. I appreciate your assistance in this matter.\n\nHowever, I'm a bit confused about the details you're asking for. Could you please explain why these specific bank details are needed? And what is the purpose of attaching an ID copy?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nPatrick"
     }
 ]

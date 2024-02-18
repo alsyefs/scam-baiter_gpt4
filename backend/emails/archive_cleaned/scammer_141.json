@@ -2,21 +2,21 @@
     {
         "from": "scammer_141",
         "to": "CRAWLER",
-        "subject": "Attention Please,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attention Please,",
         "body": "Attention Please,\nI am Mrs.Roselline Barrow; I am a US citizen, 59 years Old Woman. I\nreside in the State of Texas 75773. My residential address is as\nfollows 23329 Live Oak Dr.Mineola,Texas 75773, United States,i am\nthinking of moving since I am now wealthy, I was one of those that took\npart in the Compensation in Europe/America/Asia/Africa many years ago and they\nrefused to pay me.\nI had spent  over us$200,000 us Dollars, while in\nthe United State, trying to get my funds all to no availed .So, I\ndecided to travel down to Asia precisely Indonesia\nwith all my compensation documents, and I was directed to\nmeet Barrister Antonio Guterres who is the member of\nOUTSTANDING PAYMENT AWARD COMMITTEE and a Human\nRights Activist(Lawyer) and I contacted him and he explained everything to me.\nHe said that whoever is contacting them through emails are fake. He took me\nthe paying bank for of my Compensation payment and i have received my\ncompensation\nand right now I am the happiest woman on earth because I have received\nmy compensation\nfunds which $9,500,000.00.  Moreover, Barrister Antonio Guterres\nshowed me the full\ninformation of those that won lottery and those whose inheritance had\nnot been paid and the list of all outstanding contractor that were owed\nthat are yet to receive their payments in Europe/America/Asia/Africa\nand I saw your\ninformation's as one of the scam victims,\nI decided to email you to stop dealing with\nthose people, they are not with your fund,they are only making money\nout of you.I will advise you to contact\nYou really have to stop dealing with those people that are contacting\nyou and telling you that your fund is with them, that they are\nGovernment officials it is not in anyway with them,\nthey are only taking advantage of you and they will dry you up until\nyou have nothing. \nTake Note, the only money I paid after I met Barrister\nAntonio Guterres, was just $179.00 for the paper works\n, take note of\nthat.\nThank You and Be Blessed.\nMrs.Roselline Barrow.\n23329 Live Oak Dr.Mineola\nTexas 75773 USA."
     },
     {
         "from": "baiter_141",
         "to": "scammer_141",
-        "subject": "Re: Attention Please,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Attention Please,",
         "body": "Hello there,\n\nThank you for sharing your story with me. It sounds like you've been through quite an ordeal! I'm glad to hear that you were finally able to receive your funds with the help of Barrister Antonio Guterres.\n\nI'm curious, how did you come across Barrister Antonio Guterres in the first place? And what made you decide to trust him after all the trouble you had been through?\n\nAlso, could you tell me more about these paper works that cost money? What kind of documents were they and why were they necessary?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJeff"
     }
 ]

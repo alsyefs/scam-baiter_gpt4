@@ -2,21 +2,21 @@
     {
         "from": "scammer_1147",
         "to": "CRAWLER",
-        "subject": "  IMMEDIATE PAYMENT OF YOUR IN",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  IMMEDIATE PAYMENT OF YOUR IN",
         "body": "  IMMEDIATE PAYMENT OF YOUR INHERITANCE FUND OF\n$5.5M #: MAV/NNPC/FGNN/0122.\nFrom the desk of:Mr:  RAX Williams\nManaging Director African Developement Bank Plc,\nInternational Settlement Dept.\nTel ;\nATTENTION: Dear Beneficiary ( )\nYour Name And Your Contact Details Was Given To This Office In Respect\nOf Your Total inherited/Contract Sum  Owed To You Which You Have\nFailed To Claim Because Of Either Non-Compliance Of Official Processes\nOr Because Of Your Unbelief Of The Reality Of Your Genuine Payment. We\nWish To Bring To You The Solution To This Problem. Right Now We Have\nArranged Your Payment waiting to hear from you to give order on the\nmeans of transfer, That Is The Latest Instruction From Economic\nCommunity Of West African States (ECOWAS).\nPlease Let Us Know By Contacting Us Back And Also Send The Following\nInformation As Listed Below.\n1. Full Name....................................................\n2. Phone And Fax Number.............................\n3. Your Age And Current Occupation....................\n4. Attach Copy Of Your Identification...........\nWe Have Been Mandated By The ECOWAS Parliament To Issue Out $5.5M in\nyour favour This fiscal year 2022. Also For Your Information, You Have\nTo Stop Any Further Communication With Any Other Person (S) Or\nOffice(S) To Avoid Any Hitches In Receiving Your Payment. Note That\nBecause Of Impostors, We Hereby Issued You Our Code Of Conduct, Which\nIs (FGN2316UBN) So You Have To Indicate This Code When Contacting me.\nUrgent Response await\nYours sincerely,\nMr:  RAX Williams\nManaging Director African Developement Bank Plc\ninternational Settlement Dept.   "
     },
     {
         "from": "baiter_1147",
         "to": "scammer_1147",
-        "subject": "Re:   IMMEDIATE PAYMENT OF YOUR IN",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   IMMEDIATE PAYMENT OF YOUR IN",
         "body": "Hello there,\n\nThank you for reaching out to me. I must say, this is quite an unexpected message. I'm not aware of any inherited contract sum owed to me. Could you please provide more details about this? \n\nAlso, could you explain what the Economic Community Of West African States (ECOWAS) has to do with my situation? I'm a bit confused about their involvement.\n\nI appreciate your help in understanding this matter better.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKarl"
     }
 ]

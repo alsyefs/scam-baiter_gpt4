@@ -61,7 +61,7 @@ UNIQUE_EMAIL_QUEUED = os.path.join(BASE_DIR, "emails", "archive_cleaned_conversa
 UNIQUE_EMAIL_QUEUED_DUPLICATE = os.path.join(BASE_DIR, "emails", "archive_cleaned_conversations_report", "emails_queued_duplicate.txt")
 EMAIL_ARCHIVED_REPORT = os.path.join(BASE_DIR, "emails", "archive_cleaned_conversations_report", "complete_report.txt")
 EMAIL_CONVERSATIONS_REPORT_CSV = os.path.join(BASE_DIR, "emails", "archive_cleaned_conversations_report", "email_conversations_report.csv")
-
+EMAIL_CONVERSATIONS_SUMMARY_REPORT_CSV = os.path.join(BASE_DIR, "emails", "archive_cleaned_conversations_report", "email_conversations_summary_report.csv")
 # Text-to-speech handling
 TTS_MP3_PATH = os.path.join(BASE_DIR, 'data', 'audio_files', "tts.mp3")  # text-to-speech mp3 file
 

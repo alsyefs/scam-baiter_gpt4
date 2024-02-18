@@ -2,21 +2,21 @@
     {
         "from": "scammer_109",
         "to": "CRAWLER",
-        "subject": "   Our Ref CODE:CBN/SB46/00852",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Our Ref CODE:CBN/SB46/00852",
         "body": "   Our Ref CODE:CBN/SB46/00852\nTo. Beneficiary.\nI am Special FBI Agent Bryan A. Vorndran, and am here in Nigeria as an\nFBI delegate that has been delegated to investigate this fraudsters\nwho are in the\nbusiness of swindling Foreigners that came for transaction in Nigeria .\nPlease be informed that during my investigation, I got to find out\nthat,there is a huge sum of US$12.5million that has been assigned in\nyour name( As\nBeneficiary),and this fraudsters are busy swindling you without any hope\nof receiving your fund.\nNOTE: We have commenced fully in releasing these funds to the\nowners.We have to inform you that we have made some arrest in respect\nof this delayed over your\ndue fund. I have a very limited time to stay in Nigeria here, and  so\nI advise you urgently respond to this message .\nI shall be expecting your response as soon as you receive this\nemail.Note that I have attached my Identification to this email for\nyour perusal. Do not inform any of these people that collected money\nfrom you  about this new development to avoid jeopardizing our\ninvestigation.\nBest Regard,\nFBI Agent Bryan A.Vorndran  "
     },
     {
         "from": "baiter_109",
         "to": "scammer_109",
-        "subject": "Re:    Our Ref CODE:CBN/SB46/00852",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:    Our Ref CODE:CBN/SB46/00852",
         "body": "Dear Agent Bryan,\n\nI am grateful for your intervention in this matter. I have been quite distressed over the situation and your message brings a ray of hope.\n\nPlease guide me on the next steps to take in order to resolve this issue. I assure you of my full cooperation and discretion as advised.\n\nLooking forward to your prompt response.\n\nBest wishes,\nCharles"
     }
 ]

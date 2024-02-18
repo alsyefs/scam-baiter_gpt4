@@ -2,21 +2,21 @@
     {
         "from": "scammer_1252",
         "to": "CRAWLER",
-        "subject": "ATTENTION",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "ATTENTION",
         "body": "ATTENTION\nToday We the United Bank of American has decided to package your total fund of USD $25.5 Million to ensure you confirm your Consignment safely. We don't want to delay your fund anymore and that's the main reason we decided to package it in a Consignment box and will be sent to you through DHL Company as the Consignment is currently with them now.\nYou have to contact the DHL Manager Mr. Michael  Wilkeys with your delivery particulars such as;\nName:\nCountry:\nHome Address:\nTelephone:\nPostal Code:\nOccupation:\nContact them via email as shown below:\nMr. Michael  Wilkeys / DHL Manager\nNew York City, E-mail(\nspecailagentmichaelwilkeys@yahoo.com\n)\nWrite to\nNote that the fund is in ATM Master Card. Kindly indicate the registration code of [#909/DHL/2023] to when contacting them and let us know immediately you confirm your Consignment from them. Thanks for being patience while we will be expecting your response.\nYours In Service!\n Mr.Michsel&#160;&#160;Wilkeys"
     },
     {
         "from": "baiter_1252",
         "to": "scammer_1252",
-        "subject": "Re: ATTENTION",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: ATTENTION",
         "body": "Hello Mr. Wilkeys,\n\nI hope this message finds you well. I received a notification about a package from the United Bank of erican that is currently with DHL. It's quite exciting to hear about this!\n\nCould you please provide me with more details about this package? What does it contain exactly? And how did it come to be in my name?\n\nAlso, could you clarify what the \"code of DHL\" is and where I might find it? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nPearl"
     }
 ]

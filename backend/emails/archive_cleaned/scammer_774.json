@@ -2,21 +2,21 @@
     {
         "from": "scammer_774",
         "to": "CRAWLER",
-        "subject": " Hello sir we have been waitin",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " Hello sir we have been waitin",
         "body": " Hello sir we have been waiting for your update to proceed with the shipman \nBest Regards    "
     },
     {
         "from": "baiter_774",
         "to": "scammer_774",
-        "subject": "Re:  Hello sir we have been waitin",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:  Hello sir we have been waitin",
         "body": "Hello,\n\nI apologize for the delay. I am currently working on gathering all the necessary information for the shipment. I will provide an update as soon as possible.\n\nBest wishes,\nGeorge"
     }
 ]

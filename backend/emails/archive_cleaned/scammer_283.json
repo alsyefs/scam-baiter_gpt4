@@ -2,21 +2,21 @@
     {
         "from": "scammer_283",
         "to": "CRAWLER",
-        "subject": "  Hello   ,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Hello   ,",
         "body": "  Hello   ,\nYou sent money to : \ndcicardo@yahoo.com\n$ 3701.99\nLet us know if you have any concern - 808-649-2071   "
     },
     {
         "from": "baiter_283",
         "to": "scammer_283",
-        "subject": "Re:   Hello   ,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Hello   ,",
         "body": "Hello,\n\nI'm here to assist you. Please feel free to share any concerns or questions you might have.\n\nBest wishes,\nMadlyn"
     }
 ]

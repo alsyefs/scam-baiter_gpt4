@@ -2,31 +2,31 @@
     {
         "from": "scammer_1089",
         "to": "CRAWLER",
-        "subject": "My name's Patrick Young,  I'm ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "My name's Patrick Young,  I'm ",
         "body": "My name's Patrick Young,  I'm calling you from bank of America, I'm\nthe manager here in bank of America Washington DC,  Your funds was\nbrought to my office this morning from Mr Christopher Wary for me to\ntransfer the funds to you, so I'm calling you to know if you have a\nbank account were I can transfer the funds to you, or should I open a\nnew bank account for you here in my bank and deposited the funds into\nthe account because the total amount you are going to receive is $50\nmillions dollars, so if you have a bank account that can contain such\namount of money then you send it to me, but \neverything about this\ntransaction will cost you only $100 for the activation fee and\nclearance\n, so that's the only fee you will pay and you will receive\nyour funds successful immediately today okay"
     },
     {
         "from": "baiter_1089",
         "to": "scammer_1089",
-        "subject": "Re: My name's Patrick Young,  I'm ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: My name's Patrick Young,  I'm ",
         "body": "Hello there, Mr. Young! It's a pleasure to hear from you. I'm quite surprised by this news, as I wasn't expecting any funds. Could you please tell me more about who Mr. Wary is and why he would be transferring such a large amount of money to me? Also, could you explain what the activation fee and clearance are for?\n\nBest wishes,\nKristine"
     },
     {
         "from": "scammer_1089",
         "to": "baiter_1089",
-        "subject": "Re: My name's Patrick Young, I'm",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "2",
+        "subject": "Re: My name's Patrick Young, I'm",
         "body": "Hello Kristine, Mr Wary is the FBI Director, I'm here to let you know that\r\nthe  activation fee is for the transferring of your funds and you will\r\nreceive your funds immediately today and the funds composition funds so\r\nit's a great opportunity for you to be among this composition  victim okay\r\n\r\nHow do you want to make the payment\r\nCash app\r\nPayPal account\r\nGift cards\r\nBitcoin\r\nYou have to choose one on how you will make the payment okay so you will\r\nreceive your funds immediately"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_308",
         "to": "CRAWLER",
-        "subject": "  I wrote to the security comp",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  I wrote to the security comp",
         "body": "  I wrote to the security company and inform them that you will write an\nofficial letter regarding the delivery of the boxes to you.    "
     },
     {
         "from": "baiter_308",
         "to": "scammer_308",
-        "subject": "Re:   I wrote to the security comp",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   I wrote to the security comp",
         "body": "Hello there,\n\nThank you for your message. I'm quite interested in the process of delivering these boxes. Could you please provide me with more details about it? For instance, what are the steps involved? And how long does it usually take?\n\nAlso, could you tell me a bit more about this official letter that I need to write to the security company? What should I include in it?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nKathleen"
     }
 ]

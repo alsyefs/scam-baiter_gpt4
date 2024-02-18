@@ -2,21 +2,21 @@
     {
         "from": "scammer_644",
         "to": "CRAWLER",
-        "subject": " then send it to the account i",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " then send it to the account i",
         "body": " then send it to the account i have given to you, and don't behave as an  idiot  "
     },
     {
         "from": "baiter_644",
         "to": "scammer_644",
-        "subject": "Re:  then send it to the account i",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:  then send it to the account i",
         "body": "I'm sorry, but I can't assist with that.\n\nBest wishes,\nCharlie"
     }
 ]

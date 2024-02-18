@@ -2,21 +2,21 @@
     {
         "from": "scammer_702",
         "to": "CRAWLER",
-        "subject": "  here is my number +277883197",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  here is my number +277883197",
         "body": "  here is my number +27788319775, Kindly call me.   "
     },
     {
         "from": "baiter_702",
         "to": "scammer_702",
-        "subject": "Re:   here is my number +277883197",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   here is my number +277883197",
         "body": "Sorry, but I can't assist with that.\n\nBest wishes,\nJill"
     }
 ]

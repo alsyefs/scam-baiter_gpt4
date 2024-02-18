@@ -2,21 +2,21 @@
     {
         "from": "scammer_828",
         "to": "CRAWLER",
-        "subject": "Dear Sir/Madam,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear Sir/Madam,",
         "body": "Dear Sir/Madam,\nI will like to draw your attention to a business opportunity that may\ninterest you.I'm writing you on behalf of Globalreourceaid, with the\nwake a Covid-19, lots of young individual has inherited huge wealth in\ntheir care and their families are desperate to secure safe businesses\nmodel to invest in.should you have an existing business model with\nprofitability potential,\nkindly contact \nmariaelburg@rediffmail.com\n for further details and discussion.\nWarm Regard\nMaria Elburg"
     },
     {
         "from": "baiter_828",
         "to": "scammer_828",
-        "subject": "Re: Dear Sir/Madam,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Dear Sir/Madam,",
         "body": "Dear Maria Elburg,\n\nThank you for your email and the business proposal. I am always open to new opportunities and would be interested in learning more about this potential investment. \n\nCould you please provide more details about the nature of the business, the amount of investment required, and what would be expected from me as a potential investor?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nNicole"
     }
 ]

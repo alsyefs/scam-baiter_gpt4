@@ -2,21 +2,21 @@
     {
         "from": "scammer_225",
         "to": "CRAWLER",
-        "subject": "  Citibank, 1107 Broadway Bran",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Citibank, 1107 Broadway Bran",
         "body": "  Citibank, 1107 Broadway Branch\nFull Service Brick and Mortar Office\n1107 Broadway\nNew York, NY 10010\nSIR\nTHIS IS THE MANAGER CITIBANK INTERNATIONAL.WE ARE IN CHARGE AND\nASSIGN PAYMENT BANK FOR CONTRACTORS PAYMENT.I HEREBY INFORM YOU ON THE\nNEW  DEVELOPMENT AND THE FILE BROUGHT BEFORE MY TABLE FOR REMMITANCE.\nTHERE IS ONE MR RANDALL BOCIAN FROM UNITED STATE OF AMERICA WITH THE\nFOLLOWING BANKING INFORMATION BELOW WHO CLAIM TO BE YOUR NEXT OF\nKIN,WHOM  INFORMED US THAT YOU DIED OF A THROAT CANCER AND HE IS TO\nRECEIVE YOUR\nCONTRACT SUM.\nHUNTINGTON NATIONAL BANK\nBank Add:17 South High Street Columbus, OH 43216\nRANDALL BOCIAN\nABA/RTN: 044000024\nAccount No.: 02771751152\nSWIFT: HUNTUS33\nPLEASE I WANT YOU TO URGENTLY REPLY THIS MAIL IF IT IS NOT TRUE OR\nONCE WE DID NOT HEAR FROM YOU WE WILL GO AHEAD AND MAKE THIS PAYMENT.\nRobert Baker\nAccount Officer   "
     },
     {
         "from": "baiter_225",
         "to": "scammer_225",
-        "subject": "Re:   Citibank, 1107 Broadway Bran",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Citibank, 1107 Broadway Bran",
         "body": "Hello Robert Baker,\n\nOh my, this is quite a surprise! I'm not sure how Mr. Randall Bocian could claim to be my next of kin. I don't even know him! And throat cancer? That's news to me too. \n\nI'm curious, how did Mr. Bocian provide proof of his claims? It seems like a serious matter that would require substantial evidence.\n\nAlso, could you please explain more about this contract sum? I wasn't aware that there was any money involved.\n\nLooking forward to your response.\n\nP.S: Please remember that I can't share any personal information online for security reasons.\n\nBest wishes,\nCurtis"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_1232",
         "to": "CRAWLER",
-        "subject": "  UNITED NATIONS (2023 Program",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  UNITED NATIONS (2023 Program",
         "body": "  UNITED NATIONS (2023 Program)\n870 UNITED NATIONS B PLAZA 20-A\nNEW YORK NY 100122\nAttention: Dear beneficiary We wish you Happy New Year 2023,\nGood My good friend,  We are  contacting you because you are the one\nof lucky's person in this New Year 2023 to receive our  compensation\nfund  sum of\nUS$500,000,00 (Five Hundred Thousand United States Dollars) This New\nyear congratulations once again\nTherefore,Send  your full Name and telephone number/your correct\nmailing address where you want to receive your compensation  fund  sum\nof US$500,000,00\nThrough Bank of America, Bank Draft  immediately without any problem\nor delay  because this  compensation fund  sum of US$500,000,00 given\nto you by the\nUNITED NATIONS and the World Health Organization is 100 % guarantee\nand it will cost you only $95 to receive it to your doorstep from our\nagent as soon as possible so that you can clear Bank Draft  in any bank\nof your choice there in your country without any delays.\nThanks and God bless you and your family. Hoping to hear from you as\nsoon as you receive your ATM Card from him .\nMaking the world a better place.\nRegards,\nUN   "
     },
     {
         "from": "baiter_1232",
         "to": "scammer_1232",
-        "subject": "Re:   UNITED NATIONS (2023 Program",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   UNITED NATIONS (2023 Program",
         "body": "Hello there,\n\nWow, this is such an unexpected surprise! I can't believe I'm one of the lucky ones this New Year. It's really a great way to start the year, isn't it? \n\nI'm curious though, how was I chosen for this amazing opportunity? And could you tell me more about what the funds are intended for? Is there a specific purpose or can I use them as I see fit?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nEileen"
     }
 ]

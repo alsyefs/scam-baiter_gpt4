@@ -2,21 +2,21 @@
     {
         "from": "scammer_884",
         "to": "CRAWLER",
-        "subject": "An online wire transfer has be",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "An online wire transfer has be",
         "body": "An online wire transfer has been ordered on the long standing payment of your fund.\nTo this end, you will be able to make a transfer of any amount from your online bank account till your fund is exhausted.\nThe order to release your total fund of $5.2 million was contained in a memo sent in by The United States Department of the Treasury No. USDT0945/42/2022/EC24/. You are adviced to send in the following details to the paying bank (Societe Generale Branch & SG Americas Securities);\nFull names\nAddress\nBank name\nBank address\nAccount number\nRouting number\nYou are expected to forward these datails to the branch manager Societe Generale Bank and these are his contact details;\nName; Mike Hanssen\nEmail; \nmikehanssen02@citromail.hu\nThanks for your cooperation.\nCharles Jenkins"
     },
     {
         "from": "baiter_884",
         "to": "scammer_884",
-        "subject": "Re: An online wire transfer has be",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: An online wire transfer has be",
         "body": "Dear Charles Jenkins,\n\nThank you for your email. However, I must inform you that I am not comfortable sharing my personal and banking details over email due to security reasons. \n\nI would appreciate if we could find a more secure way of handling this matter. Please advise on the next steps.\n\nBest wishes,\nMichelle"
     }
 ]

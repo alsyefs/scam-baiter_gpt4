@@ -2,21 +2,21 @@
     {
         "from": "scammer_261",
         "to": "CRAWLER",
-        "subject": "Address:No 511 Small  Street",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Address:No 511 Small  Street",
         "body": "Address:No 511 Small  Street\nHector Road, Pretoria\nJohannesburg,\nSouth Africa\nEmail: \ndanielibrakamal@yandex.com\nDear Sir/Madam,\nYou may be surprised to receive this mail since you don't know me personally, but with due respect, trust and humility, I write to you this proposal. I am Mr. Daniel Kamal, the son of Mr. Ibrahim Kamal of Darfur Sudan. It is indeed my pleasure to contact you for assistance of a business venture which I intend to establish in your country. I got your contact while I was doing a private research on the Internet for a reliable foreign partner that will assist my family and I transfer the said funds to your personal or private account for investment purposes.\n \nThough I have not met with you before, but considering the recent political instabilities in my country, I have no other choice than to confide in for the smooth facilitation of this transaction. There is this huge amount of funds (US45 Million.) FORTY FIVE MILLION UNITED STATE DOLLARS) which my late Father deposited here in a private security company awaiting claim before he was assassinated by unknown persons during this war in Darfur Sudan.\nNow I have decided to invest the funds in your country or anywhere safe for security reasons. I have mutually agreed to compensate you with 20% of the total amount if you agree to assist me. You can contact me through this Email: \ndanielibrakamal@yandex.com\n All I require is your honest and  kind co-operation. I will give you further details as soon as you show interest in helping me.\nI  wait for your kind consideration to my proposal.\nBest Regards,\nDaniel Kamal."
     },
     {
         "from": "baiter_261",
         "to": "scammer_261",
-        "subject": "Re: Address:No 511 Small  Street",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Address:No 511 Small  Street",
         "body": "Dear Daniel Kamal,\n\nI am sorry to hear about your situation. It must be very difficult for you and your family. I would like to help, but I need more information about the process and how we can ensure that everything is done legally and safely.\n\nCould you please provide more details about the funds, the security company where they are deposited, and what steps we need to take? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nChristopher"
     }
 ]

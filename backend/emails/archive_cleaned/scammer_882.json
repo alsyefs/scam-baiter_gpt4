@@ -2,21 +2,21 @@
     {
         "from": "scammer_882",
         "to": "CRAWLER",
-        "subject": "  Dear Friend,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear Friend,",
         "body": "  Dear Friend,\nTrust this email to find you well.\nWe are an investment and lending company based in Turkey and sourcing\nfor a foreign direct investment partners in any of the sectors stated\nbelow:\nWe are offering business loan between Euro/USD 1,000,000.00 to\n5,000,000,000.00 and above at 2% interest rate per annul\nEnergy and power sectors,oil and Gas,Agriculture,Acquisition,\nHealth,Real Estate,IT, Technology Transportation,Mining,Maritime and\nManufacturing.\nIf you are seriously pursuing any direct investment or joint venture\nfor your projects and clients in any of the sectors stated above,\nOur company understands the heavy negative financial impact of the pandemic\n(COVID-19) has on almost 85% of the companies in the world. If you are\ninterested please send us an email  to provide you with a detailed offer and\nconditions for study with the basic financing terms\nof this  offer.\nBest regards,\nKevin Cooper   "
     },
     {
         "from": "baiter_882",
         "to": "scammer_882",
-        "subject": "Re:   Dear Friend,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Dear Friend,",
         "body": "Dear Kevin Cooper,\n\nThank you for your email and the offer. I am indeed interested in exploring potential investment opportunities. However, before we proceed further, I would like to understand more about your company, its history, and the kind of projects you have been involved with in the past.\n\nI would also appreciate if you could provide me with more details about the terms and conditions of this offer. Specifically, I am interested in understanding the repayment terms, any collateral requirements, and other key aspects of this loan.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJay"
     }
 ]

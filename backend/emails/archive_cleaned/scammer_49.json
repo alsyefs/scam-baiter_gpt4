@@ -2,21 +2,21 @@
     {
         "from": "scammer_49",
         "to": "CRAWLER",
-        "subject": "  Hello,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Hello,",
         "body": "  Hello,\nTrust you are in good health with your beloved family. My name is Aleksandra Gvozdenovic-Lakic, from Svetlane Kane Radevic, Podgorica, Montenegro. I need your urgent business assistance due to recent calamity that befell my beloved husband, which led to his untimely death and heavy crypto-wealth challenges.\nYours faithfully,\nAleksandra G. Lakic\nSvetlane Kane Radevic,\nPodgorica, Montenegro \nAleksandraglakic@homemail.com\n "
     },
     {
         "from": "baiter_49",
         "to": "scammer_49",
-        "subject": "Re:   Hello,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Hello,",
         "body": "Hello Aleksandra,\n\nI'm sorry to hear about your recent loss. I hope you're managing okay in these difficult times. You mentioned needing urgent business assistance, could you please elaborate on what kind of help you need? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLula"
     }
 ]

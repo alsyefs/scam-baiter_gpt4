@@ -2,21 +2,21 @@
     {
         "from": "scammer_104",
         "to": "CRAWLER",
-        "subject": " DEAR   ,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " DEAR   ,",
         "body": " DEAR   ,\nWe have read your mail but wish to inform you that nobody is interested in your token $95 and we are not forcing you against your wish. But the fact is that the amount is too small for an account, as a result you are to proceed and send the token delivering fee of $95 by Western Union, Moneygram or RIA. The choice is yours.\nReceiver name ( GIFT DURUZO )\nQuestion: MARY\nAnswer: WILLIAMS\nDestination Nigeria.\nThanks for your understanding.\nHave a nice day.\nBest Regards,\nMrs. Mary Williams\nThe ATM Payment Director\nCentral Bank of Nigeria (CBN)  "
     },
     {
         "from": "baiter_104",
         "to": "scammer_104",
-        "subject": "Re:  DEAR   ,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:  DEAR   ,",
         "body": "Dear Mrs. Mary Williams,\n\nThank you for your response. I understand the situation and I am willing to proceed with the payment as per your instructions. However, before I do so, could you please provide me with more details about this transaction? Specifically, I would like to know what this payment is for and how it will be used.\n\nI look forward to hearing from you soon.\n\nBest wishes,\nHarry"
     }
 ]

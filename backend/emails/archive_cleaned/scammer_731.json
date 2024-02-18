@@ -2,21 +2,21 @@
     {
         "from": "scammer_731",
         "to": "CRAWLER",
-        "subject": "   Hi My Love",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Hi My Love",
         "body": "   Hi My Love\nIt is regrettable based on previous lost, money spent and other\ninconveniences. I want you at this point to forget all lost in the past\nand receive this fund for your best living. I guaranteed a successful\ncash payment delivery worth $5.5m to your address without stoppage by\nany authority. I want you to receive this fund so as to meet all\neconomic challenges. I guaranteed a successful delivery to your\naddress without stoppage by any authority.\nTherefore you are to obtain Customs Clearance Bond which will be\nattached, to confirm that the consignment has been duly checked and\ncleared against financial crime and as such is not subject to further\ninspection by the Customs in your state before delivery to your\naddress. It will cost you $2,011 to obtain Customs Clearance Bond .\nIn God We Trust\nMiss Joy Eke   "
     },
     {
         "from": "baiter_731",
         "to": "scammer_731",
-        "subject": "Re:    Hi My Love",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:    Hi My Love",
         "body": "Dear Miss Joy Eke,\n\nThank you for your message. I understand that you are suggesting a cash payment delivery to my address. However, I would like to clarify a few things before we proceed.\n\nFirstly, could you please provide more details about the source of this fund? It's important for me to know where the money is coming from for legal and ethical reasons.\n\nSecondly, could you explain what the Customs Clearance Bond is and why it's necessary? Also, how much will it cost me to obtain this bond?\n\nLastly, I would appreciate if you could provide some form of identification or proof that this transaction is legitimate. \n\nI look forward to hearing from you soon.\n\nBest wishes,\nLeona"
     }
 ]

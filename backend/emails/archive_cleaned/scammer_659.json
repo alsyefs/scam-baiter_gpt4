@@ -2,21 +2,21 @@
     {
         "from": "scammer_659",
         "to": "CRAWLER",
-        "subject": "Attention: Sir/Madam,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attention: Sir/Madam,",
         "body": "Attention: Sir/Madam,\nAfter our board meeting with United Nation/United States\nGovernment/European Parliament they instructed us to release your\nCompensation Fund through ATM Master Card or Bank to Bank Wire\nTransfer immediately you provide your full information listed below.\nIndicate your preferable option. Bank Transfer takes 48 to 72 working\nhours while ATM Card Delivery takes 5 to 6 working days. Endeavor to\nkeep your payment reference number very confidential.\nProvide the following for your respective payment options.\nEFT Bank Transfer Details .............         MasterCard Debit ATM\nCard!.............\nYour Name and Surname: ---------                 C,-- Your Name and\nSurname:---------\nContact Phone Number:------------               H,-- Residential\nAddress:----------------\nYour Bank Name:---------------------            E,-- Or work\nAddress:--------------------\nAccount Number:--------------------             Q,-- Country\nCity/Province Code:-----\nBranch Code:--------------------------           U,-- Contact Phone\nNumber:----------\nSwift; Code: ---------------------------        E,--\n I.D Or Pass Port\nCopy\n;--------------\nYour Occupation: --------------------         S’—Your Occupation:\n------------------\nI wait your urgent respond for the claims of your fund. All legal\ndocuments will be release to you before your US$50.5M will be transfer\ninto your bank account or ATM Master Card.\nThanks for your maximum co-operation.\nJames John King\nDepartment Of Treasury Direct-Account\nUnited Nations Fund's Remittance\nTel: +234-7056200598\nNOTE : If You Receive This Message In Your Junk Or Spam Its Due To Your\nInternet Provider."
     },
     {
         "from": "baiter_659",
         "to": "scammer_659",
-        "subject": "Re: Attention: Sir/Madam,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Attention: Sir/Madam,",
         "body": "Dear James John King,\n\nThank you for your email. I would prefer the Bank to Bank Wire Transfer option. Here are my details:\n\nFull Name: Eliza Dane\nCity: Sydney\nProvince Code: 2000\nSwift Code: NATAAU3303M\n\nI will send a copy of my passport in a separate, secure email.\n\nLooking forward to your response.\n\nBest wishes,\nMichael"
     }
 ]

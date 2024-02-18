@@ -2,21 +2,21 @@
     {
         "from": "scammer_1346",
         "to": "CRAWLER",
-        "subject": "  Your atm master card is read",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Your atm master card is read",
         "body": "  Your atm master card is ready you have to send your\ncontact to this email \nups20200@gmail.com\n contact us\nwith the WhatsApp number +229 9172 8549\ninformation now via\nworthy $40.5million so that the delivery of\nyour Atm Master Card will take place today,\nfill-up this info here\n1)Your Full Name..............\n2)Mobile Phone Number........\n3)Whataspp no................\n3)Current Home Address.......\n5)Country....................\n6)City......................\n7)Nearest Airport...............\n8)Copy of your ID..................\nThis is your registration code DHJKT00678G\nMr. Alex Agu\nEmail \nups20200@gmail.com\ncall and WhatsApp +229 9172 8549   "
     },
     {
         "from": "baiter_1346",
         "to": "scammer_1346",
-        "subject": "Re:   Your atm master card is read",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Your atm master card is read",
         "body": "Dear Mr. Alex Agu,\n\nI received your message regarding the ATM Master Card. However, I would like to clarify a few things before proceeding further.\n\nCould you please provide more details about this card? How did I qualify for it and what are its benefits? Also, could you please explain the process of delivery and any associated costs?\n\nHere is my contact information:\n\nFull Name: John Doe\nMobile Phone: +1-234-567-890\nWhatsapp: +1-234-567-890\nCurrent Home Address: 123 Main Street, Anytown, USA\nNearest Landmark: Anytown Post Office\n\nPlease note that for security reasons, I am not comfortable providing a copy of my identification in this initial communication. Once we have established trust and I understand more about this process, I will consider providing further personal information.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nCaleb"
     }
 ]

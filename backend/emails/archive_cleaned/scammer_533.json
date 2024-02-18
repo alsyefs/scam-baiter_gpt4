@@ -2,21 +2,21 @@
     {
         "from": "scammer_533",
         "to": "CRAWLER",
-        "subject": "   Dear Friend,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Dear Friend,",
         "body": "   Dear Friend,\nI am sorry, but happy to inform you about my success in getting those funds transferred under the cooperation of a new partner from Vietnam. Though, I I tried my best to involve you in the business, but everything changed completely. Presently, I am in Vietnam for investment projects with my own share of the total sum. Meanwhile, I didn't forget your past efforts and attempts to assist me in transferring those funds despite that it failed us somehow.\nNow contact Mr,Smith Tully as Chaiman of security company in London where the fund have been deposited .His email address is \nsmithtully88@yahoo.com\nAsk him to send you the total sum of $750,000.00 which I kept for your compensation over the past efforts and attempts to assist me in this matter. I appreciated your efforts at that time very much. So feel free and contact my secretary Mr Smith Tully and instruct him where to send the amount to you. Please, do let me know immediately you receive it so that we can share joy after all the sufferings at that time.\nAt the moment, I’m very busy here. Because of the investment projects which I and my new partner are having at hand. Finally, remember that I had forwarded instructions to the secretary on your behalf to receive that money. So, feel free and get in touch with Mr,Smith Tully.\nExtend my greetings to your family.\nBest regards,\nMrs hellen steward\nGreetings from Vietnam  "
     },
     {
         "from": "baiter_533",
         "to": "scammer_533",
-        "subject": "Re:    Dear Friend,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    Dear Friend,",
         "body": "Hello Mrs. Hellen Steward,\n\nI'm so glad to hear from you and to know that you're doing well in Vietnam with your new partner. It's wonderful that you've found success in your investment projects.\n\nRegarding the funds, I appreciate your kind gesture. However, I have a few questions before proceeding further. Could you please provide more details about this? How did Mr. Smith Tully come into the picture? And what is his role exactly?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nElsie"
     }
 ]

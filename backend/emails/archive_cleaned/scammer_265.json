@@ -2,21 +2,21 @@
     {
         "from": "scammer_265",
         "to": "CRAWLER",
-        "subject": "Hi Dear",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Hi Dear",
         "body": "Hi Dear\nThis is to notify you that your US$989,000.00 has been deposited with\nUnited Bank in Barnesville, Georgia on your behalf as compensation/\naccrue interest of the money you lost in scam.The IMF Auditors are\npresently sitting in the United States this Second quarter supervising\nthe payment of foreign beneficiaries.This supervision exercise was\npart of the agreement signed at the last G7 meeting and it was held in\nItaly between the UN,IMF,US Government and The Ministry of Finance.Our\nlegal department shall handle most important and vital aspect of it\nall, which is the legal angle of claim.\nYou are hereby advice to contact DANNY WILSON For your online bank\naccount details, and make sure you abide with their instructions and\ndo provide them with every detail they may ask of you, to enable them\nfinalize your online wire transfer (OWT) particulars in order for you\nto start transferring your Funds to any designated bank account of\nyour choice.\nCONTACT DETAILS\nAMD: DANNY WILSON\nEmail: \ndannywilsondannywilsonlawfirm@gmail.com\n308 Thomaston Street Post Office Box 340 Barnesville, Georgia 30204\nYous' Faithfully.\nAntonio"
     },
     {
         "from": "baiter_265",
         "to": "scammer_265",
-        "subject": "Re: Hi Dear",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Hi Dear",
         "body": "Dear Antonio,\n\nThank you for your email. However, I'm a bit confused about the details of your message. Could you please provide more information about the US deposit with United Bank in Georgia? Also, could you clarify what you mean by \"the payment of foreign exercise\"?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nVida"
     }
 ]

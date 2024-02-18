@@ -2,21 +2,21 @@
     {
         "from": "scammer_217",
         "to": "CRAWLER",
-        "subject": "Hello ,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Hello ,",
         "body": "Hello ,\nI need your assistance  to transfer.,$20.5 million in unclaimed deposits . The money has been in a floating account since last year, the money will be moved to your account immediately.\nKindly contact me by email.\nEmail: \nchristianneilson57@gmail.com\nGreetings."
     },
     {
         "from": "baiter_217",
         "to": "scammer_217",
-        "subject": "Re: Hello ,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Hello ,",
         "body": "Hello there! \n\nWow, that sounds like quite a situation you've got on your hands. I'm curious, how did you come across this unclaimed deposit? And why has it been floating around for so long? Also, could you explain to me how the transfer process would work? I'm not very familiar with these kinds of transactions.\n\nBest wishes,\nAngie"
     }
 ]

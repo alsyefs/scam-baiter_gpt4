@@ -2,21 +2,21 @@
     {
         "from": "scammer_176",
         "to": "CRAWLER",
-        "subject": "  Dear Friend,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear Friend,",
         "body": "  Dear Friend,\nThank you for reaching me . I am currently writing my final exam here in the university. \nI would like you to make arrangement as to pick the sealed boxes containing the fund  from the security company to your destination as my Foreign partner, and my investor .\nI promise to give you 25% of the fund when invested While 15% will go for  expenses we may face in getting the boxes containing my fund  to your country .\nPlease let me know if you agree to arrange to carry the sealed trunk  boxes containing my fund which I registered as a family treasure and valuable in the security company to your destination where there is a stable environment, and invest it on my behalf.\nPlease  when replying this mail, send me your photos,and your ID card  for me to know whom I'm dealing with.\nRegards,\nAnn Hayford   "
     },
     {
         "from": "baiter_176",
         "to": "scammer_176",
-        "subject": "Re:   Dear Friend,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Dear Friend,",
         "body": "Dear Ann,\n\nI'm glad to hear from you and I hope your exams are going well. Your proposal sounds interesting, but I would need more details before I can make a decision. \n\nCould you please provide more information about the nature of the investment you're considering? Also, could you clarify what expenses we might face in transferring the boxes?\n\nAs for my ID, I'm afraid it's against my company policy to share such sensitive personal information via email. However, rest assured that I am a reputable individual with a long history of successful business dealings.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nFrancisco"
     }
 ]

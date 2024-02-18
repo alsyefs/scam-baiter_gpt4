@@ -2,21 +2,21 @@
     {
         "from": "scammer_106",
         "to": "CRAWLER",
-        "subject": "   Dear friend,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Dear friend,",
         "body": "   Dear friend,\nHow are you and your family today? I hope everybody is fine. It has\nbeen quite a long time and i know you may have forgotten everything\nabout me, Anyways, i haven't forgotten you yet, i still remember your\npast effort to help me in making claims to that inheritance fund,\nthough your corporation were not enough to make the successful\ncompletion of the fund claim but all the same, I am happy to inform\nyou today that i did later by the grace of God completed the\ntransaction successfully with the help of another partner.\nThe total fund was transferred to the new partner that I presented for\nthe transaction after you defaulted. Now I am outside my country for\nan investment project with my partner.\nHowever, I did  not forget your past efforts and assistance to me to\nsee that the fund was approved and released, So,  I  decided to\ncompensate you for that support then, i left with my secretary, an ATM\nCARD that contains the sum of US$500,000.00 which would be delivered\nto you once you contact her with your current address.\nPlease, accept this token of appreciation and God bless you. Below is\nthe contact details of my secretary:\nName: Ms. Sheffon Lawrence\nEmail: \nsheffonlawrence@gmail.com\nYou should contact her at your earliest convenience so that the ATM\nCARD can be sent to you on time without delays.\nI wish you the best in all your future endeavors. I would be very busy\nfrom now onwards due to the project we are working on and might be out\nof communication but whatever thing you need to know, my secretary\nshall be there for you, corporate with her and make sure you will\nalways heed to her instructions and advice to enable you have the card\nwithout delays.\nRegards, Marybeth Monson   "
     },
     {
         "from": "baiter_106",
         "to": "scammer_106",
-        "subject": "Re:    Dear friend,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:    Dear friend,",
         "body": "Dear Marybeth Monson,\n\nI hope this message finds you well. I must admit, your email took me by surprise as it has indeed been a long time since we last communicated. \n\nI am glad to hear that you were able to successfully claim the fund and have now embarked on an investment project. Your success is truly inspiring.\n\nThank you for remembering my past efforts and offering to compensate me with an ATM card containing US$. This is a generous gesture which I greatly appreciate.\n\nPlease provide me with the contact details of your secretary so I can reach out to her regarding the delivery of the ATM card.\n\nWishing you all the best in your current project and future endeavors.\n\nBest wishes,\nPhil"
     }
 ]

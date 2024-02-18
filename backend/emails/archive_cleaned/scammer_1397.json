@@ -2,21 +2,21 @@
     {
         "from": "scammer_1397",
         "to": "CRAWLER",
-        "subject": "  GTBank: Guaranty Trust Bank ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  GTBank: Guaranty Trust Bank ",
         "body": "  GTBank: Guaranty Trust Bank Plc\nPlot 635, Akin Adesola Victoria Island,\nLagos Nigeria.\nEmail: .GTbanknigplc@accountant.com\nTel: +2349046295522\nDear\nI am writing to announce to you that your compensation fund is ready\nand you are going to receive it via ATM card. Forward your details to\nMr.Robert.\nContact: Mr. Eric Robert\nCompensation Fund Transfer Dept.\n(GTBank: Guaranty Trust Bank Plc)\nContact Email: \nGTbanknigplc@accountant.com\nContact him now and forward the below details to him:\n1. Your Full Name:\n2. Your Age:\n3. Occupation:\n4. Cell/Mobile Number:\n5. Your Home Address.\n6. Your Driver's License.\n7. Your Banking Details.\nPlease make sure you are a scam victim to respond to this Email if\nthis mail come as an Error Ignore it and Delete Immediately   "
     },
     {
         "from": "baiter_1397",
         "to": "scammer_1397",
-        "subject": "Re:   GTBank: Guaranty Trust Bank ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   GTBank: Guaranty Trust Bank ",
         "body": "Dear Sir/Madam,\n\nI appreciate your message, but I'm afraid there must be some mistake. I have no pending funds that I'm aware of. Could you please provide more details about the origin of these funds?\n\nBest wishes,\nHeather"
     }
 ]

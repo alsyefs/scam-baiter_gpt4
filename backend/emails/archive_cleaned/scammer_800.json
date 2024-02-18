@@ -2,21 +2,21 @@
     {
         "from": "scammer_800",
         "to": "CRAWLER",
-        "subject": "  Your account XXXXXXXX23 stat",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Your account XXXXXXXX23 stat",
         "body": "  Your account XXXXXXXX23 statement for 2023 is $5,000,000.00.\nYour account is dormant, re-activate your account to have full account\nto your fund.\nYour long awaited part payment of $5 Million USD is ready for\nimmediate release to you, and it was electronically credited into an\nATM Visa Card for easy delivery.\nYour new Payment Reference No.- 63883736, Password No: 006743, Pin\nCode No: 1799 Your Certificate of Merit Payment No: 034543, Released\nCode No:3532; Immediate Telex confirmation No:- 043553; Secret Code\nNo: TBKTA98 Re-Confirm;\nYour Names:\n|Address:\n|Cell Phone:\n|Fax: |\nOccupation: |\nYour immediate response is needed.\nReply to:lmarklimathai84@gmail.com\nThank you for banking with us.\nMr. Mark Limathai   "
     },
     {
         "from": "baiter_800",
         "to": "scammer_800",
-        "subject": "Re:   Your account XXXXXXXX23 stat",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Your account XXXXXXXX23 stat",
         "body": "Dear Mr. Mark Limathai,\n\nI received your message regarding the dormant account and the part payment of Million USD credited into an ATM Visa Card. However, I am a bit confused about the details you provided.\n\nCould you please provide more information about this? Specifically, I would like to know how this situation came about and what steps I need to take next.\n\nLooking forward to your response.\n\nBest wishes,\nJennifer"
     }
 ]

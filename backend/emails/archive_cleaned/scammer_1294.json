@@ -2,21 +2,21 @@
     {
         "from": "scammer_1294",
         "to": "CRAWLER",
-        "subject": "FROM THE JP MORGAN CHASE BANK",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "FROM THE JP MORGAN CHASE BANK",
         "body": "FROM THE JP MORGAN CHASE BANK\nWinchester Virginia United States\nAttn:\nWe have been informed from the Authorities to have your (FUNDS)\nreleased processing is completed and you are the rightful beneficial\nto claim it otherwise the funds will be declared non-serviceable  by\nthe bank and consequently, it's confiscation.\nThe time frame is very short and technically, bank transfer is the\nfastest means of getting this done, so we have reverted to status qua.\nMandate has been issued to a commission namely UNCLAIMED ASSET/ASSETS\nRE-UNITED, USA here in the UNITED STATES to effect this payment to you\nusing it's traditional banking procedure, VIA WIRE TRANSFER and you\nare to contact the Executive director of JP MORGAN CHASE BANK  for the\nrelease of the funds to be transferred into your nominated bank\naccount, and here is the contact information below.\ncontact Email:(\ntoddcombsoffice@gmail.com\n)\nIf you are receiving this notification for the first Award Funds which\nis on your name, can only be paid upon our receipt of your beneficiary\nidentification security transfer CODE which is (LN2932K12CP) for\nclearance of the funds. Send it immediately to us for instant\naccreditation of your proceeds into your account as listed below.\n1) Your full name:\n2) Phone, fax and mobile:\n3) Address :\n4) Profession:\n5) Age:\n6) Marital status:\n7) \nCopy of your any valid ID card front and back\nEnsure you contact Todd.A.Comb with all your Full contact details\nregarding of your Funds and get back to us for more information.\nThanks.\nGarry Fisher\nRe-United Asset Manager"
     },
     {
         "from": "baiter_1294",
         "to": "scammer_1294",
-        "subject": "Re: FROM THE JP MORGAN CHASE BANK",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: FROM THE JP MORGAN CHASE BANK",
         "body": "Dear Garry Fisher,\n\nThank you for your email. I am excited to hear about the funds that are due to be released to me. However, before I provide my personal information, could you please clarify a few things for me?\n\n1. Could you please provide more details about the origin of these funds? How did they come to be in my name?\n2. What is the exact amount of the funds that are due to be released?\n3. Could you explain what the security transfer CODE is and how I can obtain it?\n\nOnce I have this information, I will be able to proceed with providing my personal details.\n\nBest wishes,\nRobert"
     }
 ]

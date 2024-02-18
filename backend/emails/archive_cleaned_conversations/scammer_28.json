@@ -2,41 +2,41 @@
     {
         "from": "scammer_28",
         "to": "CRAWLER",
-        "subject": "The Silver Gold Bank",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "The Silver Gold Bank",
         "body": "The Silver Gold Bank\n> 1818 H Street, NW Washington, DC 20433 USA.\n> Attention Please Dear Beneficiary,\n> This is  Mr.Ajay Bernd  the Silver Gold Bank  head quarter at the 1818 H Street, NW Washington, DC 20433 USA and your information appeared to the list of individuals to be compensated because there was a meeting held two days ago at New York and some Presidents in some countries was invited mostly all the Presidents in Africa and the meeting was hosted by Mr;Joe Biden the President of the United States Of America and i too was in the meeting and the purpose of conducting the meeting is to compensate the people that was scammed earlier years ago till date by some Africa countries and the compensation is for the scam victim and the amount to be compensated to each of the list is the sum of $2Million United States Dollars and the funds is under me at the SILVER GOLD BANK and that is the reason i'm contacting you personal and the funds will be packaged in ATM MAATER CARD or we can also open your online bank account for you ,And it will be delivered to your address and you will have it with you within just few hours after i heard from you and i have already have your information with me but you have to reconfirm your information to me once again to ensure that i'm dealing with the right person to avoid mistake or sending your compensation funds to wrong person.\n>\n>\n Below are what i need from you now and once you reconfirm it to me the delivery of your ATM MasterCard  of your funds of $2Million Dollars will immediately take off to your destination home address.\n>\n1. Full Name:......\n2. Country:..........\n3. Home Address:.........\n4. Telephone..........:& Occupation.......\n5. Your Age...... /Sex....................\n> Thank you as i'm waiting to hear from you soonest with the requested information.\n>\n> Thank You once again\n>\n> Mr.  Ajay Bernd\n>\n> Silver Gold Bank Head Quarter\n> 1818 H Street, NW Washington, DC 2043"
     },
     {
         "from": "baiter_28",
         "to": "scammer_28",
-        "subject": "Re: The Silver Gold Bank",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: The Silver Gold Bank",
         "body": "Dear Sir/Madam,\n\nThank you for your email.\n\nBest wishes,\nDanny"
     },
     {
         "from": "scammer_28",
         "to": "baiter_28",
-        "subject": "Re: The Silver Gold Bank",
         "direction": "Inbound",
-        "days_from_first_conversation": 4,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "2",
+        "subject": "Re: The Silver Gold Bank",
         "body": "Are you there"
     },
     {
         "from": "baiter_28",
         "to": "scammer_28",
-        "subject": "Re: The Silver Gold Bank",
         "direction": "Outbound",
-        "days_from_first_conversation": 4,
+        "days_from_first_conversation": 0.01885416666666667,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "3",
+        "subject": "Re: The Silver Gold Bank",
         "body": "Yes, I am here. How can I assist you further?\n\nBest wishes,\nDanny"
     }
 ]

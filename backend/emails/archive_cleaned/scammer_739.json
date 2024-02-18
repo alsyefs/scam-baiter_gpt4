@@ -2,21 +2,21 @@
     {
         "from": "scammer_739",
         "to": "CRAWLER",
-        "subject": "This is very urgent! I am Mrs.",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "This is very urgent! I am Mrs.",
         "body": "This is very urgent! I am Mrs. Julia Dalton. Am presently hospitalized with stage 4 breast cancer. Please pray for me. \nI have an important message for you, reply to this email quickly so that I can give you the important message. \nThanks & may the good Lord bless you.\nMrs. Julia Dalton."
     },
     {
         "from": "baiter_739",
         "to": "scammer_739",
-        "subject": "Re: This is very urgent! I am Mrs.",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: This is very urgent! I am Mrs.",
         "body": "Hello Mrs. Julia Dalton,\n\nI'm so sorry to hear about your current health situation. I'll definitely keep you in my thoughts and prayers. I hope you're getting the best care possible.\n\nYou mentioned that you have an important message for me. Could you please share more details? I'm here to listen.\n\nBest wishes,\nKaren"
     }
 ]

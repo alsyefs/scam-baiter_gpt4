@@ -2,21 +2,21 @@
     {
         "from": "scammer_430",
         "to": "CRAWLER",
-        "subject": "Dear  Friend,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear  Friend,",
         "body": "Dear  Friend,\nWe have actually been authorized by the newly appointed United Nation secretary general, and the governing body of the International Fund Recovery Unit, to investigate the unnecessary delay on the  payment of your Scam Victim's Compensation  funds, recommended and approved for your  favour.\nBecause we found your email address and your name in the list  of people who have not received their Scam Victim's Compensation  fund for a very long time ago because of the corrupt bankers and that is why we are contacting you again , This have been agreed upon and have been signed Therefore, we are Happy to inform you that an arrangement has been perfectly concluded by the Federal Ministry of Finance and approved by the United Nations  Compensation Committee to affect your  payment as soon as possible in our bid to be transparent.\nNow  we want to inform you that your unpaid compensation   funds of  US$5.5 Million United States Dollars  have been converted into an ATM Master Card and have been registered with FEDEX COMPANY and  You are advised to contact  the Fedex Courier Company's manager\nThis is the Fedex company Manager information:\nCompany Name :  Fedex Company\nWebsite:  www. fedex.com\nManager's Name :  Mr. Barry White\nEmail Address :      \nfedexdeliveryagen@outlook.com\nContact the fedex courier manager now for immediate delivery of your ATM Master card at your address.\nHere is the information the courier  company  required from you.\nYour full Name:\nCountry/City:\nYour Home or Office Address:\nYour private  phone Number:\nNB: You are to send to him $95 only for the release of your ATM card, do not send more than $95.\nRegards,\nMr.Maurice Kennedy\nSecretary,\nCompensation for Scam Victim."
     },
     {
         "from": "baiter_430",
         "to": "scammer_430",
-        "subject": "Re: Dear  Friend,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Dear  Friend,",
         "body": "Dear Kennedy,\n\nThank you for your email and the information provided. I am relieved to hear that my case has been recognized by the United Nations Committee and that steps are being taken to rectify the situation.\n\nHowever, before I proceed with contacting Mr. Barry White at FedEx, I would like to clarify a few details. Could you please provide me with more specific information about this ATM Master Card? How exactly does it work? Is there a limit on how much I can withdraw daily?\n\nAlso, could you please provide me with the full contact details of Mr. Barry White at FedEx? \n\nI look forward to your prompt response.\n\nBest wishes,\nArnold"
     }
 ]

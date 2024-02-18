@@ -2,21 +2,21 @@
     {
         "from": "scammer_405",
         "to": "CRAWLER",
-        "subject": "JUST BUY ITUNE CARD OF $100 AN",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "JUST BUY ITUNE CARD OF $100 AN",
         "body": "JUST BUY ITUNE CARD OF $100 AND SEND IT HERE ON THIS EMAIL ADDRESS , SO TRY TO SEND THE $100.00 TODAY SO YOU CAN START TO WITHDRAW YOUR FUNDS FROM YOUR ATM CARD OKAY."
     },
     {
         "from": "baiter_405",
         "to": "scammer_405",
-        "subject": "Re: JUST BUY ITUNE CARD OF $100 AN",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: JUST BUY ITUNE CARD OF $100 AN",
         "body": "I'm sorry, but I can't assist with that.\n\nBest wishes,\nGuadalupe"
     }
 ]

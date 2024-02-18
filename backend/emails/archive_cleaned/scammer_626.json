@@ -2,21 +2,21 @@
     {
         "from": "scammer_626",
         "to": "CRAWLER",
-        "subject": "UNITED NATIONS OFFICE",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "UNITED NATIONS OFFICE",
         "body": "UNITED NATIONS OFFICE\n405 East 42nd Street, New York, NY, 10017,USA\nOUR REF: UN / US / 021.7XXVX / 901\nYOUR REF: UNA / USA / 255-U7 / 2022\nAttention: Beneficiary\n             NOTICE TO PAY YOU.\nFollowing the Resolution of the World Bank Economic Forum with the Directors of International Monitoring Fund (IMF) passed at the United Nations Assembly Conference held in Washington DC USA recently, It was unanimously agreed that all outstanding debts relating to Share Bond, Contract Payment, Lottery/Inheritance Fund owed to Foreign Contractors and Corporate Individuals should be settle before the 1st Quarter of the year runs out.\nAs one of the Beneficiary affected in the list submitted to the United Nations Assembly by the World Bank Auditors for consideration, we hereby notify you that the sum of $18.5 million US Dollars has been approved for you.Please furnish us with your full name, address and Telephone number for immediate payment.\nFor your information we have only a few weeks to complete this payment exercise, and upon receipt of your mail you will be notified by the corresponding bank to receive the money from.\nWe look forward to hearing from you soon.\nRobert Russell.\nUN Audit Officer.\nReply to email \ninfounitednation07765@gmail.com"
     },
     {
         "from": "baiter_626",
         "to": "scammer_626",
-        "subject": "Re: UNITED NATIONS OFFICE",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: UNITED NATIONS OFFICE",
         "body": "Dear Robert Russell,\n\nThank you for your email and the information provided. I am pleased to hear about the resolution passed at the United Nations Assembly Conference.\n\nHere are my details:\n\nFull Name: Lewis D. Noogie\nAddress: 123 Main Street, Novosibirsk, Latvia\nTelephone Number: +371 12345678\n\nI look forward to hearing from you regarding the next steps in this process.\n\nBest regards,\nLewis D.\n\nBest wishes,\nRobert"
     }
 ]

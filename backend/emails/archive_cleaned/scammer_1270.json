@@ -2,21 +2,21 @@
     {
         "from": "scammer_1270",
         "to": "CRAWLER",
-        "subject": "We have top quality Personal p",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "We have top quality Personal p",
         "body": "We have top quality Personal protective equipment in stock at Good prices, made with the best Protective material to help you provide excellent patient care, order the best medical supplies online.\nGetränke Sarl offers a comprehensive line of high quality products to fit your medical needs. we have everything you could ever need, and more. We believe in working together with our clients during this Pandemic to deliver superior service and products to optimize patient outcomes. Get in touch with us now to get your medical supplies at the best wholesale prices."
     },
     {
         "from": "baiter_1270",
         "to": "scammer_1270",
-        "subject": "Re: We have top quality Personal p",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: We have top quality Personal p",
         "body": "Dear Sir/Madam,\n\nThank you for your email and the information about your Personal Protective Equipment. I appreciate your commitment to providing high-quality products, especially during these challenging times.\n\nCould you please provide more details about the types of equipment you have in stock? Also, it would be helpful if you could share the pricing details and delivery timelines.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nBrandon"
     }
 ]

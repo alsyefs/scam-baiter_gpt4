@@ -2,21 +2,21 @@
     {
         "from": "scammer_837",
         "to": "CRAWLER",
-        "subject": "The European Union Commission ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "The European Union Commission ",
         "body": "The European Union Commission (EU) in conjunction With Bank for\ninternational settlements (BIS) after a lot of petitions We received\nfrom various organizations such as Corporate Bodies and\nNon-Governmental Organization (NGO) on the Inability of some\nGovernment of different countries, Commercial banks and World Lottery\nOrganization to settle their clients Contract debt, Inheritance Fund\nAnd Winning prizes.\nThe Governing Council according the panel has sent to you several\nLetter for the claim of your payment fund.\nTo our surprise we receive a letter from Cousin Mr.Robert Dare that\nyou Instructed to go ahead claim the fund on your behalf \nwe need the\nCorrect details for us to compare with your information in our system\nAs to confirm is the real claimant of the part payment fund in your\nFavor without any further delay.We are sorry for any inconvenience\nthat the banks and any other parastatals might have cost you.\nWe would appreciate your urgent response to this mail for proper payment.\nBest Regards,\nMR Mark Smith"
     },
     {
         "from": "baiter_837",
         "to": "scammer_837",
-        "subject": "Re: The European Union Commission ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: The European Union Commission ",
         "body": "Hello Mr. Mark Smith,\n\nThank you for reaching out and providing this information. It's quite surprising to hear about my cousin Dare, as I don't recall giving him any such instructions. Could you please provide more details about the letters that were sent to me? I'm afraid I haven't received any.\n\nAlso, could you elaborate on the part payment fund you mentioned? How was it determined that this fund is in my favor?\n\nLooking forward to your response.\n\nBest wishes,\nMark"
     }
 ]

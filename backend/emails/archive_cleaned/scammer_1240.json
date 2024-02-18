@@ -2,21 +2,21 @@
     {
         "from": "scammer_1240",
         "to": "CRAWLER",
-        "subject": "FROM THE DESK OF: Mr.shelton b",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "FROM THE DESK OF: Mr.shelton b",
         "body": "FROM THE DESK OF: Mr.shelton blake,\nWestern  Bank Of Texas  Plc,\nDear Friend,\nI got your contact email address on the internet in my search for a reputable, reliable, and trustworthy person who can stand confidently with me.\nMy name is Mr.shelton blake, I am in the Office of Auditing and Accounting Management Department of Western  BankOf Texas  Plc here in Texas USA. I am writing in respect of a foreign customer of my Bank (ANTHONY P. ANDERSON of your country) who died on the 24th of March, 2020 due to this recent Corona-virus pandemic.\nThere was an account opened in my Bank by this late INDUSTRIALIST/CONTRACTOR who died without a written or Oral WILL and Next of Kin information attached to the account, and no other person knows about this account or anything concerning it, because the account has no other beneficiary or Next of Kin until his death.\nMeanwhile, the Banking ethics here does not allow an account to stay dormant more than a year without being operated, hence the money deposited in the said account will be confiscated as unclaimed funds after the long period of dormancy.\nSo, it is in light of these development that I am compelled to seek your indulgence and active participation in a well thought out scheme for you to act as the Next of Kin and foreign beneficiary of the fund from the deceased, since it is certain that no one will show up to be the Next of Kin to claim the funds.\nThe total amount involved is $2.5 million pounds, but I wish to start the first transfer with half of the total fund. Upon successful transaction without any disappointment from your side, then you shall re-apply for the transfer of the remaining balance into your account.\nI will not fail to bring to your notice that\n this transaction is 100% risk free \nand that you should not entertain any fear as all modalities for fund transfer can be finalized within a few banking days after you apply to my Bank as the beneficiary of the fund from the deceased.\nThe only risk I foresee here is you alerting my Bank or your refusal to work with me.\nSo, I would like you to treat this transaction with utmost confidentiality between me and you alone. I promise to always have direct communication with you on how this transfer will go successfully, if only you can abide by my instruction.\nUpon receipt of your reply, I will give you full details on how the transfers will be executed and I can obtain and manipulate all vital documents necessary for a successful transfer of the fund into your bank account.\nI look forward to your quick response. Thanks and trusting to hear from you immediately. \nsheltonblake7940@gmail.com\nBest Regards,\nMr.shelton blake,\n(Auditor, Western  BankOf Texas  Plc)\nsheltonblake7940@gmail.com"
     },
     {
         "from": "baiter_1240",
         "to": "scammer_1240",
-        "subject": "Re: FROM THE DESK OF: Mr.shelton b",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: FROM THE DESK OF: Mr.shelton b",
         "body": "Hello Blake,\n\nThank you for reaching out to me. I'm sorry to hear about the unfortunate demise of Mr. Anthony P. Anderson due to the pandemic.\n\nI must admit, this is a rather unusual situation and I have never been involved in anything like this before. However, I am intrigued by your proposal and would like to understand more about it.\n\nCould you please explain how exactly this process works? How can I act as the Next of Kin for someone who I have never met or known? Also, what kind of documents would be required for such a transfer?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nFrancis"
     }
 ]

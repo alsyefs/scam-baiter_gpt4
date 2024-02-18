@@ -2,31 +2,31 @@
     {
         "from": "scammer_306",
         "to": "CRAWLER",
-        "subject": "Your ATM Card of $7.5 million ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Your ATM Card of $7.5 million ",
         "body": "Your ATM Card of $7.5 million USD has been approved and was deposited\nwith DHL delivery company this morning for registration,and we agreed\nup that the delivery of Your $7.5 Million USD ATM Package will take\noff Monday morning .So c\nontact Dhl with your full info where your ATM\ncard will be delivered to you,\n(1) Full name---------\n(2) Mobile Number:--------------\n(3) Direct telephone number ------\n(4) Country of origin-------\n(5) Your Current delivery address:\n(6) Occupation:----\n(7) City -------------------\n(8) occupation _____________\nUrgent get back to us today with your full address where your ATM card\nwill be delivered to because i will not be in the office next two weeks\n:\nThe amount in your Card is $7.5Million.\nThe delivery fee and stamping duty is $155 usd will so try and send it to them\n,\nRegards,\nMr William Erick\nFrom DHL courier delivery company\nEmail ( \ndhl5050@post.com\n )"
     },
     {
         "from": "baiter_306",
         "to": "scammer_306",
-        "subject": "Re: Your ATM Card of $7.5 million ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Your ATM Card of $7.5 million ",
         "body": "Dear Mr. William Erick,\n\nThank you for your email regarding the ATM card. However, I must inform you that I am not expecting any such card and believe there may be a mistake. Could you please confirm the details of this transaction? \n\nHere are my details as requested:\n\nFull name: John Doe\nMobile Number: +1-234-567-8901\nDirect telephone number: +1-234-567-8902\nCountry of origin: United States\nCurrent delivery address: 123 Main Street, Anytown, USA\nOccupation: Software Engineer\nCity: Anytown\n\nI look forward to your prompt response.\n\nBest wishes,\nRichard"
     },
     {
         "from": "scammer_306",
         "to": "baiter_306",
-        "subject": "Re: Your ATM Card of $7.5 million",
         "direction": "Inbound",
-        "days_from_first_conversation": 1,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "2",
+        "subject": "Re: Your ATM Card of $7.5 million",
         "body": "you need to pay the sum of $600 for delivery fee of your atm card before we can proceed. \n \n \n Sent: Wednesday, February 07, 2024 at 2:27 AM From: \"Richard\" <ey40818@***.com> To: dhl5050@post.com Subject: Re: Your ATM Card of $7.5 million \n \nDear Mr. William Erick, \nThank you for your email regarding the ATM card. However, I must inform you that I am not expecting any such card and believe there may be a mistake. Could you please confirm the details of this transaction? \nHere are my details as requested: \nFull name: John Doe \nMobile Number: +1-234-567-8901 \nDirect telephone number: +1-234-567-8902 \nCountry of origin: United States \nCurrent delivery address: 123 Main Street, Anytown, USA \nOccupation: Software Engineer \nCity: Anytown \nI look forward to your prompt response.\nBest wishes, \nRichard"
     }
 ]

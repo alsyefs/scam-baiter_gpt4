@@ -2,21 +2,21 @@
     {
         "from": "scammer_710",
         "to": "CRAWLER",
-        "subject": "  Dear Sir/Madam,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear Sir/Madam,",
         "body": "  Dear Sir/Madam,\nMy name is Mr. Alain Coulibaly, I am working in the office of director of International Remittance/Telex Department of African Development Bank (ADB). We have been charged by the African Union (AU) to get in contact with contractors who have executed one contract or other and people who have lost money mysteriously in Financial transactions within the member states and whose payment has not been made through their respective banks till date.\nI came in contact with your file submitted by the bank, and noticed that your case has been like a mirage, an optical illusion, not being paid your contract fund, after having met payment obligations and having fulfilled every statutory release requirements.\nIt is my pleasure to gladden your heart today that I have decided to use my position and office to come into your matter to proffer solutions and put an end to your predicament in receiving your payment.\nHaving said this, I wish to notify you properly here that ADB is directly responsible for your payment now, you are to contact us for proper disbursement of your funds.\nDiscontinue with the  central bank of the country where you executed contract and its affiliates bank’s  protocols of approving your file and through direct government procedures, then i bet you that till infinity you cannot get paid, no matter how much of official charges and fees that you pay, it will be like putting a cup of  water inside the sea, it does not matter how rich you may be.\nThere are Cabals and Cartels who are responsible for this in every member state, who will never allow payment to happen unless something different and drastic\nis done. This is the true position that no one will tell you here.\nThe method through which I will transfer your funds is to first and foremost harmonize with the CEO of ADB for your payment. As soon as I convince him that you will give him a certain percentage like 10%, he will agree with us then that will enable him to contact the UK Debt Management Office for payment of\nyour fund to be debited from ADB consolidated account with our bank in the United Kingdom.\nIn this we have succeeded in cutting off all encumbrances, loopholes and hitches of Africa straight to the United Kingdom where the payment will come direct to your account.\nIf you can come out to give me the support that I will require, then I can authoritatively tell you that definitely your payment can be fixed once you are ready to play ball and offer the CEO something reasonable. But note, under no circumstance will he accept any deal with anybody except through people like me he trusts.\nOn my side I will not do this for free, so do let me know what I stand to gain when the funds get to your account confirmed, Let me know what you will give to me when the fund is confirmed in your account. This must be very very confidential because of our positions with the bank, under no circumstance must you disclose it to people who has nothing to do with this transaction.\nAs soon as you get back to me then I will give you further details. Have a wonderful day.\nYours faithfully,\nAlain Coulibaly (Office of the CEO. IRTD. ADB).   "
     },
     {
         "from": "baiter_710",
         "to": "scammer_710",
-        "subject": "Re:   Dear Sir/Madam,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Dear Sir/Madam,",
         "body": "Dear Mr. Alain Coulibaly,\n\nThank you for your email and the information provided. I am interested in this opportunity, however, I would like to understand more about the process and what exactly is required from my side.\n\nCould you please provide more details on how we can proceed with this? Also, could you clarify what percentage of the funds are expected to be given to the CEO and yourself?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nTheresa"
     }
 ]

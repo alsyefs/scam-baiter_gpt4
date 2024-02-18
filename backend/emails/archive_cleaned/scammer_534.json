@@ -2,21 +2,21 @@
     {
         "from": "scammer_534",
         "to": "CRAWLER",
-        "subject": "   Financial Conduct Authority",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Financial Conduct Authority",
         "body": "   Financial Conduct Authority\nStratford, London E20 United Kingdom\nWebsite: /www.fca.org.uk\nE-mail:  \nfca2024@consultant.com\nE-mail: \nfca.org.uk2025@fastservice.com\nSWIFT:FCAIGB2LAXXX\nD  .line : TEL:  + 44 7537 134 823\nSir/Madam,\nRE:INSTRUCTION TO CREDIT YOUR ACCOUNT WITH THE SUM OF G BP 6.5,00,000.00\nWe at this bank wish to congratulate and inform you that after the review and evaluation of your Inheritance/Contract funds in conjunction with the World Bank Auditor General and the International Monetary Fund (IMF) and in conjunction with Financial Conduct Authority(FCA) funds release assessment reports, your payment file was forwarded to us for immediate transfer of the above quoted amount to your designated bank account from their offshore account with us.\nThe reports given to us show that you have been going through hard times by paying a lot of money to see to the release of your funds, which has been delayed by some dubious officials. We therefore advise that you stop further communication with any correspondence outside this office since you do not have to pay any money or fee to receive your Inheritance/Contract funds as you have met up with the whole funds transfer requirements.\nThe only thing required from you is to obtain the UNCLEAN BILL CERTIFICATE ACCESS CODE NO  to enable us credit your account directly by telegraphic transfer or through any of our corresponding banks and send copies of the funds transfer release documents to you and your bankers for confirmation.\nShould you follow our directives, your funds will be credited and reflect in your account within five (5) bank working days from the day you obtain this UNCLEAN BILL CERTIFICATE ACCESS CODE to prove to you that this fund is clean and genuine.It is not fraud or terrorist money\nTHIS IS YOUR CLAIMING CODE: FCA:UK207143\nFinally, for further assistance kindly forward your\nFULL NAME:\nFULL CONTACT ADDRESS:\nWATSAPP NUMBER:\nOCCUPATION:\nTHE AMOUNT TO CLAIM\nAGE:\nCOUNTRY:\nTELEPHONE and FAX NUMBERS to\n my Private E-mail: (\nfca.org.uk2025@fastservice.com\n)\nYours sincerely,\nMrs ADA Conor : D  .line : TEL:  + 44 7537  1322 73.\nDIRECTOR GENERAL OF ECONOMIC SECURITY   "
     },
     {
         "from": "baiter_534",
         "to": "scammer_534",
-        "subject": "Re:    Financial Conduct Authority",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:    Financial Conduct Authority",
         "body": "Dear Director General of Economic Security,\n\nI am writing in response to your letter regarding the transfer of my contract funds. I appreciate your efforts and I am glad to hear that the process is moving forward.\n\nHowever, I would like to clarify a few things. You mentioned an \"UNCLEAN BILL ACCESS CODE\". Could you please explain what this is and how I can obtain it? \n\nAlso, you asked for my telephone and fax numbers. Here they are:\n\nTelephone: \nFax: \n\nI look forward to hearing from you soon.\n\nBest wishes,\nCynthia"
     }
 ]

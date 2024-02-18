@@ -2,21 +2,21 @@
     {
         "from": "scammer_252",
         "to": "CRAWLER",
-        "subject": "   Congratulations: I'm deligh",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Congratulations: I'm deligh",
         "body": "   Congratulations: I'm delighted to inform you that your Facebook name\nwas selected among the 20 lucky winners that won the huge sum of\n$500.000.00 USD in the ongoing Facebook international lottery\nPromotion.\nReply to my email for more information: \nfacebook.agent@lottoclaimsfb.com\nMr Bodnar Tom   "
     },
     {
         "from": "baiter_252",
         "to": "scammer_252",
-        "subject": "Re:    Congratulations: I'm deligh",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    Congratulations: I'm deligh",
         "body": "Hello Mr. Bodnar Tom,\n\nWow, that sounds like an amazing opportunity! I can't believe I've been selected as one of the lucky winners. Can you tell me more about this Facebook lottery promotion? How does it work exactly?\n\nBest wishes,\nLucille"
     }
 ]

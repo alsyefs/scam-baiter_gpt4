@@ -2,21 +2,21 @@
     {
         "from": "scammer_1264",
         "to": "CRAWLER",
-        "subject": "You should kindly contact the ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "You should kindly contact the ",
         "body": "You should kindly contact the investment Coast Finance UK Limited via the following details.\nContact person:Director Mr.Paul Keith Levaillant.\nCOMPANY NAME: Coast Finance UK Limited\nCOMPANY REG NO: 00498680\nOffice Address: Willow Farm, 66 Dundry Lane, Dundry,\nBristol Avon, BS41 8JQ United Kingdom.\nWhatsapp Phone No: + 44 786 220 8584.\nEmail: \nlevaillantpaulkeith@gmail.com"
     },
     {
         "from": "baiter_1264",
         "to": "scammer_1264",
-        "subject": "Re: You should kindly contact the ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: You should kindly contact the ",
         "body": "Hello there! \n\nThank you for sharing this information with me. I'm always interested in learning about new investment opportunities. Could you tell me more about what Coast Finance UK Limited does? What kind of investments do they specialize in?\n\nBest wishes,\nDebra"
     }
 ]

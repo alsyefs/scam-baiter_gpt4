@@ -2,21 +2,21 @@
     {
         "from": "scammer_784",
         "to": "CRAWLER",
-        "subject": "Hello I'm Dr.(Mrs) Laura, I am",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Hello I'm Dr.(Mrs) Laura, I am",
         "body": "Hello I'm Dr.(Mrs) Laura, I am looking for a supplier in India.\nThanks & Regards."
     },
     {
         "from": "baiter_784",
         "to": "scammer_784",
-        "subject": "Re: Hello I'm Dr.(Mrs) Laura, I am",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Hello I'm Dr.(Mrs) Laura, I am",
         "body": "Hello Dr. Mrs Laura, \n\nIt's a pleasure to meet you! I'm intrigued by your search for a supplier in India. Could you please share more details about the type of supplier you're looking for? What kind of products or services are you interested in? \n\nLooking forward to hearing from you soon!\n\nBest wishes,\nDebra"
     }
 ]

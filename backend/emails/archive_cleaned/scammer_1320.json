@@ -2,21 +2,21 @@
     {
         "from": "scammer_1320",
         "to": "CRAWLER",
-        "subject": "Dear Sir/Madam",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear Sir/Madam",
         "body": "Dear Sir/Madam\nI am Ms. Elizabeth Olivia Georgia, I am a US citizen, 54 years Old. \nI reside here in New Braunfels Texas. My residential address is as follows. 108 Crockett Court. Apt 303, New Braunfels Texas, United States\n, I am thinking of relocating since I am now rich. I am one of those that took part in the Compensation in Africa last year and they refused to pay my funds to me, I had paid over $65,000 while in the US,trying to get my payment all to no avail. So I decided to travel down to Africa with all my compensation documents, And I was directed to meet Barrister Apostle Emmanuel who is the EXECUTIVE DIRECTOR working together with the FBI, ICE and INTERPOL of COMPENSATION AWARD COMMITTEE, and I contacted him he explained everything to me and help me to receive my Compensation fund worth (US$20,500,000.00) I am very happy now.\nHe took me to the paying bank for the claim of my Compensation payment. Right now I am the most happiest woman on earth because I have received my compensation funds of (US$20,500,000.00 Million Dollars) Moreover, Barrister Apostle Emmanuel, showed me the full information of those that are yet to receive their payments and I saw your name as one of the beneficiaries, and your email address, that is why I decided to email you to stop dealing with those people, they are not with your funds, they are only making money out of you.\nI will advise you to contact Barrister Apostle Emmanuel You have to contact him directly on this information below.\nCOMPENSATION AWARD HOUSE CONTACT BARRISTER APOSTLE EMMANUEL EXECUTIVE DIRECTOR FOR YOUR FUNDS RELEASE.\n=============================================================================\nName: Barrister Apostle Emmanuel.\nEmail: \nemmanuebenjamin3@gmail.com\nYou really have to stop dealing with the fake scammers asking you to pay for online banking asking you to pay for account opening and codes demands more money just to rip you off those people that are contacting you and telling you that your fund is with them, it is not in anyway with them, they are only taking advantage of you and they will dry you up until you have nothing. \nThe only money I paid after I met Barrister Apostle Emmanuel was just $750usd for the paper works, take note of that.\n( NOTE: TELLING YOU TO PAY FOR ANY DELIVERY OR COURIER CHARGE, THAT IS ALL NOTHING BUT LIES, I REPEAT THE ONLY MONEY YOU WILL HAVE TO PAY AND WHICH I ALSO PAID IS $750usd FOR THE ADMINISTRATIVE/ ENDORSEMENT CHARGE AS IMPOSED BY THE GOVERNMENT AND YOUR FUND WILL TRANSFER DIRECT TO YOUR ACCOUNT OR YOUR PACKAGE CONTAINING WILL DELIVER THROUGH COURIER SERVICE DELIVERY TO YOU.\nOnce again stop contacting those people, I will advise you to contact Barrister Apostle Emmanuel so that he can help you to Deliver your fund instead of dealing with those liars and fake scammers that will be turning you around asking for different kinds of money to complete your transaction.\nNote: KEEP THIS CONFIDENTIAL TO YOURSELF DO NOT FORWARD THIS TO ANYONE FOR SECURITY REASONS.\nThank You and Remain Blessed.\nSincerely,\nMs. Elizabeth Olivia Georgia."
     },
     {
         "from": "baiter_1320",
         "to": "scammer_1320",
-        "subject": "Re: Dear Sir/Madam",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Dear Sir/Madam",
         "body": "Dear Ms. Elizabeth Olivia Georgia,\n\nThank you for your email and the information provided. I'm glad to hear that you were able to successfully claim your funds. However, I would like to clarify that I am not involved in any transactions or dealings with the individuals you mentioned.\n\nI appreciate your concern and advice about avoiding scams. It's always important to be vigilant and cautious when dealing with financial matters, especially online.\n\nBest wishes,\nPeggy"
     }
 ]

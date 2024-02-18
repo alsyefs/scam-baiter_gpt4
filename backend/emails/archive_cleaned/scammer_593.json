@@ -2,21 +2,21 @@
     {
         "from": "scammer_593",
         "to": "CRAWLER",
-        "subject": " Dearest Customer,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " Dearest Customer,",
         "body": " Dearest Customer,\nGreetings of the Day,our esteemed company has been waiting on the\ntransfer remittance receipt from your company regarding the first\ndeposit of $40,000 of our 100,000 pieces our 3m n95 face masks.If the\ntransfer has been made,send us the remittance reciept for confirmation\non our side so we proceed with your shipment immediateley.\nAdd Us on Whatsapp to Fasten Our Communications:Whatsapp: +1 (719) -582-8498\nThanks/Regards\nMr.Daan S.-Export Manager\nPrivate Medicines Supplies\nNorway Branch:\nAddress: Jernbanetorget 6,0154 Oslo,Norway\nPhone:+47 409 912 97\nEmail:info@privatemedicinessupplies.store\nUK Branch :\nPhone :+44 7404 418980\nEmail : \ninfo@privatemedicinessupplies.store\nWebsite: ww w.privatemedicinessupplies.store\nAddress: The Street, Brandeston, Woodbridge, England, IP13 7AD, United Kingdom.   "
     },
     {
         "from": "baiter_593",
         "to": "scammer_593",
-        "subject": "Re:  Dearest Customer,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:  Dearest Customer,",
         "body": "Dear Manager,\n\nI hope this message finds you well. I am writing to inform you that we have not yet received the remittance receipt for the first deposit of our order. Could you please provide us with a copy of this receipt so we can proceed with the shipment?\n\nThank you for your prompt attention to this matter.\n\nBest wishes,\nFrancis"
     }
 ]

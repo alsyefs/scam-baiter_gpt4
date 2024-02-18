@@ -2,21 +2,21 @@
     {
         "from": "scammer_1364",
         "to": "CRAWLER",
-        "subject": "Dear Customer ,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear Customer ,",
         "body": "Dear Customer ,\nWe Money Gram want to appreciate you for your patronage for using\nmoney Gram service however \nyour name was among the winners of money\nGram give away prize of $5,000 U.S Dollars\n this season which we are to\npay to you as soon as possible, below is the needed information for\nthe payment\nFull Name:\nAddress:\nValid ID\nMobile number:\nWe look forward to your urgent answer with the information requested.\nYours faithfully.\nMr. W. Alexander Holmes\nChairman"
     },
     {
         "from": "baiter_1364",
         "to": "scammer_1364",
-        "subject": "Re: Dear Customer ,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Dear Customer ,",
         "body": "Dear Mr. Holmes,\n\nI am delighted to hear about my win in the Money Gram giveaway prize. However, I would like to confirm a few details before proceeding further.\n\nCould you please provide more information about this giveaway? When was it held and how was my name selected?\n\nRegarding the valid ID, could you specify which type of ID is acceptable? Would a passport or driver's license suffice?\n\nLooking forward to your response.\n\nBest wishes,\nKeith"
     }
 ]

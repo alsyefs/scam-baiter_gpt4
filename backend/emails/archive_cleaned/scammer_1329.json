@@ -2,21 +2,21 @@
     {
         "from": "scammer_1329",
         "to": "baiter_1329",
-        "subject": "IRREVOCABLE SWIFT PAYMENT VIA ATM MASTER CARD",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
-        "conversation_counter": "0",
+        "conversation_counter": "1",
+        "subject": "IRREVOCABLE SWIFT PAYMENT VIA ATM MASTER CARD",
         "body": "Attn \n \nI acknowledge the receipt of your response. \n \nThis is to let you know that we have started the processing of your ATM CARD in your name. Understand the reason why the United Nations are giving you this fund is because your email address is among the people that was scammed before and the United Nations want to use this fund to compensate you. \n \nThe sum of US$5.000,000.00 compensatory settlement will be credited into the ATM Master Card and enable you to withdraw your funds through ATM Machine in your country with a maximum withdrawal of US$2.000.00 per day. Your limit can be increased to any amount upon your request. \n \nIn this regards, you are to furnish us with the requested information below for issuance and delivery of your ATM Master Card at your doorstep address without any further delay; \n \n1. Mobile Telephone: \n2. Delivery Address: \n3. Full Name: \n \nGet back to me as soon as you receive this email. \n \nYours faithfully, \nMr Kennedy Uzorka \nManaging Director/Chief Executive \nOfficer of United Bank For Africa \nTelephone +2348121784957"
     },
     {
         "from": "baiter_1329",
         "to": "scammer_1329",
-        "subject": "Re: IRREVOCABLE SWIFT PAYMENT VIA ATM MASTER CARD",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
-        "conversation_counter": "1",
+        "conversation_counter": "2",
+        "subject": "Re: IRREVOCABLE SWIFT PAYMENT VIA ATM MASTER CARD",
         "body": "Hello Mr. Kennedy Uzorka,\n\nThank you for your email and the information provided. It's quite surprising to hear about this compensation from the United Nations, I wasn't aware of such a program.\n\nI'm curious, how did my email address end up on the list of people who were scammed? Also, could you please provide more details about this ATM Master Card? How does it work exactly?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nStephen"
     }
 ]

@@ -2,51 +2,51 @@
     {
         "from": "scammer_1345",
         "to": "CRAWLER",
-        "subject": " Hello what is going on now?? ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " Hello what is going on now?? ",
         "body": " Hello what is going on now??  are you send the need fee   "
     },
     {
         "from": "baiter_1345",
         "to": "scammer_1345",
-        "subject": "Re:  Hello what is going on now?? ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:  Hello what is going on now?? ",
         "body": "Hello there! I'm not quite sure what you're asking. Could you please clarify what you mean by \"need fee\"?\n\nBest wishes,\nRobert"
     },
     {
         "from": "scammer_1345",
         "to": "baiter_1345",
-        "subject": "Re: Hello what is going on now??",
         "direction": "Inbound",
-        "days_from_first_conversation": 2,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "2",
+        "subject": "Re: Hello what is going on now??",
         "body": "Am here to delivery fund to you and you have to pay  the need fee so that I\r\nwill delivery you fund to you OK thank You"
     },
     {
         "from": "baiter_1345",
         "to": "scammer_1345",
-        "subject": "Re: Hello what is going on now??",
         "direction": "Outbound",
-        "days_from_first_conversation": 2,
+        "days_from_first_conversation": 0.008680555555555556,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "3",
+        "subject": "Re: Hello what is going on now??",
         "body": "Hello there! \n\nThank you for reaching out to me. I'm quite intrigued by your message. Could you please provide more details about this fund? How did it come about and why am I the recipient?\n\nBest wishes,\nRobert"
     },
     {
         "from": "baiter_1345",
         "to": "scammer_1345",
-        "subject": "Re: Hello what is going on now??",
         "direction": "Outbound",
-        "days_from_first_conversation": 2,
+        "days_from_first_conversation": 0.09238425925925926,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "4",
+        "subject": "Re: Hello what is going on now??",
         "body": "Hello there! \n\nWow, that sounds like an interesting opportunity. Could you please provide me with more details about this fund? Like, what is it for and how did I become eligible for it? Also, could you clarify what the needed fee is for? I'm really curious to know more about this.\n\nBest wishes,\nRobert"
     }
 ]

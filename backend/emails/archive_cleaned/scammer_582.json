@@ -2,21 +2,21 @@
     {
         "from": "scammer_582",
         "to": "CRAWLER",
-        "subject": " Hello sir, we presume payment",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " Hello sir, we presume payment",
         "body": " Hello sir, we presume payment was not completed due the weekends holidays, now we still awaiting the receipt of confirmation on your payment so that we can proceed with the delivery to your address today.\nRegards!   "
     },
     {
         "from": "baiter_582",
         "to": "scammer_582",
-        "subject": "Re:  Hello sir, we presume payment",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:  Hello sir, we presume payment",
         "body": "Hello,\n\nThank you for your message. I understand that the payment process was delayed due to the weekend holidays. I will ensure that the payment is completed as soon as possible so we can proceed with the delivery.\n\nBest Regards.\n\nBest wishes,\nWillie"
     }
 ]

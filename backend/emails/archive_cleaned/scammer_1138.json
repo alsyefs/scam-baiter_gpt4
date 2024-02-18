@@ -2,21 +2,21 @@
     {
         "from": "scammer_1138",
         "to": "CRAWLER",
-        "subject": "Dear Sir/Madam",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear Sir/Madam",
         "body": "Dear Sir/Madam\nWe are looking for reliable and skilled vendors who can offer us the essential services we require.\nAfter reviewing your company's profile, we believe that your knowledge and experience will be beneficial to the projects that ARAMCO is working on in this 2023 and 2024 session\nAll firms in the world are eligible to participate in these projects; if you are willing, please express your interest by requesting an EOI and Sellers Questionnaire.\nWe are happy and eager to begin a fruitful business relationship with your esteemed company. We are grateful for your interest in this invitation and are looking forward to receiving a prompt response.\nWe appreciate you considering our request.\nBest Regards\nAl Abbas Hani\nProject Adviser\nSaudi Arabia National Oil Company"
     },
     {
         "from": "baiter_1138",
         "to": "scammer_1138",
-        "subject": "Re: Dear Sir/Madam",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Dear Sir/Madam",
         "body": "Hello Al Abbas Hani,\n\nThank you for reaching out and considering us for your projects. It's great to hear that our company profile aligns with what ARAMCO is looking for.\n\nCould you please provide more details about the projects? What kind of services are you specifically looking for? Also, could you elaborate on what an EOI and Sellers mean in this context?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRichard"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_273",
         "to": "CRAWLER",
-        "subject": "    Greetings to you  ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "    Greetings to you  ",
         "body": "    Greetings to you  \nIt has been a while when I hear from you, the cheque is still here, if you can not send via account then let use another way so I can send you the check and send you the tracking number for you to be tracking it till you get it. I am waiting to hear your response so I will direct you another new way to send it.\nMr.John Mike    "
     },
     {
         "from": "baiter_273",
         "to": "scammer_273",
-        "subject": "Re:     Greetings to you  ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:     Greetings to you  ",
         "body": "Hello Mike,\n\nIt's great to hear from you! I appreciate your patience and understanding regarding the cheque. I'm curious about this new way you mentioned for sending it. Could you please explain more about it? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMichelle"
     }
 ]

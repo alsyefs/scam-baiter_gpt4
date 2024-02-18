@@ -2,21 +2,21 @@
     {
         "from": "scammer_1014",
         "to": "CRAWLER",
-        "subject": "  From the desk",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  From the desk",
         "body": "  From the desk\nMr.Niyi Ojuolape\nUnited Nations Development Programme House\nNo.7 Ring Road East, Near Fire Service\nCastle Accra.\nPosition: Director\nUnited Nations Population Fund UNFPA,\nNational Agency for the Control AIDS (NACA)\nDear Beloved Friend.     \nFirst and foremost, I do seek your interest about a business\nrelationship that will be of help to my family and your family if\nhonesty reflects between both of us.\nI am Mr.Niyi Ojuolape.now the appointed Resident Representative United\nNations Population Fund (UNFPA) Ghana International Affairs for\nRefugee Movement on lost family treasure of Asylum children in all\nrefugee camp in West Africa, I am the person that deal with united\nnation about humanitarian help, before refugee kids, father and Mother\nare allow to enter into any West Africa country for help, I will be\nnotify first and what kind of treasure they are bringing in with them,\nif is ok by me I will grant entrance permit to the United National\nHumanitarian Agent to bring them inn but if is not by I will refuse\nthe offer..\nI want to relate with you, about some huge amount of money now in your\ncountry , the said amount belong to a very rich asylum boy, by age\n18years, who his boxes was miss load into another plane that was not\ngoing the same direction the boy is going, so I was contacted to help\nin getting the boxes for the poor as my position, but the poor\nsecretly review the content of his boxes to be, which is $45million usd\ncash money, and at the moment the said boxes is now in the strong room\nof our consulate in your country , awaiting my decision before they\nwill redirect the boxes back to Ghana or back to the place when the\nboxes are coming from.\nSharing will be deliberated on good faith between me and you. For your\ninformation the united Nation those not know the value of the boxes,\nand our  United National Humanitarian Agents  know nothing about the\ncontent of the boxes,all he knows is loss property belonging to\nRefugee boy coming from Sudan, so is highly confidential between you,\nme and the small boy.\nI will stop here, until I hear from you before I provide you the\nprocedure on how you can help in getting these boxes over there for\nme.\nSincerely, yours\nMr.Niyi Ojuolape   "
     },
     {
         "from": "baiter_1014",
         "to": "scammer_1014",
-        "subject": "Re:   From the desk",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   From the desk",
         "body": "Hello Ojuolape,\n\nThank you for reaching out to me with such an intriguing proposition. I must admit, it's not every day that one receives a message from the United Nations Population Fund UNFPA. \n\nI'm curious about this situation and would like to understand more. Could you please provide more details about the asylum boy? How did he come into possession of such a large amount of money? And why was it transported in boxes?\n\nAlso, could you explain what exactly is expected of me in this process? What kind of help do you need from my end?\n\nLooking forward to hearing from you.\n\nBest wishes,\nSara"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_726",
         "to": "CRAWLER",
-        "subject": "  DIPLOMATIC SERVICE UNIT",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  DIPLOMATIC SERVICE UNIT",
         "body": "  DIPLOMATIC SERVICE UNIT\nMission Building\nHigh Street, Osu-Re:\nAccra - Ghana\nOur Ref:    RG-NG/DSU/AGH/22\n \nAttn:  Beneficiary,\n \nRe: Immediate Delivery of Your US$25M Consignment to Your Door-Step\n \nThis unit has been set up by West Africa Foreign Payment Panel in agreement with the Ghanaian government here in the Diplomatic Liaison Office, Accra-Ghana West African Sub-Region to effect quick payments to their entire approved foreign beneficiary that has his/her inheritance in any African Country\n \nTherefore in consonant with the mandate given to me regarding the delivery of the fund, you are now requested to forward the below stated information urgently, so as to enable me commence an immediate processing of my Entry Particulars that will cover the delivery of your consignments.\n \n1. Your Full Name and current contact address\n2. The nearest International Airport\n3. Your Mobile telephone number\n4. Your Company and position\n \nNote: These particulars should be forwarded immediately to enhance a quick conclusion of this exercise, hence the West Africa Foreign Payment Panel has taken care of my Air Ticket/BTA and Insurance Coverage in the course of delivering the fund.  \n \nAt your request, I will also accompany you to your bank to assist and coordinate in the lodging of the funds into your account.  All legal documents which you will endorse for receiving your payment from me have been issued by the Government and are sealed in the boxes which I will forward the copies to you as soon as I receive your response.\n \nFurther information on the mode of our operations will be released to you as soon as you respond to this message for confirmation of your readiness to receive the fund.  Our urgent action will definitely depend on your swift response to this matter.\nNOTE: ALL THE DELIVERY DOCUMENTS THAT WILL BE ISSUED BY GHANA GOVERNMENT HAS BEEN PAID BY THE PRESIDENCY.\n \nBest regards,\n \nDR. Walters Mike\nHead, (Diplomatic Service Unit)\nAccra-Ghana   "
     },
     {
         "from": "baiter_726",
         "to": "scammer_726",
-        "subject": "Re:   DIPLOMATIC SERVICE UNIT",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   DIPLOMATIC SERVICE UNIT",
         "body": "Dear Dr. Walters Mike,\n\nThank you for your email and the information provided. I am ready to proceed with the process of receiving the fund. Here are my details:\n\nFull Name: John Doe\nCurrent Contact Address: 123 Main Street, Anytown, USA\nNearest Airport: Anytown International Airport\nMobile Telephone Number: +1-234-567-8901\nCompany and Position: Self-Employed\n\nI look forward to receiving further instructions from you.\n\nBest wishes,\nToi"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_395",
         "to": "CRAWLER",
-        "subject": "A pleasant day to you,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "A pleasant day to you,",
         "body": "A pleasant day to you,\nI am Li Yong, Executive Director and the Vice Chairman Board of Directors of the China National Offshore Oil Corporation (CNOOC). I wish to meet a business or project developer to discuss ways on how to develop and manage investments.\nDo let me know of possible investment opportunities. I look forward to your response.\nRegards"
     },
     {
         "from": "baiter_395",
         "to": "scammer_395",
-        "subject": "Re: A pleasant day to you,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: A pleasant day to you,",
         "body": "Dear Li Yong,\n\nThank you for your message. I am interested in discussing potential investment opportunities with you. Could you please provide more details about the type of projects or businesses you are interested in? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSheena"
     }
 ]

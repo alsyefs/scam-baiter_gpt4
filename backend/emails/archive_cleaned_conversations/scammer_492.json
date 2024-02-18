@@ -2,51 +2,51 @@
     {
         "from": "scammer_492",
         "to": "CRAWLER",
-        "subject": "  Dear  ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear  ",
         "body": "  Dear  \nGood morning and there was an urgent development that came up yesterday in my chamber.\nTwo men namely Dr. H. Khashaba and Alex Kummer ,one an Egyptian and American resident here in California walked free to notify me that you handed over power of attorney to them to claim this $25M on your behalf. They even came with authority insisting that you gave the money to settle all sundry expenses that will pose hinderance. As such they showed me the cash they intended to use for the completion of this transaction stating that due to your ill health of late that your paralysis will not allow to complete have been spending so much money on your health issue.\nAttached are their identifications which they presented and I had to scan for your perusal and get your confirmation that you actually authorised this process.\nTo me ,I believe they are impostors.\nKindly confirm that they are genuine and representing your interest.\nWaiting to hear from you urgently as I tried severally to call on your cellphone without success.\nBarrister Vincent Esq   "
     },
     {
         "from": "baiter_492",
         "to": "scammer_492",
-        "subject": "Re:   Dear  ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Dear  ",
         "body": "Dear Barrister Vincent Esq,\n\nI am surprised to hear about Dr. H. Khashaba and Alex Kummer claiming to have my power of attorney. I have not given anyone such authority, and I certainly do not suffer from any health issues as they claim.\n\nI believe these men are impostors trying to take advantage of the situation. Please do not entertain any claims or actions they propose on my behalf.\n\nThank you for bringing this matter to my attention. I will take necessary steps from my end as well.\n\nBest wishes,\nDanny"
     },
     {
         "from": "scammer_492",
         "to": "baiter_492",
-        "subject": "Re: Dear",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "2",
+        "subject": "Re: Dear",
         "body": "Danny,\r\nThanks for your urgent response. All you can do is work with my lawyer\r\nbecause it is only you that I bequeathed this inheritance $25M to and no\r\nother person.\nGeneral Barbkov"
     },
     {
         "from": "scammer_492",
         "to": "baiter_492",
-        "subject": "Fwd: Dear",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 2.3148148148148147e-05,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "3",
+        "subject": "Fwd: Dear",
         "body": "---------- Forwarded message ----------\r\nFrom: *General Aleksandr Dmitrievich Barbakov* <\r\ngeneralaleksandrdmitrievichbar@gmail.com>\r\nDate: Thursday, February 8, 2024\r\nSubject: Re: Dear\r\nTo: Danny <pa37453@***.com>\r\n\r\n\r\nDanny,\r\nThanks for your urgent response. All you can do is work with my lawyer\r\nbecause it is only you that I bequeathed this inheritance $25M to and no\r\nother person.\r\nGeneral Barbkov\r\n\r\n\r\nOn Thursday, February 8, 2024, Danny <pa37453@***.com> wrote:\r\n\r\n>\r\n>\r\n>\r\n> Dear Barrister Vincent Esq,\r\n>\r\n> I am surprised to hear about Dr. H. Khashaba and Alex Kummer claiming to\r\n> have my power of attorney. I have not given anyone such authority, and I\r\n> certainly do not suffer from any health issues as they claim.\r\n>\r\n> I believe these men are impostors trying to take advantage of the\r\n> situation. Please do not entertain any claims or actions they propose on my\r\n> behalf.\r\n>\r\n> Thank you for bringing this matter to my attention. I will take necessary\r\n> steps from my end as well.\r\n>\r\n> Best wishes,\r\n> Danny\r\n>\r\n>\r\n>\r\n>\r\n>"
     },
     {
         "from": "scammer_492",
         "to": "baiter_492",
-        "subject": "Update please",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.3360416666666667,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "4",
+        "subject": "Update please",
         "body": "Danny,\r\nGood evening and what's the latest update?.\r\nI need to hear from you.\nGeneral Barbkov"
     }
 ]

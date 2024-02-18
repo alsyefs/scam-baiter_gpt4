@@ -2,21 +2,21 @@
     {
         "from": "scammer_322",
         "to": "CRAWLER",
-        "subject": " From: HM Treasure Recovery Ad",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " From: HM Treasure Recovery Ad",
         "body": " From: HM Treasure Recovery Administrator\n1 Horse Guards Road Westminster, London.\nUnited Kingdom.\nDear Beneficiary,\nThe Department of the fund recovery has investigated your fund, which has been in the transfer process for some period of time.\nDuring the second quarter of the general Financial Auditing, the recovery unit has recovered your fund at the tune of £50.5M (FIFTY MILLION FIVE HUNDRED THOUSAND GREAT BRITAIN POUNDS) which was to be paid to you as the beneficiary.\nAnd it has been understood by our investigation team, this fund was acquired by you as a result of the initial inheritance of the fund, which your partner was supposed to remit the fund into your bank account some past years. After the auditing, the recovery unit decides that the entire recovered and returned fund should be paid to the beneficiary owners within 2 weeks. This decision was taken by the Board of the auditors in the recovery department, and at present the fund is in the escrow account.\nThe recovery unit has approved the release of your fund, and it has also decided that your fund should be transferred to you without any further delay. For your full identification and authorization of your payment, you are hereby advised to send our approval department/agent your full information as stated below:\nPlease email the below agent all your information details regarding these developments and to enable us to proceed.\nName: Sir Tom Scholar\nDepartment: Permanent Secretary\nEmail: \ndiscoveryunithmtreasure55@gmail.com\nYours Truly,\nMrs. Katharine Braddick.\n Director General   "
     },
     {
         "from": "baiter_322",
         "to": "scammer_322",
-        "subject": "Re:  From: HM Treasure Recovery Ad",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:  From: HM Treasure Recovery Ad",
         "body": "Hello Mrs. Katharine Braddick,\n\nThank you for your email and the information provided. It's quite surprising to hear about this fund recovery, as I wasn't aware of any such funds in my name.\n\nCould you please provide more details about how this fund was initially acquired? And who was the partner supposed to remit the fund into my bank account?\n\nAlso, could you explain a bit more about what an escrow account is and why the funds are currently held there?\n\nI'm looking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMadeline"
     }
 ]

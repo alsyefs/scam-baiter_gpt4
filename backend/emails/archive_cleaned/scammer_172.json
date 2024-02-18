@@ -2,21 +2,21 @@
     {
         "from": "scammer_172",
         "to": "CRAWLER",
-        "subject": "Hello ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Hello ",
         "body": "Hello \nxxx@gmail.com\n,\nMy Name is Mrs. Katherine Brown\n from United State of America by Nationality\n, with warm hearts I offer my friendship, and my greetings to you in the name of our lord God, and I hope this letter meets you in good time, I propose with my free mind and as a person of integrity from God, I know that this message will appear as a surprise to you that we barely know but the grace of God directed me to you and I wish you read this message and be blessed in name of the Lord.\nI have a brain tumor, I suffer terribly at the moment, my doctor just informed me that my days are numbered because of my health therefore condemned to certain death, Currently i have exhausted all my savings for my medical care, but i do have some funds for my charity project, these funds are deposited in a fixed deposit in a local bank \nhere in America\n purposed for charitable foundation, my marital status is such that i'm single because i lost my Husband for over 9 years now and unfortunately we have not had a child together, which I am no one to leave my legacy . Therefore, to release my funds I would like to make a donation so that there is no stiff tax on my amount.\nTo this I would so graceful and in order to help the poor to give what amounts to said legacy worth 8,200,000.00 US D to enable you to establish a charitable foundation in my memory so that the grace of God be with me until my last home so I can receive an honorable place with the Lord our father. I have no fear because before contacting you, i have for several nights prayed for the Lord God to give me the contact of a trusted person to whom I can entrust this matter and it is the result of why I am doing research that allowed me to contact you through this medium.\nKnow that 20% of this sum will be yours for your humble assistance and 80% will be used to create a charitable foundation in my memory and a federation in the fight against fatal illness and also build orphanages. I would have the following information: Your name, your exact address and your permanent telephone contact so I can forward them to my lawyer to appear that you perform the procedure under deal. I count on your goodwill and especially on the proper use of these funds because I have great confidence in you that God may guide me toward you. My private E-mail: \nbrownkatherine977@aol.com\nAwaiting your prompt reply, receive my cordial and fraternal greetings.\nYours Sincerely\nMrs. Katherine Brown\nE-mail: \nbrownkatherine977@aol.com\nSent on the day 2/28/2022 11:47:10 a.m."
     },
     {
         "from": "baiter_172",
         "to": "scammer_172",
-        "subject": "Re: Hello ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Hello ",
         "body": "Dear Mrs. Katherine Brown,\n\nI am deeply moved by your message and the difficult situation you are currently facing. I'm truly sorry to hear about your health condition.\n\nHowever, I must inform you that as a person, I am not in a position to handle such a significant amount of money or establish a charitable foundation. \n\nI would recommend reaching out to established charitable organizations or legal professionals who could help manage your funds and ensure they are used for the purpose you've intended.\n\nMy thoughts and prayers are with you during this challenging time.\n\nBest wishes,\nValerie"
     }
 ]

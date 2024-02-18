@@ -2,21 +2,21 @@
     {
         "from": "scammer_772",
         "to": "CRAWLER",
-        "subject": "Attn: Dear Mr. Beneficiary,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attn: Dear Mr. Beneficiary,",
         "body": "Attn: Dear Mr. Beneficiary,\nThis is to officially inform you that we are having our third quarter account audit and in effort to make sure that all beneficiaries receive their fund before the final audit of the third quarter account audit of the year 2022, the board of directors of FBI and IMF in conjunction with icicibank in UK has reach a resolution that you will you will be allowed to receive your fund after the confirmation of your bellow full details.\nIn our efforts to foster global monetary cooperation, secure financial stability and facilitate individual and company economic growth. The IMF through our international monitoring network has recovered your UNPAID FUND value of $8.9 Million US dollars that has been on hold.  We hereby advise you to reconfirm your information below to enable our payment bank process your payment as soon as possible. View the website for more Information: https: // www. icicibank.co.uk/\nRe-confirm as follows\n(1) Your Full Name........?\n(2) Full Residential Address: (P.O.BOX NOT ALLOWED)?\n(3) Country/State..........?\n(4) Beneficiary Amount?\n(5) Direct and Current Phone?\n(6) Passport identification?\nNote: The above information is necessary to certify that you are the rightful beneficiary of the said funds. As soon as we confirm this information, icicibank will transfer your total funds into your nominated bank account.\nBest Regards,\nMrs. Kristalina Georgieva,\nIMF Managing director\nkristalinageorgieva159@gmail.com"
     },
     {
         "from": "baiter_772",
         "to": "scammer_772",
-        "subject": "Re: Attn: Dear Mr. Beneficiary,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Attn: Dear Mr. Beneficiary,",
         "body": "Dear Mrs. Kristalina Georgieva,\n\nThank you for your email and the information provided. I am interested in proceeding with this process, but I would like to confirm some details before providing my personal information.\n\nCould you please provide more specific details about this unpaid fund? How was it recovered and why was it on hold? Also, could you clarify what is meant by \"Full Address NOT ALLOWED\"?\n\nI look forward to your response.\n\nBest wishes,\nWillie"
     }
 ]

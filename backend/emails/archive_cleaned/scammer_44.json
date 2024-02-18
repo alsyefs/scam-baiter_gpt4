@@ -2,21 +2,21 @@
     {
         "from": "scammer_44",
         "to": "CRAWLER",
-        "subject": "  Bankers Committee",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Bankers Committee",
         "body": "  Bankers Committee\nCENTRAL DISTRICT\nWUSE- ABUJA.\nPMB.104 -Abuja.\nAttn:Beneficiary,\n                      AMT:VALUED AT $10.5 Million\nLet us know why you have not collected your ATM CARD approved payment\nto enable us update our record.\nThis is as a result of incessant complaints filtering this office from\naffected beneficiaries that they have made payment consequent to the\ndelivery,yet nothing to show.On hearing from you, we will arrange for\nimmediate delivery of your authenticated ATM Card or direct you to our\noverseas office to contact you and package your ATM Card for immediate\ndelivery.\nDo not fail to forward to us your safest delivery address to avoid\nlost on transit,including the first two pages of your international\npassport or a Driver's License for identification claims.\nWhatever be the case,we will sort it out once and for all.\nWe apologize for the deficiencies.\nHowever,if you prefer any other mode of receiving your payment other\nthan ATM CARD,you can indicate from the available list below.\n    1.Cash Payment\n    2.Online Transfer\n    3.Certified Cheque/ Draft.\nLooking forward to your anticipated response.\nRegards,\nMr.Aitchison Keith\nChairman,Bankers Committee(Nigerian Bankers Committee Association   "
     },
     {
         "from": "baiter_44",
         "to": "scammer_44",
-        "subject": "Re:   Bankers Committee",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Bankers Committee",
         "body": "Hello Keith,\n\nThank you for reaching out to me. I'm a bit surprised as I wasn't aware of an ATM card approved payment in my name. Could you please provide more details about this? \n\nAlso, could you clarify what you mean by \"incessant complaints filtering this office from affected\"? I'm not sure I understand that part.\n\nI appreciate your assistance and look forward to hearing back from you.\n\nBest regards.\n\nBest wishes,\nPatricia"
     }
 ]

@@ -2,31 +2,31 @@
     {
         "from": "scammer_1289",
         "to": "CRAWLER",
-        "subject": "We have successfully created a",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "We have successfully created a",
         "body": "We have successfully created an online account in your name and your\ntotal fund $50,000.000 millions dollars has already been deposited\navailable in your online account balance, so I’m waiting for your\nurgently reply now so I can give you your online bank account access\ninformation . To Login password , to claim your inheritance\ncompensation fund through online transaction. Take noted that your\ntotal fund compensation of $50,million USD has already been deposited\navailable on your online account balance.Follow the instructions here\nto receive your fund now .  Please get back immediately .\nCall me at this number or text me message so that I can give you your\nonline account access login details to claim your funds of $50,\nmillions dollars now. You will have to pay only $100.00 dollars for\nyour online account created fee.\nWe have successfully created an online account in your name Call Or\nText Me Phone number +1 (815) 865-0033\nMr. Thomas Edward.\nEmail,, \ntheworldbankofusa@gmail.com"
     },
     {
         "from": "baiter_1289",
         "to": "scammer_1289",
-        "subject": "Re: We have successfully created a",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: We have successfully created a",
         "body": "Hello Mr. Thomas Edward,\n\nThank you for your message. It's quite exciting to hear about this online account and the funds deposited in it. I'm curious, how did this come about? And could you please explain more about the online account created fee?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nSharon"
     },
     {
         "from": "scammer_1289",
         "to": "baiter_1289",
-        "subject": "Re: We have successfully created a",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "2",
+        "subject": "Re: We have successfully created a",
         "body": "Ok please send your phone number so I can call and talk to you about your\r\nonline banking account ok."
     }
 ]

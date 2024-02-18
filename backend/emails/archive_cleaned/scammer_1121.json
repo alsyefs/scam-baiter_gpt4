@@ -2,21 +2,21 @@
     {
         "from": "scammer_1121",
         "to": "CRAWLER",
-        "subject": " Good day to you,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " Good day to you,",
         "body": " Good day to you,\nHave you received your fund payment from the HSBC Bank UK? The World Bank president has directed that\nyour inheritance/contract fund payment should be conduct through a \"WAIVER METHOD\".\nThis payment method requires that every necessary charge will be deducted from your total fund of US$17M\nand the balance will be send to you either by ATM CARD, bank transfers or any transfer means of your choice.\nYou can contact your account office in-charge of your payment at the HSBC Bank on his contact details bellow:\nContact Person:    Philip Anderson (Your Account Officer)\nEmail Address:     (\nphilipanderson011@aol.com\n)\nPhone Number:    +4407904619739\nIf you have received your fund from the HSBC Bank UK or been contacted by the bank, please kindly let us\nknow immediately for our record purposes.\nWe are waiting for your urgent confirmation.\nRegards.\nMr. Peter Cudrow\nPublic Relation Department\nWorld Bank Switzerland.    "
     },
     {
         "from": "baiter_1121",
         "to": "scammer_1121",
-        "subject": "Re:  Good day to you,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:  Good day to you,",
         "body": "Hello Mr. Peter Cudrow,\n\nI hope this message finds you well. I appreciate your update regarding the fund payment from HSBC Bank UK.\n\nBest wishes,\nJames"
     }
 ]

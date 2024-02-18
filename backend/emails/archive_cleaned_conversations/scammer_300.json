@@ -2,51 +2,51 @@
     {
         "from": "scammer_300",
         "to": "CRAWLER",
-        "subject": "  ( I.M.F ) Head Office",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  ( I.M.F ) Head Office",
         "body": "  ( I.M.F ) Head Office\n#1900 Pennsylvania Ave NW,\nWashington, DC 20431\nINTERNATIONAL MONETARY FUND.\nREF:-XVGNN82010\nEmail: \ndeptimf32@gmail.com\nAttention:Sir/Madam,\n                            UNPAID FUND RECOVERED LETTER FROM IMF\nIn our efforts to foster global monetary cooperation secures financial stability and facilitates individual and company economic growth. The IMF through our international monitoring network has recovered your UNPAID funds worth of US$ 10,000,000.00 (Ten Million  United States Dollars) that have been on hold.  We hereby advise you to reconfirm To this office officially if you are the person that instructed Mr.Smart Kevin from Canada to claim and receive the payment on your behalf before we send your fund transfer instruction to Paying Bank.\nPlease, Re-confirm as follows\n(1) Your Full Name........?\n(2) Full Residential Address: (P.O.BOX NOT ALLOWED)?\n(3) Country/State..........?\n(4) Beneficiary Amount?\n(5) Direct and Current Phone?\n(6) Passport identification?\nPlease you are also required to clarify the following immediately:\n1. Is Williams Rogers your local representative?\n2. Did you broker your fund to one Mr. Smart Kevin of Canada to claim? And receive the payment on your behalf?\n3. Did you sign any “Deed of Assignment” in his favor, thereby making him the current beneficiary with  the following account details to receive your fund?\nNorthwest Trust Bank\nOne Oak brook Terrace, Chicago, Illinois USA,\n6023-13 76ABA ROUTING NO: 171000152,\nA/C NO: 12 49819\nA/C NAME: Titan Erectors,\nGerard V. Radice/Konzeng Agent\nNote: The above information is necessary to certify that you are the rightful beneficiary of the said fund. As soon as we confirm this information as requested our Paying Bank will contact you for immediate payment.\nThanks\nYour sincerely\nMs. Kristalina Georgieva,\nIMF director\n/www.imf.org \n "
     },
     {
         "from": "baiter_300",
         "to": "scammer_300",
-        "subject": "Re:   ( I.M.F ) Head Office",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   ( I.M.F ) Head Office",
         "body": "Hello Ms. Kristalina Georgieva,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I don't recall having any unpaid funds worth of US Ten Million United States Dollars. \n\nI'm not sure who Kevin from Canada is, and I certainly didn't instruct anyone to claim or receive any payment on my behalf. As for Williams Rogers, I'm afraid I don't know who that is either.\n\nRegarding the Deed of Assignment, I haven't signed anything like that recently. Could you please provide more information about this? \n\nAlso, could you tell me more about how the IMF recovered these funds? It's fascinating how global monetary security works!\n\nLooking forward to your response.\n\nBest wishes,\nThomas"
     },
     {
         "from": "scammer_300",
         "to": "baiter_300",
-        "subject": "Re: ( I.M.F ) Head Office",
         "direction": "Inbound",
-        "days_from_first_conversation": 1,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "2",
+        "subject": "Re: ( I.M.F ) Head Office",
         "body": "INTERNATIONAL MONETARY FUND (HQ1)\r\n700 19th Street, N.W., Washington, D.C.\r\n20431.\r\n\r\nAttention: Sir/Madam\r\n\r\nWe acknowledge the receipt of your mail dated 05/02/2024 concerning the\r\nfund US$ 10,000,000.00 (Ten Million  United States Dollars) allocated to\r\nyou, These funds have been approved to be paid to you but we received\r\nanother account from your representative in the name of Mr.Smart Kevin that\r\nyou are ill and you have instructed them to make the claim of your fund\r\nworth of  $US$ 10,000,000.00 (Ten Million  United States Dollars) to\r\nMr.Smart Kevin as your Next Of Kin.\r\n\r\nWith due respect please we want to know your health condition, moreso are\r\nyou the one that instructed Mr.Smart Kevin to claim your fund on your\r\nbehalf because they have forwarded an account detail for the payment only\r\nwaiting to hear from you and If we did not hear from you that means you are\r\nthe one who asked Mr.Smart Kevin to claim the funds on your behalf.\r\n\r\nIn our efforts to foster global monetary cooperation, secure financial\r\nstability and facilitate individual and company economic growth. The IMF\r\n(International Monetary Fund) through our international monitoring network\r\nhas recovered your UNPAID FUND that has been on hold.\r\n\r\nBelow is the account details they forwarded to us.\r\n\r\nNorthwest trust Bank\r\nOne Oak brook Terrace, Chicago, Illinois USA,\r\n6023-13 76ABA ROUTING NO: 171000152,\r\nA/C NO: 12 49819\r\nA/C NAME: Titan Erectors,\r\nGerard V. Radice/Konzeng Agent\r\n\r\nWe understand that you are not the one that instructed Mr.Smart Kevin, So\r\nyou are expected to forward to us your Personal information to ensure that\r\nwe can forward it to our Paying Bank to commence the transfer of your fund\r\ninto your account, if not we will not hesitate to disburse your funds to\r\nthe above account details.\r\n\r\nPlease re-confirm your personal information as follows;\r\n\r\n(1) Your Full Name..................................\r\n(2) Full Residential Address:......................\r\n(3) Country/State......................................\r\n(4) Beneficiary Amount..............................\r\n(5) Direct and Current Phone.....................\r\n(6) Passport identification...........................\r\n\r\nPlease you are advised to forward to us the above information so that we\r\ncan issue documents relating to your fund.\r\n\r\nAttached is my working ID card\nThanks\r\n\r\nYour sincerely\r\nMs. Kristalina Georgieva,\r\nIMF Managing director"
     },
     {
         "from": "baiter_300",
         "to": "scammer_300",
-        "subject": "Re: ( I.M.F ) Head Office",
         "direction": "Outbound",
-        "days_from_first_conversation": 1,
+        "days_from_first_conversation": 0.01818287037037037,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "3",
+        "subject": "Re: ( I.M.F ) Head Office",
         "body": "Hello Ms. Kristalina Georgieva,\n\nThank you for your email and the information provided. I must say, this is quite a surprise! I'm not sure who Kevin is, but I certainly didn't instruct anyone to claim any funds on my behalf.\n\nI'm curious about how these funds were allocated to me in the first place? Could you provide more details about this process?\n\nBest wishes,\nThomas"
     },
     {
         "from": "scammer_300",
         "to": "baiter_300",
-        "subject": "Re: ( I.M.F ) Head Office",
         "direction": "Inbound",
-        "days_from_first_conversation": 3,
+        "days_from_first_conversation": 2.158101851851852,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "4",
+        "subject": "Re: ( I.M.F ) Head Office",
         "body": "INTERNATIONAL MONETARY FUND (HQ1)\r\n700 19th Street, N.W., Washington, D.C.\r\n20431.\r\n\r\nAttention: Sir/Madam\r\n\r\nWe acknowledge the receipt of your mail dated 07/02/2024 concerning the\r\nfund US$ 10,000,000.00 (Ten Million  United States Dollars) allocated to\r\nyou, These funds have been approved to be paid to you but we received\r\nanother account from your representative in the name of  Mr.Smart\r\nKevin that you are ill and you have instructed them to make the claim of\r\nyour fund worth of  $US$ 10,000,000.00 (Ten Million  United States Dollars)\r\nto  Mr.Smart Kevin as your Next Of Kin.\r\n\r\nWith due respect we understand that you don't know  Mr.Smart Kevin and We\r\nwould like you to re-confirm your Personal Information to us before we\r\nproceed with the transfer of the said funds to you.\r\n\r\nPlease re-confirm your personal information as follows;\r\n\r\n(1) Your Full Name..................................\r\n(2) Full Residential Address:......................\r\n(3) Country/State......................................\r\n(4) Beneficiary Amount..............................\r\n(5) Direct and Current Phone.....................\r\n(6) Passport identification...........................\r\n\r\nPlease you are advised to forward to us the above information so that we\r\ncan issue documents relating to your fund.\nThanks\r\n\r\nYour sincerely\r\nMs. Kristalina Georgieva,\r\nIMF Managing director"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_53",
         "to": "CRAWLER",
-        "subject": "Emirate Security Services is a",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Emirate Security Services is a",
         "body": "Emirate Security Services is a dynamic new force within the transportation industry although a relatively new company that provides its existing clients with a dedicated service throughout the local national and international arena. The company is based in Dubai close to Dubai International Airport within easy reach of all the major motorway networks.\nThe company collectively has more than 25 years experience within the courier / haulage / and airfreight sector. \nThe company has proven beyond doubt its honesty reliability and its professional outlook to its existing clients."
     },
     {
         "from": "baiter_53",
         "to": "scammer_53",
-        "subject": "Re: Emirate Security Services is a",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Emirate Security Services is a",
         "body": "Dear Sir/Madam,\n\nThank you for your message and the introduction to Emirate Security Services. It's great to hear about your strategic location near Dubai Airport and your extensive experience in the courier, haulage, and airfreight sector.\n\nYour commitment to honesty and dedication to your clients is commendable. I am interested in learning more about how we can potentially collaborate or utilize your services.\n\nCould you please provide more information on the specific services you offer, as well as any key sectors or industries you specialize in? Additionally, it would be helpful to understand your pricing structure.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDavid"
     }
 ]

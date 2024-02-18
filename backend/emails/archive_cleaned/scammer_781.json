@@ -2,21 +2,21 @@
     {
         "from": "scammer_781",
         "to": "CRAWLER",
-        "subject": "  FCMB BANK.",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  FCMB BANK.",
         "body": "  FCMB BANK.\nSir,\nThis is to notify you today Friday dated 26th day of August 2022 that\nI have finalized with your fund ($10.500,000.00) transfer process and\nalso forwarded a telex message to the payee bank in China to contact\nand effect your payment through their online banking system.\nYour information has been forwarded to the China Merchants Bank to\nenable them set up an online bank account with your name and\ninformation to enable you transfer your fund from the online account\nto any of your local bank account coordinate.\nFor a satisfactory payment relief and acknowledgment, you are directed\nto forward your\nclaim request and inquiries to the China Merchant Bank via their below\noperational Channel:\n(A) YOUR FULL NAME\n(B) FULL ADDRESS\n(C) YOUR DIRECT TELEPHONE LINE.\n(D) COPY OF YOUR PASSPORT OR DRIVERS LICENSE\nContact Person: Yu Xie\nFund Manager\nChina Merchants Bank\nTelex Transfer Section, Asia Pacific\nEmail: \ncmb_accts@securecmbonline.com\nTo enable them pay urgent attention to your file, include your file\nverification number CMB42067/CHK/UCH22.\nThank You\nMr. Ladi Balogun.\nFor : FCMB BANK.   "
     },
     {
         "from": "baiter_781",
         "to": "scammer_781",
-        "subject": "Re:   FCMB BANK.",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   FCMB BANK.",
         "body": "Dear Mr. Ladi Balogun,\n\nThank you for your email and the information provided. I am glad to hear that the fund transfer process has been finalized.\n\nHowever, before proceeding further, I would like to clarify a few things:\n\n1. Could you please provide more details about this fund? How did it come into my possession and what is its purpose?\n\n2. You mentioned that an online bank account will be set up in my name at China Merchants Bank. Could you please provide more details about this process?\n\n3. What are the next steps I need to take in order to complete this process?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nRicky"
     }
 ]

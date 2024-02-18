@@ -2,21 +2,21 @@
     {
         "from": "scammer_998",
         "to": "CRAWLER",
-        "subject": "   From: \"Dr. Nadim\" <nadimoel",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   From: \"Dr. Nadim\" <nadimoel",
         "body": "   From: \"Dr. Nadim\" <nadimoel16@gmail.com>\nDate: 02.05.22  \nWhom:\nSubject: I would be with you\nI'm Dr. Nadim. It's about you, I would like to discuss with you, it's urgent. Answer ,,,, I'm Dr. Nadim. It's about you, I would like to discuss with you, it's urgent. Response   "
     },
     {
         "from": "baiter_998",
         "to": "scammer_998",
-        "subject": "Re:    From: \"Dr. Nadim\" <nadimoel",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:    From: \"Dr. Nadim\" <nadimoel",
         "body": "Dear Dr. Nadim,\n\nI received your message stating that you have an urgent matter to discuss with me. Could you please provide more details about the issue at hand? I'm available and ready to assist in any way I can.\n\nBest wishes,\nJon"
     }
 ]

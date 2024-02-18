@@ -2,21 +2,21 @@
     {
         "from": "scammer_1420",
         "to": "CRAWLER",
-        "subject": "Attn:Beneficiary.",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attn:Beneficiary.",
         "body": "Attn:Beneficiary.\nI know this may come to you as a surprise but it is my greatest willingness to partner with you to establish a viable business in your Country.\nMy Name is Mohammed Mustafa Zarti,I am from Libya and Austria by Birth,you may have read about me in the news.\nThe call up capital to be invested in this business is $120,000,000.00(One Hundred and Twenty Million Dollars) only which I will want you to invest it on my behalf in your country.\nThis money is derived from the sales of Libyan crude oil with Dong Energy Company Denmark.\nMore information and Documents for proof will be sent to you as soon as I receive your response along with your Private and direct phone number.\nThank you as you indicate your willingness to partner with me by sending me a reply on this email I am writing you with.\n \nRegards.\nMohamed Mustafa Zarti.\nreply to:zartim2021@gmail.com"
     },
     {
         "from": "baiter_1420",
         "to": "scammer_1420",
-        "subject": "Re: Attn:Beneficiary.",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Attn:Beneficiary.",
         "body": "Hello Mr. Mohammed Mustafa,\n\nI'm delighted to hear from you and your proposal sounds intriguing! I'm always open to new business opportunities, especially ones that could potentially benefit my country.\n\nHowever, before we proceed further, I would like to understand more about this venture. Could you please provide more details about the nature of the business you're planning to establish? Also, what kind of role do you envision for me in this endeavor?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nKristina"
     }
 ]

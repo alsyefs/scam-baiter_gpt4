@@ -2,31 +2,31 @@
     {
         "from": "scammer_74",
         "to": "CRAWLER",
-        "subject": "You have an Unclaimed Benefit ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "You have an Unclaimed Benefit ",
         "body": "You have an Unclaimed Benefit Funds Discovered on your last name,\nfor more details contact;Andrewhaskel1@outlook.com"
     },
     {
         "from": "baiter_74",
         "to": "scammer_74",
-        "subject": "Re: You have an Unclaimed Benefit ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: You have an Unclaimed Benefit ",
         "body": "Dear Sir/Madam,\n\nI received your message regarding an unclaimed benefit fund discovered on my last name. Could you please provide more details about this? I would like to know the nature of these funds, how they were discovered and what steps I need to take in order to claim them.\n\nThank you for your assistance.\n\nBest wishes,\nLaura"
     },
     {
         "from": "scammer_74",
         "to": "baiter_74",
-        "subject": "Re: You have an Unclaimed Benefit",
         "direction": "Inbound",
-        "days_from_first_conversation": 1,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "2",
+        "subject": "Re: You have an Unclaimed Benefit",
         "body": "Dear ,Laura\r\n\r\n\r\nThank you for getting back to me, I am Andrew Haskel, a Manager in Liechtenstein Global Trust UK (LGT) . I am getting in touch with you regarding the estate of a deceased client with the same surname with an investment placed under our bank management. I would respectfully request that you keep the contents of this mail confidential and respect the integrity of the information you come by as a result of this mail. I contact you independently and no one is informed of this communication. I want us to go into a mutually beneficial business that needs your strict confidentiality and dedication. This business involves the transfer of Nine Million, Eight Hundred Thousand from the UK, it has very little liabilities and it is a safe and beneficial opportunity.\r\n\r\nNobody is getting hurt; this is a lifetime opportunity for us. I hold the KEY to these funds, and from my years as a banker, we see so much cash and funds being re-assigned daily. I know within me that nothing ventured is nothing gained and that success and riches never come easy or on a platter of gold. Do not betray my confidence. If we can be of one accord, we should act swiftly on this.\r\n\r\nPlease get back to me as soon as possible confirming your willingness to enable us to proceed, this is not a gimmick.\r\n\r\nI await your response on receipt of this email\nKind Regards,\r\nAndrew Haskel"
     }
 ]

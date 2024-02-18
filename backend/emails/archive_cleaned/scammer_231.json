@@ -2,21 +2,21 @@
     {
         "from": "scammer_231",
         "to": "CRAWLER",
-        "subject": "Hello,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Hello,",
         "body": "Hello,\nDo you need to refinance your business or you need a personal Loan?\nLet’s walk you through your journey. We offer below 5% depending on\nyour proposal.\nContact us now \ncloudfinancialsolutionsllc@inbox.lt\nCloud Financial Solutions LLC.\nCEO\nSean Ryan."
     },
     {
         "from": "baiter_231",
         "to": "scammer_231",
-        "subject": "Re: Hello,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Hello,",
         "body": "Dear Sean Ryan,\n\nThank you for your offer. At the moment, I don't have any immediate need for refinancing or a personal loan. However, I will keep your contact information handy for future reference.\n\nBest wishes,\nJoyce"
     }
 ]

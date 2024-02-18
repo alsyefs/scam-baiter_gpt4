@@ -2,21 +2,21 @@
     {
         "from": "scammer_371",
         "to": "CRAWLER",
-        "subject": "  Attn: Beneficiary,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Attn: Beneficiary,",
         "body": "  Attn: Beneficiary,\nWhat is still holding you from receiving your fund total US$3,700,000.00 which is ready for us to dispatch your ATM VISA CARD. Very important you comply and make contact to  Mr. Frank Kelly, with your full delivery Address, Phone Number and your Full Name, so that he will Dispatch your parcel and give you the tracking number to monitor the delivery as well.\nContact Person: Frank Kelly\nEmail: \nfk446876@gmail.com\nNumber : + 229 99364186\nWe thank you and also remain yours in service.\nRegards,\nCustomer-care\nMr.Umha Muhammed,\nUBA Bank \napolinar1959@hotmail.com\n>Group Plc (BR)   "
     },
     {
         "from": "baiter_371",
         "to": "scammer_371",
-        "subject": "Re:   Attn: Beneficiary,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Attn: Beneficiary,",
         "body": "Dear Muhammed,\n\nThank you for your email. I am ready to proceed with the process of receiving my fund. Here are my details:\n\nFull Name: Eliza Dane\nAddress: 1234 Elm Street, London, UK\nPhone Number: +44 20 1234 5678\n\nPlease let me know the next steps in this process.\n\nBest wishes,\nAlyssa"
     }
 ]

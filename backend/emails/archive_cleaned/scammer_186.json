@@ -2,21 +2,21 @@
     {
         "from": "scammer_186",
         "to": "CRAWLER",
-        "subject": "  Attn",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Attn",
         "body": "  Attn\nI have been trying to reach you on your telephone contact about an hour now just to inform you about the approval of your payment.\nWe wish to inform you that your name was listed by the International Monterey Unit for this exercise of compensating Scammed victims, some have been endorsed by the USA consulate yours was among those reported unpaid As at last week and we wish to instruct you to see the Instruction of the commission to make sure you receive your Compensation instantaneously\nWe appreciate your patience\nYours faithfully,\nCarol Swift   "
     },
     {
         "from": "baiter_186",
         "to": "scammer_186",
-        "subject": "Re:   Attn",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Attn",
         "body": "Dear Carol Swift,\n\nThank you for your message. I'm sorry for any inconvenience caused by my unavailability over the phone. \n\nI appreciate your efforts in ensuring that I receive my payment. Could you please provide more details about the next steps I need to take? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJustin"
     }
 ]

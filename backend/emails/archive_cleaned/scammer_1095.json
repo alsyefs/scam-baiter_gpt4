@@ -2,21 +2,21 @@
     {
         "from": "scammer_1095",
         "to": "CRAWLER",
-        "subject": "  Hello,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Hello,",
         "body": "  Hello,\nI am  Paul James, a freelance agent working with a loan company. They give out loans at 2% interest per annul to THOSE that need financial assistance for their debt consolidation loans, business loans, Private loans, Home Refinancing loans, projects, Auto Loans etc. if you are interested in getting loan\nfrom us, contact me immediately for more details and procedure.\nRegards,\nPaul James   "
     },
     {
         "from": "baiter_1095",
         "to": "scammer_1095",
-        "subject": "Re:   Hello,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Hello,",
         "body": "Dear Paul James,\n\nThank you for your offer. However, at this time, I am not in need of any financial assistance or loans. I appreciate your consideration and will keep your contact information for future reference.\n\nBest wishes,\nPhyllis"
     }
 ]

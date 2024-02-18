@@ -2,21 +2,21 @@
     {
         "from": "scammer_1188",
         "to": "CRAWLER",
-        "subject": "From: Director Ronald D. Vitie",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "From: Director Ronald D. Vitie",
         "body": "From: Director Ronald D. Vitiello\nThis is to acknowledge the receipt of your affirmation and to inform\nyou of the latest development as regards the delivery of your\nconsignment package by the Diplomat Hilary Frank. While scanning the\npackage, our Caracas machine detected that the content of the package\nthe Diplomat is delivering to you is cash worth the sum of USD\n$9,500,000.\nIt is a crime to bring in money (over US$10,000) into the United\nStates of America without proper documentations and clearance because\nit shows that the money is either being smuggled into the country or\nthe source of the funds is questionable. It is very important that all\nthe relevant documentations needed to authenticate the source of the\nfunds are provided to prove that the funds were earned legitimately in\naccordance with the PATRIOT ACT so that the FBI,IRS and Homeland\nSecurity will not come knocking at your door. In lieu of the above, It\nis therefore mandatory that you provide the Origin of Funds\nCertificate (O.O.F) to prove that the funds have no links with any\nform of illegality.\nBeing the beneficiary of the package, the Origin of Funds\nCertificate(O.O.F) is the only way of confirming the source of the\nfunds and it is your responsibility to provide the Certificate before\nthe Diplomat will be allowed to complete the delivery To You Tomorrow.\nWe were informed that the beneficiary of the package will pay for the\nCertificate and the cost of this documentation $50 Dollars, Upon the\nreceipt of the payment information, the Certificate will be made out\nin your name by the Usa Authority, scanned and sent immediately via\nemail to us so that the Diplomat will be allowed to complete the\ndelivery of your package to you tomorrow. Failure to pay for this\ndocumentation is a confirmation that you wanted to smuggle the funds\ninto the country which is a federal offense and a gross violation of\nthe Patriot Act.\n It is therefore in your best interest that you pay for the\nCertificate as instructed immediately as the consequences of refusing\nis very severe.\n=================================\n(YOU CAN SEND US AN ITUNES CARD, AMAZON CARD, STEAM WALLET CARD)\n=================================\nI await your urgent response.\nYours Faithfully,\nDirector Vitiello D Ronald\nEmail: \nronaldvitiello@rediffmail.com\nA G Commissioner of U.S. Customs and Border Protection (CBP)"
     },
     {
         "from": "baiter_1188",
         "to": "scammer_1188",
-        "subject": "Re: From: Director Ronald D. Vitie",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: From: Director Ronald D. Vitie",
         "body": "Dear Director Vitiello Ronald,\n\nThank you for your email and the information provided. I understand the importance of complying with the PATRIOT ACT and ensuring that all funds entering the United States are properly declared and their source verified.\n\nHowever, I must clarify that I was not aware of this package or its contents. Could you please provide more details about this package? Who is it from? How did my name get associated with it?\n\nI am willing to cooperate fully with your department to resolve this matter, but I need more information to proceed.\n\nBest wishes,\nThomas"
     }
 ]

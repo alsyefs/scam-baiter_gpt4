@@ -2,21 +2,21 @@
     {
         "from": "scammer_1060",
         "to": "CRAWLER",
-        "subject": "OK LOAN SERVICE SIGNATURE LOAN",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "OK LOAN SERVICE SIGNATURE LOAN",
         "body": "OK LOAN SERVICE SIGNATURE LOANS.\nSmart Money Solutions\nACCESS UP TO 40 MILLION PEOPLES AROUND THE WORLD, IN LESS THEN 24HRS.\nNO COLLATERAL OR PAPERWORK REQUIRED.\nLOAN REQUIREMENTS.\n1: Must be employed and be between the ages of 20-60 Years.\n2: It must be a salary earnar or a business men and women and selfemployed.\n3: You must have a phone number and any valid identity Card or Passport.\nExperience about the Company:\n We are a trusted Signature Loan Company that has been in business for\nover 50 years.We are locally owned and family operated. We help\nOklahoman\"s get money that they deserve. Get fast cash in Oklahoma\nCity.\nOK LOAN Offer loans of any kind, from $1,600.00 to $50,000,000.00.\nDollar for every citizen who is able to repay without a due date. The\ninterest rate is 3% unique throughout the repayment period. Do not\nhesitate to contact us, we are available 24h/24h.\nIf you are interested in our loan services kindly fill this details:\n1: Full Name:........................\n2: Contact Address:..................\n3: Phone number:.....................\n4: Country:..........................\n5: City:.............................\n6: Marital Status:...................\n7: Amount Needed as Loan:............\n8: Loan Duration:....................\n9: Occupation:.......................\n10: Monthly income:..................\n11: Sex:.............................\n12: Bank details:....................\nIn acknowledgement to this mail, we can start with the processing of\nyour Ok loan. There is more to gain by getting a loan from this\ncompany.\nWE ACCEPT ONLINE PAYMENTS.\nYou will need the following information to make your repayments\nsuccessfully online.\nAddress: 6718 WESTERN OKC, OK 73139\nContact Email: \nokloanservices@gmail.com\nContact Phone Number: +1 641-505-6500\nRegards\nOK LOAN SERVICE SIGNATURE LOANS."
     },
     {
         "from": "baiter_1060",
         "to": "scammer_1060",
-        "subject": "Re: OK LOAN SERVICE SIGNATURE LOAN",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: OK LOAN SERVICE SIGNATURE LOAN",
         "body": "Hello OK LOAN SERVICE SIGNATURE LOANS,\n\nThank you for reaching out and providing such detailed information about your services. It sounds like a very convenient way to access funds when needed. I'm intrigued by the fact that no collateral or paperwork is required, it's quite different from what I've seen with other loan companies.\n\nI do have a few questions though, if you don't mind me asking. How does the process work without any collateral or paperwork? Also, how do you ensure that the person borrowing is able to repay the loan?\n\nYou mentioned that you offer loans of any kind, could you please elaborate on this? Are there specific types of loans that are more popular or beneficial for certain situations?\n\nLastly, could you explain a bit more about your online payment system? How secure is it and what measures are in place to protect my information?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nEvelyn"
     }
 ]

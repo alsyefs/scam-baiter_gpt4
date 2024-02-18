@@ -2,21 +2,21 @@
     {
         "from": "scammer_841",
         "to": "CRAWLER",
-        "subject": "Attn: My Dear good friend,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attn: My Dear good friend,",
         "body": "Attn: My Dear good friend,\nI am Mrs.Maria Rodriguez; I am a US citizen, 52 years Old. I reside in\nthe state of Texas 75773. My residential address is as follows 23329\nLive Oak Dr.Mineola,Texas 75773, United States, am thinking of moving\nsince I am now wealthy, I am one of those that took part in the\nCompensation in Cotonou,Benin Republic West Africa many years ago and\nthey refused to pay me, I had paid over Us$52,000.00 while in the\nUnited State, trying to get my payment all to no avail.\nSo,I decided to travel down to West Africa precisely Cotonou,Benin\nRepublic with all my compensation documents, and I was directed to\nmeet Barr.Marry Pace, who is the member of OUTSTANDING PAYMENT AWARD\nCOMMITTEE and a Human Rights Activist (Lawyer), and I contacted him\nand he explained everything to me. He said that whoever is contacting\nus through emails are fake.\nHe took me to the paying bank for the claim of my Compensation payment\nRight now I am the happiest woman on earth because I have received my\ncompensation funds amounting to $2,500,000.00. Moreover, Mr.Marry Pace\nshowed me the full information of those that won lottery and those\nwhose inheritance had not been paid and the list of all outstanding\ncontractor that were owed that are yet to receive their payments in\nBenin Republic,Ghana and Nigeria and I saw your information's as one\nof the scam victims, that is why I decided to email you to stop\ndealing with those people, they are not with your fund, they are only\nmaking money out of you.\nI will advise you to contact Mr.Marry Pace directly on this information below.\nName: Mr.Marry Pace (Barrister) his country is slovensko but he\nbased in west Africa Cotonou,Benin Republic.\nEmail:marrypace22@gmail.com\nTell : +22999680627\nYou really have to stop dealing with those people that are contacting\nyou and telling you that your fund is with them, that they are\nGovernment officials, it is not in any way with them, they are only\ntaking advantage of you and they will dry you up until you have\nnothing.\nTake Note,\nthe only money I paid after I met Mr.Marry Pace was just\n$250.00 for the paper works\n, take note of that.\nThank You and Be Blessed.\nMrs.Maria Rodriguez.\n23329 Live Oak Dr.Mineola,\nTexas 75773 USA."
     },
     {
         "from": "baiter_841",
         "to": "scammer_841",
-        "subject": "Re: Attn: My Dear good friend,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Attn: My Dear good friend,",
         "body": "Dear Rodriguez,\n\nThank you for your email and the information provided. I appreciate your concern and advice regarding the situation. I will certainly take into consideration what you have said and act accordingly.\n\nBest regards,\nLewis D.\n\nBest wishes,\nJackie"
     }
 ]

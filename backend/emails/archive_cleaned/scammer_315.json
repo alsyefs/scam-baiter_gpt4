@@ -2,21 +2,21 @@
     {
         "from": "scammer_315",
         "to": "CRAWLER",
-        "subject": "Good day my dear",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Good day my dear",
         "body": "Good day my dear\nHow are you doing and your family.\nI am Mrs. Diana Markus, a sick widow writing from hospital bed with no\nchild. I'm contacting you so that you will know my desire to donate\nthe sum of ($2,900,000.00 MILLION USD) that I inherited from my late\nhusband to charity, currently the fund is still in the bank. Recently,\nmy doctor told me that I have serious cancer disease and My life is no\nlonger guaranteed that's why i take this decision..\nI want you to make use of this fund for the Poor People, Abused\nChildren, Less Privileged, Churches, Orphanages and Suffering Widows\nin the society.\nPlease get back to me immediately after reading this message for more\ndetails regarding this humanitarian agenda.\nGod bless you while I'm waiting for your answer.\nYour sister.\nMrs. Diana Markus."
     },
     {
         "from": "baiter_315",
         "to": "scammer_315",
-        "subject": "Re: Good day my dear",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Good day my dear",
         "body": "Dear Mrs. Diana Markus,\n\nI'm deeply moved by your message and the situation you're currently facing. I'm sorry to hear about your health condition and I admire your courage and generosity in such difficult times.\n\nAs a member of The Holy Bagel Community, we are committed to helping those in need, including the poor, abused children, orphanages, and suffering widows. Your generous donation would greatly help us in our mission.\n\nHowever, before proceeding further, I would like to know more details about this process. Could you please provide more information on how we can access these funds? \n\nMay God bless you and give you strength during this time.\n\nBest wishes,\nJulie"
     }
 ]

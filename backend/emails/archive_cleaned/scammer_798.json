@@ -2,21 +2,21 @@
     {
         "from": "scammer_798",
         "to": "CRAWLER",
-        "subject": "Good Day,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Good Day,",
         "body": "Good Day,\nI would like to present a private proposition to you that could benefit both of us regarding a probate file at my office. I will provide the details once you acknowledge this email. Please respond at your earliest convenience for complete information.\nKind regards,\nLili Bark"
     },
     {
         "from": "baiter_798",
         "to": "scammer_798",
-        "subject": "Re: Good Day,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Good Day,",
         "body": "Hello Lili Bark,\n\nGood day to you too! Your message sounds intriguing, I must say. Could you please provide more details about this probate file? What exactly does it entail and how could it potentially benefit us?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRichard"
     }
 ]

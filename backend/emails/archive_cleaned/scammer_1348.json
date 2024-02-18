@@ -2,21 +2,21 @@
     {
         "from": "scammer_1348",
         "to": "CRAWLER",
-        "subject": "Attention: Beneficiary,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attention: Beneficiary,",
         "body": "Attention: Beneficiary,\nThis is to bring to your notice that because of the impossibility of\nyour fund transfer through our western union network, we have credited\nyour total fund of $10.7Million Legitimate USD into an ATM VIS\ncard,and we have paid the delivery fee of your ATM VISA card to you,we\npaid it because your ATM VISA card worth of $10.7Million which we have\nregistered for deliver, has less than 16 days to expire in the\ncustody of the UPS Company and when it expires, the money will go into\nfederal government treasury account.\nFor that we decided to help you pay off the money so that your ATM\nVISA card will not expire, because we trust that when you receive this\nyour ATM VISA card, definitely you must pay us back and even\ncompensate us for helping you. Like we stated earlier, the delivery\ncharges has been paid ,therefore the only money you were advice to\nsend to them is their official security keeping fees of $50 usd ever\nday.\nLike I stated earlier, \nthe crediting re-activation, delivery and the\ncompany registration charges has been paid by me, but I  did not pay\ntheir official security keeping fees since they refused, they refused\nand the reason is that they do not know when you are going to contact\nthem and the demurrage might have increased by then, They told me that\ntheir official  security keeping fees is $50 per a day\n , and\ndeposited it 29th of october by 10:am in the morning to their\noffice.Therefore you should contact them with the below contact\ninformation;\nCompany name; UPS Express Customer Service.\nEmail:Email:(\nupsexpress7331@gmail.com\n)\nLogistic Manager:Mr Fransisco F,\nTry to contact them today and also send them the security official\nsecurity keeping charge to avoid increasing of their fees and let me\nknow once you receive this your ATM VISA CARD.\nContact them today with your full information requested below;\nYour Full Name;\nYour Country;\nYour Residence Home Address:\nYour Direct Phone :\nYour Cell:\nAge/Sex:\nTry to indicate all this codes to them because it will prove that you\nare the rightful person that own the ATM visa card deposited in their\ncustody.\nShipment Code awb :33xzs,\nATM Card Registered Code No xgt442:\nSecurity Code sctc:2001dhx:567:\nTransaction Code 233:cstc:101:33028:\nCertificate Deposit code: sctc:bun.xxiv:78:01\nDepositor:Mrs. Linda Tutu\nManager of UBA Bank Plc\nThis is to avoid wrong delivery, do that urgent to avoid increase of\ntheir keeping fees and let us know once you receive your ATM VISA\nCARD.\nYours sincerely\nMaria Lius Jesus"
     },
     {
         "from": "baiter_1348",
         "to": "scammer_1348",
-        "subject": "Re: Attention: Beneficiary,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Attention: Beneficiary,",
         "body": "Dear Maria Lius Jesus,\n\nThank you for your email. I understand that my ATM VISA card is ready for delivery and that the delivery fee has been paid. However, I am a bit confused about the security keeping fee. Could you please clarify how much this fee is and how it should be paid?\n\nAlso, could you please provide me with the contact details of the UPS Express Customer Service? You mentioned in your email that I should contact them but did not provide their contact information.\n\nI look forward to hearing from you soon.\n\nBest wishes,\nAshley"
     }
 ]

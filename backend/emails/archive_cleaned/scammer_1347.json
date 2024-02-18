@@ -2,21 +2,21 @@
     {
         "from": "scammer_1347",
         "to": "CRAWLER",
-        "subject": "UPS DELIVERING SERVICE",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "UPS DELIVERING SERVICE",
         "body": "UPS DELIVERING SERVICE\nOffers Shipping Logistics Management, Supply Chain Managementand to\nanywhere in the world. Company Address:\n55 Glenlake Parkway NE\nAtlanta, GA 30328\nUnited States\nUPS DELIVERING COMPANY LTD with worldwide delivery at it's best. We\nare pleased to be at your service. UPS DELIVERING COMPANY LTD we are\nhere to serve you better.\nGood Day Dear Customer.\nThe UPS  Delivering Service, are hereby writing to inform you that the\ngovernment of the United state of America has decided to send your\nfunds  inheritance through UPS Courier Service delivery.  The\ngovernment deposited your inheritance  ($17.5M) of funds with this\ncompany yesterday with your full name and home address where to\ndelivery the package. For your information, the government paid\ndelivery charges.\nThis is to bring to your notice that the needful documents for this\ndelivery has been issued in your name except one. We issued two\nneedful documents in your favor. Custom clearance certificate\nAnti-drug certificate. But did not issue an insurance document. I went\nto the Insurance Company this morning to issue an insurance document\non your behalf. And the Insurance Company is charging $50.00 to be\npaid before they provide us with an insurance document.\nI want to reassure you of our willingness to delivery your package as\nsoon as possible. Again, your package is among the packages we are\nabout to dispatch this week.\n We tried our best to obtain the two\ndocuments on your behalf. Now we want you to pay the Insurance Company\nso they can provide us with insurance documents so we can  dispatch\nyour package.\n Once payment is made the Insurance Company will issue us\nan insurance document.  And we will then dispatch your package in 7\nhour Insurance Company provides us with the document.\nYou are to pay the insurance fee through Gift card iTunes card or\nsteam wallet card. It is fast to  get it done today .\nForward the Gift card once the payment is made and send me the\npictures so that i will redeem it to cash . We are waiting on the\npayment details to enable the Insurance Company to provide us with\nneeded documents so we can dispatch your package. for more information\nmessage us Email..( \nupsdeliveringcompanyltd4@gmail.com\n              Sincerely,\n               Mrs Jasmine Pierre\n               Director UPS Company"
     },
     {
         "from": "baiter_1347",
         "to": "scammer_1347",
-        "subject": "Re: UPS DELIVERING SERVICE",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: UPS DELIVERING SERVICE",
         "body": "Hello there,\n\nThank you for reaching out and providing such detailed information about the delivery process. I must say, it's quite interesting to learn about all these procedures that go into delivering a package.\n\nI'm curious though, why is the insurance fee being paid through a gift card or steam wallet card? Is this a common practice in your company? \n\nAlso, could you please explain more about what this insurance document is and why it's so important for the delivery of my package?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nKimberly"
     }
 ]

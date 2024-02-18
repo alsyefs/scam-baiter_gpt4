@@ -2,31 +2,31 @@
     {
         "from": "scammer_948",
         "to": "CRAWLER",
-        "subject": "Attention: Beneficiary.       ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attention: Beneficiary.       ",
         "body": "Attention: Beneficiary.             \nYour unclaimed compensation has been registered via ATM CARD worth\nUS$2,700,000.00 with Courier Service Company with registration code of\n( DCJKT00678G ). \nplease kindly contact me with your delivery\ninformation such as:.\n \nYour Full Name,           \nYour Address,           \nYour Office Address,       \nYour Nationality,       \nYour Telephone Number,           \nYour ID Copy and a picture\n,           \nYour Nearest Airport for delivery of your ATM CARD Package.          \nThe only fee required for you to pay is $95.00 for delivery and for the authorization and\ndocumentation of your name on the legal documents as the rightful\nbeneficiary for the approval of said fund via ATM Card in your name.\n \nPlease kindly indicate the registration Number including your details\nand Security keeping Fee only which was required from you up to the\ndelivery of your package down to your home as the rightful beneficiary\nto the unclaimed compensation for scam victims.                       \n \nThank you for your understanding and God bless you as you furnish us\nyour details for Documentation of your name on the legal documents for\nthe delivery via ATM MASTER CARD.\n \nBest Regards,               \nMrs. Angela Blake."
     },
     {
         "from": "baiter_948",
         "to": "scammer_948",
-        "subject": "Re: Attention: Beneficiary.       ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Attention: Beneficiary.       ",
         "body": "Hello Mrs. Angela Blake,\n\nThank you for reaching out to me about this unclaimed ATM card. It sounds like a wonderful opportunity, but I have a few questions before we proceed.\n\nFirstly, could you please explain more about how my name came up for this unclaimed ATM card? Also, could you provide more details about the courier service company that will be handling the delivery?\n\nSecondly, I'm curious about the legal documents you mentioned. What exactly are these documents and why is it necessary to have my name on them?\n\nLastly, regarding the fee required for delivery and security keeping, could you clarify how much this would be and how it should be paid?\n\nI look forward to your response.\n\nBest regards.\n\nBest wishes,\nVirginia"
     },
     {
         "from": "scammer_948",
         "to": "baiter_948",
-        "subject": "Treat As Urgent .",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "2",
+        "subject": "Treat As Urgent .",
         "body": "Can I view a copy of the email proposal  which was sent to you?\r\n\r\nWith that will strengthen me to be sure you are the rightful beneficiary.\r\n\r\n\r\nWish to acknowledge the receipt of your email response towards your\r\nunclaimed compensation scam fund, your email was shortlisted among the\r\nforeigners to be compensated for scam victim.\r\n\r\nAll legal documents will be issue out to you when you provide us your\r\ndetails required for authorization and documentation of your name on the\r\nlegal documents for payment approval.\r\n\r\nIt’s very necessary to have your name on the legal documents as the\r\nrightful beneficiary, for backing up your fund from your country government\r\nif any question.\r\n\r\nRegarding the required fee, stand for delivery and security keeping $350.00\r\nand Stamp duty fee $200,00 only with this all legal documents will be\r\nattach with the ATM Card to be deliver down to your home without any\r\nfurther delay or additional charge.\r\n\r\nYour details is necessary to be furnish to us, first, your name have to on\r\nthe claim file for Authorization and Documentation of your name on the\r\nlegal documents and your home address, where your package will be register\r\nand deliver to. Your Direct Phone number where Pin Code of the ATM Card\r\nwill be directly sent to your phone for security purpose.\r\n\r\nYour ID and two copies of your pictures for proper identification.\r\n\r\nThank you for your understanding and God bless you.\r\n\nBest Regards.\r\nMrs. Angela Blake."
     }
 ]

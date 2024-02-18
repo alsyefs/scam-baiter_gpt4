@@ -2,21 +2,21 @@
     {
         "from": "scammer_208",
         "to": "CRAWLER",
-        "subject": "Sir",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Sir",
         "body": "Sir\nI am contacting you because we are seeking a professional with whom we can be involved in partnership overseas, who also has the ability to manage an investment portfolio in your country. I am representing a group of prospective investors from China.\n \nThe proposed investment profile will be large in volume and scale, but because of the restrictive employment regulations in China, I cannot do this while under state employment, hence this proposal.\n \nMy primary preference is for someone from your country with your professional background, hence this proposal to you. I like to know if you are disposed to that kind of engagement, so that we may open further conversation along that line and provide you additional details.\n \nThe civil service and employment regulations here prohibit me from getting involved in private oversea business, while under government or corporate employment, hence this proposal to you, in view of your impressive profile.\nIf you indicate interest, I can send you my ID'S, so you can have a better knowledge of who you are dealing with, and I can communicate further details of the proposal to you.  Please reply this mail to this Email Address:guangcheung672@gmail.com\n \nI look forward to your response if this appeals to you.\nRegard\nCheung Guang"
     },
     {
         "from": "baiter_208",
         "to": "scammer_208",
-        "subject": "Re: Sir",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Sir",
         "body": "Dear Cheung Guang,\n\nThank you for your email and the opportunity to be involved in this investment. I am interested in learning more about this proposal. \n\nHowever, before we proceed, I would like to know more about the nature of the investment, the volume and scale of it, and what my role would be. Also, could you please provide me with some information about your background and experience in this field?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nElaine"
     }
 ]

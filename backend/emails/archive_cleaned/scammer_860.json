@@ -2,21 +2,21 @@
     {
         "from": "scammer_860",
         "to": "CRAWLER",
-        "subject": "Good Morning,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Good Morning,",
         "body": "Good Morning,\nWe wish to congratulate you for the compensation payment of\nUS$5,860,000.00 to your account.\nFor the immediate transfer of the US$5,860,000.00 to your bank\naccount, kindly contact Mrs. Eleanor Bernard today with the below\ninformation, she will give you a better guidelines and you will\nreceive the fund into your bank account within the next three (3)\nworking days.\nContact Name: Mrs. Eleanor Bernard.\nE-mail: \nmdredban775@gmail.com\n (OR) \nunccpmoln@yahoo.co.jp\n.\nYours sincerely,\nGrace Robert\nFinancial services, UK"
     },
     {
         "from": "baiter_860",
         "to": "scammer_860",
-        "subject": "Re: Good Morning,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Good Morning,",
         "body": "Dear Grace Robert,\n\nThank you for your email. However, I believe there might have been a mistake in your message as some details seem to be missing, such as the amount of money to be transferred and the contact information for Mrs. Eleanor Bernard.\n\nCould you please provide these missing details so that I can proceed with contacting Mrs. Bernard?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJessica"
     }
 ]

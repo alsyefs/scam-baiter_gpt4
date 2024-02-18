@@ -2,21 +2,21 @@
     {
         "from": "scammer_121",
         "to": "CRAWLER",
-        "subject": "Instant compensation Payment v",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Instant compensation Payment v",
         "body": "Instant compensation Payment valued at US$12,500.000.00 usd\nIt is my modest obligation to write you this letter as regards the\nauthorization of your owed payment through our most respected\nfinancial institution (HSBC Regional Bank). I am Richard J. Moseley,\nthe chief executive officer, foreign operations department HSBC\nRegional Bank, the British government in conjunction with U.S\ngovernment, united nations organization on foreign payment matters has\nempowered my bank after much consultation and consideration to handle\nall foreign payments and release them to their appropriate\nbeneficiaries.\nHaving received these vital payment numbers, you are instantly\nqualified to receive and confirm your payment with us within the next\n48hrs.\nBe well informed that we have verified your payment file as directed\nto us and your name is next on the list of our outstanding fund\nbeneficiaries to receive their payment before the end of this first\nterm of the year 2022. Be advised that because of too many funds\nbeneficiaries due for payment at this first quarter of the year, you\nare entitled to receive the sum of Seventeen million Five hundred\nthousand United State dollars (12,500.000.00 us dollars only) as part\npayment of your fund.\nSo you are therefore advise to re-confirm the following Information\nfor immediate payment processing.\n1) Your full name:.....\n2) Your full address:....\n3) Your contact telephone and Fax:.....\n4) Your profession:.......\n5) Any valid form of your identification/driven license:...\n6) Account number\nAs soon as we receive the above mentioned information, your payment\nwill be processed and released to you without any further delay. Be\nalso informed that You are not allowed to communicate with any other\nperson(s) or office so as to avoid conflict of information, you are\nrequired to provide the above information for your transfer to take\nplace through HSBC Regional Bank to your personal bank account.on\nagain \nyou are inform to send the transfer fee of $50, kindly get iTunes\ngift card or Steam wallet . or Amazon gift card please make sure\nyou send it now once you receive this email because we want to\ntransfer your funds now \n.\nWe look forward to serving you better.\nYours sincerely.\nMr. Richard J. Moseley,\nChief Executive Director HSBC Regional Bank FL"
     },
     {
         "from": "baiter_121",
         "to": "scammer_121",
-        "subject": "Re: Instant compensation Payment v",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Instant compensation Payment v",
         "body": "Hello Mr. Richard J. Moseley,\n\nThank you for your email and the information provided. It's quite a surprise to hear about this payment, I must say! \n\nI'm curious though, how did my name end up on this list of fund beneficiaries? And could you please explain more about the process of transferring these funds? \n\nAlso, I'm not familiar with gift cards or Steam wallet as a form of transfer fee payment. Could you kindly elaborate on that?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nLorene"
     }
 ]

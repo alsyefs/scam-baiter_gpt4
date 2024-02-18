@@ -2,21 +2,21 @@
     {
         "from": "scammer_1106",
         "to": "CRAWLER",
-        "subject": "International Payment Centre,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "International Payment Centre,",
         "body": "International Payment Centre,\nFact Finding Office.\n152 - 160 City Rd, London EC1V 2NX,\nUnited Kingdom.\nAttn: Fund Beneficiary,\nSequel to the mandate of the United Nations to clear and release all processed funds not associated with drugs and terrorist activities to deserving beneficiaries without any further delay. it may interest you to note that based on the  current financial policy on all foreign payments The International Payment Centre has approved your outstanding payment  via any of her cash payment centers in Europe or Asia, the implication of this approval is that every short listed  beneficiary must travel to the assigned endorsement office in person to sign the necessary fund release bond before  proceeding to the cash payment centre for immediate payment, We are aware of the cost implication/expenses involved on  this process knowing fully well that you might be unable to take care of the high traveling expenses associated in this  process.\nIn respect of the above subject we have contracted the services of a seasoned investor/sponsor who has agreed to cover every expenses needed on this process including return flight tickets and hotel reservations respectively hence you will not be expected to put forward any money from your pocket on this subject, Please note that the investor is demanding 5% of your total payment as his entitlement for the sponsorship, I hope this arrangement is OK by you? it is important you consent to this arrangements by contacting our Director of Operations with your personal details urgently on this Email address: \npaymentoffice2277@gmail.com\n  to enable him proceed with the needful accordingly. Thanks for your kind understanding..\nYours Truly,\nMr. Bowie Denis\nDeputy Secretary.\nInternational Payment Centre"
     },
     {
         "from": "baiter_1106",
         "to": "scammer_1106",
-        "subject": "Re: International Payment Centre,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: International Payment Centre,",
         "body": "Hello Mr. Bowie Denis,\n\nThank you for your email and the information provided. It's quite interesting to hear about this opportunity. I must say, it's not every day that one receives such news.\n\nI understand that an investor is willing to cover all expenses related to this process, which is very generous indeed. However, I'm a bit unclear about the part where the investor demands a percentage of my total payment. Could you please elaborate on this? What exactly does this mean?\n\nAlso, could you provide more details about the process itself? What does signing the fund release bond entail? And what are the steps involved in proceeding to the cash payment centre for immediate payment?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nElizabeth"
     }
 ]

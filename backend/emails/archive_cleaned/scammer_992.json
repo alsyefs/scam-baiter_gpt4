@@ -2,21 +2,21 @@
     {
         "from": "scammer_992",
         "to": "CRAWLER",
-        "subject": "   From the desk of; Mostafa G",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   From the desk of; Mostafa G",
         "body": "   From the desk of; Mostafa Golam\nManager, Brew-Master Securities Inc.\nAddress: Cobian's Pl, 1607 PR-25 Bldg.\nSuite 126, San Juan, 00909, Puerto Rico\nTelephone No: +1 787 3957683\nEmail: \nmstgolam53@gmail.com\nDear Sir / Madam,\nMy heart is deeply filled with pains and tears allover my face because\nI lost my beloved wife last month, I suffered so much with my beloved\nchildren at COVID-19 Quarantine | CDC after the death of my wife, the\nmiserable Quarantine ended 2-days ago while my children remain in\nshock of isolation trauma and agony of their mother's death (my late\nwife).\nI have decided to relocate with my beloved children for better life,\nunfortunately I don't have money because my salary hardly take care of\nmy beloved family. As the Manager of Brew-Master Securities Inc.,\nthere is unclaimed US$989,600.00 belonged to deceased without\nsuccessor. I deemed it necessary to execute this DEAL urgently with\nyou, and my benefit will be enough to relocate my beloved family.\nI shall file a claim presenting you as successor to deceased depositor\nof US$989,600.00 and the funds will be released to you within 5-hours\nof filing the claim today. Please respond with your complete details\nto file successor's claim in your favor vehemently. My nationality is\nBangladesh (I'm Bangalees) residing in Puerto Rico. I have whatsapp\nnumber should you wish to chat, thanks in great anticipation of your\nconsiderably reply showing humane kindness to my traumatized family.\nRespectfully yours,\nMr Mostafa MD Golam\nManager, Brew-Master Securities Inc.\nAddress: Cobian's Pl, 1607 PR-25 Bldg.\nSuite 126, San Juan, 00909, Puerto Rico\nTelephone No: +1 787 3957683\nEmail: \nmstgolam53@gmail.com\n "
     },
     {
         "from": "baiter_992",
         "to": "scammer_992",
-        "subject": "Re:    From the desk of; Mostafa G",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:    From the desk of; Mostafa G",
         "body": "Dear Mr. Mostafa MD Golam,\n\nI'm deeply sorry to hear about your loss and the difficult situation you and your children are currently facing. I understand that this must be a very challenging time for you all.\n\nRegarding the unclaimed funds, I would like to know more details about this process. How can I be presented as the successor to the deceased depositor? What kind of legal implications does this have?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRita"
     }
 ]

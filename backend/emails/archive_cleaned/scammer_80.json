@@ -2,21 +2,21 @@
     {
         "from": "scammer_80",
         "to": "CRAWLER",
-        "subject": "   From: Sarah Abdallah <annam",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   From: Sarah Abdallah <annam",
         "body": "   From: Sarah Abdallah <annamedinat@gmail.com>\nSent: Saturday, October 2, 2021 \nSubject: Accept My Request\n \nResponse to me immediately,\nI am Mrs Sarah Abdallah, I am a widow. I am contacting you because I\nam dying and have been informed that I have less than 2 month to live.\nI am  suffering from a long time cancer of the breast. from all\nindication my condition is really deteriorating, and my doctors have\ncourageously advised me that I may not live beyond the 2 months; this\nis because the cancer stage has reached a critical stage.\nI have no one to whom to leave my legacy, this is the reason why I\ncontacted you to donate my wealth to you . In order to help the poor\nwith my wealth on your behalf. This transaction is 100% genuine. I\nhave a large sum of amount   USD $ 4.7 Million. dollars that I inherit\nfrom my late husband and I want to make it available to you, for good\nwill to help the poor. And children in difficulty.  Please let me know\nurgently if you are interested to enable me to give you more details\nand also to put you in contact with my bank manager for immediate\ntransfer of these funds into your account.  I wish you  the blessing\nand protect of Almighty God.\nYours Sincerely,\nMrs. Sarah Abdallah,   "
     },
     {
         "from": "baiter_80",
         "to": "scammer_80",
-        "subject": "Re:    From: Sarah Abdallah <annam",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    From: Sarah Abdallah <annam",
         "body": "Hello Mrs. Sarah Abdallah,\n\nI'm really sorry to hear about your health condition. It's truly admirable that you're thinking of helping others in such a difficult time. I'm curious, how did you come across my contact information? And why did you choose me for this noble cause?\n\nAlso, could you please share more details about the charities or organizations that you would like me to support with this donation? I'd love to know more about your vision and the kind of impact you wish to create.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nSarah"
     }
 ]

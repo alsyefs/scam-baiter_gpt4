@@ -2,21 +2,21 @@
     {
         "from": "scammer_896",
         "to": "CRAWLER",
-        "subject": "Dear Package Owner,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear Package Owner,",
         "body": "Dear Package Owner,\nInternational Monetary Fund (IMF) have finally registered your ATM\nMaster CARD of $14.8 Million USD  with a check of 1 million dollars\nwith DHL EXPRESS Courier Company with registration code of ( Shipment\nCode AWB33xzs) please Contact with your delivery information such as,\nYour Name::::::::::::::\nYour Address:::::::::::\nYour Telephone Number:::\nYour Age::::::::::::::::\nYour Country::::::::::::\nYour occupation:::::::::\nDirector Mrs Sandra Leo\nI have paid for their security fee. The only fee you have to pay is\ntheir Delivery fee only.\nPlease indicate the registration Code Number(awb-33xzs) to DHL when\ncontacting them and ask them how much is their delivery fee,\nBest Regards\nMr Robert Lynn"
     },
     {
         "from": "baiter_896",
         "to": "scammer_896",
-        "subject": "Re: Dear Package Owner,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Dear Package Owner,",
         "body": "Dear Mr. Robert Lynn,\n\nThank you for your email regarding the ATM Master Card registered with DHL EXPRESS Courier Company. I appreciate your assistance in this matter.\n\nHowever, before proceeding further, I would like to clarify a few things:\n\n1. Could you please provide more details about the ATM Master Card? How was it registered under my name and what is its purpose?\n\n2. You mentioned a shipment code but it seems to be missing from the email. Could you please provide me with this code?\n\n3. Regarding the delivery fee, could you give me an estimate of how much it might be?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nMarcia"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_115",
         "to": "CRAWLER",
-        "subject": "  MAY THE LIGHT OF HIS MERCIES",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  MAY THE LIGHT OF HIS MERCIES",
         "body": "  MAY THE LIGHT OF HIS MERCIES REST UPON YOU.\nMy beloved son in the lord.How are you today and your present situation? I know that the right hand of our God is great in your life.Am reverend Father Gabriel Odontu.The able minister in-charge of the refugee camp Senegal Dakar unit.Under control  of Refugee board world wide.Yes.Your formal drop a cheque for you here in my office. the you know miss Josephine phillip\nshe was here in Senegal and we went to the UBA BANK she ask them if you have receive your ATM CARD but the bank told her that you was on unable to pay for the insurance and posting fee of your card that the card is still there with them at the bank so she ask them to role the money through WESTERN UNION money transfer so that it will be easy for you to cash the money.\nshe have issued the Cheque to the UBA  bank Senegal, and she have instructed the bank to role the  the sum of $300,000.00 (Three hundred, thousand US Dollars). WESTERN UNION money transfer so that it will be easy for you to cash the money.\nThe money could not be sent to you due to allocated security code.The BANK OF SENEGAL has approval to send the cash through western union Money Transfer.I also want to let you know that i have been in contact with the WESTERN UNION OFFICER IN CHARGE and they gave me go ahead other. Therefore, you have to follow all the Instructions on this for the successful wire shipping.\nI was unable to complete this as a result of non-availability of your information's at hand.So you are required to send your Full information's to the Western Union Agency to effect this post.\nFULL NAME..............\nFULL CONTACT ADDRESS..........\nMOBILE PHONE:............\nIn order to resolve this problem,ensure that you send an E-mail with your information above to the Western Union Solicitors Fund Verification Department with the following e-mail Address.\nE-mail : ( \nwesteruniion@accountant.com\n )\nContact the Western Union Today with the above email address. As soon as this mention information's is received by the WESTERN UNION AGENT, the Money shall be sent to you via Western Union or from The Western Union Transferring Bank.\nRegards....\nYour happy friend.Thanks for understanding, and may God be with you.\nRev Father Gabriel Odontu.  "
     },
     {
         "from": "baiter_115",
         "to": "scammer_115",
-        "subject": "Re:   MAY THE LIGHT OF HIS MERCIES",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   MAY THE LIGHT OF HIS MERCIES",
         "body": "Dear Rev Father Gabriel Odontu,\n\nThank you for your message. I am doing well and hope the same for you. \n\nI am surprised to hear about Miss Josephine Phillip and the cheque she has issued in my name. However, I must clarify that I have not been in contact with her or any bank regarding an ATM card or any sum of money.\n\nBefore proceeding further, could you please provide more details about this situation? How did Miss Josephine come to issue a cheque in my name? And why is it necessary to transfer this money through Western Union?\n\nLooking forward to your response.\n\nBest wishes,\nSabrina"
     }
 ]

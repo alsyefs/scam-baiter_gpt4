@@ -2,21 +2,21 @@
     {
         "from": "scammer_633",
         "to": "CRAWLER",
-        "subject": "  Attention Beneficiary,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Attention Beneficiary,",
         "body": "  Attention Beneficiary,\nYou have been issued a payment notice of $250 Million from the Central Bank\nFor your overdue payment, you are to reply with your mailing address,\nTelephone/fax numbers, Bank Account details of any designated Bank of\nYour choice where these funds will be transferred to.\nI await the requested information ASAP.\nBest regards.\nINI JACKSON\n+234 903 113 7038   "
     },
     {
         "from": "baiter_633",
         "to": "scammer_633",
-        "subject": "Re:   Attention Beneficiary,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Attention Beneficiary,",
         "body": "Hello INI JACKSON,\n\nWow, a million from the Central Bank! That's quite a surprise. I'm not sure how this happened, but it sounds exciting. Could you please explain more about this overdue payment? How did it come about?\n\nLooking forward to hearing more details.\n\nBest wishes,\nGregory"
     }
 ]

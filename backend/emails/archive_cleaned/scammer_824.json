@@ -2,21 +2,21 @@
     {
         "from": "scammer_824",
         "to": "CRAWLER",
-        "subject": "  Dear  ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear  ",
         "body": "  Dear  \nHope you are well.\nJust clarifying is you have put the deal on hold or decided to stop it or something else.\nMeanwhile, I have arranged an account via Payoneer - transaction amount can't exceed 15K USD, but it allows a bank transfer within the US (local payment). I have sent you one invoice (payment request) that we can treat as a \"pilot\". If this one goes well, we process the other 4 lots (20 000 pcs each).\nPlease let me know your plans.\nKind regards,\nValery  "
     },
     {
         "from": "baiter_824",
         "to": "scammer_824",
-        "subject": "Re:   Dear  ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Dear  ",
         "body": "Hello,\n\nI hope this message finds you in good health. I appreciate your prompt response and the information provided.\n\nRegarding the deal, I'm not entirely sure what you're referring to. Could you please provide more details? Is it something we've discussed before?\n\nAs for the Payoneer account, that sounds like a convenient method of payment. However, I would like to understand more about how it works. Could you explain a bit more about the process and how we can ensure its security?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nApril"
     }
 ]

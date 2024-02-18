@@ -2,21 +2,21 @@
     {
         "from": "scammer_519",
         "to": "CRAWLER",
-        "subject": "  Greetings my dear friend. I ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Greetings my dear friend. I ",
         "body": "  Greetings my dear friend. I wish to execute an offer with your cooperation. My name is Miss. Melisa Musta Ozan from Turkey. Reply for more details.\nThanks.\nBest regards\nFrom Miss. Melissa Musta Ozan   "
     },
     {
         "from": "baiter_519",
         "to": "scammer_519",
-        "subject": "Re:   Greetings my dear friend. I ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Greetings my dear friend. I ",
         "body": "Dear Miss. Melissa Musta Ozan,\n\nThank you for reaching out to me. I would be glad to hear more about the offer you wish to execute. Please provide more details so we can proceed accordingly.\n\nBest wishes,\nConnie"
     }
 ]

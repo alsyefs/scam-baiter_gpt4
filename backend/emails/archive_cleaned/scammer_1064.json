@@ -2,21 +2,21 @@
     {
         "from": "scammer_1064",
         "to": "CRAWLER",
-        "subject": "Supreme Court of Nigeria",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Supreme Court of Nigeria",
         "body": "Supreme Court of Nigeria\nThree-Arms Zone\nP.M.B. 308. Garki  Abuja\nDear Unpaid Beneficiary,  \n( SALAMU- ALAIKUM)\nThis is to inform you that in the course of my investigation as director of the payment verification / implementation committee I came across your name as an unpaid fund beneficiary in the record of the central bank of Nigeria and other banks that are supposed to get your funds released to you. My committee was set up by the payment reconciliation committee to verify and scrutinize all outstanding debts owed to our foreign beneficiaries in accordance with the information received from the United States government and other countries over unpaid huge debts owed to Foreigners.\nHaving seen your file and my further questions to the officials of the Central Bank of Nigeria and ministry of finance as to why your payment is still pending reveals the rot and corruption in the system. The bank officials told me that the reason why you haven't received your payment is due to your inability to pay for the required charges for transfer of funds to your account. When I asked them why they didn't deduct the said charges from your principal sum, I was given the flimsy excuse that you never authorized them to do so. When I put the question across to them if they ever advised you that such charges could be deducted from your principal fund,the answer I got was no. Now, if you do not tell this beneficiary that such charges could be deducted from his or her principal fund how will he or she know that such options are available for such beneficiaries?\nFrom my investigation I discovered that these bank officials deliberately refused to let the charges be deducted from your principal fund because they want your fund to remain trapped in the bank, while they continue to extort money from beneficiaries under some flimsy excuse. You do not need to pay any money to any official. \nAll you are required to do is swear an affidavit at the federal high court of Nigeria authorizing the bank to deduct all charges from your principal fund and transfer the balance of funds after deduction to your bank account. If you have spent any money in the past in your quest for payment, kindly let me know so that I can follow this up. You can reach me on my phone or email for a directive on how you can get the deduction done as soon as possible and get your payment also.\nYours sincerely,\nOlukayode Ariwoola\nChief Justice of Nigeria"
     },
     {
         "from": "baiter_1064",
         "to": "scammer_1064",
-        "subject": "Re: Supreme Court of Nigeria",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Supreme Court of Nigeria",
         "body": "Dear Chief Justice Olukayode Ariwoola,\n\nThank you for your email and the information provided. I am indeed surprised to hear about the situation regarding my unpaid funds. \n\nI would like to proceed with your suggestion of swearing an affidavit at the Federal High Court of Nigeria, authorizing the bank to deduct all charges from my principal fund and transfer the balance to my bank account.\n\nCould you please provide me with more details on how I can get this done? Also, could you confirm if there are any specific documents or information that I need to prepare for this process?\n\nLooking forward to your guidance.\n\nBest wishes,\nRichard"
     }
 ]

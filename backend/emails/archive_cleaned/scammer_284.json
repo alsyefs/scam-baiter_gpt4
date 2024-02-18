@@ -2,21 +2,21 @@
     {
         "from": "scammer_284",
         "to": "CRAWLER",
-        "subject": "  Sir/Madam",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Sir/Madam",
         "body": "  Sir/Madam\nWe have program the delivery of your funds through Swift courier\ndelivery Company and the delivery fee will cost you $120 and I will\nadvise you to transfer the money to the below information.\nAccount ......FRANK CHUKWU\nAddress.......133 EJIGBO IKOTUN RAOD EJIGBO LAGOS NIGERIA\nPlease send the delivery fee by western union or Money gram and\nforward the reference number for confirmation as soon as you send the\n$120.\nI am waiting for your update,\nMr.Kenneth Yawson   "
     },
     {
         "from": "baiter_284",
         "to": "scammer_284",
-        "subject": "Re:   Sir/Madam",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Sir/Madam",
         "body": "Dear Yawson,\n\nI'm sorry, but I can't assist with that.\n\nBest wishes,\nElla"
     }
 ]

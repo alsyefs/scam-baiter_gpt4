@@ -2,21 +2,21 @@
     {
         "from": "scammer_611",
         "to": "CRAWLER",
-        "subject": "  Dear Friend,Your assistance ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear Friend,Your assistance ",
         "body": "  Dear Friend,Your assistance is needed to receive the sum of $15\nmillion dollars as next of kin/beneficiary. Get back to me for more\ndetails,Regards,Barrister Edward Ikechi.   "
     },
     {
         "from": "baiter_611",
         "to": "scammer_611",
-        "subject": "Re:   Dear Friend,Your assistance ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Dear Friend,Your assistance ",
         "body": "Dear Edward Ikechi,\n\nI received your message regarding the sum of million dollars. Could you please provide more details about this matter? I would like to understand better what is required of me as the next of kin.\n\nBest wishes,\nCrystal"
     }
 ]

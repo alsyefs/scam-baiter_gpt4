@@ -2,21 +2,21 @@
     {
         "from": "scammer_1370",
         "to": "CRAWLER",
-        "subject": "  Dear,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear,",
         "body": "  Dear,\nI hope you will attend to this mail urgently.\nI am the Deputy Luggage Inspector at Los Angeles International Airport (LAX), California.\nWe received some yet to be cleared deliveries from other international airports in the country for sorting and eventual confiscation / destruction since most of them have stayed more than a year without claimant / clearance. And in my routine high-tech pre-scanning to ascertain their real content, the scan result of one gray colored case with scanty report that it contains personal effects, turned out to be containing cash money to my consternation.\nTo ascertain the authenticity of the money in the baggage, I have already made a lot of expenses to confirm from a specialist in the Federal Reserve Bank that the result of the scan was authentic $100 notes estimated to be over five million dollars ($5,000 000.00)\nI hope to hear immediately from you, to tell you more, and let's have a mutually beneficial deal to clear the box and share the money 60:40. 40% to me.\nThis mail should be treated with utmost confidentiality because the information I am sharing with you is only known between the two of us now.\nNote that the Federal Reserve Bank expert that confirmed the scan result does not know me in person, nor does he know where I work or where the scan came from since I used coded coordinates to interact with and pay him.\nFrom all indications, if by next week no one claims it, for onward delivery, it will be turned over to the Treasury Department for confiscation.\nLet me hear urgently from you for more details.\nYours Sincerely,\nMr. Willem Badenhorst.\n(213 352 5615)   "
     },
     {
         "from": "baiter_1370",
         "to": "scammer_1370",
-        "subject": "Re:   Dear,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Dear,",
         "body": "Hello Mr. Willem,\n\nI hope this message finds you well. Your email certainly caught my attention! It's not every day that one hears about such a unique situation.\n\nI'm curious, how did the case end up at Los Angeles Airport LAX without any claimant for over a year? That seems quite unusual to me. Also, I'm wondering how the Federal Reserve Bank expert was able to confirm the authenticity of the notes without knowing where they came from?\n\nI must admit, I'm intrigued by your proposal and would like to hear more details. However, I want to make sure we're doing everything by the book. After all, it's important to respect laws and regulations.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nVictor"
     }
 ]

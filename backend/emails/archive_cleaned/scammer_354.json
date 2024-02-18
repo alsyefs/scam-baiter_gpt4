@@ -2,21 +2,21 @@
     {
         "from": "scammer_354",
         "to": "CRAWLER",
-        "subject": "Our Ref: CBN/OHG/OXD1/2023",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Our Ref: CBN/OHG/OXD1/2023",
         "body": "Our Ref: CBN/OHG/OXD1/2023\nYour Ref: ...............\nTELEX: CENBANK.\nPAYMENT FILE: CBN/BEN/2023\nAttn:\nDefinitely, I know that this letter will be a surprising one to you.\nFirstly, I would like to introduce myself formally as Dr. Olayemi\nMichael Cardoso, The current Executive Governor, Central of Bank of\nNigeria (CBN) . I went through your file and decided to contact you\nbecause the impostor is still contacting me on your behalf stating\nthat you sent him.\nI am contacting you privately based on your unclaimed Funds that has\nbeen in the \"Federal Suspense  Account\" of CBN, possibly because you\ndid not forward your claim as the right beneficiary or was unable to\nmeet up with funds released due processing requirement, right now the\napproved sum of Five Million, Five Hundred Thousand United States\nDollars, ($5.5m), has been revalidated for payment transfer to you as\nthe beneficiary.\nSuddenly Vincent Godwin came to our office last week and claimed were\nsent by you to come for the payment of your approved funds into his\nown personal Bank Account, very strange and suspicious, I must say,\nmoney that rightfully belongs to you without an official notification\nfrom you through phone call or email.\nWe do not understand why you sent such a person to come and Collect\nyour Funds on your behalf with his own bank account, If actually you\nwant anyone to help you collect your approved funds, at least you\nshould have informed me as the Executive Governor of this Bank.\nHonestly, it really baffles me that you took such a decision without\nmy consent.\nAs the Governor of this Noble Bank, I was supposed to Release these\nFunds to him but I refused to do so because I wanted to hear from you\nfirst. Due to the Nature of my job, I will not want to make any\nmistake in releasing this Fund to anyone except you who is the\nrecognized bonafide Beneficiary to this Fund.\nKindly clarify us on this issue before we make this Payment to the\nforeigner who came on your behalf in receipt of this confidential\nLetter, \nyou are required to respond immediately to my private email\nwith your full name, address and phone number for reconfirmation and\nimmediate action\n or you call me with my mobile telephone number below\nfor more clarification.\nOfficially Signed.\n--\nDr. Olayemi Michael Cardoso.\nCentral Bank Executive Governor.\nPrivate Email: \ndrmichaelcardosocbnxxx@gmail.com\nTel No.: +234 817 947 9349"
     },
     {
         "from": "baiter_354",
         "to": "scammer_354",
-        "subject": "Re: Our Ref: CBN/OHG/OXD1/2023",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Our Ref: CBN/OHG/OXD1/2023",
         "body": "Hello Dr. Olayemi Michael Cardoso,\n\nThank you for reaching out to me. I must say, your message is quite surprising indeed! I wasn't aware of any unclaimed funds in my name, let alone someone trying to claim them on my behalf.\n\nI'm curious about this Vincent Godwin person you mentioned. How did he come to know about these funds? And why would he think he could claim them?\n\nAlso, could you please provide more details about these funds? How did they end up in the Federal Suspense Account of CBN? And why are they being released now?\n\nI appreciate your diligence in ensuring that these funds go to their rightful owner. Please rest assured that I have not authorized anyone to collect any funds on my behalf.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMaria"
     }
 ]

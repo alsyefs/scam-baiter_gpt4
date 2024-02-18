@@ -2,61 +2,61 @@
     {
         "from": "scammer_759",
         "to": "CRAWLER",
-        "subject": "  ATTENTION:SIR,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  ATTENTION:SIR,",
         "body": "  ATTENTION:SIR,\nTHIS TO INFORM YOU THAT WE HAVE RECEIVED INSTRUCTION WITH YOUR PAYMENT FILE FROM OFFICE OF THE PRESIDENCY TO TRANSFER YOUR INHERITANCE PAYMENT US$32,500,000.00 TO YOUR BANK ACCOUNT IN BY MONDAY AS SOON AS ALL CHARGES IS DEDUCTED.\nPLEASE RE-CONFIRM YOUR  BANK INFORMATION TO AVOID ANY MISTAKE DURING THE TRANSFER BY MONDAY. WE ARE GOING TO TRANSFER YOUR INHERITANCE PAYMENT OF US$32,500,000.00 TO YOUR BANK ACCOUNT BY TOMORROW AND THE TRANSFER CONFIRMATION SLIPS WILL BE SENT TO YOU FOR YOUR EASY\nCONFIRMATION.\nAS A MATTER OF URGENCY YOU ARE ADVISED TO MAKE A PAYMENT OF US$52 BEEN  PAYMENT OF DEDUCTION FEE.\nTHE DEDUCTION FEE OF US$52 WILL ENABLE THIS  BANK TO OBTAIN AN AFFIDAVIT AND STAMP DUTIES FROM  HIGH COURT OF NIGERIA, WHICH WILL EMPOWER US TO DEDUCT ALL CHARGES AND PREPARE YOUR DEDUCTION CERTIFICATE THAT WILL SHOW THAT ALL CHARGES HAVE BEEN DEDUCTED AND YOU WILL NOT PAY ANY OTHER FEE.\nYOU ARE ADVISED TO SEND THE DEDUCTION FEE OF US$52 TODAY THROUGH MONEY GRAM TRANSFER WITH THE NAME OF THE OFFICER IN CHARGE,  ELEANYA CHIJIOKE CHUKWU ,LAGOS NIGERIA,\nAS SOON AS WE RECEIVE THIS PAYMENT FROM YOU TODAY, WE WILL DEDUCT ALL CHARGES AND YOUR BALANCE WILL BE REMITTED TO YOUR ACCOUNT BY TOMORROW MORNING AND THE TRANSFER DETAILS WILL BE FORWARDED TO YOU FOR YOUR EASY CONFIRMATION WITH YOUR BANK.\nHERE IS THE MONEY GRAM TRANSFER INFORMATION BELOW:\nRECEIVER NAME: ELEANYA CHIJIOKE CHUKWU .\nADDRESS: LAGOS NIGERIA\nSENDERS NAME:\nSENDERS ADDRESS:\nAMOUNT: US$52\nACT ACCORDING TO THE INSTRUCTIONS, I AM WAITING FOR YOUR URGENT RESPONSE.\nNOTE: MAKE SURE YOU CALL ME AS SOON AS YOU RECEIVE THIS E-MAIL+234-816-339-1717 TO DISCUSS WAY FORWARD.\nREGARDS AND GOD BLESS YOU.\nYOURS FAITHFULLY\nMR.MARTINS EDWARD\nFOREIGN OPERATION DEPARTMENT\nKEYSTONE BANK GROUP\nTEL:+234-816-339-1717   "
     },
     {
         "from": "baiter_759",
         "to": "scammer_759",
-        "subject": "Re:   ATTENTION:SIR,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   ATTENTION:SIR,",
         "body": "Hello Edward,\n\nThank you for your message. It's exciting to hear about the transfer! I'm a bit confused though, could you please clarify a few things for me?\n\nFirstly, what is this payment for? I don't recall having any pending payments. Also, could you explain more about the deduction fee? Why do I need to pay it and how does it work?\n\nLastly, who is Eleanya Chijioke Chukwu? Is he also part of Keystone Bank Group?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nJames"
     },
     {
         "from": "scammer_759",
         "to": "baiter_759",
-        "subject": "FROM KEYSTONE BANK GROUP",
         "direction": "Inbound",
-        "days_from_first_conversation": 2,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "2",
+        "subject": "FROM KEYSTONE BANK GROUP",
         "body": "DEAR MR.JAMES,\r\n\r\nTHANKS FOR YOUR MAIL.THE PAYMENT OF THE REQUIRE $50 IS THE COST OUR BANK\r\nATTORNEY WILL USE TO GET FOR YOU AN AFFIDAVIT DEDUCTION CERTIFICATE FROM\r\nTHE HIGH COURT,IF THE BANK OBTAINED THE AFFIDAVIT DEDUCTION CERTIFICATE,IT\r\nWILL EMPOWER THE BANK TO DEDUCT EVERY CHARGES THAT MIGHT EMERGE DURING THE\r\nTRANSFER OF THE FUND TO YOU WITHOUT REQUESTING ANY MONEY FROM YOU AGAIN AS\r\nTHE BANK WILL DEDUCT EVERY CHARGES FROM YOUR FUND WHILE THE REST BALANCE\r\nSHALL BE REMITTED INTO YOUR BANK ACCOUNT.\r\n\r\nLASTLY,ELEANYA CHIJIOKE CHUKWU IS ALSO A STAFF OF KEYSTONE BANK GROUP.\r\n\r\nIF WE CAN GET THE AFFIDAVIT DEDUCTION CERTIFICATE FROM THE COURT THROUGH\r\nOUR BANK ATTORNEY,THE BANK SHALL COMMENCE IMMEDIATELY FOR THE TRANSFER OF\r\nYOUR  $32.5MILLION TO YOU WITHOUT ANY FURTHER DELAY.\r\n\r\nWE WAIT TO HEAR FROM YOU SOON.\r\n\r\nREGARDS AND GOD BLESS YOU.\r\n\r\nYOURS FAITHFULLY,\r\n\r\nMR.MARTINS EDWARD\r\nFOREIGN OPERATION DEPARTMENT\r\nKEYSTONE BANK GROUP\r\nTEL:+234-816-339-1717"
     },
     {
         "from": "baiter_759",
         "to": "scammer_759",
-        "subject": "Re: FROM KEYSTONE BANK GROUP",
         "direction": "Outbound",
-        "days_from_first_conversation": 2,
+        "days_from_first_conversation": 0.022997685185185184,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "3",
+        "subject": "Re: FROM KEYSTONE BANK GROUP",
         "body": "Hello Edward,\n\nThank you for your message. It's a pleasure to hear from you. I'm not quite sure I understand everything, though. Could you please explain what an Affidavit Deduction is? And how does it empower the bank to deduct charges?\n\nAlso, could you tell me more about Chijioke Chukwu and his role at Keystone Bank Group? \n\nI'm looking forward to hearing from you soon.\n\nBest wishes,\nJames"
     },
     {
         "from": "baiter_759",
         "to": "scammer_759",
-        "subject": "Re: FROM KEYSTONE BANK GROUP",
         "direction": "Outbound",
-        "days_from_first_conversation": 3,
+        "days_from_first_conversation": 0.10626157407407408,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "4",
+        "subject": "Re: FROM KEYSTONE BANK GROUP",
         "body": "Hello Edward,\n\nThank you for your message. I'm a bit confused about the process you've described, could you please clarify it for me? What exactly is an affidavit deduction and how does it work? \n\nAlso, could you explain why Chijioke Chukwu's role in Keystone Bank Group is relevant to this situation? \n\nI'm looking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJames"
     },
     {
         "from": "scammer_759",
         "to": "baiter_759",
-        "subject": "FROM KEYSTONE BANK GROUP",
         "direction": "Inbound",
-        "days_from_first_conversation": 3,
+        "days_from_first_conversation": 0.8698148148148148,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "5",
+        "subject": "FROM KEYSTONE BANK GROUP",
         "body": "DEAR  MR.JAMES,\r\n\r\nWE RECEIVED YOUR MAIL AND THE CONTENT IS WELL NOTED.\r\n\r\nTHE AFFIDAVIT DEDUCTION CERTIFICATE IS A DOCUMENT THAT COURT GIVES TO HELP\r\nSOLVE ANY PROBLEMS BETWEEN BANK AND IT'S CLIENT IN ANY MONETARY\r\nTRANSACTIONS.IF A CLIENT WANT ANY TRANSFER CHARGES TO BE DEDUCTED FROM HIS\r\nFUND THE CLIENT HAVE TO GET THE AFFIDAVIT DEDUCTION CERTIFICATE FROM THE\r\nCOURT.\r\n\r\nTHE AFFIDAVIT DEDUCTION CERTIFICATE IF OBTAINED BY THE BANK,IT GIVES THE\r\nBANK AN AUTHORITY TO DEDUCT EVERY CHARGES FROM THE FUND WHICH THE BANK WANT\r\nTO TRANSFER TO IT'S CLIENT WITHOUT DEMANDING ANY MORE MONEY FROM THE CLIENT\r\nBUT ONLY TO DEDUCT ANY CHARGES  FROM THE CLIENT;S FUND.\r\n\r\nAS FOR ELEANYA CHIJIOKE CHUKWU IS A STAFF AND IS ONE OF THE SENIOR BANK\r\nMESSENGER.\r\n\r\nWE DO NOT WANT ANY DELAYS OR ANY HINDRANCE AS SOON AS WE COMNCE THE\r\nTRANSFER OF YOUR $32.5M AND THAT IS THE REASON WE NEED THE AFFIDAVIT\r\nDEDUCTION CERTIFICATE TO HELP US MAKE THESE TRANSACTION VERY SUCCESSFUL.\r\n\r\nIF WE CAN RECEIVE THE $50 FEE TODAY FOR THE AFFIDAVIT DEDUCTION\r\nCERTIFICATE,THE BANK ATTORNEY WILL MOVE IMMEDIATELY TO THE HIGH COURT TO\r\nGET THE DEDUCTION CERTIFICATE ON YOUR BEHALF,AFTER THAT IS DONE,THE BANK\r\nWILL COMMENCE IMMEDIATELY FOR YOUR PAYMENTS, WITHOUT GETTING THE AFFIDAVIT\r\nDEDUCTION CERTIFICATE,THE BANK WILL NOT LAY THEIR HANDS ON YOUR FILE FOR\r\nYOUR PAYMENT.\r\n\r\nBEST REGARDS.\r\n\r\nMR.MARTINS EDWARD\r\nFOREIGN OPERATION DEPARTMENT\r\nKEYSTONE BANK GROUP\r\nTEL:+234-816-339-1717"
     }
 ]

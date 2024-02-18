@@ -2,21 +2,21 @@
     {
         "from": "scammer_87",
         "to": "CRAWLER",
-        "subject": "Accept my apologies for this u",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Accept my apologies for this u",
         "body": "Accept my apologies for this unexpected e-mail but my issue requires urgent attention and I need your participation. I am a legal counsel to very wealthy Oil Merchant from Asian named (Jerald Furman) who died some years ago in Asian country. This gentleman died leaving a fix deposit of $4.500,000,00 (four million five hundred United States Dollars) with a major Asian Bank which I will disclose to you as you indicate your readiness to work with me.\nI have a very water-tight and sound plan to present you as his next-of-kin to claim his account balance based on the fact that you are a foreigner which position you easily as his rightful relation. As the account balance is released to you, we shall therefore split the funds between ourselves.\nKindly get back to me through my secured and private email (\nanthonyjosephdixon5@gmail.com\n); if you are interested within the next 48 hours.\nI will intimate you with more details soon and steps to follow as I await your swift reply. \nPlease do include your direct phone number in your response; I will call you to discuss the modalities with you.\nSincerely.\nMr Anthony Joseph Dixon"
     },
     {
         "from": "baiter_87",
         "to": "scammer_87",
-        "subject": "Re: Accept my apologies for this u",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Accept my apologies for this u",
         "body": "Hello Mr. Anthony Joseph Dixon,\n\nThank you for reaching out to me with such an intriguing proposition. I must say, the story of Mr. Jerald Furman is quite fascinating and it's unfortunate to hear about his untimely demise.\n\nI'm curious though, how did you come across my contact information? And why do you believe that I would be a suitable candidate to present as Mr. Furman's rightful relation?\n\nAlso, could you please provide more details about this plan? How exactly does it work and what would be required from my end?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMallie"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_869",
         "to": "CRAWLER",
-        "subject": "Dear Email Owner,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear Email Owner,",
         "body": "Dear Email Owner,\nThis is to acknowledge the receipt of your message. World Bank\nOrganization is eradicating COVID 19 lock down poverty in\nAmerica,Asia,Europe,Oceania,Russia for the year 2023 and your name was\namong the 10 Lucky people listed.Your ATM VISA CARD of ($4.5M USD) was\nregistered with TNT Express Delivery. You will receive it within 48\nhours.Your ATM VISA CARD compensation fund will be handed over to you\nin person at the address you will provide to us. Note,that the CARD\ncompensation fund must get to your address within 48 hours once you\nreconfirm your receiving address as demanded below;\nCONFIRM YOUR DELIVERY ADDRESS BELOW AND LET US KNOW IF THERE IS ANY CHANGE:\nRECEIVER'S NAME:_____________\nDELIVERY ADDRESS:___________\nDIRECT CELL NUMBER:_________\nCOUNTRY:___________________\nOCCUPATION:____________\nE-MAIL (1):___________\nE-MAIL (2):___________\nSEX:________\nWORKING ID:________\nAsk him how you can get your CARD compensation fund of (US$4.500,000.00.)\nTNT company Office\nContact Person: Mr. Jessy Ezeh\nDavid R. Malpass\nWORLD BANK GROUP\nEmail:(\nmezeh6128@gmail.com\n)"
     },
     {
         "from": "baiter_869",
         "to": "scammer_869",
-        "subject": "Re: Dear Email Owner,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Dear Email Owner,",
         "body": "Dear David R. Malpass,\n\nThank you for your email. I am interested in receiving the ATM VISA CARD as mentioned in your message. However, I would like to confirm a few details before proceeding further.\n\nCould you please provide more information about this program and how my name was selected? Also, could you clarify the process of receiving the card and if there are any fees associated with it?\n\nHere is my contact information:\n\nRECEIVER'S NAME: Eliza Dane\nADDRESS: \nCITY: \nCOUNTRY: \n\nI look forward to hearing from you soon.\n\nBest wishes,\nSidney"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_52",
         "to": "CRAWLER",
-        "subject": "Re:Investment Partnership,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Re:Investment Partnership,",
         "body": "Re:Investment Partnership,\nMy name is Alex Norman.I came across your contact.I have an investment\nproposal that i want to share with you of my client desire to invest\nin your country.\nYour prompt response will be appreciated for more details.\nSincerely,\nAlex Norman"
     },
     {
         "from": "baiter_52",
         "to": "scammer_52",
-        "subject": "Re:Investment Partnership,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:Investment Partnership,",
         "body": "Hello Alex,\n\nThank you for reaching out to me. I'm quite intrigued by your proposal and would love to hear more about it. Could you please provide some more details about the investment opportunity? What kind of business is your client interested in?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nTracy"
     }
 ]

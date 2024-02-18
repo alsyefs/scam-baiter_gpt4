@@ -2,21 +2,21 @@
     {
         "from": "scammer_264",
         "to": "CRAWLER",
-        "subject": "  Dear Sir,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear Sir,",
         "body": "  Dear Sir,\nA great news today that Apex board have included your name among the\nold contractors to receive their long overdue contract benefit\nthrough approve ATM CARD which they have directed my office to pick it\nup from designated commercial bank  here to dispatch  into your\naddress Just to inform you that first thing tomorrow morning working\ntime i will direct our dispatcher rider to move to the commercial bank\nto pick it up after that i will scan and send a copy for your own\nperusal until such a time you are ready to send money to pay for\ncourier delivery charges into your address i have done my part since\nover two months now I have been pushing the board of Central Bank on\nyour behalf to accept and give approval to this process which i\nbelieve it cost nothing than only delivery fee to get it across to you\n.\nFor your information they have also remove insurance fee including the\naccess code fee code to your ATM card which is a good welcome\ndevelopment  it is left for you now to decided if you are ready to\nsend fee for DHL or FedEx courier delivery to pick the ATM CARD UP for\nyour information you can pay for any of the mentioned courier delivery\ncharges in your country of Origin and give instruction to them to pick\nup the parcel containing your ATM CARD in Nigeria you can as well send\nme the proof of delivery payment you make in any of their office to\npresent to their office here. i am only suggesting this method just to\nprove to you that nobody is after your money or to collect your money\nwithout delivering your ATM CARD because of your past experience.\nOnce again congratulation on this new development.\nWaiting for urgent action .\nDaniel Taraba   "
     },
     {
         "from": "baiter_264",
         "to": "scammer_264",
-        "subject": "Re:   Dear Sir,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Dear Sir,",
         "body": "Dear Daniel Taraba,\n\nThank you for your email. I am glad to hear that my name has been included to receive the overdue contract benefit through an approved ATM card. \n\nHowever, before we proceed, I would like to clarify a few things. Could you please provide more details about the delivery fee? How much is it and how should it be paid? Also, could you please explain more about the insurance fee and access code fee that have been removed?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nJason"
     }
 ]

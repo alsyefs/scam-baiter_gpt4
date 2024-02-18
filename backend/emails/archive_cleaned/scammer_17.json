@@ -2,21 +2,21 @@
     {
         "from": "scammer_17",
         "to": "CRAWLER",
-        "subject": "  CONSIGNMENT DELIVERY AGENCY",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  CONSIGNMENT DELIVERY AGENCY",
         "body": "  CONSIGNMENT DELIVERY AGENCY\nCODE: 19/2023-DELIVERY/ FIRST CREDIT\nREPLY TO: \nabsolutec335@gmail.com\nDEAR CONSIGNEE\nGREETINGS TO YOU AND YOUR ENTIRE FAMILY, I AM HERE TO ANNOUNCE TO YOU THAT YOUR CONSIGNMENT WITH CODE: 19/2023-DELIVERY/FIRST CREDIT. IS READY FOR DISPATCH WITH IMMEDIATE EFFECT.\nYOU ARE ADVISED TO CONTACT US ON THE ABOVE EMAIL ADDRESS FOR PROPER IDENTIFICATION.\nFORWARD CODE: 19/2023-DELIVERY/ FIRST CREDIT. TO BELOW EMAIL ADDRESS.\nREPLY TO:  \nabsolutec335@gmail.com\nNOTE; WE HAVE GOTTEN THE APPROVAL LICENSE TO DELIVER ANYWHERE IN THE WORLD AS SOON AS YOU REPLY.\nDANIEL BRIAN\nMEMBER COMMITTEE\nFEDEX DELIVERY  COMPANY   "
     },
     {
         "from": "baiter_17",
         "to": "scammer_17",
-        "subject": "Re:   CONSIGNMENT DELIVERY AGENCY",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   CONSIGNMENT DELIVERY AGENCY",
         "body": "Dear Daniel Brian,\n\nThank you for your message. I am excited to hear that my package is ready for dispatch. Could you please provide me with more details about the package, such as its content and tracking number? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLawrence"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_262",
         "to": "CRAWLER",
-        "subject": "  Attention Recipient,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Attention Recipient,",
         "body": "  Attention Recipient,\nThe UK High Commission in the Republic of Benin, Ghana, Burkina Faso,\nCôte d'Ivoire, UK, and Nigeria received a fraud report against you and\nother citizens of the UK, USA, Europe, Malaysia, Japan, etc. The\ngovernment of these five West African countries whose citizens were\ninvolved in these fraudulent activities has set up a committee to\ncompensate all victims of the fraud due to pressure from the UN and\nthe international community. Your name and the names of other fraud\nvictims have been sent to this committee for compensation. All victims\nwere paid compensation through ATM cards.\nHowever, your ATM CARD was among those that were reported as unclaimed\nand we would like to advise you to follow the committee's instructions\nbelow to ensure that you receive your ATM CARD for your own use\nimmediately.\nThe ATM card was issued based on an email address/name that was\nbelieved to be fraudulent in the past and has been verified by the\ngovernment and this committee. Any victim who does not verify his/her\nown is presumed dead and his/her next of kin do not have access to\nhis/her information, so they were not aware of the ongoing\ncompensation. The total amount of funds credited to this ATM card is\n500,000.00 US dollars (five hundred thousand US dollars).\nWe recommend that you do whatever is necessary to ensure that you\nreceive your ATM CARD without further delay. You are confident in the\nsafety and availability of your ATM card. Please note that you should\nstop further contact/association with all front lawyers and security\ncompanies that have deceived you in their cooperation.\nContact Reverend Father Daniel Komi with the following information:\nREV. FATHER DANIEL KOMI.\nEMAIL ADDRESS: (\ndanielkomi4@outlook.com\n)\nDirect Cellular: +22897987014\nPlease call him and ask him for a bank card. He will hand you your\nsealed ATM card. Include your complete information as shown below so\nhe can reconcile his file.\n1) Your full name ........................................\n2) Country ............\n3) Home/office address:...\n4) Profession ...............\n5) Age: ......\n6) sex ......\n7) Direct phone......\n8) Copy of your ID\nSincerely\nKelly Brown\nChairman of the Compensation Committee.   "
     },
     {
         "from": "baiter_262",
         "to": "scammer_262",
-        "subject": "Re:   Attention Recipient,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Attention Recipient,",
         "body": "Hello Kelly Brown,\n\nThank you for reaching out and providing such detailed information. I must say, this is quite a surprise! I wasn't aware of any fraudulent activities against me. It's good to know that there are committees like yours working hard to rectify these situations.\n\nI'm curious about how the committee was able to identify me as a victim of fraud? Also, could you please explain more about the process of verifying an email address name? \n\nYou mentioned that my ATM card has been issued based on an email address name. Could you clarify which email address was used for this?\n\nAlso, I'd like to understand more about how the funds were credited to this ATM card. Is it possible for you to provide some details on this?\n\nLastly, you've asked me to contact REV. FATHER DANIEL KOMI and provide him with my complete details. Before doing so, could you tell me more about who he is and his role in this process?\n\nLooking forward to your response.\n\nBest wishes,\nChris"
     }
 ]

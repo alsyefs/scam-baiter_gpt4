@@ -2,21 +2,21 @@
     {
         "from": "scammer_620",
         "to": "CRAWLER",
-        "subject": "  Dear sir",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear sir",
         "body": "  Dear sir\nWe pay via wire transfer or atm master card\nAPPROVED {Fourteen  Million  United States Dollars}\nBe notified that  {OFFICE OF THE  PRESIDENT  FEDERAL REPUBLIC OF\nNIGERIA .} have approval    the sum of US$14,000,000.00 (Fourteen\nMillion  United States Dollars  through {United Bank Nigeria plc }  in\nwhich  your name was  short-listed as one of the beneficiary of this\nfund\nYour  required to reconfirm to me the following information\n1Your Full Name:---------------------------------------\nYour Address:-----------------------------------------\nYour Bank Details\nYour Telephone Number:--------------------------------\nYour Occupation--------------------------------------\nAs soon as i confirm your  information i will proceed with your fund transfer\n----------------------------------------------------------------------------------------------\nWAITING\nDr Mike  Ogu\nExecutive Director   "
     },
     {
         "from": "baiter_620",
         "to": "scammer_620",
-        "subject": "Re:   Dear sir",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Dear sir",
         "body": "Dear Dr. Mike Ogu,\n\nThank you for your email. However, I must inform you that I cannot provide the information you requested without further details about this transaction. Could you please provide more information about how my name was selected and what this fund is for?\n\nBest wishes,\nZachary"
     }
 ]

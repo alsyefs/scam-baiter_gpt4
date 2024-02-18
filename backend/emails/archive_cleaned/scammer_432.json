@@ -2,21 +2,21 @@
     {
         "from": "scammer_432",
         "to": "CRAWLER",
-        "subject": "Us Bank.1025 Connecticut Ave.",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Us Bank.1025 Connecticut Ave.",
         "body": "Us Bank.1025 Connecticut Ave.\nNW, Ste. 510. Washington, DC 20036.\nTell:+1(972)-863-8467\nWhats Apps;+1(972)-863-8467\nE-mail: ( \nfedreservebnkofnewyorkcity001@outlook.com\n )\nREF:- INSTRUCTION TO CREDIT YOUR ACCOUNT WITH THE SUM OF (US$5Million)\nThis is the second time we are notifying you about this said fund. After\ndue vetting and evaluation of your file that was sent to us by the Nigerian\nGovernment in conjunction with the Ministry of Finance and Central Bank of\nthe Federal Republic of Nigeria.\nThis bank has an instruction to see to the immediate release of the sum of\n(US$5Million) of your claim that has been holding since is transferred into\nyour bank Account from their Domiciliary Account with this bank.\nWe were meant to understand from our findings that you have been going\nthrough hard ways by paying a lot of charges to see to the release of your\nfund (US$5Million), which has been the handwork of some miscreant elements\nfrom that Country.\nWe advice that you stop further communication with any correspondence from\nany bank , or anywhere concerning your funds as you will receive your fund\nfrom this bank if you follow our instruction.\nWe know your representatives in Nigeria or anywhere will advice you to\nstill go ahead with them, which will be on your own risk. Your\n(US$5Million) will reflect in your designated bank account within five Bank\nworking days.\nDo not go through anybody again but through this Bank if you really want\nyour fund. Finally, you are advice to re-confirm these to us,\nYour Full Name,\nContact address,\nOccupation\nTelephone and Fax Number for easy communication.\nWe need your second email Gmail or Hotmail for security and private reasons.\nYours sincerely,\nMR. RICK RUZZI ,\nTel:.+1(972)-863-8467\nWhats Apps ; +1(972)-863-8467\nAssistance Secretary,\nU.S Bank.\nEmail address ( \nfedreservebnkofnewyorkcity001@outlook.com\n )"
     },
     {
         "from": "baiter_432",
         "to": "scammer_432",
-        "subject": "Re: Us Bank.1025 Connecticut Ave.",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Us Bank.1025 Connecticut Ave.",
         "body": "Dear Mr. Ruzzi,\n\nThank you for your email and the information provided. I am indeed interested in claiming the funds that have been held. \n\nHere are my details:\n\nFull Name: John Doe\nContact Address: 123 Main Street, Anytown, USA\nOccupation: Software Engineer\nTelephone: +1-555-555-5555\nFax Number: +1-555-555-5556\n\nFor security reasons, I prefer not to share my secondary email address publicly. However, I assure you that this email is secure and private.\n\nI look forward to your prompt response and guidance on the next steps.\n\nBest wishes,\nNorman"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_801",
         "to": "CRAWLER",
-        "subject": "  Dear Esteemed Customers,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear Esteemed Customers,",
         "body": "  Dear Esteemed Customers,\nGet up to $300,000.00 or more at 2% fixed interest rate in business\nand personal loans within 24 hours. Bonus. Only start repaying in 60\ndays.\nThanks for Choosing Direct Bangkok Bank Loan.\nBangkok Bank Financial Loan Services.\nBarr. NitiPat Lee.   "
     },
     {
         "from": "baiter_801",
         "to": "scammer_801",
-        "subject": "Re:   Dear Esteemed Customers,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Dear Esteemed Customers,",
         "body": "Hello Barr. Lee,\n\nThank you for reaching out and sharing this information about the Direct Bangkok Bank Loan services. It sounds like a very interesting opportunity! \n\nCould you please provide more details about the fixed interest rate? And, how does the process work to apply for these business and personal loans? Also, I'm curious about the bonus you mentioned - could you elaborate on that?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nTony"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_946",
         "to": "CRAWLER",
-        "subject": "   Attention Dear Beneficiary!",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Attention Dear Beneficiary!",
         "body": "   Attention Dear Beneficiary! \nI received a letter from the federal government authority that a power of attorney was forwarded to our office yesterday by one gentle man and he is a citizen from united state of America and his name is Mr. Mark Donald Jackson. This man claimed to be your representative and this power of attorney stated that you are dead after brief illness and he brought an information to replace your own information in other to claim your fund of $4.8 Million US Dollars, below is the new information he have submitted\nAddress 1076 Peter Johnson Road New York, USA,\nBe informed that this power of attorney also stated that you suffered and died of a throat cancer. You are therefore given 24hrs to confirm the truth in this information, If you are still alive, You are to contact me immediately Because our office work 24 hrs just to ensure that they monitor all the activities going on in regarding the delivery  of beneficiaries inheritance and contract payment.\nBUT NOTE THAT IF YOUR ARE ALIVE AND NOT DIED AND YOU WANT YOUR FUNDS  YOU HAVE TO Pay THIS REMAINING TAXI FEE SO THAT YOUR CONSIGNMENT BOX WILL BE DELIVERED TO YOU IMMEDIATELY WITHOUT ANY FURTHER DELAYS OR EXCUSE AND ONCE WE HEAR BACK FROM YOU THAT YOU ARE STILL ALIVE THEN MR. MARK DONALD JACKSON WILL BE ARRESTED. \nYou have to reconfirm US your Full information such as\n1. Full name\n2. Your home Address\n3. Your current telephone number\n4. Your Nearest international Airport\n5. A Copy Of Your ID CARD\n6. Your occupation. \nThat's the message our office received from IMF the International Monetary Funds i wait to hear back from you as soon as possible. Regards Mr. William Ben.    "
     },
     {
         "from": "baiter_946",
         "to": "scammer_946",
-        "subject": "Re:    Attention Dear Beneficiary!",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    Attention Dear Beneficiary!",
         "body": "Hello Mr. William Ben,\n\nWow, that's quite a story! I can assure you that I am very much alive and well, thank you for asking. It's strange to hear about this Mr. Mark Donald Jackson claiming otherwise. \n\nI'm curious though, how did he manage to convince the federal government authority of such a thing? And why would he claim that I died of throat cancer? That's oddly specific.\n\nAlso, could you please explain more about this fund of Million US Dollars? How did it come into my name in the first place?\n\nLooking forward to hearing from you soon!\n\nP.S: Just a friendly reminder, I won't be able to share any personal information online for security reasons. Hope you understand!\n\nBest wishes,\nJohn"
     }
 ]

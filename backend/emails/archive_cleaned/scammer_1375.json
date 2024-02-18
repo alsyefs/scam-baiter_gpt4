@@ -2,31 +2,31 @@
     {
         "from": "scammer_1375",
         "to": "CRAWLER",
-        "subject": "Subject: Your first part payme",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Subject: Your first part payme",
         "body": "Subject: Your first part payment\nDear Beneficiary,\nYour first part payment (US$5,000) of your unclaimed inheritance funds\nof US$6,500,000,00 was sent today as instructed by the Debt Management\nBoard Directors through Western Union Money Transfer, Now contact the\nAgent officer below to pick up the US$5,000 now.\nName: Mr. Mounyelle Nkake Email\nE-Mail Address: \nwesternunionavailable@gmail.com\nAsk him to give you the New MTCN Number, Sender's Name, to pick it up.\nWe agreed to keep sending you US$5,000 daily until the payment of\nUS$6,500,000,00 being part payment of your funds is completed\n.\nOnce again, Re: confirm the below info to him to avoid a wrong transfer.\nyour Full Name:_________\ncall telephone Number:__\nOccupation/Position:____\nFull Address:___________\nE-Mail address:_________\nThanks for your patience.\nSincerely,\nMrs. Cassia Ribeiro Silva Araujo\nMinistry of Finance.\ncountry: Brazil\nE-Mail: \ncassiarsa9@gmail.com"
     },
     {
         "from": "baiter_1375",
         "to": "scammer_1375",
-        "subject": "Re: Subject: Your first part payme",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Subject: Your first part payme",
         "body": "Dear Mrs. Cassia Ribeiro Silva Araujo,\n\nThank you for your email. However, I believe there may have been a mistake as the details regarding the amount of money and other necessary information are missing from your message.\n\nCould you please provide me with more specific details about this transaction? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLeonard"
     },
     {
         "from": "scammer_1375",
         "to": "baiter_1375",
-        "subject": "Re: Subject: Your first part payme",
         "direction": "Inbound",
-        "days_from_first_conversation": 4,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "2",
+        "subject": "Re: Subject: Your first part payme",
         "body": "Your inheritance funds is now Approved to transfer to you."
     }
 ]

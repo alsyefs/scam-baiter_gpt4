@@ -2,21 +2,21 @@
     {
         "from": "scammer_979",
         "to": "CRAWLER",
-        "subject": "Good Day Beneficiary!!!",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Good Day Beneficiary!!!",
         "body": "Good Day Beneficiary!!!\nThis is to inform you that the U.S Government has instructed us to\nremit the sum of $25. Million United States Dollar into your account,\nthe reason  for this is because your name was among the scam victims\nthat lost a lot of  money to African and European Fraudsters, you are\nhereby advised to without  delay stop all you have going on between\nyou and anybody on internet  because you will end up at nothing,\nhence, there are three options to receive\nyour funds.\n1By Bank to Bank Wire Transfer\n2 By ATM Card.\n3 Online Banking\nWe are awaiting your immediate response with your information to\nenable this bank proceeds immediately with the transfer of your fund\nand serve you better.\nFull Name....................\nHome Address.................\nAge/Occupation..............\nValid Phone number............\nYour Country........\nAny Of Your Identity Card\n........\nThe US bank will immediately remit your account once I reconfirm your\nbanking details. Congratulations and Thank you for choosing US Bank.\nNOTE: If you receive this message in your Junk Or Spam its due to your\ninternet provider. I shall be expecting your swift response as soon\nas you  receive this email.\nYours Faithfully,\nMr. Tom Parker\nExecutive Region Manager\nU.S. Bank Plc"
     },
     {
         "from": "baiter_979",
         "to": "scammer_979",
-        "subject": "Re: Good Day Beneficiary!!!",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Good Day Beneficiary!!!",
         "body": "Hello Mr. Tom Parker,\n\nI hope this message finds you well. I'm quite surprised to hear about this sum of money that is supposed to be remitted into my account. Could you please provide more details about how my name ended up on the list of scam victims? \n\nAlso, could you explain a bit more about the three options for receiving funds? I'm not very familiar with these processes, so any additional information would be greatly appreciated.\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nMartha"
     }
 ]

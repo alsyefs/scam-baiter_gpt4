@@ -2,21 +2,21 @@
     {
         "from": "scammer_194",
         "to": "CRAWLER",
-        "subject": "  From: Mr Warren Edward Buffe",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  From: Mr Warren Edward Buffe",
         "body": "  From: Mr Warren Edward Buffett <ccccbnam@gmail.com>\nDate: 3/30/22 \nWhom:\nSubject: RE: DONATION\nMy name is Warren E. Buffett an American business magnate, investor\nand philanthropist. am the most successful investor in the world\ntoday and Chairman of Berkshire Hathaway. I believe strongly\nin'giving while living I had one idea that never changed in my mind\nthat you should use your wealth to help people and i have decided to\ngive {$ 2,500,000.00} Two Million Five Hundred Thousand United\nDollars, to randomly selected individuals worldwide.\nOn receipt of this email, you should count yourself as the lucky\nindividual. Your email address was chosen online while searching at\nrandom.\nKindly get back to me at your earliest convenience, so I know your\nemail address is valid.\nVisit this: https:/ /en.wikipedia.org/wiki/Warren_Buffett or You Can\nGoogle my name for more information \n Warren Buffett).\nSend your reply to this e-mail (\nwebdonations2019@gmail.com\n) to\nenable me give you more details about this Donation.\nDo make sure you provide me with your complete information below so I\nforward it to my selected payout bank for disbursement.\n============\nFull Name:\nAddress:\nAge:\nOccupation:\nSex:\nMobile / Tel:\n============\nReply me for more information on this e-mail (\nwebdonations2019@gmail.com\n)\nBest Regards,\nMr Warren Edward Buffett Billionaire investor\nCEO: Berkshire Hathaway\nhttp:/ /www.berkshirehathaway.com/   "
     },
     {
         "from": "baiter_194",
         "to": "scammer_194",
-        "subject": "Re:   From: Mr Warren Edward Buffe",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   From: Mr Warren Edward Buffe",
         "body": "Hello Mr. Warren Edward Buffett,\n\nWow, I can't believe I'm actually receiving an email from you! It's such an honor. I've heard so much about your philanthropic efforts and it's truly inspiring.\n\nI'm curious though, how did you come across my email address? And why did you choose to give this generous donation to random individuals? \n\nLooking forward to hearing more about this.\n\nBest wishes,\nMarie"
     }
 ]

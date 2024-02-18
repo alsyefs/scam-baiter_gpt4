@@ -2,21 +2,21 @@
     {
         "from": "scammer_332",
         "to": "CRAWLER",
-        "subject": "  My Name is Donald Berkly i a",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  My Name is Donald Berkly i a",
         "body": "  My Name is Donald Berkly i am the Attorney,\nSolicitor and Administrator of  Mr JEFFERY SCOTT, a rich\nphilanthropist who died in the ill fated Kenyan air line  that crashed in Adis\nAbaba Kenya. However, before he died had instructed me his solicitors and\nAdministrator of his estate and funds, that all his\nwealth and proceeds from his estate ,to the tune of\n$350m MILLION US DOLLAR should be dedicated for humanitarian and\nphilanthropic purposes.\nSpecifically, he directed that this fund should be given to the\nmotherless babies homes, the needy and HIV patients, through a\nverifiable NGOS AND Religious organization OR honest and transparent\nindividuals. It is on this REASONS, i am contacting you to indicate\nyour interest, willingness and readiness to be a part of this\nhumanitarian project.\nPlease note that  60% will be dedicated to the\ncore charity, while the balance of 40% will be shared between you and\nI who now stand as the facilitators of the said fund at 20% apiece,\nPlease you have to send your details as Follows.\n(1)Your Full Name\n(2)Your contact Address\n(3)Your Tell-Phone number\n(4)Your Occupation and Age\n(5)A copy of your valid I.D\n(6)Your Bank account Details\nAs soon as i receive your response expressing your willingness i shall\nfurnish you with more details and further actions.\nyours sincerely\nDonald Berkly   "
     },
     {
         "from": "baiter_332",
         "to": "scammer_332",
-        "subject": "Re:   My Name is Donald Berkly i a",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   My Name is Donald Berkly i a",
         "body": "Dear Donald Berkly,\n\nI am interested in your proposal and would like to help. However, I need more information about the project before I can commit. Could you please provide more details about how the funds will be used for charity? Also, could you tell me more about Mr. Jeffery Scott and his intentions for this money?\n\nBest wishes,\nLang"
     }
 ]

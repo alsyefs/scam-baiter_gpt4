@@ -2,21 +2,21 @@
     {
         "from": "scammer_394",
         "to": "CRAWLER",
-        "subject": " Sir if you couldn't send the ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " Sir if you couldn't send the ",
         "body": " Sir if you couldn't send the money through this account you can send through Western Union, And please i will appreciate if you obey my opinion. Once again my priority is only but to render the best of my services to you and to all my clients.\n Mr.Patrick Alex  "
     },
     {
         "from": "baiter_394",
         "to": "scammer_394",
-        "subject": "Re:  Sir if you couldn't send the ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:  Sir if you couldn't send the ",
         "body": "Dear Alex,\n\nThank you for your response. I understand that you are suggesting to use Western Union for the transaction. However, I would like to know more details about this process. Could you please provide me with the necessary information such as the recipient's name, location, and any other relevant details?\n\nLooking forward to your prompt response.\n\nBest regards,\nLewis D.\n\nBest wishes,\nPatrick"
     }
 ]

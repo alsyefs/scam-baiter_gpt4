@@ -2,21 +2,21 @@
     {
         "from": "scammer_753",
         "to": "CRAWLER",
-        "subject": "FINANCIAL CRIMES ENFORCEMENT N",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "FINANCIAL CRIMES ENFORCEMENT N",
         "body": "FINANCIAL CRIMES ENFORCEMENT NETWORK\nUnited States Department of the Treasury\nOffice of Terrorism and Financial Intelligence\nVienna, Virginia, United States\nThis issue has been reported to your Local authorities and we can not\nrelease your funds with the due process.\nFill the information below if you really want to receive your $10.5 million,\n1 Your funds name.............\n2 Your current delivery address,,,,,,,,,,,,\n3 Your cell phone.......whatsapp number,,,,,,,,\n4 \nYour vald ID\n.......\nRegards\nKenneth A. Blanco"
     },
     {
         "from": "baiter_753",
         "to": "scammer_753",
-        "subject": "Re: FINANCIAL CRIMES ENFORCEMENT N",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: FINANCIAL CRIMES ENFORCEMENT N",
         "body": "Dear Kenneth A. Blanco,\n\nI am sorry, but I cannot provide the information you are asking for. I believe there may be a misunderstanding or mistake as I have not been involved in any financial crimes or suspicious activities. \n\nIf you need to discuss this further, please provide more details about the issue at hand.\n\nBest wishes,\nEdward"
     }
 ]

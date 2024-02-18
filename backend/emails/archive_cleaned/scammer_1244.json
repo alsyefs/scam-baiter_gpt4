@@ -2,21 +2,21 @@
     {
         "from": "scammer_1244",
         "to": "CRAWLER",
-        "subject": "CAN I TRUST YOU Receiving this",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "CAN I TRUST YOU Receiving this",
         "body": "CAN I TRUST YOU Receiving this message might sound as a surprise to you, please do accept it as a blessing from God made possible through a man with a good and sincere heart towards the poor orphans. I am Mr.PETER OWEN a great citizen of the LONDON UK  , I bring to you a proposal which I want you to assist me with. It is painful now to let you know that I have been suffering from a Coronary artery disease for the past 12 years and just few weeks ago my Doctors notified me that I won't get past another 5 months. I want you to help me distribute some funds I kept aside for charity purposes, to Charity Homes and the poor in your state Please kindly reply to this email if you are willing to help me carry out this task and i'd feed you with more details, You'd be compensated for carrying out this mission. Thanks, i hope to read from you soon. Sincerely, Peterson Mr.PETER OWEN"
     },
     {
         "from": "baiter_1244",
         "to": "scammer_1244",
-        "subject": "Re: CAN I TRUST YOU Receiving this",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: CAN I TRUST YOU Receiving this",
         "body": "Dear Peterson Owen,\n\nI'm deeply moved by your message and the situation you're currently facing. I'm sorry to hear about your health condition and I admire your courage and generosity in such difficult times.\n\nAs a member of The Holy Bagel Community, we are committed to helping those in need and spreading kindness around the world. We would be more than willing to assist you in distributing these funds to charity homes and the poor in our state.\n\nPlease provide me with more details on how we can proceed with this mission. \n\nMay God bless you and give you strength during this time.\n\nBest wishes,\nStephen"
     }
 ]

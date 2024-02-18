@@ -2,21 +2,21 @@
     {
         "from": "scammer_595",
         "to": "CRAWLER",
-        "subject": "  From: ALDO JOHAN RAMIREZ BAR",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  From: ALDO JOHAN RAMIREZ BAR",
         "body": "  From: ALDO JOHAN RAMIREZ BARBOSA < \nA232295@alumnos.uaslp.mx\n >\nSent: Tuesday, April 14, 2020  \nTo: \ninfo@representative.com\n <info@representative.com>\nSubject: Our company is interested in your service as a North America Representative for our company with Monthly salary and commission inclusive, do advise if interested.  "
     },
     {
         "from": "baiter_595",
         "to": "scammer_595",
-        "subject": "Re:   From: ALDO JOHAN RAMIREZ BAR",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   From: ALDO JOHAN RAMIREZ BAR",
         "body": "Dear Marykate,\n\nThank you for your prompt response. I am very excited about this opportunity to live and work in the United States! \n\nCould you please provide more details on the next steps I need to take? Also, could you confirm if there are any restrictions on where I can live in the US once I have my green card?\n\nLooking forward to hearing from you soon.\n\nBest regards,\nLewis D.\n\nBest wishes,\nEvelyn"
     }
 ]

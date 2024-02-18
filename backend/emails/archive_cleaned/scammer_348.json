@@ -2,21 +2,21 @@
     {
         "from": "scammer_348",
         "to": "CRAWLER",
-        "subject": "Dear Sir, How are you doing to",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear Sir, How are you doing to",
         "body": "Dear Sir, How are you doing today, hope your fine and good, I work with an investment company, we are ready to fund projects globally ,we invite all interested project owners and investors to our project financing program kindly drop your email address and Please I want to notify you of our client's interest in investing loan funding in your company or your project or startup project as a SILENT/ANGEL INVESTOR.\nPlease, if you wish to proceed, get back to me as soon as possible for contact details and further proceedings. I am waiting for your response.\nPlease contact me on this email address for more details.(\ndrberchtoldmarc@yahoo.com\n)\nYours Sincerely,\nDr. Berchtold Marc."
     },
     {
         "from": "baiter_348",
         "to": "scammer_348",
-        "subject": "Re: Dear Sir, How are you doing to",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Dear Sir, How are you doing to",
         "body": "Dear Dr. Berchtold Marc,\n\nThank you for your email and the offer to fund projects globally. I am interested in learning more about this opportunity.\n\nCould you please provide more details about the terms and conditions of this investment? What kind of projects are you interested in funding? And what would be the process to apply for this funding?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nChristopher"
     }
 ]

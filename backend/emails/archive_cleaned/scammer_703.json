@@ -2,21 +2,21 @@
     {
         "from": "scammer_703",
         "to": "CRAWLER",
-        "subject": "  Dear Esteemed Beneficiary",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear Esteemed Beneficiary",
         "body": "  Dear Esteemed Beneficiary\nMy Name is John Albert, I have a consignment valued at $13.5M assigned\nto me to deliver to you by the (UN) United Nations Intergovernmental\norganization commission .\nI am ready to deliver funds to you as Focus and concentrate please\nsend your current resident address and cell phone number.\nMr John Albert   "
     },
     {
         "from": "baiter_703",
         "to": "scammer_703",
-        "subject": "Re:   Dear Esteemed Beneficiary",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Dear Esteemed Beneficiary",
         "body": "Dear Mr. John Albert,\n\nThank you for your message. However, I would need more information about the nature of these funds and why they are being delivered to me by the United Nations Commission. Could you please provide more details?\n\nBest wishes,\nVictor"
     }
 ]

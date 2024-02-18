@@ -2,21 +2,21 @@
     {
         "from": "scammer_367",
         "to": "CRAWLER",
-        "subject": "  Good Day,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Good Day,",
         "body": "  Good Day,\nI am an official here at a bank in Nigeria, Please I want you to keep my\ncommunication with you a very top secret.\nDo you know that the sum of $3,700,000.00 (Three Million Seven Hundred\nThousand United States Dollars) have been approved to be paid to you\nthrough DMT, but the senior officials here do not want you to receive the\n$3,700,000.00\nI don't know why these senior officials are preventing you from receiving\nthe $3,700,000.00 that has been approved to be paid to you through DMT.\nYour fund is more than $3,700,000.00 but it is only $3,700,000.00 that has\nbeen approved to be paid to you through DMT.\nI don't want to take much of your time, I will make sure the $3,700,000.00\nis paid to you through DMT but you have to protect my identity.\nIf you assure me, you will protect my identity, I want you to reply back to\nme by sending me this information of yours which I will submit to DMT to\nenable DMT to process the transfer of the sum of $3,700,000.00 to you.\nA. Your WhatsApp Number (Your WhatsApp number is very important).\nB. Your telephone Number.\nC. Your Bank account details where the sum of $3,700,000.00 will be\ntransferred to.\nSincerely,\nMr. Daniel Udoh.   "
     },
     {
         "from": "baiter_367",
         "to": "scammer_367",
-        "subject": "Re:   Good Day,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Good Day,",
         "body": "Hello Mr. Daniel Udoh,\n\nI hope this message finds you well. Your email certainly piqued my interest, and I must say it's quite intriguing! It's not every day that one hears about such a large sum of money.\n\nHowever, I'm a bit confused about some details in your message. Could you please clarify what DMT stands for? Also, why is the fund more than what has been approved to be paid to me?\n\nAs for protecting your identity, rest assured that I understand the importance of confidentiality and will do my best to respect it.\n\nRegarding the information you asked for, I'm afraid I can't provide them at this moment due to personal reasons. But don't worry, we can still continue our conversation and discuss further details about this matter.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nCindy"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_23",
         "to": "CRAWLER",
-        "subject": "  FEDERAL BUREAU OF  INVESTIGA",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  FEDERAL BUREAU OF  INVESTIGA",
         "body": "  FEDERAL BUREAU OF  INVESTIGATION\n                                J. Edgar Hoover Building \n                       935 Pennsylvania Avenue,NW\n                        Washington, D.C. 20535-0001\n Attn;  \n \nWe the Federal Bureau of Investigation United States of America have discovered through our network monitoring intelligence that you have a transaction going on as Inheritance payment which is being handled by Mr. \nArlin Schwartz\n, the director remittance Department, Deutsche Kredit Bank, in a tone of 2,500,000.00 Euro.\nAccording to the information from our network intelligence, we are made to understand that the fund has been approved but have not been transferred to you due to some financial statutory obligations which you were required to fulfil before remittance will take place to your account.\n \nNote,  \nwe were compelled to investigate the source and legitimacy of this particular transaction, and finally, we confirmed that the transaction is legal, pure and genuine\n, hence we advise you to comply with the directives from the Deutsche bank management to enable your funds be released/reflect into your account accordingly, hence the fund would be welcomed here in the states.\n \nHowever, with the power bestowed on us as the United States law enforcement agency, we have consulted the Deutsche bank directly, since we confirmed that they are the bank handling your payment process, and they assured us that your funds would be released to you once you comply with their directives of settling the ITPC Statutory Fee.\nSo on that note, we implore you to comply with them now and get back to us so we can monitor the process to ensure that your payment is released and confirmed into your account immediately after settling the fee, hence we have confirmed that the fee is the only obligation holding the release/reflection of the fund to your account now.\n \nWe await your compliance to the instructions from this authority,\n \nSincerely,\nMr. Robert Brown, \nDirector, International Monitoring Unit,\nUnited State Federal Bureau of Investigation (FBI)    "
     },
     {
         "from": "baiter_23",
         "to": "scammer_23",
-        "subject": "Re:   FEDERAL BUREAU OF  INVESTIGA",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   FEDERAL BUREAU OF  INVESTIGA",
         "body": "Hello Mr. Robert Brown,\n\nThank you for reaching out to me and providing such detailed information about the situation. I must say, it's quite surprising to hear from the Federal Bureau of United States.\n\nI'm a bit confused about this payment you mentioned. Could you please clarify what this payment is for? And who is Mr. Arlin Schwartz? I don't recall having any dealings with him or Deutsche Kredit Bank.\n\nAlso, could you explain more about the ITPC Statutory Fee? What exactly does it cover?\n\nLooking forward to your response.\n\nBest wishes,\nAlfred"
     }
 ]

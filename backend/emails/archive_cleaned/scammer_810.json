@@ -2,21 +2,21 @@
     {
         "from": "scammer_810",
         "to": "CRAWLER",
-        "subject": "   Edward Smith Chambers",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Edward Smith Chambers",
         "body": "   Edward Smith Chambers\nLegal Practitioners, solicitor and General advocate\nSuit #5 Churchill Palace London. E14 5HP\nUnited Kingdom.\nEmail: \nedwardsmithedward@yahoo.co.uk\nAttn; Beneficiary\nMy name is Bar. Edward Smith, I am a Legal Advocate. I am the owner of\nEdward Smith Chambers & Associates Law Firm. I officially consult for\nNGO's and companies on legal/allied issues, Family Law; Intellectual\nProperty; Real Estate; Wills and Trusts. Currently I am the Head of\nUnited Nations office on contract and inheritance payment,\nhumanitarian relief fund payment and monitoring Unit.\nYour name appeared on the August 2022 payment gazette and We\nunderstand that you have been duly notified and listed among those\nthat their payment is being moved through I.D.D.S to their given\naddresses.\nYou are advised to stop any further payment to anyone in the name of\nreceiving your fund as such payment was not authorized by UN payment\nand monitoring unit.\nYour prompt respond is highly needed to finally verify if your payment\nhave been moved through UN I.D.D.S or wire transfer as we will not be\nheld responsible for diverted funds.\nIf you have not received this brief regarding your fund, kindly\nrespond with the bellow details.\n1. Your full names as in your identity card or international passport.\n2. Full house address.\n3. Direct telephone contact\n4. Valid identity card\nWe shall activate our payment mechanism as soon as you make the above\ninformation available for immediate action.\nRegards\nSmith Edward LLB\nHead. UN Payment and Monitoring Unit\nLondon.\nFor urgent inquiry.. Whats-App +447700014977   "
     },
     {
         "from": "baiter_810",
         "to": "scammer_810",
-        "subject": "Re:    Edward Smith Chambers",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:    Edward Smith Chambers",
         "body": "Dear Mr. Edward Smith,\n\nThank you for your email and the information provided. I am indeed surprised to hear that my name appeared on the August payment gazette as I was not expecting any payments.\n\nBefore I provide any personal details, could you please clarify what this payment is for? Also, could you provide more details about your organization and its connection with the United Nations?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nTonya"
     }
 ]

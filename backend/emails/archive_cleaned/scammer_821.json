@@ -2,21 +2,21 @@
     {
         "from": "scammer_821",
         "to": "CRAWLER",
-        "subject": "   Dear ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Dear ",
         "body": "   Dear \nHow are you today?\ni have been worried for your silence, please let me know what is happening with you.\nHave you opened the account with UOB bank.\nplease send news\nyour malak  "
     },
     {
         "from": "baiter_821",
         "to": "scammer_821",
-        "subject": "Re:    Dear ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    Dear ",
         "body": "Hello Malak,\n\nI hope this message finds you well. I'm doing okay, thank you for asking. I've been a bit quiet lately due to some personal matters, but nothing too serious.\n\nRegarding the UOB bank account, I haven't opened one yet. Could you tell me more about why you think it's a good idea? What are the benefits of having an account with them?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nPatty"
     }
 ]

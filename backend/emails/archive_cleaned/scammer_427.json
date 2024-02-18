@@ -2,21 +2,21 @@
     {
         "from": "scammer_427",
         "to": "CRAWLER",
-        "subject": "Federal Reserve Bank New York,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Federal Reserve Bank New York,",
         "body": "Federal Reserve Bank New York, NY, USA\nHeadquarter: New York, NY, United States Of America\nFounded: 1914, New York City, New York, United States\nAddress: 33 Liberty St New York, NY 10045-0001\nDear Beneficiary,\n I am hereby to notify you of your $15.5Million Usd dollars which\nsupposed to be sent to you by anyway of your choice but you have\nkepted silient becuase of the fee of $100 usd dollars only that you\nwere told to send.\n Please i am here to inform you that the FEDERAL\nHIGH COURT and FEDERAL MINISTRY OF FINANCE of United States Of America\nhas make it very easy for you. \nNow you are to send only $25 usd\ndollars and you will have your fund\n $15.5Million Usd dollars without\nanymore delay. And please you have to reply immediately you get this\nmessage because \nit is very very urgent\n.Send me SMS message WITH THIS\nVery Number +1940 333-291\nPlease make sure that you send the $25 usd dollars i tunes card copy\nor Google play card copy immediately you get this message including\nyour information and your bank account details\n for the immediate\ntransfer of your total fund $15.5Million Usd dollars YOUR CAN BYE I\nTUNES CARD $25USD DOLLARS and send the COPY of the $25 usd dollars i\ntunes card today Send me SMS message WITH THIS Very Number +1940\n333-2911 and Immediately we receive the $25 Us dollars i tunes card or\nGoogle Play Card Copy payment information today you will receive your\nfunds $15.5Million Usd dollars to your bank account today okay, .\nBest Regards\nEmail;federalreservebank0101@gmail.com\nMr. Neil Gorsuch\nSend me SMS message WITH THIS Very Number +1940 333-291\nYOUR URGENT REPLY IS NEEDED"
     },
     {
         "from": "baiter_427",
         "to": "scammer_427",
-        "subject": "Re: Federal Reserve Bank New York,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Federal Reserve Bank New York,",
         "body": "Dear Mr. Neil Gorsuch,\n\nI am a bit confused by your message. Could you please clarify what exactly is required of me? I understand that there is a sum of USD dollars to be transferred to me, but the details regarding the payment method are unclear.\n\nCould you please provide more information about this transaction and its purpose?\n\nBest wishes,\nJames"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_895",
         "to": "CRAWLER",
-        "subject": "Hello & Congratulations!!!",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Hello & Congratulations!!!",
         "body": "Hello & Congratulations!!!\nThis is to acquaint you with the outcome of our 1 day meeting held\nbetween the U.S Department of Homeland security Washington DC, U.N\nInternational Financial Investigation Unit and the Association of Better\nBusiness Bureau to compensate all scam victims. Upon due verification,\nwe have jointly approved the sum US$1.5M (One Million, Five hundred\nthousand United States Dollars) for every confirmed victim. Your E-mail\naddress was selected through a just concluded random computer ballot\nsystem, and you were among the few selected beneficiaries to be\ncompensated at the ongoing year 2022 compensation program.\nFurthermore, adequate arrangements have been put in place for your\napproved payment to be remitted to you via issuance of a Platinum Visa\nDebit Card that can be accessible at any inter-switch cash machine\nanywhere in the world.\nFinally; for the purpose of proper verification of your claims, it is\nimperative that you furnish us with the following of your details\nnecessary to process release/remittance of your payment:\nYour Full Name(s):\nYour Direct Telephone Number:\nContact Address( For Your Visa Card Delivery)\nAge:\nProfession:\nPhotocopy of any I.D you may have\n:\nYou are expected to forward the above information to the Authorized\nPayment Center in South Africa below:\nPaying Bank: FIRST NATIONAL BANK, GP\nContact Person: John Fletcher\nE-mail: \njfletcher77@vivaldi.net\nPhone: +27-63-988-3018\nYou are advised to contact the above bank immediately with your\ninformation to enable your fund to be processed and released to you\nwithin the stipulated time frame.\nCordially,\nMaimunah Mohd Sharif.\nExecutive Director,\nUnited Nations Human Settlements Programme\n+1-515-212-4504."
     },
     {
         "from": "baiter_895",
         "to": "scammer_895",
-        "subject": "Re: Hello & Congratulations!!!",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Hello & Congratulations!!!",
         "body": "Dear Maimunah Mohd Sharif,\n\nThank you for your email. I am surprised to hear that I have been selected as a victim of a scam, as I am not aware of any such incident. However, if there has been some mistake and I am indeed entitled to the sum you mentioned, I would be grateful for it.\n\nHere are my details:\n\nFull Name: John Doe\nContact Address: 123 Main Street, Anytown, USA\n\nUnfortunately, due to privacy concerns, I cannot provide a photocopy of my identification over email. If there is another way to verify my identity that ensures my personal information remains secure, please let me know.\n\nBest wishes,\nKacie"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_1129",
         "to": "CRAWLER",
-        "subject": "   Good morning to you son of ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Good morning to you son of ",
         "body": "   Good morning to you son of God!\nToday is the day to start something new, try something different or have fun in God! May today be full of beautiful moments that make you feel blessed. Wishing you a happy Sunday!Amen   "
     },
     {
         "from": "baiter_1129",
         "to": "scammer_1129",
-        "subject": "Re:    Good morning to you son of ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    Good morning to you son of ",
         "body": "Good morning to you too! I hope you're having a wonderful Sunday. It's always exciting to start something new or try something different, isn't it? What kind of new things are you planning on trying today?\n\nBest wishes,\nElyse"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_1273",
         "to": "CRAWLER",
-        "subject": "   From: VUSI NDLOVU ATTORNEYS",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   From: VUSI NDLOVU ATTORNEYS",
         "body": "   From: VUSI NDLOVU ATTORNEYS & ASSOCIATES.\n25 Toscana,Lonehill .Johannesburg.\nEmail i.d: \ndoversterattorneys@lawyer.com\nvsndlovuchambers2010@gmail.com\n31/05/2022\nAttn:  \nWe are in receipt of your mail.\n \n \nWe are very glad to inform you that your winning details has been verified and confirmed by me (Barr. J. V. Ndlovu) at the lottery office today.\n \nI will be submitting a letter of claim on your behalf at the lottery office upon our receipt of any of your scanned copy of your Identifications.\n \nIt is important that you proved us with any of of ID details  to enable us commence our legal services on your behalf.\n \nDo call me (Barr. J. V. Ndlovu) for any clarification urgently.\n \nThanks\nBarr.Mrs. Doris Ndlovu.  "
     },
     {
         "from": "baiter_1273",
         "to": "scammer_1273",
-        "subject": "Re:    From: VUSI NDLOVU ATTORNEYS",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    From: VUSI NDLOVU ATTORNEYS",
         "body": "Hello Doris Ndlovu,\n\nThank you for your email and the exciting news! I'm thrilled to hear about this. Could you please provide me with more details about the lottery? When was it held and how was my name selected?\n\nI understand that you need some form of ID for verification, but I'm a bit hesitant to share such sensitive information over email. Is there any other way we can verify my identity without sharing personal documents?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nBlair"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_514",
         "to": "CRAWLER",
-        "subject": "FEDERAL RESERVE BANK of NEW YO",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "FEDERAL RESERVE BANK of NEW YO",
         "body": "FEDERAL RESERVE BANK of NEW YORK\nAddress: 33 Liberty St, New York, NY 10045, United States\nWebsite: www. newyorkfed.org\nGreetings Sir/Mir\nI am Mr. John C. Williams\nChief Executive officer (CEO)\nFederal Reserve Bank of New York\nI want to officially inform you that during our board of trustees executive meeting held in Washington on the 20th of January 2023, we found out that your name is among the list of those who haven't received their long time awaiting inheritance funds of $10,000,000.00 Million USD which was deposited many years ago by your forefathers before they passed on. \nDuring our executive meeting, we have concluded and agreed by our board of trustees to release the funds of those whose names appear on our list that haven't yet received their inheritance funds.\nSo your name is among those whom we brought out their file to release their inheritance funds within 72-hours, while you must contact our payment department as soon as possible to receive your funds via your preferred option below.\n(1) Wire transfer\n(2) ATM debit card\n(3) Bank draft\n(4) Online access\nYour preferred option will determine how to receive your funds and you must follow our instruction to contact our payment department with your current information to receive your funds via your preferred option.\nNOTE: You must provide the 3 listed documents to our payment department to officially claim your funds within 72-hours, while our payment department will refer you to a lawyer to obtain the 3 documents, but the cost of 2 documents will be taken care of by our payment department, while \nyou will be responsible for the cost of one document for security and official reasons. \n(1) Ownership certificate \n(2) Clean Bill of record\n(3) Approval document\nHere is the contact of our payment department to contact our financial officer with your current information and your preferred payment option.\nFinancial officer: Mrs. Barbara Smith\nEmail: \nbarbara.smiths809@gmail.com\nWhatsApp #: 619-438-7899\nBank address: 33 Liberty St, New York, NY 10045, United States\nYour payment is assured as you Comply  with the financial officer as instructed.\nWe wish you all the best from the board of trustees.\nYours Sincerely\nMr. John C. Williams\nChief Executive officer (CEO)\nFederal Reserve Bank of New York\nAddress: 33 Liberty St, New York, NY 10045, United States\nWebsite: www. newyorkfed.org"
     },
     {
         "from": "baiter_514",
         "to": "scammer_514",
-        "subject": "Re: FEDERAL RESERVE BANK of NEW YO",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: FEDERAL RESERVE BANK of NEW YO",
         "body": "Dear Mr. John C. Williams,\n\nI am writing in response to your email regarding the release of my long-awaited funds. I appreciate the efforts made by the Federal Reserve Bank of New York in ensuring that these funds are finally released.\n\nAs per your instructions, I would like to choose the Wire Transfer as my preferred option for receiving these funds. Please provide me with further details on how to proceed with this.\n\nThank you for your assistance and I look forward to hearing from you soon.\n\nBest wishes,\nPamela"
     }
 ]

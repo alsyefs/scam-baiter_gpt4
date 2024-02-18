@@ -2,21 +2,21 @@
     {
         "from": "scammer_835",
         "to": "CRAWLER",
-        "subject": "You have to send it through gi",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "You have to send it through gi",
         "body": "You have to send it through gift card or bitcoin,\nBuy Steam wallet gift card or Apple gift card of $100 and send it to me through this email\n and i will obtain the document and send to you"
     },
     {
         "from": "baiter_835",
         "to": "scammer_835",
-        "subject": "Re: You have to send it through gi",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: You have to send it through gi",
         "body": "Dear Sir/Madam,\n\nI appreciate your prompt response. However, I must inform you that I am not comfortable with the proposed method of payment. It is unusual for official transactions to be conducted through gift cards or bitcoin. \n\nCould you please provide an alternative method of payment? Preferably a bank transfer or a secure online payment platform.\n\nThank you for your understanding.\n\nBest regards,\nLewis D.\n\nBest wishes,\nShemika"
     }
 ]

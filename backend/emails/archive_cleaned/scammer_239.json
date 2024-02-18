@@ -2,21 +2,21 @@
     {
         "from": "scammer_239",
         "to": "CRAWLER",
-        "subject": "FROM US Department of Justice",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "FROM US Department of Justice",
         "body": "FROM US Department of Justice\nForeign Claims Settlement Commission (FCSC)\n441 G Street, NW., Room 6330\nWashington, D.C. 20579\nUnited States of America\nContact me at this official email : \ncommissionerfcscrep@gmail.com\nAttention Beneficiary,\nFollowing series of investigations of some blocked Foreign and local\nClaims, we came across your file and found out that you have not yet\nreceived your compensation payment of Five Millions Five Hundred\nThousand United States Dollars (US$5,500,000.00), Therefore Foreign\nClaims Settlement Commission of the United States (FCSC) in its\nforeign settlement agreements have found your compensation claim\nreasonable enough to be released, which has led us to contact you\nthrough this medium as one of the Beneficiaries that is due for these\nclaim.\nThe Department of the Treasury's role is to ensure that the claimants\nreceive the proper payment amount as authorized in the public law of\nthe Foreign Claims Program. Your payment has been authorized and your\ntotal funds will be delivered to you in cash through diplomat means,\nYour documents has been verified and all your clearance certificate is\nstill valid, therefore your funds will be delivered to your home\naddress in cash in a consignment trunk once we have received\nconfirmation from you that you are still alive, also\n you will need to\npay only $250 USD as the shipping cost of this delivery\n.\nYours Faithfully,\nMr. Patrick Hovakimian\nCommissioner,\nForeign Claims Settlement Commission (FCSC)\nContact me at this official email : \ncommissionerfcscrep@gmail.com"
     },
     {
         "from": "baiter_239",
         "to": "scammer_239",
-        "subject": "Re: FROM US Department of Justice",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: FROM US Department of Justice",
         "body": "Dear Mr. Patrick Hovakimian,\n\nThank you for your email and the information provided. I am indeed alive and interested in receiving the funds that are due to me.\n\nHowever, before proceeding further, I would like to clarify a few things:\n\n1. Could you please provide more details about the origin of these funds? How did my name come up in relation to this claim?\n\n2. You mentioned a payment of USD for shipping costs. Could you please provide more details on how this payment should be made?\n\n3. Can you confirm that there will be no additional fees or charges after this payment is made?\n\n4. Lastly, could you please provide some form of identification or proof that this communication is indeed from the Foreign Claims Settlement Commission (FCSC)?\n\nI look forward to your response.\n\nBest wishes,\nLuella"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_678",
         "to": "CRAWLER",
-        "subject": "Homeland Security Department",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Homeland Security Department",
         "body": "Homeland Security Department\nSouthwest, Washington, D.C. United States\nAttention: Sir/Madam.\nGood day, This is the Department of Homeland S e c u r i t y we have a vital mission: to secure the nation from the many threats we face as well as internet F r a u d. This requires the dedication of more than 230,000 employees in jobs that range from aviation and border s e c u r i t y to emergency response, from cyber security analyst to chemical facility inspector. Our duties are wide-ranging, but our goal is clear - keeping America safe.\nWe are happy to inform you that your f u n d s valued at US$5,750,000.00 (Five million Seven Hundred and Fifty Thousand United States Dollars) have been approved for immediate payment to you after a thorough investigation was carried out, our intel confirmed that you were dealing with cyber criminals.\nYou are to re-confirm the following information below to enable us process your claim through the right department accordingly and also STOP further communication with the CRIMINAL you are dealing with with immediate effect.\nFULL NAME\nHOME ADDRESS/CITY/STATE/ZIP-CODE\nCELL PHONE#\nOCCUPATION\nDOB\nSEX\nReply back as soon as you get this email for further directives.\nThank you and have a good day.\nSigned:\nMrs. Jen Easterly.\nDirector of the Cybersecurity and\nInfrastructure Security Agency."
     },
     {
         "from": "baiter_678",
         "to": "scammer_678",
-        "subject": "Re: Homeland Security Department",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Homeland Security Department",
         "body": "Hello Mrs. Jen Easterly,\n\nThank you for reaching out and informing me about this situation. I must say, it's quite surprising to hear that I've been dealing with cyber criminals unknowingly. \n\nI'm curious, how did your department come across this information? And could you please elaborate on the nature of these dealings? It would be helpful to understand more about what has been happening.\n\nAlso, you mentioned a value of US Five million Seven Hundred and Fifty Thousand United States Dollars approved for immediate payment to me. Could you explain why this amount is being paid to me?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDeanna"
     }
 ]

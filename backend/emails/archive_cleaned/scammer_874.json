@@ -2,21 +2,21 @@
     {
         "from": "scammer_874",
         "to": "CRAWLER",
-        "subject": "  SIR",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  SIR",
         "body": "  SIR\nTHE DIRECTOR GENERAL OF THE CASH DELIVERY PAYMENT DEPARTMENT OF CENTRAL BANK OF NIGERIA REACHED OUT TO ME 2DAY ASKING IF I HAVE SOMEONE WHO CAN CLAIM 7 MILLION DOLLARS FROM A CENTRAL BANK OF NIGERIA DIPLOMAT WHO IS AT AIRPORT NOW WHO CAME TO DELIVER CONTACT PAYMENT CASH DELIVERY FOR A CONTRACTOR FOR NIGERIA GOVERNMENT BUT DISCOVERED THAT HE JUST DIED OF CANCER TWO DAYS AGO SO HE NEEDS SOMEONE WHO IS CAPABLE TO CLAIM THIS FUNDS AND RECEIVE 60% OF THE 7 MILLION DOLLARS SO IF YOU ARE CAPABLE TO CLAIM THIS FUNDS PLEASE GET BACK FOR MORE INFORMATION\nMICHAEL   "
     },
     {
         "from": "baiter_874",
         "to": "scammer_874",
-        "subject": "Re:   SIR",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   SIR",
         "body": "Hello Michael,\n\nWow, that's quite a story! I'm sorry to hear about the contractor. It must be a difficult time for his family and friends. \n\nI'm curious, how did the Director General of the Cash Delivery Payment Department of Central Bank of Nigeria find out about me? And why was I chosen to claim these funds?\n\nLooking forward to hearing more about this.\n\nBest regards.\n\nBest wishes,\nDanny"
     }
 ]

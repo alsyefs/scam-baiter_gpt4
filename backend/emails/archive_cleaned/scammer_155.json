@@ -2,21 +2,21 @@
     {
         "from": "scammer_155",
         "to": "CRAWLER",
-        "subject": "  Dear Sir,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear Sir,",
         "body": "  Dear Sir,\nHow are you doing today? I want to use this medium to introduce you to son of my late friend by name Mr Kamarah Toure from republic of Cote D'ivoire, His late father was former Deputy Minister of Mines and Energy in republic of Cote D'ivoire, during the regime of former president Laurent Gbagbo. I will appreciate it if you will communicate with him directly, i believe we can easily execute this deal within one week, \nfor your information this transaction is never related to any upfront payment.\nBefore the civil crisis in his country which finally resulted in civil war in their country republic of Cote D'ivoire, his late father made a deposit of Fifty Million USD only ($50,000.000.00) in a private safe keeping and investment project in Dublin Ireland.\nPlease i would appreciate if you can communicate directly with Mr Kamarah Toure to give you a little more insight about the entire transaction and what will be your role towards this transaction, because all i can assure you is that he will handle every expenses including your round trip flight ticket and hotel accomodations together with your pocket money before your departure and, he assured me that he will reward you with 20% of the total money.\nI can assure you that this is purely 101% risk free transaction.\nIf you are interested, i am ready to link you to Mr Kamarah Toure so that he can fully explain everything to you and let you know how he will handle every expenses including your round trip flight tickets and hotel accomodations and what will be our benefit in this transaction, although he made me to understand that he will take care of every expenses and ready to compensate us with 20% of the total sum of the money.\nThank you once again.\nSincerely Yours,   "
     },
     {
         "from": "baiter_155",
         "to": "scammer_155",
-        "subject": "Re:   Dear Sir,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Dear Sir,",
         "body": "Dear Sir,\n\nThank you for your email and the opportunity. However, I would need more information about this deal before proceeding. Could you please provide more details about what my role would be in this transaction? Also, could you clarify how the funds will be transferred and what guarantees there are for safety and legality?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nGrant"
     }
 ]

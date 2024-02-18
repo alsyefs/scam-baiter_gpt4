@@ -2,21 +2,21 @@
     {
         "from": "scammer_1380",
         "to": "CRAWLER",
-        "subject": "Greetings,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Greetings,",
         "body": "Greetings,\nMy name is Barrister Newman White, a lawyer and a personal attorney to my late client who died in the United States of America on March 11th, 2020 at the peak of the Covld-19 pandemic.\nThe essence of this email is to present you as the next of kin to my late client hence you share the same last name with him.\n His bank has mandated me as his personal attorney to provide his next of kin {heir} within 14 days or risk his money of over 10m transferred to the treasury department. He had no heir in title and I have been searching for any close relative of his but to no avail. If you will accept this offer, I will provide you with all relevant information that will aid the process of getting the money released to you as the next of kin to the deceased.\nKindly provide the following information:\n1. Your full name\n2. Address\n3. Contact phone number\n4. Profession\nFurther details will be provided upon receipt of your positive response.\nBest regards,\nBarr. Newman White"
     },
     {
         "from": "baiter_1380",
         "to": "scammer_1380",
-        "subject": "Re: Greetings,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Greetings,",
         "body": "Dear Barrister Newman White,\n\nI appreciate your message and the opportunity you're presenting. However, I would need more information about this situation before proceeding. \n\nCould you please provide me with more details about your late client? How did you find my contact information and establish the connection between me and him? Also, could you clarify the legal implications of being presented as his next of kin?\n\nLooking forward to hearing from you.\n\nBest wishes,\nJanet"
     }
 ]

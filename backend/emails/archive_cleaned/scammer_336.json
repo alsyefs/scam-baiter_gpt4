@@ -2,21 +2,21 @@
     {
         "from": "scammer_336",
         "to": "CRAWLER",
-        "subject": "Attn: Funds Beneficiary, ARE Y",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attn: Funds Beneficiary, ARE Y",
         "body": "Attn: Funds Beneficiary, ARE YOU DEAD OR ALIVE ? CONFIRMATION OF YOUR\nFUND TRANSFER\nOur Ref: Gofc/Frb/Bofa/643-12-XX Q1/X/200696/2023\nDear Funds Beneficiary,\nRE: ARE YOU DEAD OR ALIVE ? CONFIRMATION OF YOUR FUND TRANSFER\nIn the course of our General Auditing and Accounts revision of this\nnew quarter of the year 2022, we discovered that the Bank\nAccounts,belonging to some Beneficiaries have been changed on the\nbasis that the owners have DIED after contacting COVID ’19 (without\nleaving a WILL) some time last year (2022) or have given out an\nauthorization note of change of data shortly before their death.\nAfter the investigations however, it was revealed that there are\nForeigners who are collaborating with Retired or former Staff to make\nthese changes illegally without the knowledge of the Bonafide.\nBeneficiaries and there is one suck alterations traced to your data\nbeen changed to one Mr. Gubochkin Andrei Nikolaevich of Address-\nRussia city Naberezhnye Chelny, RUSSIA who said you are dead, hence\nthey have tried to prove bearing your name so as to divert your\nproposed funds, IT WAS STATED THAT YOU DIED OF HEART FAILURE caused by\nCOVID’19 Infection.\nThey have also forwarded the bank account below as the new account\nthat will receive this fund / money.\nAccount details:\nBeneficiary account number: 40817840922646001045\nNumber VISA Card: 4893 4704 3599 3388\nBeneficiary: Gubochkin Andrei Nikolaevich\nBeneficiary`s bank: VTB (Public Joint- Stok Company)\nBeneficiary SWIFT: VTBRRUM2SA3\nAddress - 191144, St. Petersburg, Degtyarny lane, 11, lit. A\nCorrespondent bank: CITIBANK NA, New York, USA Correspondent SWIFT:\nCITIUS33\nAccount with correspondent bank number: 36208997\nBut we wanted to confirm once again if actually this is true and\ndecided to write to your email address for confirmation, which after\n72 hours from today and there is no response, we shall then carry out\npayment in their favor.If proved otherwise by you that you did not\ndie, please forward to us all your related details including your full\nnames, direct telephone numbers, contact address, copy of your ID and\nalso details of your payment. These details from you will help to\nassist us reach a conclusion that you are not dead and that the fund\nin question belongs\nto you.Anything contrary to this claim will help us charge this man to\ncourt and prosecute him while your fund will be paid to you\nimmediately\nwithout any further delay. You have to get back to us on time for us\nto commence legal proceedings against Mr. Gubochkin Andrei Nikolaevich\nof Address- Russia city Naberezhnye Chelny, RUSSIA and his criminal associates.\nThanks,\nSincerely Yours,\nDON BARRY.\nSENATE COMMITTEE ON PUBLIC FUNDS.\nNIGERIA"
     },
     {
         "from": "baiter_336",
         "to": "scammer_336",
-        "subject": "Re: Attn: Funds Beneficiary, ARE Y",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Attn: Funds Beneficiary, ARE Y",
         "body": "Hello Don Barry,\n\nThank you for reaching out to me. I must say, your email caught me by surprise! I can assure you that I am very much alive and well, despite what Mr. Gubochkin Andrei might have claimed.\n\nI'm curious about how this mix-up happened in the first place. Could you provide more details on how my data was changed? Also, could you tell me more about this fund money that is supposedly mine?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMary"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_1313",
         "to": "CRAWLER",
-        "subject": "  Dear Sir",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear Sir",
         "body": "  Dear Sir\nThrough intelligence gathering and report, it has come to the\nknowledge of government that your long overdue payment despite all\nefforts you have made to receive the fund has been futile and it was\ndiscovered that some officials acting in collaboration with forces yet\nto the identified have been behind this, thereby frustrating the\nefforts of government to get your fund released. This is very\nregrettable.\nThe government is not unaware of the untold hardship this has brought\nto you and has therefore come up with a new strategy to ensure\nunhindered process that will ensure quick release of your fund.\nIn line with the above, your are hereby directed to reconfirm your\nfull details to enable furnish you with further details on the\nprocess.\nRegards,\nJohnson Mark\nFrom Union bank\nof Switzerland\nWhatsApp 41-78-460-6337   "
     },
     {
         "from": "baiter_1313",
         "to": "scammer_1313",
-        "subject": "Re:   Dear Sir",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Dear Sir",
         "body": "Hello Johnson Mark,\n\nThank you for reaching out to me. I appreciate your concern and the efforts of the government in resolving this issue. It's indeed been a challenging time trying to receive my overdue payment.\n\nHowever, before we proceed, could you please provide more details about this new strategy that the government has come up with? I'm interested in understanding how it will ensure a quick release of my fund.\n\nAlso, could you clarify what specific details you need from me? I want to make sure I provide all necessary information without compromising my personal security.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nGladys"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_927",
         "to": "CRAWLER",
-        "subject": " I am MR DAVID MORRIS, Inspect",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " I am MR DAVID MORRIS, Inspect",
         "body": " I am MR DAVID MORRIS, Inspection Unit\nManager United Nations\nInspection Agency in Hartsfield Jackson\nInternational Airport Atlanta,\nGeorgia.\nDuring our investigation, I discovered An\nabandoned shipment through a\nDiplomat from United Kingdom which was\ntransferred from JF Kennedy\nAirport to our facility here in Atlanta,\nThe two  consignment boxes is\nworth $8 million,And I  Ascertain you that\nthe consignment is in your\nname,you are advised to provide all detail\nfor claim.\nSincerely,\nMR MORRIS\nCONTACT..........\nmrdavidmorris1718@gmail.com\n "
     },
     {
         "from": "baiter_927",
         "to": "scammer_927",
-        "subject": "Re:  I am MR DAVID MORRIS, Inspect",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:  I am MR DAVID MORRIS, Inspect",
         "body": "Dear Mr. Morris,\n\nI received your message regarding the abandoned shipment from the United Kingdom. However, I'm a bit confused about the details you've provided. Could you please clarify what exactly is in these boxes and why they are associated with my name? \n\nAlso, could you please specify what details you need from me to claim this shipment? \n\nLooking forward to your response.\n\nBest wishes,\nFrances"
     }
 ]

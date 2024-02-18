@@ -2,21 +2,21 @@
     {
         "from": "scammer_316",
         "to": "CRAWLER",
-        "subject": "Dear Beneficiary,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear Beneficiary,",
         "body": "Dear Beneficiary,\nThe Board of Trustees and Management of (RBC) Royal Bank Of Canada wish to officially inform you today that your outstanding Coca-Cola Company Winning funds valued at the total sum of US$5.8 Five million Eight Hundred Thousand United States Dollars) which was deposited with our bank here in Canada to your name last week has been legally approved and Authorized by the European Union committee on Foreign Payment Resolution, following with the payment release letter we received from the Canadian Finance Ministry and Canadian Ambassador to U.S for onward transfer.\nBe informed that your fund transfer notification letter has been forwarded to the Central Bank Of Canadian and to the General Director Of (I.M.F) International Monitoring Funds Office in America for final approval, and this is because to transfer such huge amount of money we really have to notify every offices that is concern in any International funds transfer that is moving out of Canada just to avoid any problem when making the payment to your bank account,but we have successfully gotten some of the funds release approval documents from the legal department regarding this transaction.\nHowever, we the Royal Bank Of Canada hereby advise you to\n quickly reconfirm your full banking information\n to this bank before we can proceed with the claim process of your fund, and this is to avoid any mistake or wrongful transaction, and we will not be responsible for any lost of fund,so as a result of this we now advise you to \nkindly get back to us with your Residential Home Address and your complete Banking details Such as Your Full Name,Bank Name,Account Number,Bank Address,Swift Code and Routing Number as to enable the management of this bank facilitate the smooth release of your fund to your account.\nThank you for choosing Royal Bank Of Canada and contact David I Mckay Office email only \ndimckay@yahoo.com\nYours Faithfully,\nDavid I Mckay\nSms Or call +1812 985 8589"
     },
     {
         "from": "baiter_316",
         "to": "scammer_316",
-        "subject": "Re: Dear Beneficiary,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Dear Beneficiary,",
         "body": "Hello David Mckay,\n\nThank you for reaching out to me. I'm thrilled to hear about this unexpected windfall! It's not every day that one gets news of such a significant sum.\n\nI do have a few questions, though. Could you please explain how my name was selected for this? Also, could you provide more details about the process involved in claiming these funds?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nAnita"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_1115",
         "to": "CRAWLER",
-        "subject": "   Still I have not received a",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Still I have not received a",
         "body": "   Still I have not received a response from you prior to my email about your reward. Please, for more info, email me back swiftly with your details beneath because I have been waiting for your response for a while.\nYour Names:\nAddress:\nPhone:\nAge:\nOccupation:\nI will contact you immediately with other information for appraisal upon receipt of your details above. I am not allowed to reveal more details to you until I receive your info above.\nThank you. Dale J Botha.   "
     },
     {
         "from": "baiter_1115",
         "to": "scammer_1115",
-        "subject": "Re:    Still I have not received a",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    Still I have not received a",
         "body": "Hello Dale Botha,\n\nThank you for reaching out to me. I'm really excited about this reward you mentioned! Could you please tell me more about it? What is it for? How did I earn it?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nErik"
     }
 ]

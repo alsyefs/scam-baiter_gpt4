@@ -2,21 +2,21 @@
     {
         "from": "scammer_971",
         "to": "CRAWLER",
-        "subject": "  Hello Beloved,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Hello Beloved,",
         "body": "  Hello Beloved,\nGood day, I am Mrs. Sala Umar. I am married to Mr.Ahmed Umar of\nblessed memories. He was working with the Kuwaiti Embassy in Spain for\nnine years before he died in 2007. We have been married for 11 years.\nHe died of a short illness and we had no children.\nMy late husband died of cancer and uterine fibroid problems. He\ndeposited a total of $ 14.7 million in the bank before his death. ,I\nwant this organization or individual to use this money honestly mostly\nfor charity and orphanages homes. I support the views and beliefs of\nthe holy book which emphasizes giving alms and Charity and it\nencouraged me to take this bold step.\nI made this decision because I have no children to rely on here and I\ndon't want my husband's funds to go in vain or for the bank to\nconfiscate his fund. I will give you the contact information of my\nbarrister Barr. Robert Gallstone.\nIf you are interested, kindly get back to me with your Full Name,\nContact Address, and Direct Telephone Number. As soon as I receive\nyour details I will forward them to my Barrister to contact you and\ngive you more updates.\nThank you,\nMrs. Sala Umar\nmrssalaumar001@gmail.com\n "
     },
     {
         "from": "baiter_971",
         "to": "scammer_971",
-        "subject": "Re:   Hello Beloved,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Hello Beloved,",
         "body": "Dear Mrs. Sala Umar,\n\nI am deeply moved by your story and your desire to use your late husband's funds for charitable purposes. I would be honored to assist you in this noble endeavor.\n\nHere are my details:\n\nFull Name: Eliza Dane\nContact Address: 123 Main Street, London, UK\nDirect Telephone Number: +44 20 1234 5678\n\nPlease do forward these details to your barrister so we can proceed with the necessary arrangements.\n\nBest wishes,\nMichael"
     }
 ]

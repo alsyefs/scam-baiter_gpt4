@@ -2,21 +2,21 @@
     {
         "from": "scammer_1021",
         "to": "CRAWLER",
-        "subject": "  BANK OF AMERICA ONLINE ACCOU",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  BANK OF AMERICA ONLINE ACCOU",
         "body": "  BANK OF AMERICA ONLINE ACCOUNT SETUP INSTRUCTION\nBank of America Higher Standards Home\n449 Myrtle Avenue, Brooklyn\nNew York 11205, USA\nBANK OF AMERICA ONLINE ACCOUNT SETUP INSTRUCTION\nAttn: Online Beneficiary,\nBefore we proceed to set up your Bank of America Personal\nResidential Online Account, we want to bring to your notice\nthe simple procedure to achieve this aim with our bank under\nmy supervision. First and foremost the origin of funds has\npreviously advised in my initial e-mail was from the United\nNation Organization on unpaid payments from despot funds\nfrom Africa, Asia and Eastern Europe.\nYour name and contact information was retrieved from the\nshort listed data on the file of the United Nation Organization.\nIf you try to recollect, you would remember having conducted some\nbusinesses in either of the mentioned three tier regions (Africa,\nAsia and Eastern Europe) and the purpose of selection was randomly\nmade by the United Nation Organization. Our bank stands out from\nall the presently distressed banks in United State and Northern\nAmerica to enable the payment of your overdue transaction that\nhas been pending for the past several years released.\nI want you to clearly understand that, I am here to serve you\naccording to the instruction from FBI, Homeland Securities of\nStates and United Nation Organization in particular. Moreover, I\nam not here to play any kind of joke with you. The clearances from\nFederal Reserve Bank and US Treasury Department to enable your online\nTransfer go smoothly has been issue to our Bank. Meanwhile, you have\nto clearly understand that, before we can set up a new Bank of America\nPersonal Residential Online Account for you here in our bank, the\nactivation fee must be paid by you and it will reflected in our\ndatabase and your original account which was instructed from United\nnation will be activated.\nYou have to send the sum of $55.00 Dollars to activate your Bank of America\nPersonal Residential Online Account, this payment will be credited to\nyour Online account before we can fully remitted the amount value of\n$10,500,000 Dollars. This is why it is imperative that we first of receive\nthe Bank of America Personal Residential Online Account Activation fee\nin our bank, which in turn would record and file the payment of $55.00 Dollars\nsteam wallet or Apple Gift Card and forward the Card to my email\naddress. Then the funds\nwould be received in turn registered into the system and once it is\nsighted, their an instruction would issued to that effect and the\ndocumentation would be formally presented to Federal Reserve Bank\njust as described in my most recent correspondence with you explaining.\nPlease, if you can not afford to pay this $55.00 Dollars, don’t reply to my\ne-mail; we don’t have time to beg you to set up Bank of America Personal\nResidential Online under our supervision. Here is the information which\nyou will use to send the $55.00 Dollars via steam wallet or Apple\nStore Card. 12 hours upon\nconfirmation of this fee, you will receive your Bank of America Personal\nResidential Online Account Information. Waiting for your acceptance to\nthis offer and the $55 steam wallet or Apple Store Card for the\npayment, Congratulation\nin advance,\nLooking forward for your next letter\nThank you for your patient.\nRegards\nMr. Brain Moynihan\nEmail: \nbrianmoynihan40@aol.com\n "
     },
     {
         "from": "baiter_1021",
         "to": "scammer_1021",
-        "subject": "Re:   BANK OF AMERICA ONLINE ACCOU",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   BANK OF AMERICA ONLINE ACCOU",
         "body": "Hello Mr. Brain Moynihan,\n\nThank you for your detailed explanation about the Bank of Erica Personal Online Account setup. It's quite interesting to know that my name was retrieved from the United Nation's shortlisted data.\n\nI'm curious, how exactly does this online account work? And what are the benefits I can expect from it? Also, could you please elaborate on the activation fee? Why is it necessary and how is it used?\n\nLooking forward to hearing more about this.\n\nBest regards.\n\nBest wishes,\nApril"
     }
 ]

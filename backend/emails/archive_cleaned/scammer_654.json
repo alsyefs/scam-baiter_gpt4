@@ -2,21 +2,21 @@
     {
         "from": "scammer_654",
         "to": "CRAWLER",
-        "subject": "  You are not a serious person",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  You are not a serious person",
         "body": "  You are not a serious person stop playing games with me if you want to\nhelp me help that bank details is correct give me your phone number    "
     },
     {
         "from": "baiter_654",
         "to": "scammer_654",
-        "subject": "Re:   You are not a serious person",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   You are not a serious person",
         "body": "Hello there! I appreciate your message and understand your concerns. However, I must clarify that it's not appropriate for me to share my phone number. Is there any other way I can assist you? Maybe we can continue our conversation here?\n\nBest wishes,\nKimberly"
     }
 ]

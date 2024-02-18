@@ -2,21 +2,21 @@
     {
         "from": "scammer_219",
         "to": "CRAWLER",
-        "subject": " I swear to god I have tried m",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " I swear to god I have tried m",
         "body": " I swear to god I have tried my best only for me to make sure you understand so you can receive your things since then else you still not believe me no problems Trust me and believe my words if you really want to receive anything am only one who’s have your ATM MasterCard and nobody else have it everything will be delivered to you by tonight  "
     },
     {
         "from": "baiter_219",
         "to": "scammer_219",
-        "subject": "Re:  I swear to god I have tried m",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:  I swear to god I have tried m",
         "body": "Dear Sir/Madam,\n\nI appreciate your efforts and I understand the urgency of the situation. However, I would like to request more clarity on the process and what exactly is expected of me at this point. Could you please provide more details about the ATM delivery? \n\nThank you for your understanding and cooperation.\n\nBest wishes,\nCarmen"
     }
 ]

@@ -2,11 +2,11 @@
     {
         "from": "scammer_164",
         "to": "baiter_164",
-        "subject": "Loan Agreement / Funding Term Sheet",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
-        "conversation_counter": "0",
+        "conversation_counter": "1",
+        "subject": "Loan Agreement / Funding Term Sheet",
         "body": "Dear Carol ,\r\n\r\nThank you for getting back to us regarding your business loans/funding.\r\n\r\nWe are preparing the Loan Term Sheet and the Agreement. We will get back to\r\nyou as soon as possible.\nRegards,\r\n\r\nBrian Louis Mann\r\nInvestment Consultant"
     }
 ]

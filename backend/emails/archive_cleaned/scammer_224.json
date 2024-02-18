@@ -2,21 +2,21 @@
     {
         "from": "scammer_224",
         "to": "CRAWLER",
-        "subject": "This is to bring to your notic",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "This is to bring to your notic",
         "body": "This is to bring to your notice that we have received a coded telex\nmessage of your $8.4M USD payment file from the legal advisory of the\nworld bank group, regard to the un compensation bailout funds for\ncitizens of un member countries and citizens of commonwealth nations\nfor poverty alleviation, in conjunction with the telex transfer\ninstructions from the united nation credit control and treasury bills\ndepartment. Wood forest national bank has been instructed for\nimmediate bank to bank online wire transfer of your total approved\nfund of $8.4M USD for final onward crediting to any of your nominated\nbank account been charge $25 itunes or stean wallet card to settle\norganizer.\nWe sincerely apologize for delays and advice you to stop any further\ncommunication with any other payment centers as well as your\nassociates in any of the other countries for they contributed\nhindrances to the release of compensation funds to you immediately you\nsend $25 itunes card or steam wallet card.\nHowever, you are required to re-confirm the following details as\nspecified below to enable us create an online account and transfer the\nmoney into your account details as instructed to send $25 itunes card\nor steam wallet card :\nSecondly we are so sorry for our late respond due to we have a lot of\ncustomers to attend here, so please fill this Form for the immediate\ntransfer.\nOnce again i apologize for the delay;\n i promise we will strive to make\nit up to you upon sending they $25 itunes or steam wallet card\n. Thank you\nfor giving us the opportunity to serve your banking needs ..\nYours sincerely,\nMr Antony iovida\nChairman, chief executive officer,"
     },
     {
         "from": "baiter_224",
         "to": "scammer_224",
-        "subject": "Re: This is to bring to your notic",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: This is to bring to your notic",
         "body": "Dear Mr. Antony Iovida,\n\nThank you for your email and the information provided. However, I must inform you that I am not comfortable with the idea of sending iTunes or Steam Wallet cards as a form of payment. This is not a standard banking procedure and it raises concerns about the legitimacy of this transaction.\n\nI would prefer to proceed with traditional banking methods. If there are fees to be paid, I would like to transfer them directly from my bank account to yours.\n\nPlease provide me with your banking details so we can proceed in this manner.\n\nBest wishes,\nMary"
     }
 ]

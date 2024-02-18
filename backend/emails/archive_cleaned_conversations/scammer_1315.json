@@ -2,31 +2,31 @@
     {
         "from": "scammer_1315",
         "to": "CRAWLER",
-        "subject": "UCHE WILLIAM ESQ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "UCHE WILLIAM ESQ",
         "body": "UCHE WILLIAM ESQ\n                                      ATTORNEYS AT LAW & SOLICITORS\n                                      ADDRESS NO: 24 BROAD STREET\n                                      LAGOS,NIGERIA\nGood Day,\nI am Attorney Uche William\nI have an urgent and very profitable business proposition for you that\nshould be handled with extreme confidentiality.\nA deceased Client of mine ( names withheld) citizen of your Country\nwhom hereinafter shall be referred to as my client, made a numbered\ntime Fixed Deposit for twelve calendar months valued at US$25,\n500,000.00 (Twenty Five Million, Five Hundred thousand United States\nDollars) Only in a bank here.\nMy client was a Consultant, and contractor with the Nigerian National\nPetroleum Corporation , (NNPC).\nUpon maturity the bank has sent a routine notification in accordance\nwith the Company policy to his forwarding address but got no reply.\nAfter a month they sent a reminder and finally it was discovered from\nhis contract employers Nigerian National Petroleum Corporation, (NNPC)\nthat My Client, his wife and two children died in a plane crash.On\nfurther investigation, I found out that he died without making a Will\nand all attempts to trace his next of Kin were fruitless. I therefore\nmade further investigations and discovered that my client did not\ndeclare any next of Kin or relations in the Deposit paperwork with the\nbank.However   no one will  come forward to claim it according to The\nGovernment Law as provided in section 129 sub 63(N), Banking Edit of\n1961 at the expiration of 10 years the money will revert to the\nownership of the Government, if nobody applies to claim the fund. Most\ntimes shared by the senior management of the bank which is a well know\npractice,you can go and verify.\nMy proposition to you is to seek your consent to present you as the\nNext of Kin and beneficiary of my deceased client so that the proceeds\nof this account valued at US$25.5million can be paid to you, so we can\nshare the amount on a mutually agreed percentage of 70% for me 25% for\nyou and 5% for any charity organization in your Country. All legal\ndocuments to back up your claim as the deceased Next of Kin will be\nprovided by me. Your urgent response will be highly appreciated to\navoid making further contacts.\nFor further details call me on my private number +234 9056839447\nKind Regards\nAttorney\nSir,Uche William Esq\nATTORNEYS AT LAW & SOLICITORS"
     },
     {
         "from": "baiter_1315",
         "to": "scammer_1315",
-        "subject": "Re: UCHE WILLIAM ESQ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: UCHE WILLIAM ESQ",
         "body": "Dear Attorney Uche William,\n\nThank you for your email. I am intrigued by the business proposal you have presented, however, I would need more information before proceeding. \n\nCould you please provide more details about your deceased client and the nature of his work? Also, could you clarify the legal implications of presenting myself as the next of kin?\n\nI look forward to hearing from you.\n\nBest wishes,\nRobert"
     },
     {
         "from": "scammer_1315",
         "to": "baiter_1315",
-        "subject": "READ AND RESPOND ACCORDINGLY",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "2",
+        "subject": "READ AND RESPOND ACCORDINGLY",
         "body": "Dear Mr.Roberts\r\n\r\nThank you for the response to my proposal for this fund release and transfer.\r\n\r\nI will give you details about this whole issue,but could you please tell me why this delay in responding because i sent this proposal to you long time . \r\n\r\nAgain,may i know in which country you are right now.\r\n\r\nYours sincerely Uche William"
     }
 ]

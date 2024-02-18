@@ -2,21 +2,21 @@
     {
         "from": "scammer_623",
         "to": "CRAWLER",
-        "subject": "ATTN To: Beneficiary,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "ATTN To: Beneficiary,",
         "body": "ATTN To: Beneficiary,\nWe have concluded to effect your payment through western union money\ntransfer and be informed that western union has started the transfers\nalready. This morning,Frits David Ebenhaezer Barends has sent the\nfirst $4,500 to you.\nPayment pick up details:\nSender: (Frits David Ebenhaezer Barends)\nMTCN: ( 467- 905-1800 )\nAmount: ( $4,500 )\nAnother payment shall come fort tomorrow as soon as you confirm the\nreceipt of the above payment.\nGo to western union and collect the money immediately. If there is any\nerror please report to western union at the following;\nContact name;DrEmma Ezeh\nAgent Email: ( \ninfoswesernofficeoffice@gmail.com\n )\nWhatsapp me on; +234 70 130 731 94\nN:B.  The total amount coming to you is $6,900.000.00 USD and ministry\nof finance instructed that you shall be receiving $6,900 on daily\nbasis. (6 times per day )\nCongratulations as I awaits your confirmations\nDr ABEL DIKESON\nAUDITOR IN CHIEF\nFOREIGN PAYMENT\nBENIN REPUBLIC"
     },
     {
         "from": "baiter_623",
         "to": "scammer_623",
-        "subject": "Re: ATTN To: Beneficiary,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: ATTN To: Beneficiary,",
         "body": "Dear Dr. Abel Dikeson,\n\nThank you for your email. However, I am unable to proceed with the Western Union transfer as I have not received any specific details such as the MTCN number, sender's name, and exact amount to be received. \n\nCould you please provide these details so that I can collect the money from my local Western Union branch?\n\nBest wishes,\nEarl"
     }
 ]

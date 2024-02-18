@@ -2,21 +2,21 @@
     {
         "from": "scammer_423",
         "to": "CRAWLER",
-        "subject": "ATTN: ACCOUNT HOLDER,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "ATTN: ACCOUNT HOLDER,",
         "body": "ATTN: ACCOUNT HOLDER,\nTHIS IS TO NOTIFY YOU THAT A NEW DEVELOPMENT HAS BEEN MADE BY TODAY IN\nWHICH THE BENIN REPUBLIC BANK WHICH IS CALLED FIRST CITY MONUMENT\nBANK(FCMB) WHICH HAS BEEN HOLDING YOUR FUNDS ALL THIS WHILE HAS BEEN\nORDERED TO RELEASE IT TO YOU.THE BANK HAS CREATED AN ONLINE BANK\nACCOUNT ON YOUR BEHALF AND THE ONLINE BANK ACCOUNT HAS BEEN FUNDED\nWITH THE TOTAL SUM OF $8,500,000.00 USD IN WHICH YOU WOULD BE ABLE TO\nWITHDRAW ANY AMOUNT OF MONEY DAILY FROM THE ONLINE ACCOUNT.\nBELOW IS THE ONLINE BANK ACCOUNT DETAILS\nWELCOME! TO - FCM BANK ONLINE PL C SECURE ACCOUNT PAGE\nACTIVATE 2014-03-06\nCREATED OPENED ACCOUNT\nBALANCE $8,500,000,00 USD\nSORT CODE. 00169381101-43372 1020-03-8733\nSWIFT CODE PNBPUS33\nACCOUNT NUMBER 1010169857504\nTHE BANK HAS ALSO STATED THAT YOU COULD BE ABLE TO START ACCESSING THE\nONLINE BANK ACCOUNT ONCE THE TRANSFER CODE HAS BEEN ISSUED TO YOU AND\nTHIS CODE WILL BE ISSUED TO YOU AT THE SUM OF $35 USD THE BANK HAS\nALSO DIRECTED THAT THE PAYMENT SHOULD BE SENT THROUGH WESTERN UNION\nMONEY TRANSFER OR MONEY GRAM TRANSFER BUY iTUNES CARD OR AMAZON CARD\nGOOGLE PLAY CARD\n WITH THE BELOW DETAILS.\nRECEIVERS NAME:TRUST AMAKA\nCOUNTRY: BENIN REPUBLIC\nCITY COTONOU\nTEXT QUESTION: ONE\nTEXT ANSWER:LOVE\nAMOUNT: $35 USD.\nMTCN NUMBER...\nSENDERS NAME...\nSEND THE FOLLOWING DETAILS TO ME AS SOON AS YOU MAKE THE PAYMENT WHICH\nARE SENDERS NAME AND ADDRESS, MTCN NUMBER, TEXT QUESTION AND ANSWER\nUSED AND THE AMOUNT SENT.\nONCE THE PAYMENT OF $35 USD HAS BEEN RECEIVED BY TODAY, THEN THE BANK\nWOULD ISSUE THE TRANSFER CODE/TRANSFER PIN TO YOU WHICH YOU WOULD USE\nTO MAKE THE FINAL TRANSFER TO ANY BANK ACCOUNT OF YOUR CHOICE.I WOULD\nBE WAITING FOR THE DETAILS AS DIRECTED AS SOON AS POSSIBLE.\nTHANKS FOR YOUR CO-OPERATION.\nRESPECTIVELY\nROBERT WALKER\nASSISTANT DIRECTOR."
     },
     {
         "from": "baiter_423",
         "to": "scammer_423",
-        "subject": "Re: ATTN: ACCOUNT HOLDER,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: ATTN: ACCOUNT HOLDER,",
         "body": "Hello Robert Walker,\n\nThank you for your message. It's quite exciting to hear about this online bank account that has been created on my behalf. I must say, it's a bit overwhelming too.\n\nI'm curious about the transfer code you mentioned. Could you explain more about what it is and how it works? Also, why is there a fee associated with issuing this code?\n\nAnd regarding the payment methods, could you please clarify why these specific methods are preferred? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nKathleen"
     }
 ]

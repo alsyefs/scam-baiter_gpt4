@@ -2,21 +2,21 @@
     {
         "from": "scammer_660",
         "to": "CRAWLER",
-        "subject": " Dear Friend,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " Dear Friend,",
         "body": " Dear Friend,\nMy name is James Francis, a Lawyer by profession but before I\ncontinue, I must apologize for this spontaneous email to you\nbecause I’m aware that this is certainly not a conservative way\nof approach to establish a relationship of trust, but you will\nunderstand the need for my actions.\nI have a crucial and discreet business proposal for you that\nshall benefit us immensely should you choose to participate. But\nbefore I reveal any sensitive information, it is important, I\nstate categorically that, all privilege information concerning my\nproposal and this business transaction is treated with utmost\nconfidentiality.\nIn fact, I’m seriously in need of a serious and trustworthy\nbusiness partner because i have unpaid funds worth of five million\nthree hundred thousand united states of American dollars\nUS$5,300,000.00 with one of the leading banks here which actually\nbelongs to one of my late clients who died few years ago but\nunfortunately, he has no successor to inherit/receive the funds\nfrom the bank and the value funds has been approved officially by\nthe decision-making of the bank for immediate release/transfer.\nSo, I write this letter to inform you that after a protracted\nmeeting with the decision-making of the bank instructed for\nimmediate payment to the supposed successor through bank transfer/\ndiplomatic cash deliver upon the receipt of his/her address.\nConsequently, the have made all the essential arrangement for the\ncash delivery to any of the successor’s house/office address and\nbe inform that I have paid all the required cost and expenses to\nrelease the funds which imply that you do not have any charge/fees\nuntil the money arrive your country and you and me will share the\ntotal money US$5,300,000.00 equally that’s 50%/50%\nShould you be interested, then send your full details and I will\nsubmit them to the bank to star the payment process in your name\nas the beneficiary. And I would like to hear from you as\nsoon as possible for more details on how we are\nto proceed in getting the funds released/transferred to\nyour account within 72 hours.\nYours faithfully\nMr. James Francis\nReply via my private Email ID: (\njamesfrancis00055@hotmail.com\n)    "
     },
     {
         "from": "baiter_660",
         "to": "scammer_660",
-        "subject": "Re:  Dear Friend,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:  Dear Friend,",
         "body": "Dear Mr. James Francis,\n\nThank you for your email and the business proposal. I am interested in knowing more about this opportunity. However, I would like to understand more about the nature of this transaction, the risks involved and how we can ensure that it is carried out legally.\n\nCould you please provide me with more details about your late client, the bank where these funds are currently held and any legal procedures that we need to follow? \n\nI look forward to hearing from you soon.\n\nBest wishes,\nBetty"
     }
 ]

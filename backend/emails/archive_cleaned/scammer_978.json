@@ -2,21 +2,21 @@
     {
         "from": "scammer_978",
         "to": "CRAWLER",
-        "subject": "US BANK",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "US BANK",
         "body": "US BANK\n100 Wall St, Ste 1101\nI am Mr Terry Dolan the managing director of (US BANK), set up to\nfight against scam and fraudulent activities worldwide. This group is\nresponsible for investigating the legitimacy of unpaid contract,\ninheritance and lotto winning claims by companies and individuals and\ndirects the paying authorities (banks) worldwide to make immediate\npayment of verified claims to the beneficiaries without further delay.\nYou are being legally contacted regarding the release of your long\nawaited fund. After a detailed review of your file, the world bank\ngroup has mandated that your fund should be released immediately the\nsum of $11.8usd (eleven million, eight hundred thousand united states\ndollars has been approved in your favor via my desk. I therefore wish\nto inform you that your payment is being processed and will be\nreleased to you as soon as you respond to this letter Please re\n-{mrterrydolan114@gmail.com\n}\nconfirm to us the following:\n(1) Your Full Name......\n(2) Your Country ......\n(3) Your Correct Home Address......\n4) Your Direct Telephone Numbers.......\n(5) Your Office Address.......\n(6) Your Current Occupation.......\n(7) Your age .....\n(8) Sex......\n(9) Your Next Of Kin Name......\n(10) \nYOUR IDENTIFICATION CARD ID\n.....\nNote that the above fund has been cleared from terrorist or fraud\nrelated activities. Thanks for your cooperation.\nQuickly get back to me for more advice.\nMr Terry Dolan\nManaging Director: US BANK."
     },
     {
         "from": "baiter_978",
         "to": "scammer_978",
-        "subject": "Re: US BANK",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: US BANK",
         "body": "Dear Mr. Terry Dolan,\n\nThank you for your email and the information provided. I am glad to hear that there are measures being taken against fraudulent activities worldwide.\n\nHowever, before I provide any personal information, could you please provide more details about this fund? How was my name chosen for this? What is the source of this fund?\n\nI look forward to hearing from you soon.\n\nBest regards,\nLewis D.\n\nBest wishes,\nMary"
     }
 ]

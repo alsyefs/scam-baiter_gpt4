@@ -2,21 +2,21 @@
     {
         "from": "scammer_1304",
         "to": "CRAWLER",
-        "subject": "Sir,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Sir,",
         "body": "Sir,\nIt is vital to bring to your notice that based on the recent Financial\nconference held in Geneva (Switzerland), in which debts and\nsettlements of debts with special attention to foreign debts were\ndiscussed, we hereby inform you that your entitlement fund which has\nsince been lying unclaimed has been approved for payment by the World\nBank in conjunction with United Nations Security Organization\n(Financial Department) for immediate settlement.\nIn lieu of the aforementioned, we also inform you that the total sum\nof US$12.6 Million (Twelve Million, Six Hundred Thousand United States\nDollars only) has been approved in your favor and your payment file\nhas been referred to our offshore payment bank in Japan for further\nprocessing and subsequent settlement. The bank has therefore been\ninformed concerning this development and have been mandated to ensure\nthat your payment file is processed adequately and settled\naccordingly. You will therefore be contacted by Norinchukin Bank of\nJapan as soon as we receive your response to this information in\nconfirmation of your receipt of it thereof.\nFinally, we require that you send your response to ………………….. in lieu\nof this information as soon as it reaches you, to enable us instruct\nour offshore payment Bank in Japan on what to do concerning your\npayment.\nWe hope towards hearing from you as soon as this information reaches you.\nYours very truly,\n Axel van Trotsenburg.\n(Managing Director of Operations)."
     },
     {
         "from": "baiter_1304",
         "to": "scammer_1304",
-        "subject": "Re: Sir,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Sir,",
         "body": "Hello Axel van,\n\nThank you for your message. It's quite interesting to hear about this unclaimed fund. I must admit, I'm a bit surprised as I wasn't aware of any such funds in my name.\n\nCould you please provide more details about this Financial conference held in Geneva? Also, how did my name come up in relation to these funds? \n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nTerry"
     }
 ]

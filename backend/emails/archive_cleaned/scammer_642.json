@@ -2,21 +2,21 @@
     {
         "from": "scammer_642",
         "to": "CRAWLER",
-        "subject": "   Alright , We have Received ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Alright , We have Received ",
         "body": "   Alright , We have Received your EMail Regarding  your Fund which is in my care. So I Want you to choose any of the below ways on how you Want to your Fund successfully and get back to me with your choice of Receiving your Fund so that we can process immediately with your Fund worth of $15.8 million USD to your Home Address OK \nHere are the Lists  and the Available Costs On How you can be able to receive your fund Without any hitch: \n(1)Western Union Money Transfer : fee is $300 USD Dollars \n(2)Money Gram Money Transfer : fee is $250 USD Dollars\n(3) Ria Money Transfer: fee is $200 USD Dollars \n(4)Online Banking Transfer : fee is $1,200 USD Dollars\n(5)Cheque Delivery : fee is $175 USD \n(6) ATM CARD Delivery: fee $150 USD Dollars\nThanks!\nMrs.Ester Williams.    "
     },
     {
         "from": "baiter_642",
         "to": "scammer_642",
-        "subject": "Re:    Alright , We have Received ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    Alright , We have Received ",
         "body": "Hello Williams,\n\nThank you for your message. I'm thrilled to hear about the fund! It's not every day that one gets such news, right? \n\nI see there are several options for receiving the fund. Could you please explain a bit more about each method? For instance, how long does each process take? Are there any additional fees or charges that I should be aware of?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nSarah"
     }
 ]

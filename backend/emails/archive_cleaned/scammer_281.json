@@ -2,21 +2,21 @@
     {
         "from": "scammer_281",
         "to": "CRAWLER",
-        "subject": "  Dear Sir",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear Sir",
         "body": "  Dear Sir\nI write to you as regards to the fund project transaction that runs to the tune of $50 million which\nneeds your urgent attention as to accommodate it in your receiving custody, I would want to know your\ncapability in receiving and accommodating such large amount of fund in your country for investment\npurposes\nI wait to hear from you.\nThank you,\nMr Davis Smith\nFinancial Consultant   "
     },
     {
         "from": "baiter_281",
         "to": "scammer_281",
-        "subject": "Re:   Dear Sir",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Dear Sir",
         "body": "Dear Mr. Davis Smith,\n\nThank you for your email and the opportunity to be involved in this project. I am capable of receiving such a large amount of funds in my country for investment purposes.\n\nHowever, before we proceed, I would like to know more details about this project. What kind of investment are we talking about? And what will be my role in it?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRaymond"
     }
 ]

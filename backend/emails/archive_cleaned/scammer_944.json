@@ -2,21 +2,21 @@
     {
         "from": "scammer_944",
         "to": "CRAWLER",
-        "subject": " Attention:  ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " Attention:  ",
         "body": " Attention:  \nI awaited the payment confirmation copy but to no avail. What happened? Please, kindly keep me updated.\nYou can call me at or text: +1 510.516.6130\nRespectfully yours,\nMr. Paul Gardner\nUN COMPENSATIONS PAYMENTS UNIT\n2001 River Park Dr, Louisville, KY 40211, USA  "
     },
     {
         "from": "baiter_944",
         "to": "scammer_944",
-        "subject": "Re:  Attention:  ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:  Attention:  ",
         "body": "Hello Mr. Paul Gardner,\n\nI hope this message finds you well. I'm sorry to hear that you're having trouble with the payment copy. Could you please provide more details about the issue? What exactly seems to be the problem? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRichard"
     }
 ]

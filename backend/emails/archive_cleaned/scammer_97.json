@@ -2,21 +2,21 @@
     {
         "from": "scammer_97",
         "to": "CRAWLER",
-        "subject": "Attn: ATM card parcel owner.",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attn: ATM card parcel owner.",
         "body": "Attn: ATM card parcel owner.\nI am  the Secretary to the Manager Allied Irish Bank) United Kingdom,I\nhave corrected the mistake and i am back to your Country USA, the\nmistake was made By our Bank Manager to take wrong address, by going\nto BRAZIL. Now I have corrected the mistake and I have arrived back to\nUnited States Of America Atlanta South Regional International\nAirport,to deliver your ATM master card of $7.2 m USD  compensation as\napproved and instructed by {WORLD BANK}\nSo you have to go ahead and send the airport passing fee of $100 USD\nfor your ATM card, which was loaded in United States Currency Dollars,\nSo please \ngo right now and send the airport passing fee $100 USD or\nsend {RAZER GOLD CARD OR  STEAM WALLET GIFT CARD of $100 USD\nGive me more directions on how to take a local flight or Taxi to come\nto your home address Along with the RAZER GOLD CARD OR  STEAM WALLET\nGIFT CARD. Hurry up, because I don't want to sleep here today because\nI wanted to go back to London today after the delivery of your ATM\nCARD.\nSEND THE $100 USD VIA {RAZER GOLD CARD,OR STEAM WALLET GIFT CARD}\nairport passing  charges.\nI'm in Atlanta South Regional International Airport,Waiting for the\n{RAZER GOLD CARD OR  STEAM WALLET GIFT CARD)\n(\natmcard2022@citromail.hu\n)\nRegards\nMr Peter Johnson\n(Secretary to the Manager Allied Irish Bank)\nUnited Kingdom"
     },
     {
         "from": "baiter_97",
         "to": "scammer_97",
-        "subject": "Re: Attn: ATM card parcel owner.",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Attn: ATM card parcel owner.",
         "body": "Hello Mr. Peter Johnson,\n\nThank you for your message and the update on the situation. I'm glad to hear that the mistake has been corrected and that my ATM master card is now in Atlanta, USA.\n\nI have a few questions though, if you don't mind. Could you please explain what exactly is an airport passing fee? I've never heard of such a thing before. Also, why does it need to be paid in RAZER GOLD CARD OR STEAM WALLET GIFT CARD? Is there any other way to pay this fee?\n\nAlso, could you provide more details about this ATM master card? How was it approved by WORLD BANK and why was it loaded with United States Currency Dollars?\n\nI'm sorry for all these questions but I just want to make sure I understand everything correctly.\n\nLooking forward to your reply.\n\nBest wishes,\nLaura"
     }
 ]

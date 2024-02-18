@@ -2,21 +2,21 @@
     {
         "from": "scammer_879",
         "to": "CRAWLER",
-        "subject": "Date: Mon, 5 Feb 2018 10:54:29",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Date: Mon, 5 Feb 2018 10:54:29",
         "body": "Date: Mon, 5 Feb 2018 10:54:29 +0000 (UTC)\nFrom: Mike Curtis <michycurtis@yahoo.com>\nSubject: Hello my friend\nParts/Attachments:\n   1   OK     20 lines  Text\n   2 Shown   ~40 lines  Text\n----------------------------------------\nDear friend,\nI hope this messages reach you in good health. I'm Curtis, working as a bank manager in a UK bank. I got your contact through online directory and I think you are the right person to talk to.\nDuring the auditing of bank accounts in our bank, I discovered an unclaimed fund total sum of $27,800,000.00 (Twenty Seven Million and Eight Hundred Thousand United States Dollars) in an account that belongs to one of our late\nforeign customer (name withheld) an Australian Businessman who unfortunately lost his life and family in a plane crash.\nAfter going through his personal file in my bank, I discovered that he died without any specific heir to these funds. I gladly seek your consent to present you as the next of kin to the deceased so that the proceeds of this account\nvalued at Twenty Seven Million and Eight Hundred Thousand United States Dollars will be released to you as the beneficiary, which will be shared in percentage ratio 50% to me and 50% to you respectively.\nAll I request is your utmost sincere co-operation; trust and maximum confidentiality to achieve this project successfully. I have carefully worked out the modalities for execution of this transaction under a legitimate arrangement to\nprotect you from any breach of the law both in your country and here in the UK when the fund is being transferred to your bank account. Upon your consideration and acceptance of this offer, please reply.\nSo I can send your data to our bank database to appear in the bank system that you are the named next of kin /heir beneficiary of the fund, and then I will provide you with the online banking details of the account such as username,\npassword and login access code to enable you to transfer the funds through online banking to any bank account of your choice, after which you will remit my 50% share to my personal account.\nRegards,\nCurtis Micheal."
     },
     {
         "from": "baiter_879",
         "to": "scammer_879",
-        "subject": "Re: Date: Mon, 5 Feb 2018 10:54:29",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Date: Mon, 5 Feb 2018 10:54:29",
         "body": "Hello Curtis Micheal,\n\nI hope you're doing well. Your message is quite intriguing and I must say, it's not every day that one receives such an interesting proposition. \n\nI'm curious about a few things though. How did you come across my contact information? And why do you believe I am the right person for this task? Also, could you provide more details about the late Australian customer? It's a tragic story and I'd like to know more.\n\nFurthermore, could you explain in detail how this process works? You mentioned some modalities for execution under legitimate circumstances - what does that entail exactly?\n\nLooking forward to your response.\n\nBest wishes,\nMichael"
     }
 ]

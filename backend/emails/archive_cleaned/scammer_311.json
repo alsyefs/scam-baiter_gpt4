@@ -2,21 +2,21 @@
     {
         "from": "scammer_311",
         "to": "CRAWLER",
-        "subject": "DHL Express Uganda Plot 54 Upp",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "DHL Express Uganda Plot 54 Upp",
         "body": "DHL Express Uganda Plot 54 Upper Terrace, Lugogo By-Pass · 031 2210006\nOpen ⋅ Closes 5:30 pm\nDear Friend,\nThis is to bring to your notice that I have been able to pay the re-activation fee and the delivery of your ATM Card. I paid it because the ATM Card worth $4.8m has less than Seven days to expire and when it expires, the money will be lost to the Federal Government treasury account . With that I decided to help you pay off the money\nso that the ATM Card will not expire, because I trust that when you receive your ATM Card definitely you must pay me back my expenditure and even compensate me for helping you.\nNow i want you to contact DHL Express with your physical address. You prefer the delivery so that they can deliver your Card to your designated address without any delay. Like i stated earlier, The delivery charges has been paid but i did not pay their official keeping fees since they refused. They refused and the reason is that\nthey do not know when you are going to contact them and the demurrage might have increased.\nThey told me that their keeping fee is $25 per day as i made the deposit yesterday, So you are advised to contact them immediately to avoid the security keeping charge increase.\nBelow is their Contact Information, Contact Person: Mark Johnson. DHL Express Email: (\ndhlexpresscompany@email.com\n) Tel:\n+256 753075610 And let me know once you receive your card.\nBest Regards,\nMrs.Rose David"
     },
     {
         "from": "baiter_311",
         "to": "scammer_311",
-        "subject": "Re: DHL Express Uganda Plot 54 Upp",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: DHL Express Uganda Plot 54 Upp",
         "body": "Dear David,\n\nThank you for your email and for taking care of the delivery fee for my ATM card. I appreciate your help in this matter.\n\nI will contact DHL Express as soon as possible to arrange the delivery. However, I would like to clarify a few things before proceeding. Could you please provide me with the full contact details of Mark Johnson at DHL Express? The email and phone number seem to be missing from your message.\n\nOnce again, thank you for your assistance. I look forward to hearing from you soon.\n\nBest wishes,\nEmma"
     }
 ]

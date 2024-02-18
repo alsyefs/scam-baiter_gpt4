@@ -2,21 +2,21 @@
     {
         "from": "scammer_618",
         "to": "CRAWLER",
-        "subject": "  ATTENTIONBENEFICIARY",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  ATTENTIONBENEFICIARY",
         "body": "  ATTENTIONBENEFICIARY\nI received your email The world bank dipomatic official that will be\narriving in your country with your sealed consignment that contain\nyour contract payment of US$28.5 MILLION dollar to be delivered to you\nonce he arrive in your country origin. Reconfirm back to me your full\naddress, occupation your private cell phone number your copy of\ninternational passport, to enable me forward it to the world bank\ndiplomatic official in swizzerland that will be arriving in your\ncountry by monday next week 29th of September 2023\nYou'll be required to pay for your diplomatic clearance fee and\nhandling charges of US6,500 dollar once he arrive in your country he\nwill contact you for clearing of your sealed consignmrnt that\ncontained your contract cash payment sealed in a consignment.\nMY REGARDS TO YOUR FAMILY\nDr.MELE KYARI\nGROUP MANAGING Contract Bill Payment\nEastern Gas Gathering System\n(EGGS).N.N.P.C   "
     },
     {
         "from": "baiter_618",
         "to": "scammer_618",
-        "subject": "Re:   ATTENTIONBENEFICIARY",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   ATTENTIONBENEFICIARY",
         "body": "Dear Mr. Kyari,\n\nThank you for your email. I am excited to hear about the arrival of the diplomatic official with my contract payment. However, I would like to clarify a few things before we proceed.\n\nFirstly, could you please provide more details about this contract? It would be helpful to understand the nature of this contract and why I am receiving such a significant amount.\n\nSecondly, regarding the diplomatic clearance fee and handling charges, could you please provide more information on how these fees are calculated and why they are necessary?\n\nLastly, I would appreciate it if you could confirm the exact date of arrival of the diplomatic official in my country.\n\nLooking forward to your response.\n\nBest wishes,\nTina"
     }
 ]

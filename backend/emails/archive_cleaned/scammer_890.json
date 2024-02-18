@@ -2,21 +2,21 @@
     {
         "from": "scammer_890",
         "to": "CRAWLER",
-        "subject": "Federal Ministry Of Finance",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Federal Ministry Of Finance",
         "body": "Federal Ministry Of Finance\nPersonal Assistant: Mr. Ahmed Bello\n5th Floor, Annex 3, New Federal Secretariat Complex,\nGarik- Abuja, Nigeria\nAttention: Beneficiary,\nMy name is Mr. Ahmed Bello, I am the Personal Assistant to Minister of\nFinance, Mrs. Zainab Ahmed, I am directed to contact you by the\nMinister to urgently confirm from you if actually you know one Dr.\nJames Bake and Sanusi Lamido Sanusi. The Former Governor of Central\nBank of Nigeria (CBN). and his Colleagues who claim to be your\nbusiness associate/partner in Nigeria.\nThe said people are claiming that you are dead and therefore will like\nto change all your Information with us as actual beneficiary. Below is\nthe new banking information where they wish to have your funds\ntransferred to:\nBank Name: First United Bank\nBank Address 700 W Exchange Ave Crete li60417\nAccount Number: 00040221643\nAccount Name: Dr. James Bake.\nABA/Routing NO: 071923750\nThis development is coming now that the Ministry wants to offset all\noutstanding payments to all our legal foreign beneficiaries around the\nworld in which your payment file was affected. As you may know, this\nMinistry have approved this amount of $7Million Dollars Only in your\nfavor as a compensation.\nWe need to confirm from you if it's really true that you are dead and\nIf we do not hear from you, this automatically means that you are dead\nas informed by Dr. James Bake As soon as you receive this\nmessage,kindly indicate if you are alive to enable us know true\nposition of things with you so that we will not make any mistake in\nremitting your outstanding payment to a wrong person. Your swift\nresponse to this mail will help a lot, do email me with your full data\ninformation such as:\nFull name:.\nFull address:.\nTelephone:..\nCell/mobile:...\nCountry of Origin:.\nProfession:.\nAge:.\nSex:..\nAny of your photo identification.\nBe reminded that in confirming and providing us with this above out\nlisted data information will definitely confirm to me whether you are\nalive or not and to ensure that we are  dealing with the right person.\nWaiting for your response.\nYours Sincerely,\nMr. Ahmed Bello.\nPersonal Assistant to\nMinistry Of Finance.\nFederal Republic of Nigeria"
     },
     {
         "from": "baiter_890",
         "to": "scammer_890",
-        "subject": "Re: Federal Ministry Of Finance",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Federal Ministry Of Finance",
         "body": "Hello Mr. Ahmed Bello,\n\nThank you for reaching out to me. I must say, it's quite a surprise to hear that someone is claiming I'm dead! Rest assured, I am very much alive and well.\n\nI don't recall knowing a Dr. James Bake or Sanusi Lamido Sanusi. Could you tell me more about them? How did they come to know about me?\n\nAs for the bank details you mentioned, they don't seem familiar to me at all. Can you provide more information on this matter? \n\nI'm sorry but I can't provide any personal data like my cell number or photo due to privacy concerns. However, I'm more than willing to answer any questions that could help confirm my identity.\n\nLooking forward to your response.\n\nBest wishes,\nHoward"
     }
 ]

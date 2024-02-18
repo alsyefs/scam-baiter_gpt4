@@ -2,21 +2,21 @@
     {
         "from": "scammer_1180",
         "to": "CRAWLER",
-        "subject": "Dear:Friend.",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear:Friend.",
         "body": "Dear:Friend.\nCongratulation,\nYou have been compensated with the sum of $2.5 Million United State\nDollars (Two Million Five Hundred United State Dollars) by United\nNation, from the Internet Fraud compensation programmed organized by\nthe ECOWAS co-sponsored by UN and IMF. Your email address and other 49\nemail addresses were selected from the Internet Fraud complainant’s\nblogs for this compensation.\nYour Compensation Ref No: ECOWAS/IMF/FQ7XX.\nThe compensation fund is from the total sum of 500 Million euros,\nrealized so far from Internet fraudsters by the International Police\n(Interpol) and the ECOWAS/UN  Commission.\nFor Claims Contact our office email address:  \nrobertlicano33@gmail.com\nDo not forget to quote your Compensation Ref. No: ECOWAS/IMF/FQ7XX and\nYour Full Name, so you can be directed on how to received your fund.\nCongratulations,\nFor More Information Contact Mr Robert Licano on this NO: +1 479 662 9036\nPublic Relation Officer"
     },
     {
         "from": "baiter_1180",
         "to": "scammer_1180",
-        "subject": "Re: Dear:Friend.",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Dear:Friend.",
         "body": "Hello there,\n\nWow, that's quite a surprise! I can't believe my email was selected for this. Can you tell me more about how this program works? How were the funds collected from internet fraudsters? And what is the role of ECOWAS and UN in this?\n\nAlso, could you please explain what the Ref. No ECOWAS IMF is? I'm not sure I understand.\n\nLooking forward to your response.\n\nBest wishes,\nCarlos"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_1184",
         "to": "CRAWLER",
-        "subject": "Hello,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Hello,",
         "body": "Hello,\n My name is David Roche. I work with one of the prime banks in London, England, my retirement from the sector is very close and I wish to retire with something. I have a business proposal which I'd like to share with you if you are interested to hear it.\nReply to me and I will explain why I contacted you through this medium.\nThanks\nBest regards,\nDavid Roche."
     },
     {
         "from": "baiter_1184",
         "to": "scammer_1184",
-        "subject": "Re: Hello,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Hello,",
         "body": "Dear David Roche,\n\nThank you for reaching out to me. I am intrigued by your proposal and would like to hear more about it. Please provide more details so that I can better understand what you are proposing.\n\nBest wishes,\nJoanne"
     }
 ]

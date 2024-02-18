@@ -2,21 +2,21 @@
     {
         "from": "scammer_525",
         "to": "CRAWLER",
-        "subject": "Greetings,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Greetings,",
         "body": "Greetings,\nI am a Project Financing Consultant/Advocacy, in charge of privately owned funds of my client set aside for project funding.We are contacting you about your project funding. Do respond so I can furnish you with more details about our services.\nKindly reply with your details, phone number for quick communication if you are interested and ready to fund your project.Reach me via this private email: \nguntereppelman@gmail.com\nGünter Eppelmann\nProject Financing Consultant/Advocacy"
     },
     {
         "from": "baiter_525",
         "to": "scammer_525",
-        "subject": "Re: Greetings,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Greetings,",
         "body": "Dear Mr. Eppelmann,\n\nThank you for your email and the offer to assist with project funding. I am indeed interested in learning more about your services.\n\nHere are my details:\n\nName: Eliza Dane\nPhone Number: +44 20 7946 0000\n\nI look forward to hearing from you soon.\n\nBest wishes,\nOlive"
     }
 ]

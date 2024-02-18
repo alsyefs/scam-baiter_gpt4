@@ -2,11 +2,11 @@
     {
         "from": "scammer_1151",
         "to": "baiter_1151",
-        "subject": "From: HM Treasure Rbs Recovery Funds./Update.",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
-        "conversation_counter": "0",
+        "conversation_counter": "1",
+        "subject": "From: HM Treasure Rbs Recovery Funds./Update.",
         "body": "Dear Madeline, \n Compliment of the day to you. \n I am making a follow up to make sure you receive your pay-out fund. \n After going through with your message yesterday, The HM Treasury and RBS recovery unit Board requested you to send the below information details to help us investigate well the payout fund you where  to receive, it shows here in our central system, Two Million Pounds only. \n Your full name and Country of origin, contact phone number and Occupation. \n I wait for your urgent message before we can answer all your questions as requested early. \n Regards, \n Mrs. Katharine Braddick. \n Senior Officer, Management."
     }
 ]

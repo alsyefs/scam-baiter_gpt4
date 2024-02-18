@@ -2,21 +2,21 @@
     {
         "from": "scammer_13",
         "to": "CRAWLER",
-        "subject": "Hello,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Hello,",
         "body": "Hello,\nCompliments of the season, I hope this email meets you in good health; my name is Andrew Bailey, a manager with Michael Peterson Enterprise LCC, a Public and Private Financial Consultant specialist here in the United States. We handle financial consultancy and fiduciary services for government, financial institutions, companies and high net individuals and as one of the financial consultants to the Federal Reserve System, we were informed of some funds belonging to beneficiaries being holed up in suspense accounts with the Federal Reserve Bank. These funds are as a result of inheritance/lottery/contract sum owed to beneficiaries all over the world but have not been able to be released to them due to bottlenecks caused by the remitting officers from the foreign country where the transactions originated from.\nI don't know if you are aware that all financial transfers in United States Dollars must pass through the Federal Reserve Systems which is the clearing house for all USD transactions; it is due to this reason that your fund has been with the Federal Reserve Bank for a while now. Michael Peterson Enterprise LCC has been contracted by the executive management of the Federal Reserve system in conjunction with the U.S Department of Treasury to act as fiduciary agents to resolve with immediate effect all payments to beneficiaries whose funds are with the Federal Reserve Banks. This is because President Joe Biden has officially written to the U.S Congress requesting they \nenact a law mandating the Federal Reserve Banks to declare all unclaimed funds in their custody as abandoned funds and have the fund moved into the Government account to rejuvenate the economy.\nYour name is on the list of beneficiaries whose fund has been with the Federal Reserve System that is why I am sending you this email, note that you will never be compelled or cajoled against your wish to take this advantage and receive your long awaited fund, a lot of beneficiary has been going through us and have been receiving there long expected payments without hitch. If you are interested in receiving your fund without needing to go through all the rigorous processes and unnecessary payments that were being demanded from you by the previous handlers, then you are to get back to us immediately stating your readiness to have your long awaited fund released to you.\nFinally, you are to cease any further communication with any of the previous shady elements that may have been communicating with you in the past attempting to frustrate you from claiming your funds. Our wide experiences in these matters as they apply to International Transfer Policies in this part of the world will enable me to ensure that your outstanding fund payment is resolved with immediate effect. Thanks for your anticipated response.\nYours Sincerely,\nAndrew Bailey\nDirector of Operations.\nMichael Peterson Enterprise LCC"
     },
     {
         "from": "baiter_13",
         "to": "scammer_13",
-        "subject": "Re: Hello,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Hello,",
         "body": "Hello Andrew Bailey,\n\nThank you for reaching out and I hope this message finds you well. Your email is quite intriguing, to say the least. It's interesting to hear about these funds being held up in suspense accounts with the Federal Reserve Bank.\n\nI must admit, I wasn't aware that all financial transfers in United States Dollars must pass through the Federal Reserve Systems. That's a fascinating piece of information! \n\nYou mentioned that Michael Peterson Enterprise LCC has been contracted by the executive management of the Federal Reserve system in conjunction with the Department of Treasury to resolve payments. Could you elaborate more on how this process works? \n\nAlso, it's surprising to hear that my name is on a list of people whose fund has been with the Federal Reserve System. How did my name end up there? And what does it mean for me?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nBarbara"
     }
 ]

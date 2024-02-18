@@ -2,21 +2,21 @@
     {
         "from": "scammer_157",
         "to": "CRAWLER",
-        "subject": "   From: ECITIC BANK CHINA <be",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   From: ECITIC BANK CHINA <be",
         "body": "   From: ECITIC BANK CHINA <benhur@poste.it>\nSent: Monday, May 30, 2022  \nSubject: **Inheritance Claim**\n \nDear Sir/Ma,\nHow are you doing today, I hope you are in good health. I have intended to lay down your name as the beneficiary of an overdue inheritance fund here in a china bank where I work as a banker. Also I want to invest part of this fund in your country under your supervision. Kindly get back to me for further details on the project of mutual benefit.\nYours Sincerely,\nFund Allocation Officer.\nEcitic Bank of China.   "
     },
     {
         "from": "baiter_157",
         "to": "scammer_157",
-        "subject": "Re:    From: ECITIC BANK CHINA <be",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    From: ECITIC BANK CHINA <be",
         "body": "Hello,\n\nThank you for reaching out to me. I hope this message finds you well. Your proposal sounds interesting, but I would like to understand more about it. Could you please provide more details about the project and how it would be of mutual benefit? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMelodee"
     }
 ]

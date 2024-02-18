@@ -2,21 +2,21 @@
     {
         "from": "scammer_813",
         "to": "CRAWLER",
-        "subject": "  US Internal Revenue Service.",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  US Internal Revenue Service.",
         "body": "  US Internal Revenue Service.\n111 Constitution Avenue NorthWest.\nWashington,District of Columbia,DC,United States.\n/www.irs.gov.\n                                                                         Economic Impact Payment Program.\nSir/Madam.\nForward your mailing address as the US Government and the United Nations has directed the fourth Stimulus check payment for you as endorsed through your winning Grants email id as sent to the IRS State Department,your mailing address and yoru full names to complement the IRS date for the writing of the USD500,000 Stimulus Cashiers Check in your name by the IRS Payment Relief Department and check issued in your name by the Federal Reserve bank Governor Jerome Powell or a  Credit Card uploaded in your name and will be mailed to your designated global address by USPS courier within the US Regions or through UPS outside the United States Region.\nForward your mailing address,full names that will be written on your IRS Stimulus Check and \nthen forward to us here with a USPS mailing fees Google Play Card of USD150,00\n One Hundred And Fifty Dollars Only as that is what they will use to cover the USD150,00 mailing fees payable by you the Stimulus Grants beneficiary,do make haste as that is concluded for the payment without any strings attached,your identifications is also paramount to avoid double payment by the IRS Impact Payment Program department,dont forward your mailing address and full names without attaching the USD150,00 GOOGLE PLAY or STEAM Gift Cards to cover the USPS mailing fees as the IRS will not cover that for you,be warned before responding,buy either of the cards,scratch them open to reveal the card numbers and then screenshot and send by email attachment when sending your mailing address and full names as well.\nSincerely,\nMs.Michelle Lyon Major.\nExecutive Director,\nIRS Economic Impact Payment Program..\n "
     },
     {
         "from": "baiter_813",
         "to": "scammer_813",
-        "subject": "Re:   US Internal Revenue Service.",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   US Internal Revenue Service.",
         "body": "Dear Lyon Major,\n\nThank you for your email regarding the Stimulus Check payment. I am glad to hear that I am eligible for this grant. However, I would like to clarify a few things before proceeding.\n\nFirstly, could you please provide more details about the need for a Google Play Card or Steam Gift Card? It is unusual for official government transactions to require these types of gift cards as payment methods.\n\nSecondly, could you please confirm the exact amount of the stimulus check and how it will be delivered? You mentioned both a cashier's check and a credit card upload - which one will it be?\n\nLastly, could you please provide some official documentation or reference number related to this stimulus grant? This would help me verify the authenticity of this grant.\n\nI look forward to your response.\n\nBest wishes,\nJune"
     }
 ]

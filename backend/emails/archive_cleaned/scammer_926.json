@@ -2,21 +2,21 @@
     {
         "from": "scammer_926",
         "to": "CRAWLER",
-        "subject": "Dear owner,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear owner,",
         "body": "Dear owner,\nI MR DAVID  MORRIS, Head Officer-in-Charge, Administrative Service Inspection Unit United Nations Inspection Agency in Hartsfield-Jackson International Airport Atlanta, Georgia. During our investigation, I discovered an abandoned shipment through a Diplomat from United Kingdom which was transferred from JF Kennedy Airport to our facility here in Atlanta, and when scanned it revealed an undisclosed sum of money in 2 Metal Trunk Boxes weighing approximately 110kg each.\nThe consignment was abandoned because the Content was not properly declared by the consignee as money rather it was declared as personal effect/classified document to either avoid diversion by the Shipping Agent or confiscation by the relevant authorities. The diplomat's inability to pay for Non Inspection fees among other things are the reason why the consignment is delayed and abandoned.\nBy my assessment, each of the boxes contains about $8M or more. They are still left in the airport storage facility till today. The Consignments like I said are two metal trunk boxes weighing about 110kg each (Internal dimension: W61 x H156 x D73 (cm) effective capacity: 680 L) Approximately. The details of the consignment including your name and email on the official document from United Nations' office in London where the shipment was tagged as personal effects/classified document is still available with us. \nAs it stands now, you have to reconfirm your full name, Phone Number, full address so I can cross-check and see if it corresponds with the one on the official documents.\n It is now left to you to decide if you still need the consignment or allow us repatriate it back to UK(place of origin) as we were instructed.\nAs I did say again, the shipper abandoned it and ran away most importantly because he gave a false declaration, he could not pay for the yellow tag, he could not secure a valid non inspection document(s), etc. I am ready to assist you in any way I can for you to get back this packages provided you will also give me something out of it (financial gratification). You can either come in person, or you engage the services of a secure shipping/delivery Company/agent that will provide the necessary security that is required to deliver the package to your doorstep or the destination of your choice. I need all the guarantee that I can get from you before I can get involved in this project.\nCONTACT.... \nmrdavidmorris01@gmail.com\nBest Regards,\nMR DAVID  MORRIS\nHead Officer-in-Charge"
     },
     {
         "from": "baiter_926",
         "to": "scammer_926",
-        "subject": "Re: Dear owner,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Dear owner,",
         "body": "Dear Mr. David Morris,\n\nThank you for your email and the information provided. I am indeed interested in claiming these packages, however, I would like to clarify a few things before we proceed.\n\nFirstly, could you please provide more details about the origin of these packages? You mentioned they were from the United Kingdom but abandoned at JF Kennedy Airport. Do we have any information about who sent them or why they were abandoned?\n\nSecondly, regarding the fees that need to be paid for Non Inspection and other related costs - could you please provide a detailed breakdown of these costs? \n\nLastly, I would appreciate if you could explain the process of claiming these packages in more detail. What are the steps involved and how long does it usually take?\n\nHere are my details for your records:\n\nFull Name: Eliza Dane\nPhone Number: \nAddress: \n\nI look forward to hearing from you soon.\n\nBest wishes,\nBertha"
     }
 ]

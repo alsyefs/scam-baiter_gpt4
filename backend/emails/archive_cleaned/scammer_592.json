@@ -2,21 +2,21 @@
     {
         "from": "scammer_592",
         "to": "CRAWLER",
-        "subject": "   You can make the payment Vi",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   You can make the payment Vi",
         "body": "   You can make the payment Via Bitcoins. With bitcoins it will be very fast and payment will go through successfully. We can provide you with bitcoin wallet for you to use and make the payment with. Do you have a bitcoin account or bitcoin wallet?  "
     },
     {
         "from": "baiter_592",
         "to": "scammer_592",
-        "subject": "Re:    You can make the payment Vi",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    You can make the payment Vi",
         "body": "Hello there! \n\nOh, bitcoins? I've heard about them but never really got into it. Could you please explain to me how this works? I'm not very familiar with the process.\n\nBest wishes,\nDoreen"
     }
 ]

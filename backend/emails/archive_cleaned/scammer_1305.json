@@ -2,21 +2,21 @@
     {
         "from": "scammer_1305",
         "to": "CRAWLER",
-        "subject": "loyds TSB Bank Securities,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "loyds TSB Bank Securities,",
         "body": "loyds TSB Bank Securities,\nLloyds Tsb Customer,  2023 Security\nWalthamstow(309908) Branch, 180-182  \nHigh street,Walthamstow,\nLondon E17 7JH Uk.\nAttention Sir\nHow are you, hope fine?\nThis is to confirm the receipt of a fund transfer in your name and the said has been deposited in the escrow account of this bank for onward clearance and transfer to you.\nWe know your good effort, your sincerity, honesty and the pains you are going through. It is our desire to see you come out of this difficult times and have your everlasting peace and financial stability.\nBased on this sir, we expect you to put everything behind you and  solve this challenge and permanently solve it so that you will have your financial rest and freedom forever.\nWe wait to receive your response urgently.\nThank you for your good understanding as we look forward to hearing back from you sir.\nYours faithfully,\nMrs Helen Anderson,\nLloyds Tsb Bank Uk.\nThis email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager. This message contains confidential information and is intended only for the individual named. If you are not the named addressee, you should not disseminate, distribute or copy this email. Please notify the sender immediately by email if you have received this email by mistake and delete this email from your system. If you are not the intended recipient, you are notified that disclosing, copying, distributing or taking any action in reliance on the contents of this information is strictly prohibited."
     },
     {
         "from": "baiter_1305",
         "to": "scammer_1305",
-        "subject": "Re: loyds TSB Bank Securities,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: loyds TSB Bank Securities,",
         "body": "Hello Mrs. Helen Anderson,\n\nI hope this message finds you well. I am doing fine, thank you for asking.\n\nI appreciate your concern about my financial stability and the effort to help me out of these difficult times. It's heartwarming to know that there are people like you who genuinely care about others.\n\nHowever, I must admit that I'm a bit confused about the fund transfer you mentioned in your email. Could you please provide more details about it? For instance, where did the funds come from and why have they been deposited in an escrow account?\n\nLooking forward to hearing back from you soon.\n\nBest wishes,\nJack"
     }
 ]

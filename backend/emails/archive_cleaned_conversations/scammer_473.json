@@ -2,81 +2,81 @@
     {
         "from": "scammer_473",
         "to": "CRAWLER",
-        "subject": "   FEDERAL RESERVE BANK OF NEW",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   FEDERAL RESERVE BANK OF NEW",
         "body": "   FEDERAL RESERVE BANK OF NEW YORK\n33 LIBERTY STREET, NEW YORK, NY 10045\nREF:- PAYMENT CODE: ECB/066\nAttention Valued Beneficiary,\nThis is to acknowledge the receipt of an instructional payment order\nin your favor valued at $10.500.000.00, Ten million five hundred\nthousand United states dollars from World Bank compensation Office\nunder the supervision of Mr. Jim Yong Kim, the President/CEO, be\ninformed that this bank has been mandated by the World Bank\norganization to offset your long over-due compensation/inheritance\npayment valued  $10.500.000.00 with immediate effect.\nTo proceed with the release/transfer of your funds as instructed by\nWorld Bank, you are required to furnish us with your below listed\nparticulars for IMMEDIATE evaluation and processing of payment/funds\ntransfer in your favor.\n(1). Your full name and residential address\n(2). Direct cell/mobile phone number\n(3). Receiving bank name\n(4). Bank address\n(5). Your Routing number\n(6). Your swift code\n(7). Account number\n(8). Name of account holder\n(9). Your Occupation\nAlso, do note that you are obligatory to take care of the applicable\nPROCESSING/STAMP DUTY FEE totaling $480.00 only and this fee cannot be\ndeducted from your principal amount neither can it be withdrawn,\nbecause your fund is protected by a hard cover insurance policy which\ndoes not permit any deduction until it's transferred into your bank\naccount.\nPlease do provide the above listed information accurately and the\n$480.00 applicable PROCESSING/STAMP DUTY FEE to enable us commence\nwith the transfer of your funds in your account as instructed by the\nWorld Bank organization.\nI wait to hear your swift response..\nYours in service,\nMr. Jerome Powell\nPRESIDENT/CHIEF EXECUTIVE OFFICER\nFEDERAL RESERVE BANK NEW YORK     "
     },
     {
         "from": "baiter_473",
         "to": "scammer_473",
-        "subject": "Re:    FEDERAL RESERVE BANK OF NEW",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:    FEDERAL RESERVE BANK OF NEW",
         "body": "Dear Mr. Jerome Powell,\n\nI am delighted to receive your email regarding the payment order in my favor valued at Ten million five hundred thousand United States dollars from the World Bank Office.\n\nHere are the details you requested:\n\nFull Name: Lewis D. Noogie\nAddress: 1234 Main Street, Novosibirsk, Latvia\nDirect Cell Mobile Phone Number: +371 12345678\nReceiving Bank Name: Latvijas Banka\nBank Address: K. Valdemāra iela 2A, Centra rajons, Rīga, LV-1050, Latvia\nRouting Number: LATBLV22XXX\nSwift Code: LATBLV22XXX\nAccount Number: LV12HABA0001123456789\nName of Account Holder: Lewis D. Noogie\nOccupation: Hotel Consultant\n\nRegarding the processing stamp duty fee, could you please provide me with more information on how I can make this payment?\n\nLooking forward to your swift response.\n\nBest regards,\nLewis D.\n\nBest wishes,\nDiana"
     },
     {
         "from": "scammer_473",
         "to": "baiter_473",
-        "subject": "Re: FEDERAL RESERVE BANK OF NEW",
         "direction": "Inbound",
-        "days_from_first_conversation": 3,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "2",
+        "subject": "Re: FEDERAL RESERVE BANK OF NEW",
         "body": "FEDERAL RESERVE BANK OF NEW YORK\r\n33 LIBERTY STREET, NEW YORK, NY 10045\r\n\r\n\r\nREF:- PAYMENT CODE: ECB/066\r\n\r\nAttention Valued Beneficiary:  Lewis D. Noogie,\r\n\r\nThe Federal Reserve Bank of New York NY, wish to inform you that we have\r\nreceived your email with your receiving banking details for the transfer of\r\nyour approved funds and we have as well concluded and finalized every vital\r\narrangements concerning the swift wire transfer of your fund valued $10.5M,\r\nTen Million Five Hundred Thousand United States dollars as instructed.\r\n\r\nBe advised that your banking details has been set to our Telex Computer\r\nTransfer System, for the immediate transfer of your fund $10.5m direct into\r\nyour Bank Account at *Latvijas Banka* as soon as the required fee is\r\nreceived from you.\r\n\r\nHaving finalized all arrangements concerning your fund transfer, we are now\r\nwaiting for you to proceed as urgent as possible and send the required $980\r\nfee with our receiving agent bank details as listed below and get back to\r\nus with the confirmation payment slip to enable us proceed with the\r\ntransfer.\r\n\r\nHere is our receiving agent information to pay the $980 fee to enable us\r\nproceed with the transfer to your bank account.\r\n\r\nBank Name:  Bank of America\r\nBank Address:  22 Broadway New York, NY 10038 USA\r\nAccount Number:   501029493812\r\nSwift Code:       *BOFAUS3N*\r\nRouting Number:  026009593\r\nAccount Name:    Evelyn Conway\r\nHome Address:   241 Glen Vista Dr Dayton NV 89403-6342 USA.\r\n\r\nAs soon as the $980.00 applicable PROCESSING/STAMP DUTY FEE  is received\r\nfrom you, we shall proceed with your funds transfer of $10,500.000.00 to\r\nyour* Latvijas Banka *without delays.\r\n\r\nWe are only waiting for you to enable us proceed and complete the transfer.\r\n\r\nYours in service,\r\nMr. Jerome Powell\r\nPRESIDENT/CHIEF EXECUTIVE OFFICER\r\nFEDERAL RESERVE BANK NEW YORK"
     },
     {
         "from": "scammer_473",
         "to": "baiter_473",
-        "subject": "FEDERAL RESERVE BANK OF NEW YORK",
         "direction": "Inbound",
-        "days_from_first_conversation": 3,
+        "days_from_first_conversation": 0.41934027777777777,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "3",
+        "subject": "FEDERAL RESERVE BANK OF NEW YORK",
         "body": "Attention Valued Beneficiary: Lewis D. Noogie,\r\n\r\nThe Federal Reserve Bank of New York NY, wish to inform you that we have\r\nreceived your email with your receiving banking details for the transfer of\r\nyour approved funds and we have as well concluded and finalized every vital\r\narrangements concerning the swift wire transfer of your fund valued $10.5M,\r\nTen Million Five Hundred Thousand United States dollars as instructed.\r\n\r\nBe advised that your banking details has been set to our Telex Computer\r\nTransfer System, for the immediate transfer of your fund $10.5m direct into\r\nyour Bank Account at Latvijas Banka as soon as the required fee is received\r\nfrom you.\r\n\r\nHaving finalized all arrangements concerning your fund transfer, we are now\r\nwaiting for you to proceed as urgent as possible and send the required $980\r\nfee with our receiving agent bank details as listed below and get back to\r\nus with the confirmation payment slip to enable us proceed with the\r\ntransfer.\r\n\r\nHere is our receiving agent information to pay the $980 fee to enable us\r\nproceed with the transfer to your bank account.\r\n\r\nBank Name: Bank of America\r\nBank Address: 22 Broadway New York, NY 10038 USA\r\nAccount Number: 501029493812\r\nSwift Code: BOFAUS3N\r\nRouting Number: 026009593\r\nAccount Name: Evelyn Conway\r\nHome Address: 241 Glen Vista Dr Dayton NV 89403-6342 USA.\r\n\r\nAs soon as the $980.00 applicable PROCESSING/STAMP DUTY FEE is received\r\nfrom you, we shall proceed with your funds transfer of $10,500.000.00 to\r\nyour Latvijas Banka without delays.\r\n\r\nWe are only waiting for you to enable us proceed and complete the transfer.\r\n\r\nYours in service,\r\nMr. Jerome Powell\r\nPRESIDENT/CHIEF EXECUTIVE OFFICER\r\nFEDERAL RESERVE BANK\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Transfer Department <frbnewyorktransferdepartment@gmail.com>\r\nDate: Mon, Feb 5, 2024, 2:50 PM\r\nSubject: Re: FEDERAL RESERVE BANK OF NEW\r\nTo: <fg61069@***.com>\r\n\r\n\r\nFEDERAL RESERVE BANK OF NEW YORK\r\n33 LIBERTY STREET, NEW YORK, NY 10045\r\n\r\n\r\nREF:- PAYMENT CODE: ECB/066\r\n\r\nAttention Valued Beneficiary:  Lewis D. Noogie,\r\n\r\nThe Federal Reserve Bank of New York NY, wish to inform you that we have\r\nreceived your email with your receiving banking details for the transfer of\r\nyour approved funds and we have as well concluded and finalized every vital\r\narrangements concerning the swift wire transfer of your fund valued $10.5M,\r\nTen Million Five Hundred Thousand United States dollars as instructed.\r\n\r\nBe advised that your banking details has been set to our Telex Computer\r\nTransfer System, for the immediate transfer of your fund $10.5m direct into\r\nyour Bank Account at *Latvijas Banka* as soon as the required fee is\r\nreceived from you.\r\n\r\nHaving finalized all arrangements concerning your fund transfer, we are now\r\nwaiting for you to proceed as urgent as possible and send the required $980\r\nfee with our receiving agent bank details as listed below and get back to\r\nus with the confirmation payment slip to enable us proceed with the\r\ntransfer.\r\n\r\nHere is our receiving agent information to pay the $980 fee to enable us\r\nproceed with the transfer to your bank account.\r\n\r\nBank Name:  Bank of America\r\nBank Address:  22 Broadway New York, NY 10038 USA\r\nAccount Number:   501029493812\r\nSwift Code:       *BOFAUS3N*\r\nRouting Number:  026009593\r\nAccount Name:    Evelyn Conway\r\nHome Address:   241 Glen Vista Dr Dayton NV 89403-6342 USA.\r\n\r\nAs soon as the $980.00 applicable PROCESSING/STAMP DUTY FEE  is received\r\nfrom you, we shall proceed with your funds transfer of $10,500.000.00 to\r\nyour* Latvijas Banka *without delays.\r\n\r\nWe are only waiting for you to enable us proceed and complete the transfer.\r\n\r\nYours in service,\r\nMr. Jerome Powell\r\nPRESIDENT/CHIEF EXECUTIVE OFFICER\r\nFEDERAL RESERVE BANK NEW YORK\r\n\r\nOn Fri, Feb 2, 2024, 6:34 AM Diana <fg61069@***.com> wrote:\r\n\r\n>\r\n>\r\n>\r\n> Dear Mr. Jerome Powell,\r\n>\r\n> I am delighted to receive your email regarding the payment order in my\r\n> favor valued at Ten million five hundred thousand United States dollars\r\n> from the World Bank Office.\r\n>\r\n> Here are the details you requested:\r\n>\r\n> Full Name: Lewis D. Noogie\r\n> Address: 1234 Main Street, Novosibirsk, Latvia\r\n> Direct Cell Mobile Phone Number: +371 12345678\r\n> Receiving Bank Name: Latvijas Banka\r\n> Bank Address: K. Valdemāra iela 2A, Centra rajons, Rīga, LV-1050, Latvia\r\n> Routing Number: LATBLV22XXX\r\n> Swift Code: LATBLV22XXX\r\n> Account Number: LV12HABA0001123456789\r\n> Name of Account Holder: Lewis D. Noogie\r\n> Occupation: Hotel Consultant\r\n>\r\n> Regarding the processing stamp duty fee, could you please provide me with\r\n> more information on how I can make this payment?\r\n>\r\n> Looking forward to your swift response.\r\n>\r\n> Best regards,\r\n> Lewis D.\r\n>\r\n> Best wishes,\r\n> Diana\r\n>\r\n>\r\n>\r\n>\r\n>"
     },
     {
         "from": "scammer_473",
         "to": "baiter_473",
-        "subject": "Attention Valued Beneficiary: Lewis D. Noogie,",
         "direction": "Inbound",
-        "days_from_first_conversation": 3,
+        "days_from_first_conversation": 0.41935185185185186,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "4",
+        "subject": "Attention Valued Beneficiary: Lewis D. Noogie,",
         "body": "FEDERAL RESERVE BANK OF NEW YORK\r\n33 LIBERTY STREET, NEW YORK, NY 10045\r\n\r\nREF:- PAYMENT CODE: ECB/066\r\n\r\n\r\nAttention Valued Beneficiary:  Lewis D. Noogie,\r\n\r\nThe Federal Reserve Bank of New York NY, wish to inform you that we have\r\nreceived your email with your receiving banking details for the transfer of\r\nyour approved funds and we have as well concluded and finalized every vital\r\narrangements concerning the swift wire transfer of your fund valued $10.5M,\r\nTen Million Five Hundred Thousand United States dollars as instructed.\r\n\r\n\r\nBe advised that your banking details has been set to our Telex Computer\r\nTransfer System, for the immediate transfer of your fund $10.5m direct into\r\nyour Bank Account at *Latvijas Banka* as soon as the required fee is\r\nreceived from you.\r\n\r\n\r\nHaving finalized all arrangements concerning your fund transfer, we are now\r\nwaiting for you to proceed as urgent as possible and send the required $980\r\nfee with our receiving agent bank details as listed below and get back to\r\nus with the confirmation payment slip to enable us proceed with the\r\ntransfer.\r\n\r\n\r\nHere is our receiving agent information to pay the $980 fee to enable us\r\nproceed with the transfer to your bank account.\r\n\r\nBank Name:  Bank of America\r\nBank Address:  22 Broadway New York, NY 10038 USA\r\nAccount Number:   501029493812\r\nSwift Code:     *BOFAUS3N*\r\nRouting Number:  026009593\r\nAccount Name:    Evelyn Conway\r\nHome Address:  241 Glen Vista Dr Dayton NV 89403-6342 USA.\r\n\r\nAs soon as the $980.00 applicable PROCESSING/STAMP DUTY FEE  is received\r\nfrom you, we shall proceed with your funds transfer of $10,500.000.00 to\r\nyour* Latvijas Banka *without delays.\r\n\r\nWe are only waiting for you to enable us proceed and complete the transfer.\r\n\r\nYours in service,\r\nMr. Jerome Powell\r\nPRESIDENT/CHIEF EXECUTIVE OFFICE\r\nFEDERAL RESERVE BANK NEW YORK"
     },
     {
         "from": "baiter_473",
         "to": "scammer_473",
-        "subject": "Re: FEDERAL RESERVE BANK OF NEW YORK",
         "direction": "Outbound",
-        "days_from_first_conversation": 3,
+        "days_from_first_conversation": 0.4427314814814815,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "5",
+        "subject": "Re: FEDERAL RESERVE BANK OF NEW YORK",
         "body": "Dear Mr. Jerome Powell,\n\nThank you for your email and the detailed information regarding the transfer of my approved funds. I understand that a processing stamp duty fee is required to proceed with the transfer.\n\nHowever, before I proceed with the payment, could you please provide me with more details about this fee? Specifically, I would like to know how much is the fee and what are the payment methods available?\n\nI look forward to your prompt response.\n\nBest wishes,\nDiana"
     },
     {
         "from": "baiter_473",
         "to": "scammer_473",
-        "subject": "Re: FEDERAL RESERVE BANK OF NEW YORK",
         "direction": "Outbound",
-        "days_from_first_conversation": 3,
+        "days_from_first_conversation": 0.5718171296296296,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "6",
+        "subject": "Re: FEDERAL RESERVE BANK OF NEW YORK",
         "body": "Dear Mr. Jerome Powell,\n\nThank you for your email and the detailed information regarding the transfer of funds. I understand that a processing stamp duty fee is required to proceed with the transfer.\n\nHowever, before I proceed with any payments, I would like to request some additional information for my records and assurance:\n\n1. Could you please provide me with an official document or letter stating the details of this transaction? This should include the total amount to be transferred, the purpose of the transfer, and any fees associated with it.\n\n2. Can you confirm that this transaction is legal and in accordance with international banking laws?\n\n3. Could you also provide me with your official contact details at the Federal Reserve Bank of New York? This should include your direct telephone number and office address.\n\nOnce I have received this information, I will feel more comfortable proceeding with the payment of the processing stamp duty fee.\n\nThank you for your understanding and cooperation.\n\nBest wishes,\nDiana"
     },
     {
         "from": "scammer_473",
         "to": "baiter_473",
-        "subject": "Federal Reserve Bank of New York",
         "direction": "Inbound",
-        "days_from_first_conversation": 6,
+        "days_from_first_conversation": 3.1088425925925924,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "7",
+        "subject": "Federal Reserve Bank of New York",
         "body": "Attention Lewis,\r\n\r\nThis is to let you know that the Federal Reserve Bank of New York have\r\nreceived your email with the content well noted and understood regarding\r\nthe transfer of your approved funds $10,500.000.00 and I am here to ensure\r\nthat you receive your funds as soon as possible.\r\n\r\nHaving gone through your email to me, you have requested for some details\r\nproof of this transaction and I must let you know that you will definitely\r\nall that you have requested in due time.\r\n\r\nKindly be informed that the requested documents will be mailed to you and\r\nyou will receive them at your door step. Note that we don't send important\r\ndocuments in email to avoid stealing them in the internet.  All you need to\r\ndo is to provide us with your correct house address to enable us mail the\r\ndocuments to you. Also your contact phone number because I have tried\r\ncalling your several times and could not reach you.\r\n\r\nNote that the required Processing/Stamp Duty fee is $980 only and the cost\r\nof transfer fee is $2,700, making everything a total of $3,680 which you\r\nwill pay before the transfer of your funds $10,500.000.\r\n\r\nHowever, I will advice you to proceed as urgent as possible and make the\r\npayment to our receiving agent bank account given to you in my previous\r\nemail and get back to me with the transfer payment receipt to enable us\r\nproceed and transfer your funds  to your bank account.  Be informed that as\r\nsoon as the payment is received from you, there will be no other fee and we\r\nshall proceed and complete your transfer to your account without any\r\nfurther delay.\r\n\r\n\r\nI hereby confirming to you that this transaction is 100% real, legal and\r\nlegitimate and in accordance with international banking laws and will be\r\ntransferred to your account immediately the required Processing/Stamp Duty\r\nfee of $980 only and the cost of transfer fee of $2,700 is received from\r\nyou.\r\n\r\nOnce again, your contact phone number is not reachable, therefore you need\r\nto get back to us with your correct phone number and your contact address\r\nwhere the official documents will be mailed to.\r\n\r\nThe attached file is my working I.D.\nThanks,\r\nMr. Jerome Powell"
     }
 ]

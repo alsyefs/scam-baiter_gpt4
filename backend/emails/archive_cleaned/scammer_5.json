@@ -2,21 +2,21 @@
     {
         "from": "scammer_5",
         "to": "CRAWLER",
-        "subject": "Hello",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Hello",
         "body": "Hello\nYou have been picked by the United Nations for a Humanitarian\nDevelopment financial Grant programme through random email selection\nin this year 2023 financial grant promo. This is to enhance and\ndevelop the standard of living geared towards poverty eradication as\ntargeted by the year 2023.\nYou have been granted the sum of $2.5 Million. \nYou should provide us\nwith the below information to enable us process the release of your\nfunds.\n1 Full Name:\n2 Full Address:\n3 Nationality:\n4 Age:\n5 Gender:\n6 Occupation:\n7 Cell Phone:\n8 Present Country:\n9 Alternate Email Address:\nYou are required to respond urgently with the above requested details.\nRegards,\nMrs Jean George,\nChairman UNDP Grant Programm"
     },
     {
         "from": "baiter_5",
         "to": "scammer_5",
-        "subject": "Re: Hello",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Hello",
         "body": "Dear Mrs. Jean George,\n\nThank you for your email and the wonderful news about the financial grant from the United Nations. I am truly honored to be selected for this program.\n\nHere are my details:\n\nFull Name: Eliza Dane\nFull Address: 123 Main Street, Sydney, NSW 2000, Australia\nAge: 35\nGender: Female\nOccupation: Software Engineer\nCell Phone: +61-400-123-456\nPresent Country: Australia\nAlternate Email Address: eliza.dane.alternate@gmail.com\n\nI look forward to hearing from you soon.\n\nBest wishes,\nDerek"
     }
 ]

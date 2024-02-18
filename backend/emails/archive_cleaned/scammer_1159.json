@@ -2,21 +2,21 @@
     {
         "from": "scammer_1159",
         "to": "CRAWLER",
-        "subject": "  From The Desk of: Rev.Jim Do",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  From The Desk of: Rev.Jim Do",
         "body": "  From The Desk of: Rev.Jim Douglas.\nUnion Bank Nigeria Plc.\nPostfach 8098 Union,\nUnion Clearing Number: 230\nPostal Account:80-2-2\nSWIFT: UBN CH UH 80A\nDirector,International Payment Dept.\nTELEGRAPHIC TRANSFER NOTICE.\nWe hereby officially notify you concerning your fund telegraphic\nTransfer through Union Bank Nig to your bank account which has been\nofficially approved by the management of World Bank Swiss WBS to\ncredit the sum of US Ten Million Five Hundred Thousand dollars\n($10,500,000.00) into your bank account.\nThis fund was part of United Nations compensation commission payment\nreconciliation program of year 2022, which the UN/Swiss Bank has\ndecided to distribute it generously to help few lucky individuals, the\nNigeria Government in agreement with the Swiss Bank to distribute the\nfund to 700 people in America, Europe, Africa & Asia in other to help\nimprove their businesses & COVID-19 Response Fund, The world is coming\ntogether to combat the COVID-19 pandemic bringing governments,\norganizations from across industries and sectors and individuals\ntogether which you are to forward the below:\n1.Your Full Bank Account Details\n2.Your Direct Cell or office phone to reach you\n3.Your Address of locations\n4.Your Full name\n5.Your Valid Id\nTo ensure we carry out our normal payment procedures accurately and to\nhelp in continually improving our services and interest of security;we\ntherefore\ndemand that you send your proper identity to confirm your person as\nthe beneficiary. We shall also require you to confirm your acceptance\nto receive this fund. Any information that is not correct may likely\nprohibit us from making a transfer. Your information will be treated\nwith utmost security and shall be used for services related reasons.\nFinally, you are required to reconfirm directly to us the above\ninformation to enable the bank to use it to process your bill of\npayment.\nYour quick response shall be mostly appreciated for immediate\nattention of the credit control department.\nYours Faithfully,\nRev.Jim Douglas.\nDirector, International Payment Dept.   "
     },
     {
         "from": "baiter_1159",
         "to": "scammer_1159",
-        "subject": "Re:   From The Desk of: Rev.Jim Do",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   From The Desk of: Rev.Jim Do",
         "body": "Hello Douglas,\n\nThank you for reaching out to me. I must say, this is quite an unexpected surprise! The sum of US Ten Million Five Hundred Thousand dollars is a significant amount. \n\nCould you please provide more information about this United Nations commission payment program? How was I selected for this generous distribution?\n\nI'm also curious about the process of transferring such a large sum. What kind of procedures does Union Bank Nigeria Plc follow in these cases? \n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nPaul"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_1282",
         "to": "CRAWLER",
-        "subject": "Attention.:  xxx",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attention.:  xxx",
         "body": "Attention.:  xxx\nMy name is Mamman Bello of the telex/computer department of the central bank of Nigeria. I am sending this private email based on the confidential nature of the transaction; please I would like to advise that if after going through my submission to you and you do not accept it, kindly keep it to yourself.\nI am still in service with the central bank of Nigeria (CBN) and I would not like to lose my job. As I found out that you almost met all the statutory requirements of the CBN in respect of your contract payment. your problem is that of interest groups, a lot of people are interested in your payment and those people are merely doing paperwork with you and that explains why you receive a fax, emails, and phone messages from different people in Nigeria and all over Africa every day. From all indications, you have lost trust in whom to believe to be genuine.\nI can assure you that this may last for years, yet nothing happens to sum it up. I wish to assure you that with my position here in the telex department, I can punch the computer and credit your account straight. I can accomplish this in under three days, but we have to reach an agreement, first of all, you have to let me know how much you will give me at the consummation of this deal.\nSecondly, you will have to open another bank account where your fund will be transferred immediately after it hits your account. This is to avoid any callback of the fund.\nFinally, you will have to accept to keep this transaction strictly confidential, if you accept my submission, kindly get back to me immediately on my below private email.\nYou can reach me on my private telephone number 24 hours a day. Confirm your particulars in reply\n.\nRegards,\nMamman Bello."
     },
     {
         "from": "baiter_1282",
         "to": "scammer_1282",
-        "subject": "Re: Attention.:  xxx",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Attention.:  xxx",
         "body": "Hello Mamman Bello,\n\nThank you for reaching out to me. Your message is quite intriguing and I must admit, it has piqued my interest. However, I do have a few questions that I hope you wouldn't mind answering.\n\nFirstly, could you please elaborate on the nature of these 'interest groups' that are interested in my payment? It's a bit confusing to me.\n\nSecondly, why would I need to open another bank account? Is there any specific reason behind this?\n\nLastly, could you clarify what you mean by 'punch the computer and credit your account straight'? It sounds like an interesting process but I'm not quite sure I understand it fully.\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nKenneth"
     }
 ]

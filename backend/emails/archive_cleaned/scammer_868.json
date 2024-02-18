@@ -2,21 +2,21 @@
     {
         "from": "scammer_868",
         "to": "CRAWLER",
-        "subject": " ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " ",
         "body": " \nFrom: \nmetalsealbankingltd@accountant.com\n <metalsealbankingltd@accountant.com>\nTo:  \nSent: Tuesday, 26 January 2021,  \nSubject: Dear valued customer, change of beneficiary application\nAttn: \nDear Valued Customer,\n \nYou have 24 hours to meet your lawyer Barrister Isaac Miller and send the 1,500.00 Euro to the bank Atlantique account issued to you. Failure to cooperate, we shall transfer the 1,500.00 Euro to Mr.Yakov as directed by Mr.Isaac Miller. You have been informed.\nFor further clarification, call our client services division anytime between 9am and 4pm, Monday to Friday DST on +22891386587.\nMr Dennis Kimmer\nHead, Commercial Banking and Inheritance Claims\n \nWorking Hours: Mon - Fri 09:00 - 17:00 GMT\nSat: 09:00 - 13:00 GMT\n \nConfidentiality Notice: The information contained in this e-mail is for the intended recipient (s) alone. It may contain privileged and confidential information that is exempt from disclosure under Togolese Banking laws and regulations; and if you are not an intended recipient, you must not copy, distribute or take any action in reliance on it. If you have received this e-mail in error, please notify us immediately either by using the reply facility on your e-mail system.   "
     },
     {
         "from": "baiter_868",
         "to": "scammer_868",
-        "subject": "Re:  ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:  ",
         "body": "Hello Mr. Dennis Kimmer,\n\nThank you for reaching out to me. I appreciate your prompt communication. I'm a bit confused about the situation though, could you please provide more details? \n\nWho is Barrister Isaac Miller and why do I need to meet him? Also, could you explain why I need to send Euros to the bank Atlantique account? \n\nI'm sorry for all the questions, but I just want to make sure I understand everything correctly.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nEduardo"
     }
 ]

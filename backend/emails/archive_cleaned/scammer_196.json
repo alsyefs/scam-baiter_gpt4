@@ -2,21 +2,21 @@
     {
         "from": "scammer_196",
         "to": "CRAWLER",
-        "subject": "From: Compensation Payment <ge",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "From: Compensation Payment <ge",
         "body": "From: Compensation Payment <georgeadamss055@gmail.com>\nReply-To: \ncentralofficedept20012@yahoo.com\nTo: undisclosed-recipients:  ;\nSubject: Happy New Year!!\nAttention: Beneficiary,\nThis is to officially inform you that we have verified your\ninheritance file and found out why you have not received your payment\nsince the past regime is because you have not fulfilled the\nobligations given to you in respect of your inheritance payment.\nSecondly we have been informed that you are still dealing with none\nofficials in the bank and all your attempt to secure the release of\nthe fund to you has been abortive. We wish to advise you that such an\nillegal act like this have to stop if you wish to receive your payment\nsince we have decided to step into your problem. Right now we have\narranged your payment through our swift ATM card payment center that\nis the latest instruction from the newly appointed President,\nMuhammadu Buhari (gcfr) president federal republic of Nigeria and\nfederal ministry of finance.\nThis card center will send you an atm card which you will use to\nwithdraw your money in any atm machine in any part of the world, but\nthe maximum is three thousand dollars per day, so if you wish to\nreceive your fund this way please let us know by contacting the card\npayment center and also send the following information to enable him\nproceed immediately:\nFirst name :.\nLast Name :.\nAge: ...\nGender: ..\nYour address: ..\nE-mail address:\nPhone: ..\nMobile phone.\nFax :.\nOccupation:.\nCountry:\nHowever, kindly find below the contact person:\nDr.Chukwubueze Egobia\nDirector Foreign Affairs\nEmail: \ncentbanknig2014@gmail.com\nThe ATM card payment center has been mandated to issue out\n$10,000,000.00 as part payment for this first fiscal year 2018. Also\nfor your information, you have to stop any further communication with\nany other person(s) or office(s) to avoid any hitches in receiving\nyour ATM payment.\nNote that because of impostors, we hereby issue you our code of\nconduct, which is (atm-222) so you have to indicate this code when\ncontacting the card center by using it as your subject and more-so be\naware that we are not asking you to send a cent to us before receiving\nyour card provided you are enable to meet up with the requirement and\ninstructions given to you.\nBest regards,\nHonorable Minister\nJerry Eke"
     },
     {
         "from": "baiter_196",
         "to": "scammer_196",
-        "subject": "Re: From: Compensation Payment <ge",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: From: Compensation Payment <ge",
         "body": "Dear Honorable Minister Jerry Eke,\n\nThank you for your email and the information provided. I am interested in receiving my payment through the ATM card system as you suggested. \n\nHowever, I noticed that some parts of your email are not clear, possibly due to some technical issues. Could you please provide more details about the requirements and procedures I need to follow? \n\nAlso, could you please provide me with the contact details of Mr. Egobia, the Director of Foreign Affairs?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJohn"
     }
 ]

@@ -2,11 +2,11 @@
     {
         "from": "scammer_578",
         "to": "baiter_578",
-        "subject": "Attention Customer: Mr. D. Lewis Noogie,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
-        "conversation_counter": "0",
+        "conversation_counter": "1",
+        "subject": "Attention Customer: Mr. D. Lewis Noogie,",
         "body": "Attention Customer: Mr. D. Lewis Noogie,\n\n   Banco Caja Laboral Madrid Spain, we honour that you have chosen our institution with your confidence to achieve the successful way of receiving your UNICEF International Lottery winning of €1,095.810.20, euros only.\n\n   Note: As regards the information and confirmation from our procedures, we need a copy of your valid identity card or passport to prove your authenticity to this UNICEF International Lottery funds before we can commence on the processing and releasing of your winning funds by (A) WIRE TRANSFER (B) CERTIFIED BANK CHEQUE.\n\n   Yours Faithfully In Service.\n\n   Mr. Francisco Alberto Conde\n\n   Banco Caja Laboral Madrid Spain.\n\n   Tel:+34 647 751 647/Fax:+34 919 030 613\n\n   E-mail:info@cajaboral.com/(Global Funds Transfer Payment Department"
     }
 ]

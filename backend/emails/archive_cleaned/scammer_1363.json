@@ -2,21 +2,21 @@
     {
         "from": "scammer_1363",
         "to": "CRAWLER",
-        "subject": "    Mrs Bekky Johnson.",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "    Mrs Bekky Johnson.",
         "body": "    Mrs Bekky Johnson.\nOperation Section,\nWorld Global Courier Delivery Service Ltd.\n87 Smith Thomas Way Victoria Island\nLagos Nigeria.\nEmail:World_Global_Delivery_Service@fastservice.com\nTEL : + 234-905-737-5255.\n \n                  Ref : For Diplomatic Delivery Package Of Your Consignment.\n \nDear  \n \nThanks for your e-mail, i have to inform you that the completion of all processes of this delivery took a longer time from all indictions as given to me by Mr John Barnes whom is the head of the diplomatic pact office here in lagos state, Nigeria in completing all valid documentation that would allow the immediate release of your consignment to your door step with all needed diplomatic documentation completed here in Nigeria as i would be moving to your physical address without any problems in completing the release of your consignment. \n \nNote: Below are our mandatory charges. You are required to choose one of our three specified shipment options to enable us courier your consignment to you. Kindly note that we rate our postage charge depending on the high sensitivity of the consignment package to be delivered.\n \nDescription of parcel to be delivered:\n \nAn original certificate of weight: -------------0.5 kg\nBonded consignments of weight: -------------0.2 kg\nTotal weight of consignments: -------------0.7 kg\nColour of consignments: -------------Brown\n \nDelivery Destination: \n \nSTATUS OF DELIVERY (KINDLY CHOOSE ONE)\n \nDelivery in 24 Hours:{1 Working Days}\nCourier charges  (VAT inclusive) ................................$375.00\nAdministrative ................................$105.00\nInsurance............................... .$205.00\nTOTAL: $685.00 USDollars\n \nDelivery in 48 Hours:{2 Working Days}\nCourier charges  (VAT inclusive)............................... .$280.00\nAdministrative ................................ $100.00\nInsurance ................................ $185.00\nTOTAL: $565.00 USDollars\n \nDelivery in 96 Hours:{3 Working Days}\nCourier charges  (VAT inclusive) ................................$260.00\nAdministrative............................... .$95.00\nInsurance ................................ $175.00\nTOTAL: $530.00 USDollars \n \n*IMPORTANT* You are to choose from the options above the most suitable for you, once this payment is made you will be given a tracking number to track your consignment.\n \nl await your urgent and prompt respond.\n \nYours Faithful,\nMrs Becky Johnson\nOperation Section.\n \nWorld Global Delivery Service Ltd.\n \nNotice:This e-mail and any files transmitted with it are confidential and may be legally privileged and are solely for the individual or entity to whom they are addressed. If you have received this e-mail in error please delete this message and any attachment files, or contact parcel flight delivery Courier Services . All business is transacted under our Standard Trading Terms and Conditions a copy of which is available upon request . E .& .O. E . All liability for viruses is excluded to the fullest extent permitted by law  "
     },
     {
         "from": "baiter_1363",
         "to": "scammer_1363",
-        "subject": "Re:     Mrs Bekky Johnson.",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:     Mrs Bekky Johnson.",
         "body": "Hello Mrs. Becky Johnson,\n\nThank you for your detailed message. I appreciate the effort you and Mr. John Barnes have put into ensuring the smooth delivery of my package.\n\nI'm a bit confused about the options you've provided for delivery, though. Could you please clarify what each option entails? Specifically, I'd like to understand what the differences are between them in terms of delivery speed, courier charges, and insurance coverage.\n\nAlso, could you provide more information about how the tracking system works? I've never used a tracking number before and would like to know how it can help me keep tabs on my package.\n\nLooking forward to your response!\n\nBest wishes,\nIda"
     }
 ]

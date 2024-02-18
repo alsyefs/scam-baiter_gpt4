@@ -2,21 +2,21 @@
     {
         "from": "scammer_1418",
         "to": "CRAWLER",
-        "subject": "Dear Friend,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear Friend,",
         "body": "Dear Friend,\nI am Miss Yuri Melon A computer scientist; I am contacting you\nconcerning your funds which was discovered in a dormant account with\nour bank. I noticed that your money could not be transferred because\nof lack of proof for the source of the funds.\nThe only thing I will need to release this fund is a special HARD\nDISK. I will buy two of it, recopy your information, destroy the\nprevious one, and punch the computer to reflect in your bank within 24\nbanking hours. I will clean up the tracer and destroy your file, after\nwhich I will relocate to meet with you. If you are interested. Do get\nin touch with me immediately, You should send to m\ne your convenient\ntell/fax numbers for easy communications and also re confirm your\nbanking details, so that there won't be any mistake\n.\nContact me with my private email:yurimelon87@gmail.com\nI wait for your response, also send your current telephone contact so\nthat we can discuss this ASAP.\nRegards,\nYuri Melon."
     },
     {
         "from": "baiter_1418",
         "to": "scammer_1418",
-        "subject": "Re: Dear Friend,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Dear Friend,",
         "body": "Dear Yuri Melon,\n\nThank you for your email. I am interested in your proposal, but I would like to understand more about the process. Could you please provide more details about this special HARD DISK and how it works? \n\nAlso, could you please explain why my funds were discovered in a dormant account with your bank? I don't recall having any business with your bank.\n\nHere are my contact details:\n\nAddress: 123 Main Street, Anytown, USA\nPhone: +1-555-555-5555\nFax: +1-555-555-5556\n\nI look forward to hearing from you soon.\n\nBest wishes,\nCorene"
     }
 ]

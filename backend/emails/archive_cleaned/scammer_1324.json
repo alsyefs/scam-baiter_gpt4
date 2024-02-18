@@ -2,21 +2,21 @@
     {
         "from": "scammer_1324",
         "to": "CRAWLER",
-        "subject": "Do you still want to claim you",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Do you still want to claim you",
         "body": "Do you still want to claim your money $10,500 000 dollars?  Kindly contact us back immediately if you are still willing to claim your money  and remember that all pending money transations shall be cancelled immediately after 20th of December 2022.\nThanks.\nMR ANTONIO GUTERRES\n      SECRETARY-GENERAL\nUnited Nations Compensation Commission DC2-0610 2 United Nations Plaza New York, N.Y. 10017 United States of America\nTel.: +12407929667(Whatsapp Contacts Only)"
     },
     {
         "from": "baiter_1324",
         "to": "scammer_1324",
-        "subject": "Re: Do you still want to claim you",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Do you still want to claim you",
         "body": "Hello Mr. Antonio Guterres,\n\nThank you for reaching out to me. I'm intrigued by your message about claiming money. Could you please provide more details? How did this situation come about and what exactly does it involve?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nWilliam"
     }
 ]

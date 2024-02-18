@@ -2,21 +2,21 @@
     {
         "from": "scammer_459",
         "to": "CRAWLER",
-        "subject": "  FITZ & COPPERLAND INC.",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  FITZ & COPPERLAND INC.",
         "body": "  FITZ & COPPERLAND INC.\n845 3rd Ave 8th Floor\nNew York, NY 10022\nUnited States\nAttention; \nThis email is coming to you on the instruction of the International Finance Corporation (IFC) Headquarters here in New York. Please read attentively, my name is Suzzie Jenkins Fitzgerald, a former director of finance at the International Monetary Fund (IMF) between June 2010 to Sept 2019 and presently working as a private consultant on fiscal and monetary policies to the International Finance Corporation (IFC) at its headquarters in New York, where I am handling  the verification of a fund disbursement project.\nMy firm  FITZ & COPPERLAND INC as a private consultant to the International Finance Corporation (IFC), we were given specific assignments and responsibility to review and re-open past and present financial transactions that were either abandoned, inconclusive or mishandled by some unauthorized persons. We shall carefully scrutinize all payment files,identify genuine beneficiaries and make necessary recommendations to the IFC Headquarters for approval of payment and subsequent disbursement of approved funds to the beneficiary\nWe are therefore contacting you because from the records available to us  you are listed as one of the fund beneficiaries with $15.2 million dollars unpaid funds which were previously mishandled by some impersonators who had tried to take advantage of you . Please kindly confirm your legitimacy as a beneficiary and your readiness to work with us in resolving the issues around your payment by responding immediately to this message.\nSincerely,\nSuzzieane Jenkins Fitzgerald\nPrincipal Partner (FITZ & COPPERLAND INC)   "
     },
     {
         "from": "baiter_459",
         "to": "scammer_459",
-        "subject": "Re:   FITZ & COPPERLAND INC.",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   FITZ & COPPERLAND INC.",
         "body": "Hello Suzzieane Jenkins Fitzgerald,\n\nThank you for reaching out to me. I'm quite surprised to hear about this unpaid fund situation. Could you please provide more details about how my name ended up on the list? Also, could you explain what exactly was mishandled by these individuals who tried to take advantage of me?\n\nI would also like to know more about the process involved in resolving these issues around my payment. What steps do I need to take and what kind of cooperation is expected from my end?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nKevin"
     }
 ]

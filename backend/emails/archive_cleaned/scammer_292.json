@@ -2,21 +2,21 @@
     {
         "from": "scammer_292",
         "to": "CRAWLER",
-        "subject": "kindly revert back to DHL DELI",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "kindly revert back to DHL DELI",
         "body": "kindly revert back to DHL DELIVER SERVICE  for the delivery of your ATM CARD Donation Funds  of 750,000 usd from UNITED NATION"
     },
     {
         "from": "baiter_292",
         "to": "scammer_292",
-        "subject": "Re: kindly revert back to DHL DELI",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: kindly revert back to DHL DELI",
         "body": "Dear Sir/Madam,\n\nI received a notice about an ATM Card Donation Fund from the United Nations. I was advised to contact DHL Delivery Service for further details. Any additional information you can provide will be greatly appreciated.\n\nBest wishes,\nRachell"
     }
 ]

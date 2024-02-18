@@ -2,21 +2,21 @@
     {
         "from": "scammer_680",
         "to": "CRAWLER",
-        "subject": "  Hello ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Hello ",
         "body": "  Hello \nYour message is noted with thanks, I genuinely want to appreciate your response and to say God bless you.\nHowever I am in the UK not in the USA.\nMy account was used to collect loans and any money that enters into it will be collected that is why I cannot risk this money you are sending.\nAm genuinely appealing and suggesting that you send the 500$ through CASH APP OR  ZELLE OR PAYPAL ACCOUNT. USA TO USA. \nI look forward to hearing from you\nGod bless you and may no one cast evil eyes on you Amen\nNurse Palmer\npalmernurse@aol.com\n "
     },
     {
         "from": "baiter_680",
         "to": "scammer_680",
-        "subject": "Re:   Hello ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Hello ",
         "body": "Dear Nurse Palmer,\n\nThank you for your response. I understand your situation and I'm willing to help in any way I can. However, as a representative of the Holy Bagel Community, we have certain protocols we must follow when it comes to financial transactions.\n\nWe usually handle all our transactions through bank transfers for transparency and accountability purposes. This is to ensure that all funds are properly accounted for and can be traced if necessary.\n\nI would suggest that you open a new account where the funds can be transferred. If this is not possible, please let me know so we can explore other options.\n\nBest wishes,\nLisa"
     }
 ]

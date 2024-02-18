@@ -2,21 +2,21 @@
     {
         "from": "scammer_143",
         "to": "CRAWLER",
-        "subject": "  From: From Mr.Aziz Issa < ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  From: From Mr.Aziz Issa < ",
         "body": "  From: From Mr.Aziz Issa < \nrosezongo8008@gmail.com\n >\nSent: Monday, December 12, 2022 \nSubject: Greeting to you,\n \nDear Friend,\nThis is to inform you that i have received the fund and kept it with\nBarrister lambert Onyekwue, for security reason and went on a mission\nin abroad and i will not be back in the near future.\nSo therefore kindly contact the Barrister in order to execute the fund\nin your account.here are the whatsapp number and email address to the\nBarrister\nvia:+22652238569 (\nbarrister_lambert@africamail.com\n)\nBest regards.\nMr.Aziz Issa  "
     },
     {
         "from": "baiter_143",
         "to": "scammer_143",
-        "subject": "Re:   From: From Mr.Aziz Issa < ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   From: From Mr.Aziz Issa < ",
         "body": "Hello there,\n\nThank you for reaching out and sharing this information with me. It's quite intriguing to hear about the fund you mentioned. I'm curious, could you tell me more about this mission abroad that you're on? It sounds very interesting.\n\nAlso, I'd love to know more about Barrister Lambert Onyekwue. What kind of work does he do? And how did you come to entrust him with the fund?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nGeorgette"
     }
 ]

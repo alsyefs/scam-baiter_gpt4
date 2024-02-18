@@ -2,21 +2,21 @@
     {
         "from": "scammer_570",
         "to": "CRAWLER",
-        "subject": "   Dear Citizen  ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Dear Citizen  ",
         "body": "   Dear Citizen  \nWe have today process your papers and now ready to submit names to the paying bank and your name appears to be the first person to receive his fund, Today we have submitted all names that will receive their funds to the paying bank, Therefore, You are advise and instructed to contact the paying bank through their mailing address bellow,\nBank Name: Navy Federal Military Bank\nEmail: \nnfmb13@aol.com\nOfficer Name: David Gibson\nTry and contact them now and make sure you stop whatever you have with anyone and make sure are serious with the paying bank to enable them pay you as soon as possible, Because the Government have approved the payment already and now order only Navy Federal Military Bank to control the payment and make sure they settle down all the debts, Make sure you stop whatever you are dealing with those criminals and make sure you get back to us after contacting the paying bank to enable us know, \nSincere\nInternational Monetary Funds\nimfshootingsquard1@aol.com\n "
     },
     {
         "from": "baiter_570",
         "to": "scammer_570",
-        "subject": "Re:    Dear Citizen  ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    Dear Citizen  ",
         "body": "Hello Monetary Funds,\n\nThank you for your message. It's great to hear that my name is the first one to receive the fund. I'm really excited about this opportunity.\n\nCould you please provide me with more details about this process? How was my name selected and what kind of fund is this? Also, could you tell me more about the Navy Federal Military Bank?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nGemma"
     }
 ]

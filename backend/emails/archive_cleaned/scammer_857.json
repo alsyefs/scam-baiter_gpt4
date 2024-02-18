@@ -2,21 +2,21 @@
     {
         "from": "scammer_857",
         "to": "CRAWLER",
-        "subject": "Hi,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Hi,",
         "body": "Hi,\nMy name is  Irene McCann, from the United States of America. I’m currently hospitalized in a private hospital as a result of  cancer. My purpose of writing to you is for a charity project with the funds that I have in my private bank account. It is clear that I’m approaching the last days of my life according to the doctor. I’m offering a sum Amount to any trustworthy person/ organization that will invest the fund wisely into profitable business ventures and donate part of the profit earned annually to charity worldwide; I am helpless to do so as a result of my health, I urge you to help me fulfill my last wish. As soon as I receive your positive response, I will detail and also direct you on what to do.\nSincerely,\nIrene McCann ,"
     },
     {
         "from": "baiter_857",
         "to": "scammer_857",
-        "subject": "Re: Hi,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Hi,",
         "body": "Dear Irene,\n\nI'm deeply moved by your message and I'm sorry to hear about your health condition. Your desire to help others even in such a difficult time is truly admirable.\n\nHowever, I would need more details about the project you have in mind. Could you please provide more information about the funds, the kind of business ventures you are considering, and how you envision the charity donations?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDora"
     }
 ]

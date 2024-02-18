@@ -2,21 +2,21 @@
     {
         "from": "scammer_1362",
         "to": "baiter_1362",
-        "subject": "Inheritance $25M",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
-        "conversation_counter": "0",
+        "conversation_counter": "1",
+        "subject": "Inheritance $25M",
         "body": "Dear Danny,\r\nGood evening and my client general Barbkov just notified me now about your\r\nmessage wrongly sent to him instead to me.\r\nMany thanks for your response and I have handled these impostors as they\r\nare now languishing in the prison for attempted fraud.\r\nAll you need do urgently as the bequeathed beneficiary is to settle the\r\ncourt fee $2,110 which is the mandatory submission court fee to enables you\r\nhave the ownership certificate legally in your name.\r\nAlso I will send you an application of claim form which you are supposed to\r\nfill out correctly and return back which I will use to validate your claim\r\nalready filed but must be accompanied with the court fee.\r\nThanks for your understanding.\nBarrister Vincent Shan Esq"
     },
     {
         "from": "scammer_1362",
         "to": "baiter_1362",
-        "subject": "Attachments from Barrister Vincent Esq",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
-        "conversation_counter": "1",
+        "conversation_counter": "2",
+        "subject": "Attachments from Barrister Vincent Esq",
         "body": "Dear Danny,\r\nFind attached are the following ,documents issued to the former depositor (\r\ngeneral Barbkov) and copies of my identifications including the application\r\nof claim form you should fill out correctly and return back with the court\r\nsubmission fee $2,110. All of these were used when I filed application of\r\nclaim that these impostors wanted to claim.\r\nI look forward having the application of claim form filled out correctly to\r\nfacilitate my movement to the court to validate your claims before issuance\r\nof ownership certificate will given to you.\nThanks\r\nBarrister Vincent Shan Esq"
     }
 ]

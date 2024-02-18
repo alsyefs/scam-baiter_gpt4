@@ -2,21 +2,21 @@
     {
         "from": "scammer_843",
         "to": "CRAWLER",
-        "subject": "Dear Sir/ma",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear Sir/ma",
         "body": "Dear Sir/ma\nGood day, I write to you that we can benefit from this  lucrative\nbusiness of mine.\nI am Mr Martin Mwale Tembo a  Zambian national  until the upturn in\nour presidential election which went against  our ruling party and our\npresidential candidate Edgar Lungu who was an incumbent Lost to\nHakainde Hichilema of United party for National Development.\nEver since they won and were sworn in all us who are top government\nofficials have been witch haunted and that made some other officials\ngo into hiding in a nearby country in west Africa.\nEvery asset I have has been seized and all my accounts frozen  both\nlocal and overseas.\nBut I have some money which was deposited in a security company\nsomewhere in Africa too which I will want you to help me secure for\nthe future of my children .\nPlease help because I will not be hiding forever and don't want my\nfamily to suffer without anything.Once you are in possession of this\nmoney I will hand myself in to face the law once and for all while you\nhandle the investment till my son is of age.\nAwaiting to hear from you as quickly as possible so that i will give\nyou details on how you can retrieve the money\nMr Martin Mwale Tembo"
     },
     {
         "from": "baiter_843",
         "to": "scammer_843",
-        "subject": "Re: Dear Sir/ma",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Dear Sir/ma",
         "body": "Hello Mr. Martin Mwale Tembo,\n\nI hope this message finds you well. I'm sorry to hear about the difficult situation you're facing. It must be really tough for you and your family.\n\nYou mentioned a security company where some money is deposited. Could you please provide more details about this? How can I help in securing it for the future of your children?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMichelle"
     }
 ]

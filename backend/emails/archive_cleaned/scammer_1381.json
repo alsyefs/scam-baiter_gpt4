@@ -2,21 +2,21 @@
     {
         "from": "scammer_1381",
         "to": "CRAWLER",
-        "subject": "Santander Consumer USA Inc.",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Santander Consumer USA Inc.",
         "body": "Santander Consumer USA Inc.\nP.O. Box 961245\nAttention,\nThis is Mr Simon Mark the Bank Manager of USA Santander Bank,Am here\nto update you about your compensation funds amounted at $3.500.000.00\nwhich was deposited from the Benin Republic president/Government as\nyour scam victim compensation due to \nyour email and your information\nappeared on the scam victim list means that you got scammed in the\nAfrica while the president is trying to compensation all the scam\nvictims and the government has paid all the fee to get the funds to\nyou accept the bank re-activation fee $50 Apple card or Steam wallet\nwhich must be done before the transfers.\n I know you might not know\nreason why i am seriously on this issue of your funds compensation.\nIt is because that i am going to be transfer to one of branch in\nGermany to complete some works as bank manager of the Santander USA,\nSo for that is  why am trying all my best to make sure that all job i\nhold at hand will finish before will left Monday next week. And the\nparcel i have at hand now to deliver /transfer to their inheritor\nremain only your fund $3.500.000.00 before i will be transfer like i\nstated above.Therefore i want to help both you with my personal\nability to make sure that you receive your funds before i will leave\nby Tomorrow , Due to i have no more time on this office, I will be\nasking you to choose the 2 fastest ways to get this compensation to\nyou with below option,\n1. Sending $3.500.000.00 from our Online bitcoin account to your\nbitcoin wallet account.\n2.By uploading the $3.500.000.00 to ATM visa card and ship to you through DHL.\nFinally note that all this ways/process will still cost you $50.00\napple gift card or steam wallet only for the activation fee and it\nwill be paid by itune card which you need to send immediately. Urgent\ncontact on whats App  below: +22961944255\nUSA Santander Consumer Bank manager\nMr Simon Mark"
     },
     {
         "from": "baiter_1381",
         "to": "scammer_1381",
-        "subject": "Re: Santander Consumer USA Inc.",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Santander Consumer USA Inc.",
         "body": "Dear Mr. Simon Mark,\n\nThank you for your email and the information provided. I appreciate your efforts in trying to resolve this issue before your transfer to Germany.\n\nHowever, I would like to clarify a few things before we proceed. Could you please provide more details about the scam incident you mentioned? As far as I'm aware, I haven't been involved in any scams recently.\n\nAlso, could you please explain why an Apple gift card or Steam wallet is required for the activation fee? It seems unusual that a bank would request payment through these methods.\n\nI look forward to hearing from you soon.\n\nBest wishes,\nKevin"
     }
 ]

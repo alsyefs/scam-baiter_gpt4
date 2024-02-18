@@ -2,21 +2,21 @@
     {
         "from": "scammer_925",
         "to": "CRAWLER",
-        "subject": "An email was sent to you somet",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "An email was sent to you somet",
         "body": "An email was sent to you sometime last week with the expectation of\nreceiving a return email from you, but to my surprise, you never\nbothered to reply. Please reply for further explanation."
     },
     {
         "from": "baiter_925",
         "to": "scammer_925",
-        "subject": "Re: An email was sent to you somet",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: An email was sent to you somet",
         "body": "Hello there,\n\nOh, I'm so sorry for the inconvenience. I must have missed your email last week. Could you please tell me more about what it was regarding? I'd be happy to help in any way that I can.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nPeggy"
     }
 ]

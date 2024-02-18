@@ -2,21 +2,21 @@
     {
         "from": "scammer_1117",
         "to": "CRAWLER",
-        "subject": "  hi, i am Mrs. Hellen Grace R",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  hi, i am Mrs. Hellen Grace R",
         "body": "  hi, i am Mrs. Hellen Grace Raymond, i am from South Africa, a pancreatic cancer patient, having a largesse i wish to bestowed upon you confidentially to be the fund manager after haven a disappointing pasts experience with family members now wish to give it a foreign fellow with a good repute to help me share it amongst charitable homes in her area before i die as the doctors gave me the max timeline i can live. i do not know you in person but my attorney got your information from south African online interactive. we can work this out successfully if only we stay true to ourselves.\ni hope i do not intrude to your privacy by coming to you on this manner because i was so depressed and i needed to find a trustworthy person before i leave this earth.\nplease give me your kind response.\nregards,\nMrs. Hellen Grace Raymond\nreply me via : \nhellenegraceraymond@gmail.com\n "
     },
     {
         "from": "baiter_1117",
         "to": "scammer_1117",
-        "subject": "Re:   hi, i am Mrs. Hellen Grace R",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   hi, i am Mrs. Hellen Grace R",
         "body": "Dear Mrs. Hellen Grace Raymond,\n\nI'm deeply moved by your message and the difficult situation you're currently facing. I appreciate your trust in me, a stranger, to carry out such an important task.\n\nHowever, before we proceed further, I would like to know more about the process and how we can ensure that this will be done legally and transparently. Could you please provide more details about the funds and how you envision them being distributed?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nHelen"
     }
 ]

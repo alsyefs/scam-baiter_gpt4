@@ -2,21 +2,21 @@
     {
         "from": "scammer_488",
         "to": "CRAWLER",
-        "subject": "Warm Greetings,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Warm Greetings,",
         "body": "Warm Greetings,\nMy Name is Attorney Gareth Brown. I have my client's (Mr. Charles Jackson\nJr.) firm instruction to contact you and help finalize the claims of the\ndonated cash prize to you. My client was the mega winner of $344.6 million\nPower ball Mega Millions Jackpot: WATCH HIM HERE:\nhttps: // www. youtube.com/watch?v=0MUR8QEIMQI\nHe is donating Sum of Three Million Five Hundred Thousand Dollars to 5\nrandom people. \nAfter a computerized email selection system (ESS) from a\ndatabase of over 100,000,000.00 email addresses drawn from all the email\nserver's world over, your email was selected to receive the donation prize\ncourtesy of my client benevolence. Your secret donation code allotted to\nyou is: RFCJ-441672020468302.\nGet back to me at the earliest so i can send you further details for\nclaims without further delay. Congratulations once again!\nYours truly,\nAttorney Gareth Brown"
     },
     {
         "from": "baiter_488",
         "to": "scammer_488",
-        "subject": "Re: Warm Greetings,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Warm Greetings,",
         "body": "Hello Attorney Gareth Brown,\n\nThank you for reaching out to me. I'm quite surprised and intrigued by this unexpected news. It's not every day that one hears about such a generous donation!\n\nCould you please provide more information about this process? How was my email selected and what does the donation code mean? Also, could you tell me more about your client, Mr. Charles Jackson Jr.? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMary"
     }
 ]

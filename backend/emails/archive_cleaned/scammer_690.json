@@ -2,21 +2,21 @@
     {
         "from": "scammer_690",
         "to": "CRAWLER",
-        "subject": "   Dear Owner,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Dear Owner,",
         "body": "   Dear Owner,\nThe Shipment Of Your Consignment Worth $8million is ready to be\ndelivered. Contact  via Email ( \njimbrownd433@gmail.com\n ) for the\ndelivery details.\nPlease reconfirm your full address such as\nYour Full Name: .....................\nHome Address:  ....................\nYour Direct Telephone Number: .......................\nMr. David Wilson\nHead Officer-in-Charge\nAdministrative Service Inspection Unit\nContact Email ( \njimbrownd433@gmail.com\n "
     },
     {
         "from": "baiter_690",
         "to": "scammer_690",
-        "subject": "Re:    Dear Owner,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:    Dear Owner,",
         "body": "Dear Mr. David Wilson,\n\nI received your message regarding the shipment. Could you please provide more details about this? What is the content of the shipment and when can I expect it?\n\nHere is my full address for confirmation:\n\n\n\n\n\n\nLooking forward to your response.\n\nBest wishes,\nAllen"
     }
 ]

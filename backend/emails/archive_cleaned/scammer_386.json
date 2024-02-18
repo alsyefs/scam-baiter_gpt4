@@ -2,21 +2,21 @@
     {
         "from": "scammer_386",
         "to": "CRAWLER",
-        "subject": "  FedEx Nigeria Head Office",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  FedEx Nigeria Head Office",
         "body": "  FedEx Nigeria Head Office\n    70 International Airport Road\n    Mafoluku, Lagos.\n    Order: SH-5468-482485461\n    Customers Service Hours--Monday to Saturday:\n    Dear Customer,\n    This is FedEx courier Delivery Company of Nigeria, the management of this\n    company, wishes to inform you that, we received a parcel containing an ATM\n    Master Card valued $2.5million USD with some vital documents attached on it,\n    for safety delivery to your residential address in your country.\n    This parcel was brought to us this morning by the ATM Card payment office\n    Nigeria, with the below information’s, please reconfirm the below\n    information, to avoid delivery of your ATM Master Card to wrong hand.\n    Full names............\n    Parcel owner address......\n    Country/State........\n    Occupation...........\n    Passport/Driving License\n    Tel...........\n    We will register your package and send you the tracking numbers before we\n    proceed for safety delivery of your package as soon as you reconfirm the\n    required information for safety delivery.\n    FedEx is one of the world's great success stories, the start-up that\n    revolutionized the delivery of packages and information. In the past 33\n    years, we've grown up and grown into a diverse family of companies as FedEx\n    that's bigger, stronger, better than ever.\n    Waiting to read your\ne-mail ( \nfedexnigeria57@aol.com\n )\n     Yours affectionately.\n    Mr. Onyx perry.\n    Dispatch Manager FedEx Courier\n    for the Ikeja branch manager\n    FedEx Express Service Lagos -Nigeria.\n "
     },
     {
         "from": "baiter_386",
         "to": "scammer_386",
-        "subject": "Re:   FedEx Nigeria Head Office",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   FedEx Nigeria Head Office",
         "body": "Hello Mr. Onyx Perry,\n\nThank you for reaching out to me. I'm thrilled to hear about the ATM Master Card. However, I'm a bit confused about how this came to be. Could you please provide more details on how this card ended up with your company? \n\nAlso, could you explain what the vital documents attached to it are? It's quite intriguing and I'd love to know more.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLonnie"
     }
 ]

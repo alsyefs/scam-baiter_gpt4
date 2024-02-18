@@ -2,41 +2,41 @@
     {
         "from": "scammer_271",
         "to": "CRAWLER",
-        "subject": "I am David Brown, Head Officer",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "I am David Brown, Head Officer",
         "body": "I am David Brown, Head Officer-in-Charge, Administrative Service Inspection Unit United Nations Inspection Agency in Hartsfield-Jackson International Airport Atlanta, Georgia. During our investigation, I discovered an abandoned shipment through a Diplomat from the United Kingdom which was transferred from JF Kennedy Airport. The consignment was abandoned because the Content was not properly declared by the consignee as M O N E Y rather it was declared as personal effect/classified document to either A V O I D diversion by the Shipping Agent or confiscation by the relevant authorities. The diplomat's inability to pay for Non Inspection fees among other things are the reason why the consignment is delayed and abandoned.\nBy my assessment, each of the boxes contains $ 4M  which is a total of $ 8Million USD. They are  still left in the airport storage facility till  T  O D A Y.  The Consignments like I said, are two  metal trunk boxes weighing about 65kg each (Internal dimension:  W61 x H156 x D73 (cm) effective capacity: 680 L) Approximately. The details of the consignment including your N A M E and email on the official document from the United Nations' office in London where the shipment was tagged as personal effects/classified document is still available with us.\nDavid Brown\nHead Officer-in-Charge\nAdministrative Service Inspection Unit."
     },
     {
         "from": "baiter_271",
         "to": "scammer_271",
-        "subject": "Re: I am David Brown, Head Officer",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: I am David Brown, Head Officer",
         "body": "Dear David Brown,\n\nI received your message regarding the abandoned shipment from the United Kingdom. I am surprised to hear that my name and email are on the official document from the United Nations' office in London. \n\nCould you please provide more details about this situation? How did my information end up on these documents? What are the next steps to resolve this issue?\n\nLooking forward to your response.\n\nBest wishes,\nJames"
     },
     {
         "from": "scammer_271",
         "to": "baiter_271",
-        "subject": "Re: I am David Brown, Head Officer",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "2",
+        "subject": "Re: I am David Brown, Head Officer",
         "body": "Dear \r\n\r\nI acknowledge receipt of your email concerning the imminent delivery of your\r\nconsignment comprising two Trunk Boxes, scheduled to reach you within the \r\nnext 72 hours. It is essential to highlight that despite the consignments \r\nbeing declared as personal effects and classified documents, they contain \r\nraw cash in US currency notes, specifically in USD 100 denominations. The \r\ncumulative value of each box is approximately 4 million USD.\r\n\r\n\r\n\r\n\r\nUpon scanning the package at the airport, the electronic scanner unveiled \r\nthe actual contents, triggering an inspection and subsequent approval by the\r\nUnited States Internal Revenue for its dispatch to your specified\r\ndestination. Generally, such consignments are not routed through carriers \r\nlike FedEx, UPS, DHL, etc. The consignment faced initial abandonment due to\r\nan incorrect declaration, as detailed in my previous correspondence.\r\nFortunately, the US customs have granted approval and issued a customs\r\ncertificate, guaranteed to be dispatched to you upon settlement of non-\r\ninspection and delivery processing documentation.\r\n\r\nFollowing consultations with the authorities, it has been ascertained that\r\nthe recipient is obligated to cover the Yellow Tag, clearance, and non-\r\ninspection charges totaling USD 450 only. This sum will be allocated for the\r\nclearance process and direct shipment to your doorstep, facilitated by\r\nanother Diplomat within 72 hours of payment. Timely remittance of this\r\namount is imperative to preempt any potential delays or hindrances in the \r\noverall process. Without my intervention and that of the Director at the \r\nAirport, the consignment would have faced repatriation.\r\n\r\n\r\n\r\n\r\nYour prompt attention to this matter is greatly appreciated.\r\n\r\n\r\n\r\n\r\nSincerely,\r\n\r\nMr. David Brown\r\n\r\nHead Officer-in-Charge\r\n\r\nAdministrative Service\r\n\r\nInspection Unit.\r\n\r\n\r\n\r\n---------- Původní e-mail ----------\r\nOd: James <lk60185@***.com>\r\nKomu: davidbrown13233@seznam.cz\r\nDatum: 6. 2. 2024 15:28:09\r\nPředmět: Re: I am David Brown, Head Officer\r\n\"\r\n\r\n\r\n\r\nDear David Brown,\r\n\r\nI received your message regarding the abandoned shipment from the United \r\nKingdom. I am surprised to hear that my name and email are on the official\r\ndocument from the United Nations' office in London.\r\n\r\nCould you please provide more details about this situation? How did my\r\ninformation end up on these documents? What are the next steps to resolve \r\nthis issue?\r\n\r\nLooking forward to your response.\nBest wishes,\r\nJames\r\n\r\n\r\n\r\n\r\n\r\n\""
     },
     {
         "from": "baiter_271",
         "to": "scammer_271",
-        "subject": "Re: I am David Brown, Head Officer",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.06049768518518518,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "3",
+        "subject": "Re: I am David Brown, Head Officer",
         "body": "Dear James,\n\nThank you for your prompt response. I understand your surprise and confusion regarding this matter. \n\nThe details of how your name and email ended up on these documents are not entirely clear to me as well. It's possible that the original sender intended for you to be the recipient of this shipment, or there may have been some administrative error.\n\nAs for the next steps, we need to ensure that all necessary fees and charges related to this shipment are paid in full. This includes the Yellow Tag, clearance, and inspection charges totaling USD 750 only. Once these fees are settled, we can proceed with dispatching the shipment directly to your doorstep.\n\nPlease note that it is crucial to settle these charges promptly to avoid any further delays or complications. You can make the payment through our approved methods which will be provided upon your agreement.\n\nI hope this clarifies things a bit more for you. Please don't hesitate to reach out if you have any more questions or concerns.\n\nBest regards,\nMr.\n\nBest wishes,\nJames"
     }
 ]

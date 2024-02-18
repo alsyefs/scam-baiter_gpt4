@@ -2,21 +2,21 @@
     {
         "from": "scammer_729",
         "to": "CRAWLER",
-        "subject": "FROM THE DESK OF MR. JOSEPH KA",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "FROM THE DESK OF MR. JOSEPH KA",
         "body": "FROM THE DESK OF MR. JOSEPH KARIMA\nPlot II7 Abiola  Atula Crescent\nVictoria Island\nLagos-Nigeria\nRE:  YOUR PAYMENT VALUED US$350,000.00\nWestern Union Money Transfer, in conjunction with the International\nMonetary Fund(I.M.F) Reconciliation Committee had agreed to pay you\ntotal amount of $350,000.00 as compensation fund.\nThe compensation fund had been signed to be paid to you for all the\nmoney you have lost to scammers and impostors through internet banking\nfrauds from Central Bank of Nigeria (C.B.N) or other Banks.\nYour name appeared on our payment schedule list of beneficiaries that\nwill receive their funds in this first quarter payment of the year\n2022 according to our banking regulation from Central Bank of Nigeria\n(C.B.N) Board of Directors. We apologize for the delay of your\npayment.\nThe sum of US$3,000.00 or its equivalent in your local currency will\nbe transferred to you via Western Union every day until all the\nUS$350,000.00 is sent across to you for collection.\nWe have registered your first payment of $3,000.00 online through\nWestern Union Money Transfer Just confirm your first payment with\nbelow instruction, Open this\nwebsite:(https: // www. westernunion.com/ng/en/home.html) then click\n\"Track Transfer\", for you to see the status of the transaction online.\nAs soon as you open the website, enter this tracking\nnumber(M.T.C.N):845-968-6564 and click \"CONTINUE\" to confirm your\nfirst compensation payment yourself.\nThese are the details you need to present to the Western Union\nOfficials. Also go with your Identification Card like Driving License\nor National id or International passport.\n M.T.C.N: 845-968-6564\n Sender Names: NORMAN PETER\n City:  LAGOS\n Country of sender:NIGERIA\n Amount sent: $3,000\nMoney Transfer | Global Money Transfer | Western Union\nAwaiting for your urgent and immediate response and Kindly respond on\ntime to enable us confirm you have picked up the first $3,000 to send\nmore the next day till you receive your full compensation payment of\nUS$350,000.00 only.\nThank you,\nYours faithfully,\nMR. JOSEPH KARIMA\nPlot II7 Abiola  Atula Crescent\nVictoria Island\nLagos-Nigeria"
     },
     {
         "from": "baiter_729",
         "to": "scammer_729",
-        "subject": "Re: FROM THE DESK OF MR. JOSEPH KA",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: FROM THE DESK OF MR. JOSEPH KA",
         "body": "Dear Mr. Joseph Karima,\n\nThank you for your email and the information provided. However, I would like to clarify a few things before proceeding further.\n\nFirstly, could you please provide more details about the total amount that is supposed to be transferred? The email does not specify any amount.\n\nSecondly, you mentioned that I need to present certain details to the Western Union officials. Could you please specify what these details are?\n\nLastly, could you please provide more information about how this process works? How will I receive the payments and how can I ensure that they are secure?\n\nI look forward to your response.\n\nBest wishes,\nJose"
     }
 ]

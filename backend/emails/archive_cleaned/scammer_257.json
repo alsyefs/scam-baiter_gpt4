@@ -2,21 +2,21 @@
     {
         "from": "scammer_257",
         "to": "CRAWLER",
-        "subject": "  Hello Dear,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Hello Dear,",
         "body": "  Hello Dear,\n            Ref: Your approved WILLED Payment of Usd$13,500,000.00.\nAs regards to my email message to you yesterday, I write to inform you\nthat all arrangement has been put in place for the immediate transfer\nof your above stated funds.\nPrior to your immediate payment, kindly reconfirm your full details in\norder to avoid double claiming of the already approved WILLED funds,\nas today the Federal Reserve Bank has mandated the swift payment to\nyou next week.\nAlso after you conformed receipt of your payment next week, do you\nwant us to indicate in the media (Eg The New York Times, ETC) that you\nhave been paid, or you would prefer it to be kept confidential\nYour swift response will be appreciated to expedite your immediate payment.\nThank you and congratulations.\n-------\nBest regards,\nDr. Cliff Wilson\nHead of International Management.   "
     },
     {
         "from": "baiter_257",
         "to": "scammer_257",
-        "subject": "Re:   Hello Dear,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Hello Dear,",
         "body": "Dear Dr. Cliff Wilson,\n\nThank you for your email. I am excited to hear that the transfer of my funds is imminent.\n\nTo answer your question, I would prefer that my payment be kept confidential and not announced in any media outlets such as The New York Times.\n\nHowever, before we proceed, could you please provide more details about this transaction? Specifically, I would like to know the exact amount of the funds being transferred and the method of transfer.\n\nLooking forward to your prompt response.\n\nBest wishes,\nMichael"
     }
 ]

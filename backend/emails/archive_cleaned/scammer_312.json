@@ -2,21 +2,21 @@
     {
         "from": "scammer_312",
         "to": "CRAWLER",
-        "subject": "Attention Dear Package Owner ,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attention Dear Package Owner ,",
         "body": "Attention Dear Package Owner ,\nI have registered your ATM Master CARD of $2.9 Million USD with DHL\nEXPRESS Courier Company with registration code of ( Shipment Code AWB\n33xzs)please Contact with your delivery information such as,\nYour Name:..........\nYour Address:.......\nYour Telephone Number:.....\nYour Age:.........\nYour Country:.........\nName Of Director Dr. Henry Thomas\nE-mil:(\ndhlexpresscouriercompany0@rediffmail.com\n)\nTel: +234 81 22 7920 34\nI have paid for the Delivery fee. The only fee you have to pay is\ntheir Security fee only. Please indicate the registration Code\nNumber(awb-33xzs) to DHL when contacting them.\nBest Regards,\nMr Anderson Peter"
     },
     {
         "from": "baiter_312",
         "to": "scammer_312",
-        "subject": "Re: Attention Dear Package Owner ,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Attention Dear Package Owner ,",
         "body": "Dear Mr. Anderson Peter,\n\nThank you for your email regarding the ATM Master Card. I appreciate your assistance in this matter.\n\nHowever, before proceeding further, I would like to clarify a few things:\n\n1. Could you please provide more details about the origin of this ATM Master Card? \n2. What is the exact amount loaded on this card?\n3. Why am I required to pay a security fee and how much is it?\n\nI look forward to your prompt response.\n\nBest wishes,\nJames"
     }
 ]

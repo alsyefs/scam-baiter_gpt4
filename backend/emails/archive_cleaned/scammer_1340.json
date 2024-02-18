@@ -2,21 +2,21 @@
     {
         "from": "scammer_1340",
         "to": "CRAWLER",
-        "subject": "   Dear My beloved One, I need",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Dear My beloved One, I need",
         "body": "   Dear My beloved One, I need your assistance,\nPlease bear with me. I am writing this letter to you with tears and sorrow from my heart.\nI am Hanna Muammar Gaddafi, the only daughter of the embattled president of Libya, Hon. Muammar Gaddafi. I know my mail might come to you as a surprise because you don’t know me, but due to the unsolicited nature of my situation here in Refugee camp Ouagadougou Burkina Faso I decided to contact you for help. I have passed through pains and sorrowful moments since the death of my father.\nMy Father of blessed memory deposited the sum of $20M (Twenty Million  Dollars) in a UK Bank which he used my name as the next of kin. I have been commissioned by the UK Bank to present an interested foreign investor/partner who can stand as my trustee and receive the fund in his account for a possible investment in his country due to my refugee status here in Burkina Faso.\nI am in search of an honest and reliable person who will help me and stand as my trustee so that I will present him to the Bank for the transfer of the fund to his bank account overseas. I have chosen to contact you after my prayers and I believe that you will not betray my trust but rather take me as your own sister or daughter. If this transaction interests you, you don't have to disclose it to anybody because of what is going on with my entire family,\nSorry for my pictures. I will enclose it in my next mail and more about me when I hear from you okay.\nYours Sincerely\nBest Regard,  \nHanna  Gaddafi   "
     },
     {
         "from": "baiter_1340",
         "to": "scammer_1340",
-        "subject": "Re:    Dear My beloved One, I need",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    Dear My beloved One, I need",
         "body": "Hello Hanna Gaddafi,\n\nI'm really sorry to hear about your situation. It must be very difficult for you. I can't imagine what it's like to be in a refugee camp, let alone dealing with the loss of your father.\n\nYou mentioned that your father deposited a sum of money in a UK bank and you're looking for someone to help transfer it. That sounds like quite a responsibility. Could you tell me more about how this process works? \n\nAlso, I'm curious about life in Burkina Faso. How are you managing there? What is life like in the refugee camp?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nBarbara"
     }
 ]

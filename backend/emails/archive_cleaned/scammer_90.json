@@ -2,21 +2,21 @@
     {
         "from": "scammer_90",
         "to": "CRAWLER",
-        "subject": "Dear Friend,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear Friend,",
         "body": "Dear Friend,\nIn the name of Allah/God the Merciful\nPeace be upon you and God's mercy and blessings be upon you, I am sending you this email from the hospital bed,\nI am a staff working with the one of the Prime bank here in Dubai, United Arab Emirate\n. I want you to help me in receiving the sum of thirteen million five hundred thousand euro 13,500,000,00 euro) into your Bank Account.\nIf interested your URGENT response is needed, Kindly Write me back for more details.\nI await your urgent reply.\nYours faithfully.\nAqeel Abdulla Isa Marhoon.\nFrom Bahrain\nE-Mail: \naqeelabdullam@gmail.com\nCAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe."
     },
     {
         "from": "baiter_90",
         "to": "scammer_90",
-        "subject": "Re: Dear Friend,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Dear Friend,",
         "body": "Dear Aqeel Abdulla Isa Marhoon,\n\nI'm sorry to hear about your current health situation. I hope you are receiving the best possible care. \n\nRegarding your proposal, it's quite a significant amount of money you're talking about. Could you please provide more details about why you chose me for this task and how exactly this process would work? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nWesley"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_472",
         "to": "CRAWLER",
-        "subject": "Hello dear,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Hello dear,",
         "body": "Hello dear,\nInvestment Project\nEvery end marks a new beginning, so work on your present to make\nyourself a wonderful future.\nI am reaching out to you as regards the handling of an investment\nportfolio.I am very much willing to invest in your country. May i know\nhow economy of your country is and what type of market that really\nmoves there so that i will know the area to invest on.I do hope you\nare going to give me your trust in carrying out this venture for our\nmutual benefit.I will give you more information upon your response.\nSincerely yours,\nFranklin Saviour"
     },
     {
         "from": "baiter_472",
         "to": "scammer_472",
-        "subject": "Re: Hello dear,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Hello dear,",
         "body": "Hello Franklin Saviour,\n\nThank you for reaching out and considering me for this exciting opportunity. I'm thrilled to hear about your interest in investing in my country. \n\nThe economy here is quite diverse, with several sectors showing promising growth. However, it would be helpful if you could share more details about the type of investment you're considering. Are there specific industries or sectors that you're particularly interested in? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAmanda"
     }
 ]

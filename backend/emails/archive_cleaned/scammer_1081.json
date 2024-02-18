@@ -2,21 +2,21 @@
     {
         "from": "scammer_1081",
         "to": "CRAWLER",
-        "subject": " Hello Dear,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " Hello Dear,",
         "body": " Hello Dear,\nI am quite impressed with your profile and vast experience in operations and great achievements in the other sectors of expertise.\nI represent an Investment consortium and also high-net-worth individuals who are interested in giving funding / loans doing businesses with any individual who is trusted and capable in area of project/business set-up.\nKindly let me know if we can execute huge projects in your country with a clients seeking for investment fund under legal ambient of law/government.\nThank you for your cooperation.\n Hope for a positive feedback\nSincerely,\nPapadopoulos Christos\nProject Management Team    "
     },
     {
         "from": "baiter_1081",
         "to": "scammer_1081",
-        "subject": "Re:  Hello Dear,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:  Hello Dear,",
         "body": "Dear Christos,\n\nThank you for your message and interest in potential business opportunities. I am always open to exploring new ventures and would be interested to learn more about the projects your consortium is considering.\n\nHowever, before we proceed, I would appreciate if you could provide more details about your consortium, the nature of the projects you are interested in, and the terms of investment you usually work with. This information will help me understand how we can potentially collaborate.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJanie"
     }
 ]

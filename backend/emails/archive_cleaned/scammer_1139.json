@@ -2,21 +2,21 @@
     {
         "from": "scammer_1139",
         "to": "CRAWLER",
-        "subject": "Abdulla Zayed Capitals LLC was",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Abdulla Zayed Capitals LLC was",
         "body": "Abdulla Zayed Capitals LLC was \nfounded in 2005\n as a private company to seek business opportunities in diversified sectors of the local and regional markets.\nAbdulla Zayed Capitals LLC targets growth and income through potential Investments and long standing partnership. Our scope of business covers Real Estate, Private Equity, Venture Capital, Platforms and Equity Markets. Abdulla Zayed Capitals LLC looks into Investments that provide consistent results and contributes to UAE’S Economy.\nAbdulla Zayed Capitals LLC is part of Abdulla Zayed Group, one of the prominent business groups in the UAE."
     },
     {
         "from": "baiter_1139",
         "to": "scammer_1139",
-        "subject": "Re: Abdulla Zayed Capitals LLC was",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Abdulla Zayed Capitals LLC was",
         "body": "Hello there,\n\nThank you for sharing this information about Abdulla Zayed Capitals LLC. It sounds like a very diverse and dynamic company with interests in various sectors. I'm particularly intrigued by the range of business areas it covers, from Real Estate to Equity Markets.\n\nCould you please tell me more about the specific projects or investments that Abdulla Zayed Capitals LLC is currently involved in? Also, how does the company contribute to the UAE Economy?\n\nRemember, I'm just curious and not looking for any personal or confidential information. Thanks!\n\nBest wishes,\nCorey"
     }
 ]

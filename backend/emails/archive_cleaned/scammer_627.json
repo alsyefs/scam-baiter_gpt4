@@ -2,21 +2,21 @@
     {
         "from": "scammer_627",
         "to": "CRAWLER",
-        "subject": "  Attn: Sir",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Attn: Sir",
         "body": "  Attn: Sir\nGreetings!!\nWe need to confirm from you if JP Morgan Chase, London UK has credited your account, with the approved amount of $15,000,000,00 Fifteen Million United State Dollars only, as instructed by United Nations Compensation Commission (UNCC) Please confirm to us for immediate payment of your overdue outstanding fund. However, this morning we received a message from these two officers (Mr. Hans Jochen Brauns and Mr. Martin Bühler) that you were involved in an auto accident when rushing you to the hospital for the case of coronavirus and you cannot work again. Please respond as soon as possible before the transfer is done.I wait for your urgent response.\nI wait for your urgent reply.\nThank you\nMR. BERT KOENDERS   "
     },
     {
         "from": "baiter_627",
         "to": "scammer_627",
-        "subject": "Re:   Attn: Sir",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Attn: Sir",
         "body": "Dear Mr. Bert Koenders,\n\nI am not sure where you got this information, but it is incorrect. I have not been involved in any accident and I am perfectly capable of working. As for the transfer from JP Morgan Chase, I have not received any such amount in my account.\n\nCould you please provide more details about this supposed transfer and its purpose?\n\nBest wishes,\nRosalba"
     }
 ]

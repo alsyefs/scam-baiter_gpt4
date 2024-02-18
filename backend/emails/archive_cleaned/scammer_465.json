@@ -2,21 +2,21 @@
     {
         "from": "scammer_465",
         "to": "CRAWLER",
-        "subject": "  First Nations Bank of Canada",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  First Nations Bank of Canada",
         "body": "  First Nations Bank of Canada\nHead Office Address:300-224 4th Ave\nSouth-Saskatoon, SK,S7K 5M5\nDear Sir/Madam,\nThis is to inform you that we received your fund worth the sum $1,850,000.00 (One Million Eight Hundred and Fifty Thousand United States Only) from the First Nations Bank Of Canada, we apologies for the delay of your payment and all the inconveniences we might put you through,we were having some minor problems with our payment system which in all case not meeting up with fund beneficiary payments, we apologies once again.\nFrom the records of outstanding Contract/Inheritance payment due for payment with Canadian Government, The International Monetary Fund (IMF) in connection with the World Bank group, your name(Email) was Submitted to contact you as next on the list out of the seven (7) outstanding beneficiaries who are yet to receive their payments during the 1 year tenure of the previous administration (2023), please bear with us for making this initial contact through email.\nMeanwhile,My Office desks have just received a sworn affidavit from Mrs.Diana Donald of 13702. Bent Tree Circle. Apt # 380 Centreville Virginia. 75039 to re-route your payment into a new bank account number as stated Bank Name: Chase Bank, Address: 1035 Medical District Dr Dallas, TX 75235, Account number #: 405932110, Routing #:038292.\nDirect Deposit.ABA #: 1310035562.Swift/BIC Code #:CHASUS33 Account Name:Mrs.Diana Donald.\nPlease do reconfirm to this bank as a matter of urgency if this man is from you or not so that the British government will not beheld First Nations Bank for paying into wrong account, if this man is not your representative, you requested to fill and send this information for verification purpose so that your fund valued $1,850,000.00 (One Million Eight Hundred and Fifty Thousand United states Dollars only)  will be remitted in to your nominated bank account.\nTo facilitate with the process of this transaction, kindly reconfirm your details below to enable us process and credit your account through our online banking system or by telegraphic wire transfer and as soon as you follow our directives, your funds will be credited and reflect in your bank account within (3) bank working days.\nFull Name:\nYour Address:\nYour Contact Telephone/What-sap:\nYour occupation/position held:\nMarital Status:\nAny Valid Form of Your Identification/Driven License:\nAs soon as we receive the above mentioned information, your payment will be processed and released to you through our online banking system without any further delay.\nThis notification email should be your confidential property to avoid impersonators claiming your fund. You are required to provide the above information for your transfer to\ntake place through bank to bank/ONLINE BANK TRANSFER.\nWe Look Forward To Serving You Better.\nMr. Kevin Michael\nCc: Cheryl Foster\nChief Financial Officer\nFirst Nations Bank of Canada   "
     },
     {
         "from": "baiter_465",
         "to": "scammer_465",
-        "subject": "Re:   First Nations Bank of Canada",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   First Nations Bank of Canada",
         "body": "Dear Mr. Kevin Michael,\n\nI am writing to confirm that I have received your email regarding the transfer of funds from the First Nations Bank Of Canada. However, I must inform you that there seems to be a misunderstanding.\n\nI do not recognize the individual named Donald from Bent Tree Circle, Apt Virginia, and I did not authorize any changes to my bank account information. Therefore, I kindly request you to halt any transactions involving this individual immediately.\n\nHere are my details as requested:\n\nContact Telephone: \nOccupation/Position Held: \nValid Form of Identification: \n\nPlease proceed with the necessary steps for the fund transfer to my nominated bank account. \n\nThank you for your prompt attention to this matter.\n\nBest wishes,\nChelsea"
     }
 ]

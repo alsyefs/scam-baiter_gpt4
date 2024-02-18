@@ -2,21 +2,21 @@
     {
         "from": "scammer_736",
         "to": "CRAWLER",
-        "subject": "E Mail :jubrinloanfinance@gmai",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "E Mail :jubrinloanfinance@gmai",
         "body": "E Mail :jubrinloanfinance@gmail.com\nBusiness Activity : DO YOU NEED A LOAN, OR YOU WANT TO REFINANCE YOUR HOME, PAY OFF BILLS, EXPAND YOUR BUSINESS WITH 3% INTEREST RATE? LOOK NO FURTHER CONTACT Via: Email: \nindiabullsfinance366@gmail.com\n Call or add us on what's app +91-9599047193"
     },
     {
         "from": "baiter_736",
         "to": "scammer_736",
-        "subject": "Re: E Mail :jubrinloanfinance@gmai",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: E Mail :jubrinloanfinance@gmai",
         "body": "Hello there! I'm glad to hear from you. Could you please tell me more about why I should call or add you on WhatsApp? What kind of information or services are you offering?\n\nBest wishes,\nAustin"
     }
 ]

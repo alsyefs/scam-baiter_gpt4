@@ -2,21 +2,21 @@
     {
         "from": "scammer_321",
         "to": "CRAWLER",
-        "subject": " Hi ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " Hi ",
         "body": " Hi \nWe hereby acknowledge the receipt of your completed loan application form.\nIn order for us to proceed with the process of your application, Kindly provide a South African number where you can be reached, a copy of your ID, bank statements, or pay slip.\nRegards\nLindsay Van Zyl (Mrs.)\nLoan Application Adviser\nDirectAxis Financial Services\nTel: +27 84 539 5691 or +27 74 457 1794\nFax: +27 86 767 6386    "
     },
     {
         "from": "baiter_321",
         "to": "scammer_321",
-        "subject": "Re:  Hi ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:  Hi ",
         "body": "Dear Mrs. Lindsay Van Zyl,\n\nThank you for your prompt response. However, I am currently residing outside of South Africa and do not have a South African number. Is there any other way we can proceed with the loan process? \n\nI look forward to hearing from you soon.\n\nBest wishes,\nMichael"
     }
 ]

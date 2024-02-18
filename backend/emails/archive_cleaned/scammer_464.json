@@ -2,21 +2,21 @@
     {
         "from": "scammer_464",
         "to": "CRAWLER",
-        "subject": "  82 ADDERLEY STR. - Cape Town",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  82 ADDERLEY STR. - Cape Town",
         "body": "  82 ADDERLEY STR. - Cape Town.\n \nFrom The Desk of FNB Online Banking,\nBanking/Remittance Team.\n \n \nAttention:  \nYour email message was received.\n As we request early, kindly confirm to us your receiving information details address where your Gold Visa ATM Master Card will be delivered to you.\nAs regards to your question, your card activation fee of ZAR 6 300 is equivalent to 347, United States Dollar.\nAnd you can call the bellow number if you need more information.\nWe wait for your urgent reply.\n Sincerely,\nMrs Devirani Naidoo,\nOperations Manager.\nPhone: 0027 7349 19382.   "
     },
     {
         "from": "baiter_464",
         "to": "scammer_464",
-        "subject": "Re:   82 ADDERLEY STR. - Cape Town",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   82 ADDERLEY STR. - Cape Town",
         "body": "Hello Mrs. Devirani Naidoo,\n\nThank you for your prompt response. I'm thrilled to hear about the Gold Visa ATM Master Card. However, I'm a bit confused about the card activation fee. Could you please clarify how much it is in United States Dollars? \n\nAlso, could you provide more information about the benefits of this card? What makes it different from other cards?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJason"
     }
 ]

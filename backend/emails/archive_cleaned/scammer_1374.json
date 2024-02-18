@@ -2,21 +2,21 @@
     {
         "from": "scammer_1374",
         "to": "CRAWLER",
-        "subject": "  US Bank Plc",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  US Bank Plc",
         "body": "  US Bank Plc\n324 Royal Palm Way, Palm Beach, FL 33480,\nSWIFT (US): USBKUS44XXX\nFounded: United States of America\nHours: Open 24 Hours\nFor Your Information:\nAfter today's board meeting of the Treasury, the United States\nDepartment of the Treasury, the IRS, the Reserve Bank and the World\nBank Directorate it was gathered that the overdue compensation fund\nworth US $ 25 Million has We have been depositing this bank for onward\npayment. The reason for this is because of the scam victims that lost\na lot of money to African and European Fraudsters,\nYou are hereby advised to stop all the time and you will end up at nothing.\nRE-CONFIRM YOUR BELOW DETAILS.\nYour Full Name__\nYour Residential Address__\nYour Sex / Age____\nOccupation_\nTelephone / Fax __\nNext of Kin____\nThe US bank will immediately remit your account once I reconfirm your\nbanking details.For further details and assistance on this Remittance\nNotification, kindly forward your FULL NAME AND CONTACT\nADDRESS,TELEPHONE and FAX NUMBERS directly to this mail\nbox(\nwenmic27@gmail.com\n)\nYour utmost response is needed to proceed with your payment.\nWe are looking forward to hear from you.\nThank you for choosing US Bank.\nTom Parker\nYours Faithfully,\nExecutive Region Manager   "
     },
     {
         "from": "baiter_1374",
         "to": "scammer_1374",
-        "subject": "Re:   US Bank Plc",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   US Bank Plc",
         "body": "Dear Tom Parker,\n\nThank you for your email. I am interested in the process of receiving this overdue fund. However, before proceeding further, I would like to clarify a few things.\n\nFirstly, could you please provide more details about the origin of these funds? Secondly, how did my name come up in relation to these funds? Lastly, what are the necessary steps that need to be taken from my end?\n\nHere are my details:\n\nFull Name: John Doe\nAddress: 123 Main Street, Anytown, USA\nSex/Age: Male/35\nOccupation: Software Engineer\nTelephone/Fax: (123) 456-7890 / N/A\nNext of Kin: Jane Doe\n\nI look forward to hearing from you soon.\n\nBest wishes,\nRasheeda"
     }
 ]

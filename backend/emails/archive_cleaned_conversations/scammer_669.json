@@ -2,41 +2,41 @@
     {
         "from": "scammer_669",
         "to": "CRAWLER",
-        "subject": "  I am \"Janet Yellen\" the Secr",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  I am \"Janet Yellen\" the Secr",
         "body": "  I am \"Janet Yellen\" the Secretary to the U.S Department of the Treasury. The executive agency responsible for promoting economic prosperity and ensuring the financial security of the United States. I was confirmed by the United States Senate on January 26, 2021., to serve as the 78th Secretary of the Treasury. However, by virtue of my position, I wish to let you know that this fund was signed 11 Months ago by the United States white house.\nThis fund was recovered by the Federal Bureau of Investigation about 2 years from Africa and on my honor as the Secretary to the Department of Treasury, I wish to state categorically that your fund worth Eighty Nine Million United States Dollars (89,000,000.00) will be approved and  ready to be Sent to you via Bank Transfer or ATM Card \" once you provides the requested details below to thi email below\n(\njanetyellen417@gmail.com\n)\nDetails include ::\nFull name…..\nResidential address……\nPhone number……..\nID card……..\nOccupation……\nOther emails…….\nsend the details to the provided email address (\njanetyellen417@gmail.com\nI await your swift response to this message…\nRegards!!!\nJanet Louise Yellen\n78th Secretary of Treasury    "
     },
     {
         "from": "baiter_669",
         "to": "scammer_669",
-        "subject": "Re:   I am \"Janet Yellen\" the Secr",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   I am \"Janet Yellen\" the Secr",
         "body": "Dear Janet Louise Yellen,\n\nThank you for your email. However, I must inform you that I am not comfortable providing my personal information via email due to security reasons. \n\nI would appreciate if we could proceed with this matter through a more secure channel or if there is an official form or website where I can submit the required details.\n\nBest wishes,\nBrooks"
     },
     {
         "from": "scammer_669",
         "to": "baiter_669",
-        "subject": "Re: I am \"Janet Yellen\" the Secr",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "2",
+        "subject": "Re: I am \"Janet Yellen\" the Secr",
         "body": "‪(860) 576-8291‬\r\n\r\nKindly contact my personal assistant now and provide all required details\r\nto him\r\nThank you\nBest regards\r\nJanet Yellen"
     },
     {
         "from": "baiter_669",
         "to": "scammer_669",
-        "subject": "Re: I am \"Janet Yellen\" the Secr",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.24171296296296296,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "3",
+        "subject": "Re: I am \"Janet Yellen\" the Secr",
         "body": "Dear Janet Yellen,\n\nThank you for your prompt response. I will contact your personal assistant as instructed and provide all the necessary details.\n\nBest Regards,\nLewis D.\n\nBest wishes,\nBrooks"
     }
 ]

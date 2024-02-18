@@ -2,21 +2,21 @@
     {
         "from": "scammer_825",
         "to": "CRAWLER",
-        "subject": "  Dear Honorable Beneficiary,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear Honorable Beneficiary,",
         "body": "  Dear Honorable Beneficiary,\nYOUR PAYMENT VIA ATM CARD 2023\nThis is to officially inform you that we have verified your contract file presently on my desk, and I found out that you have not received your payment due to your lack of cooperation and not fulfilling the obligations given to you in respect to your contract payment.Secondly, you are hereby advised to stop dealing with some non-officials in the bank as this is an illegal act and will have to stop if you so wish to receive your payment immediately.After the Board of director's meeting held in Abuja, we have resolved in finding a solution to your problem.\nWe have arranged your payment through our SWIFT CARD PAYMENT CENTER in Europe, America, Africa and Asia Pacific; this is part of the mandate passed by the Senate in respect to overseas contract payment and debt rescheduling. And also the  Nigerian Government is using this means to reward all the citizens of the United states and all part of Europe including Asia, Australia, South America, Canada,  e.t.c and all those who have lost their funds in either scam, or an uncompleted business, or otherwise,\nYou should know that if you are interested to receive your ATM card which will be credited with $5,000,000.00 united states dollars before it is being sent to you direct to your doorstep through the FedEx courier service, you will have to respond to me with your full information’s, After your response you will be directed to the FedEx shipping courier representative whose name is Mr. Edward Edward\nHe will send you your ATM CARD which you will use to withdraw your money via ATM MACHINE in any part of the world, and the maximum daily limit is Fifteen Thousand United States dollars ($15,000.00). And also note that the Nigerian Government has taken care of the shipping fee of your ATM card, so if Mr. Edward is requesting for another shipping fee, you will have to report him to me immediately. When you receive your ATM card, you have to alert me so that we can give you a process of how to activate and make use of your ATM CARD.\nIf you like to receive your fund this way, kindly contact me with the following information below.\n(1) Your Full Name\n(2) Full residential address\n(3) Phone and Fax Number\n(4) Occupation.\n(5) Personal Identification. Driver’s license or International Passport.\n(7) Age\n(8) Marital Status\n(9) Sex\nThis message is supported by the Nigerian Government.\nThanks for your co-operation.\nRespectively\nDr. Mansur Muhtar\nMinister, Federal Ministry of Finance   "
     },
     {
         "from": "baiter_825",
         "to": "scammer_825",
-        "subject": "Re:   Dear Honorable Beneficiary,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Dear Honorable Beneficiary,",
         "body": "Dear Dr. Mansur Muhtar,\n\nThank you for your email and the information provided. I am interested in receiving my payment through the SWIFT CARD PAYMENT CENTER as you suggested.\n\nHere are my details:\n\nFull Name: John Doe\nFull Address: 123 Main Street, Anytown, USA\nPhone Number: +1-555-555-5555\nFax Number: +1-555-555-5556\nDriver's License Number: D1234567\nAge: 45\nMarital Status: Married\nSex: Male\n\nI look forward to hearing from you soon regarding the next steps.\n\nBest wishes,\nBarry"
     }
 ]

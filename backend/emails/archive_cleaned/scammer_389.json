@@ -2,21 +2,21 @@
     {
         "from": "scammer_389",
         "to": "CRAWLER",
-        "subject": "    TIM ATTORNEYS",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "    TIM ATTORNEYS",
         "body": "    TIM ATTORNEYS\nLONDON SW7 5DG\nUNITED KINGDOM\nTEL: +44 (0) 758 610 5755\nw ww.ellistimlaw.com\nDear  \nI am delighted to inform you that following my Sworn Affidavit and much effort, the Court granted you the Administrative duties over the estate of the deceased. I have attached the Letter of Administration to this e-mail for your perusal. I have also attached the application letter for inheritance claim and would like you to fill it out, sign, scan and send it to Natwest Bank by Email on:\nclaims@nwintb.com\nso that they can process it and release the funds to you as the rightful beneficiary. You need to send only the Application letter to them, not the other documents. You will provide them with your bank account details for the transfer after they approve the fund release.\nPlease check your email regularly and notify me as soon as the Bank responds to your application.\nBest regards,\nAttorney Ellis Tim\nAccredited Specialist, Banking and Finance Law\nPrincipal Attorney, Heita Attorneys\nLondon SW 7 5DG - United Kingdom\nw ww.ellistimlaw.com | Tel: +44 (0) 758 610 5755  "
     },
     {
         "from": "baiter_389",
         "to": "scammer_389",
-        "subject": "Re:     TIM ATTORNEYS",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:     TIM ATTORNEYS",
         "body": "Hello Attorney Ellis Tim,\n\nI'm thrilled to receive your message! It's quite a surprise, I must say. I've never been involved in anything like this before. \n\nCould you please explain a bit more about the deceased's estate? How did my name come up in all of this? And what exactly are my duties over the estate?\n\nAlso, could you provide me with more information about the process at Natwest Bank? What will happen after they approve the fund release?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nHolly"
     }
 ]

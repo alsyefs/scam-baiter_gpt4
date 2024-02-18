@@ -2,21 +2,21 @@
     {
         "from": "scammer_107",
         "to": "CRAWLER",
-        "subject": "GOOD DAY DEAR,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "GOOD DAY DEAR,",
         "body": "GOOD DAY DEAR,\nI WANT YOU TO KNOW THAT ONLY  UBA AMERICA WILL RELEASE THIS $51MILLION\nOR MAKE SURE FUNDED ATM CARD TO ALLOW YOU WITHDRAW.\nSO \nKINDLY RECONFIRM YOUR NAME AND HOME ADDRESS AND PHONE NUMBER\nINCLUDING YOUR HOME ADDRESS\n.\nJANE ALI."
     },
     {
         "from": "baiter_107",
         "to": "scammer_107",
-        "subject": "Re: GOOD DAY DEAR,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: GOOD DAY DEAR,",
         "body": "Hello Jane Ali,\n\nGood day to you too! I'm thrilled to hear about this UBA Erica and the funded ATM card. It sounds like a fantastic opportunity. However, I'm a bit confused about how it all works. Could you please explain more about this process? How does UBA Erica release or fund the ATM card?\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nMarsha"
     }
 ]

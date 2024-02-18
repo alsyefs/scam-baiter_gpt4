@@ -2,21 +2,21 @@
     {
         "from": "scammer_1327",
         "to": "CRAWLER",
-        "subject": "Dear sir/ma",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear sir/ma",
         "body": "Dear sir/ma\n It is very surprising record was discovered in your payment file that\nis why you have not been contacted about this since then. Records\nshowed that your inheritance payment has been approved four times and\nduly completed two times. Also we found out that these funds totaling\n$42,500,000.00 ( Forty-Two Million Five Hundred Thousand United States\nDollars) was transferred directly from the central bank of Nigeria to\nthe below stated bank account on your authorization. This has now\nresulted in bringing the USA and British Government into the case and\nwe really want you to explain to us what you know about this\ntransfer/payment.\nRegards\nFAROUK GUMEL\nChairman Union Bank of Nigeria"
     },
     {
         "from": "baiter_1327",
         "to": "scammer_1327",
-        "subject": "Re: Dear sir/ma",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Dear sir/ma",
         "body": "Dear Mr. Farouk Gumel,\n\nI am surprised to receive your email as I have no knowledge of any approved payments or transfers from the Central Bank of Nigeria. I believe there may be a mistake or misunderstanding.\n\nCould you please provide more details about this situation? Specifically, I would like to know when these supposed transactions took place and any other information that could help clarify this matter.\n\nThank you for bringing this to my attention. I look forward to your response.\n\nBest wishes,\nTeresa"
     }
 ]

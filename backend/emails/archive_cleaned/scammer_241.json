@@ -2,21 +2,21 @@
     {
         "from": "scammer_241",
         "to": "CRAWLER",
-        "subject": " ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " ",
         "body": " \nResidence Audit/Account department (BIS) <upsdeliveryservice004@gmail.com>\nBcc:\nFri, 22 Sept at 14:29\nGreetings!\nFUND PAYMENT OF $20,000,000.00 USD ONLY\nI am Edwards Roberts resident auditor with the Bank for International\nSettlements (BIS). Due to the discrepancy of outstanding fund payment\nto the beneficiaries. The international Monetary fund (IMF), World\nBank (WB) and the Bank for International Settlements (BIS) has\nconcluded formalities to settle the entire outstanding payment due to\nthe beneficiaries concerned.\nThe Bank for International Settlements (BIS) have been mandated and\ninstructed by these international financial bodies to audit and\ninstruct for instant payment owned to these beneficiaries which you\nare among the approved beneficiary to be paid the gross sum of $20.\nMillion USD only in equivalent to your local currency to you that is\nwhy i am contacting you as the resident auditor in charge to rectify\nyour details and submit to the auditor General for immediate payment.\nAs a matter of urgency, we need you to get back to us immediately to\nenable us authenticate the immediate transfer of your fund to you the\nnext business day as scheduled with the following information for\nverification and authentication\n1) Full Name (Corporate name - Optional)\n2) Home or office address\n3) Telephone number\n4) Date of Birth\n5) Occupation\n6) Copy of your identification card\nWe advise you send the above mentioned information immediately so that\nwe proceed as scheduled\nThe Bank for International Settlements (BIS) an international\nfinancial institution, owned by central banks which \"fosters\ninternational monetary and financial cooperation, outstanding\npayments, foreign exchange control and serves as a bank for central\nbanks. The BIS payment system consists of instruments, banking\nprocedures, and typically interbank funds transfer systems that ensure\nand facilitate the circulation of money. In essence, it facilitates\ncorporations, businesses and consumers to transfer funds to one\nanother through exchange control policies, global monetary and\nfinancial stability through international cooperation.\nI look forward to hear from you.\nBest Regards\nMr. Edwards Roberts\nResidence Audit/Account department (BIS)  "
     },
     {
         "from": "baiter_241",
         "to": "scammer_241",
-        "subject": "Re:  ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:  ",
         "body": "Dear Mr. Edwards Roberts,\n\nThank you for your email and the information provided. I am interested in proceeding with this process, however, I would like to clarify a few things before providing my personal details.\n\nCould you please provide more information about the origin of these funds? How was I selected as one of the approved individuals to receive this payment?\n\nI look forward to your response.\n\nBest wishes,\nAnn"
     }
 ]

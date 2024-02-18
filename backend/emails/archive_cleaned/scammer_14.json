@@ -2,21 +2,21 @@
     {
         "from": "scammer_14",
         "to": "CRAWLER",
-        "subject": "  I run a private consultancy,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  I run a private consultancy,",
         "body": "  I run a private consultancy, and currently have access to a\nhigh-net-worth individual who, due to instability in her country, is\ninterested in a confidential collaboration that can facilitate\nrelocation of her financial resources through investments in real\nestate or other lucrative areas of business. I am seeking a foreigner\nwith solid investment ideas who can partner with me to make this a\nsuccess. Kindly contact me for details if you are interested.\nRegards.\nMr Abdel   "
     },
     {
         "from": "baiter_14",
         "to": "scammer_14",
-        "subject": "Re:   I run a private consultancy,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   I run a private consultancy,",
         "body": "Dear Mr. Abdel,\n\nI am interested in your proposal and would like to know more about the investment opportunities you mentioned. Could you please provide more details about the nature of the business, the amount of financial resources available for investment, and what kind of partnership you are envisioning?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nWei"
     }
 ]

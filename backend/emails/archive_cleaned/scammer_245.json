@@ -2,21 +2,21 @@
     {
         "from": "scammer_245",
         "to": "CRAWLER",
-        "subject": "  Re: (Unclaimed Fund Notifica",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Re: (Unclaimed Fund Notifica",
         "body": "  Re: (Unclaimed Fund Notification)\nI wish to bring to your notice that your payment file was brought to my desk, may I know your reason for abandoning your benefit as I have tried to reach all beneficiaries whose names are among the shortlisted files.\nReply back to me with your information as advised to reconfirm/avoid payment of funds to the wrong individual. N/B: I guarantee you that this process would be executed under a legitimate arrangement.\nI am looking forward to your prompt response in this regard.\nSincerely,\nGeorge Hagenbuch.   "
     },
     {
         "from": "baiter_245",
         "to": "scammer_245",
-        "subject": "Re:   Re: (Unclaimed Fund Notifica",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Re: (Unclaimed Fund Notifica",
         "body": "Hello George Hagenbuch,\n\nThank you for reaching out to me. I must admit, I'm a bit surprised by your message as I wasn't aware of any payment file under my name. Could you please provide more details about this? What kind of benefit are we talking about here? \n\nI appreciate your assistance and look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDaniel"
     }
 ]

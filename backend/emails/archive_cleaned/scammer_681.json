@@ -2,21 +2,21 @@
     {
         "from": "scammer_681",
         "to": "CRAWLER",
-        "subject": "Dear,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear,",
         "body": "Dear,\nI am Barrister Jeremiah Bonigas, a personal assistant to Engr. Mark, a\nNational of your country, who died in a car accident, I have contacted\nyou as the beneficiary to the late Engr. Mark. The fund valued at $6.5\nmillion he deposited before he died. Your immediate/urgent response is\nneeded now and don't hesitate to call me now.\nThanks\nTel /WhatsAPP : +22893458346\nContact Person: Barrister Jeremiah Bonigas"
     },
     {
         "from": "baiter_681",
         "to": "scammer_681",
-        "subject": "Re: Dear,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Dear,",
         "body": "Dear Barrister Jeremiah Bonigas,\n\nI am sorry to hear about the tragic accident of Engr. Mark. However, I must inform you that I have no relation or connection with him. It seems there might be a misunderstanding or mistake in your records.\n\nBest wishes,\nMyung"
     }
 ]

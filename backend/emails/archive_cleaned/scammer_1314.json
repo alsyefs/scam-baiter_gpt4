@@ -2,21 +2,21 @@
     {
         "from": "scammer_1314",
         "to": "CRAWLER",
-        "subject": "  Date: Tue, 19 Dec 2023 06:49",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Date: Tue, 19 Dec 2023 06:49",
         "body": "  Date: Tue, 19 Dec 2023 06:49:59 -0800\nReply-To: \nab5175305@gmail.com\nHello, With Due Respected,\nI am Miss. Joel Kouyate. The only daughter to my late parents. I am 25 years old. Please can I trust you to be my guardian to help me secure my inheritance fund that my late father kept for me in the BANK before he met his untimely death? I will be waiting for your reply if you will like to help me for more details,\nYour sincere daughter,\nMiss. Joel Kouyate    "
     },
     {
         "from": "baiter_1314",
         "to": "scammer_1314",
-        "subject": "Re:   Date: Tue, 19 Dec 2023 06:49",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Date: Tue, 19 Dec 2023 06:49",
         "body": "Hello Miss. Joel Kouyate,\n\nI'm sorry to hear about your late parents. It must be a tough time for you. I appreciate your trust in me, but I think it would be best if you could find someone closer to you, perhaps a relative or a family friend who could help you with this matter.\n\nCould you tell me more about your situation? How did you come across my contact information?\n\nBest wishes,\nAraceli"
     }
 ]

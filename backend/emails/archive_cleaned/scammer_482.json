@@ -2,21 +2,21 @@
     {
         "from": "scammer_482",
         "to": "CRAWLER",
-        "subject": "  INTERNATIONAL MONETARY FUND ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  INTERNATIONAL MONETARY FUND ",
         "body": "  INTERNATIONAL MONETARY FUND (IMF)\n700 19th Street, N.W.\nWashington, D.C. 20431 U.S.A\nI am Dr. James Smith, of the newly inaugurated International Monetary\nFund (IMF). Dear friend, my committee has a mandate to recover unpaid\ndebts associated with NNPC Lump sum contract, lottery funds,\ninheritance funds, Consignment Boxes, loans and grants, ranging from\n$1M and above, owed to various beneficiaries and companies across the\nglobe via (Asia, Europe, USA, Africa, & Australia). This message is to\nnotify you about the Board meeting held last week between IMF & UN\nSecretary General. We have concluded arrangement to deliver your\nunpaid fund to you, which we are here to inform you about our plan to\nremit your fund payment to you via any of these options herein- Bank\nWire Transfer or Cash-Consignment Boxes. I decided to contact you\npersonally because of the prevailing financial report reaching my\noffice and the intense nature of policy here in Washington, D.C. Your\nname was among the shortlisted beneficiaries on our database, hence we\nare contacting you today to compensate you with the sum of\nUS$8,500,000.00. Kindly reconfirm your full detailed information to\nthis office below. I will make use of my position here in the office\nto release your long overdue fund payment to you. All you are required\nto do now, is to reconfirm your information to this office and include\nyour photo ID for identification purposes. You're advised to contact\nthis office within 48hrs of receiving this information from this\norganization.\n1. Your Full Names:...............\n2. Your Age & Sex:................\n3. Your Occupation:...............\n4. Your Marital Status:...........\n5. Your Mobile Number:............\n6. Your Home address:.............\nFinally, you are advise to kindly respond back to this email with the\nabove requested information for immediate commencement and processing\nof your funds payment to you. Be kind to use part of this fund to help\nthe needy, the less-privileges and Orphanage homes in your society.\nWarm regards,\nDr. James Smith,\nDir, Foreign Operations Dept,\nInt'l Monetary Fund & Payment (IMF)   "
     },
     {
         "from": "baiter_482",
         "to": "scammer_482",
-        "subject": "Re:   INTERNATIONAL MONETARY FUND ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   INTERNATIONAL MONETARY FUND ",
         "body": "Dear Dr. James Smith,\n\nThank you for your email and the opportunity to claim the unpaid fund. Here are my details as requested:\n\nFull Names: John Doe\nAge: 45\nSex: Male\nOccupation: Software Engineer\nMarital Status: Married\nMobile Number: +1-234-567-8901\nHome address: 1234 Elm Street, Anytown, USA\n\nI am looking forward to your prompt response.\n\nBest wishes,\nJolie"
     }
 ]

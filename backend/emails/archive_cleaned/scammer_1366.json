@@ -2,21 +2,21 @@
     {
         "from": "scammer_1366",
         "to": "CRAWLER",
-        "subject": "   Dear Sir/Madam",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Dear Sir/Madam",
         "body": "   Dear Sir/Madam\nI pray God this message reaches you in wonderful spirit.I am making this contact with you based on trust and confidence irrespective of the fact that we have not meet before and because of the nature of the situation I found myself, I am Mike Walters the son of late former Minister Of Mines and Natural Resource during the time of Major Koromah,the former Military Head of State of the Republic of Sierra Leone,who was massacred by President Tinjani Kabbah force in their struggle to reinstate him back to power. My brother and I have been refugees here since the death of our father, because of the condition of his death.\nBefore the death of my father some months ago he disclosed to me some money he had deposited in my name in a neighboring country in West-Africa. The total amount of the money is $12.5 Million US Dollars all in a security vault in the West Africa neighboring country, The document regarding this consignment was handed over to me by my father before his death, I carefully searched and found the security Company where I Confirmed that the consignment were deposited for safe Keeping in their security vault in the neighboring Country. The contents were deposited as a family valuable,by Virtue of right as the son of my late father, the Security Company has accepted to release the consignment actually. I am seeking your assistance because my father has declared a record with the security company stating that his foreign partner from overseas shall be authorized to make a claim on this consignment because of his position in the government on which no name was given by my father as his foreign partner To this effect,I request to make the beneficiary of His consignment in your name as foreign partner to Claim this consignment. For your assistance, the room is Open for negotiations. This is a risk free transaction As my father deposited this valuable as a personal Belonging. In this situation every process to completely move This value may not exceed (3) working days,if your co-operation to assist is sort. I shall be very Grateful to hear from you, all documents concerning this are intact with me, please kindly reach me as Soon as possible.\nKindly provide me with the following information. my contact email:walters77@internet.ru\nYour direct telephone number and fax\nYour Personal Email address contacts\nBest Regards,\nMike Walters    "
     },
     {
         "from": "baiter_1366",
         "to": "scammer_1366",
-        "subject": "Re:    Dear Sir/Madam",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    Dear Sir/Madam",
         "body": "Hello Mike Walters,\n\nI hope this message finds you well. I'm sorry to hear about the unfortunate circumstances that have led you to reach out. It's quite a story, and I can't imagine how difficult it must be for you.\n\nYou mentioned that your father had deposited some money in your name in a West African country. That's quite an amount! How did he manage to accumulate such wealth? \n\nAlso, you mentioned that the security company has accepted to release the funds. That's great news! Could you tell me more about this security company? What is their name and where are they located?\n\nI'm curious about the process of claiming these funds as well. You said it may not exceed seven working days, but what does this process involve exactly? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nTamara"
     }
 ]

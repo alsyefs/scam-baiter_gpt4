@@ -2,21 +2,21 @@
     {
         "from": "scammer_1059",
         "to": "CRAWLER",
-        "subject": "   SIR,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   SIR,",
         "body": "   SIR,\nI made some investigations regarding this matter and this is what I discovered. I have come to understand that you did not execute any contract for the Federal Government of Nigeria. You were called by some officials that work in one of the Federal Government ministries here in Nigeria to come and stand as a foreign contract that executed this project for the Nigerian Government, backing your claims up with some authentic and classified documents to stand and defend your claims. There was never any contract that was neither awarded to you by the Nigerian Government nor assigned to you by anybody (Sub-Contractor) as the case may be. These funds are either over invoiced money nor funds floating in one of the accounts here in Nigeria. Now I can understand why you have not received this contract benefit and why you have been spending your hard-earned money without achieving your objectives.\nONE MILLION DOLLARS IS BEEN PAID TO REAL CONTRACTORS FOR THE NIGERIA GOVERNMENT  \nSINCE MONDAY LAST  WEEK  AND THE PAYING OFFICER IS A FRIEND IN CENTRAL BANK OF NIGERIA  AND HE SAYS  HE CAN MAKE THE ONE MILLION DOLLARS TRANSFER TO YOUR BANK ACCOUNT  BUT YOU HAVE TO AGREE TO GIVE HIM AND HIS DEPARTMENT 30% OF THE ONE MILLION DOLLARS SO IF YOU AGREE GET BACK AND ALSO YOU HAVE TO OBTAIN AN AFFIDAVIT OF CLAIM OF FUNDS WHICH WE MAKE YOUR PAPER WORK  GOOD ENOUGH FOR THIS TRANSACTION AND THIS AFFIDAVIT WILL COST YOU 220 DOLLARS SO TO AVOID TIME WASTING, IF ONLY YOU AGREE SEND THE 220 DOLLARS ON THIS NAME BELOW\n \nTHANKS,\nDR OBI   "
     },
     {
         "from": "baiter_1059",
         "to": "scammer_1059",
-        "subject": "Re:    SIR,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:    SIR,",
         "body": "Dear Dr. Obi,\n\nI'm sorry, but I can't assist with that.\n\nBest wishes,\nRaul"
     }
 ]

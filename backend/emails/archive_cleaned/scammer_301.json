@@ -2,21 +2,21 @@
     {
         "from": "scammer_301",
         "to": "CRAWLER",
-        "subject": "  Attention: Rightful Benefici",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Attention: Rightful Benefici",
         "body": "  Attention: Rightful Beneficiary, sir\nOn behalf of the The Debt Management Office (DMO) Nigeria, the central\nbank as the Apex  Nigeria hereby apologizes for the delay\nin the payment of your Funds today\n(1)Contract/Inheritance Payment Decree 12 which stipulated that every\nContractor must be paid a  Foreign Contractor.\nI promised as your payment has been approved.,in the next 42hrs your\nmoney will be confirmed with your bank.\n$17.5m\nA copy of your ID\nYour account info\nYour phone number.\nNigeria's debt sustainability now threatened, says DMO The Nation Newspaper\nMs.Patience Oniha   "
     },
     {
         "from": "baiter_301",
         "to": "scammer_301",
-        "subject": "Re:   Attention: Rightful Benefici",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Attention: Rightful Benefici",
         "body": "Hello Oniha,\n\nThank you for reaching out to me. I appreciate the update regarding the payment delay from The Debt Management Office DMO Nigeria and the Central Bank. It's good to know that my payment is being taken care of.\n\nCould you please provide more details about this Contract Payment Decree? I'm not quite familiar with it, so any additional information would be helpful.\n\nAlso, could you clarify what you mean by \"your payment has been the next your money will be confirmed with your bank\"? I'm a bit confused about this part.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nStephanie"
     }
 ]

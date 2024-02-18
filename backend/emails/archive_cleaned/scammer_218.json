@@ -2,21 +2,21 @@
     {
         "from": "scammer_218",
         "to": "CRAWLER",
-        "subject": "Dear Sir,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Dear Sir,",
         "body": "Dear Sir,\nComplement of the day to you. I knew this email message will come to you as a surprise since it is coming from someone you have not met before now.\nMy colleagues have mandated me to look for a foreign partner who will  assist us to receive the sum of Twelve Million, Five Hundred Thousand United States of American Dollars.\nWe will compensate the account onwer with 25% of the total sum \nUS$12.5 Million as your  share once you have assisted us to receive the fund into any account of your choice. The balance 75% is what you will give to us when we come to your country and it will be used to make any good investments in your country.\nAll the modalities towards the success of the fund is in place and we have also done our home work very well to make sure you receive the fund without any hindrance on your side.\nThis is a serious matter and very confidential\n. I will give you more information when I hear from you on how we can proceed.\nWaiting to hear from you Asap.\nYours faithfully.\nEngr. Christian Pratscher"
     },
     {
         "from": "baiter_218",
         "to": "scammer_218",
-        "subject": "Re: Dear Sir,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Dear Sir,",
         "body": "Hello Engr. Christian Pratscher,\n\nI hope this message finds you well. I must say, your email certainly did come as a surprise! It's not every day that one receives an email about such a large sum of money.\n\nI'm curious to know more about this situation. How did you come across my contact information? And why have you chosen me for this task? \n\nAlso, could you please elaborate on the nature of the fund and its origin? I would like to understand better before making any decisions.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDaniel"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "from": "scammer_945",
         "to": "CRAWLER",
-        "subject": " ADS Private Finance Group LTD",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " ADS Private Finance Group LTD",
         "body": " ADS Private Finance Group LTD.\nLevel 30, The Leadenhall Building, 122 Leadenhall Street,\nLondon, EC3V 4AB.\nDear, \nI am Maxwell Jones Jr., Manager with ADS Private Finance Group. We are offering corporate and personal loans at 3% interest rate for the duration of 15 years. We provide a broad range of services to both commercial and private clients. As a major UK loan firm, we serve local, regional, national and international customers. We also pay 1.2% commission to brokers who introduce project owners for finance or other opportunities.\nI will await your kind response, if you are interested we will explain in more details. Please email me back on this email: ID: \ninfoinfo_2341@yahoo.co.jp\nYours faithfully\nMr. Maxwell Jones Jr.\nManager Finance & Account\nADS Private Finance Group   "
     },
     {
         "from": "baiter_945",
         "to": "scammer_945",
-        "subject": "Re:  ADS Private Finance Group LTD",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:  ADS Private Finance Group LTD",
         "body": "Dear Mr. Maxwell Jones Jr.,\n\nThank you for your offer. I am interested in learning more about the services provided by ADS Private Finance Group. Could you please provide me with more details regarding the terms and conditions of your loans, as well as any other relevant information?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRalph"
     }
 ]

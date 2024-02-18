@@ -2,21 +2,21 @@
     {
         "from": "scammer_1155",
         "to": "CRAWLER",
-        "subject": "   Dear Beneficiary:",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Dear Beneficiary:",
         "body": "   Dear Beneficiary:\nI am Mr. Oliver Alawuba, The Managing Director/Chief Executive Officer of United Bank For Africa Nigeria. I write to informed you that we have received an instruction from United Nations Headquarters New York City United States, I received an instruction with authorized letter to compensate Two Hundred and fifty thousand scammed victims from U.S.A, Europe, Canada, United Arab Emirates,Bahrain, Qatar, Saudi Arabia, South America, UK, Australia,Asia and Africa Continent through swift ATM Master Card as a global compensatory settlement from the Federal Government of Nigeria to recompense the scammed victims those who has lost their businesses.\nNote we have arranged your payment through online banking or ATM Master Card and this will be issued on your Name and it shall be posted directly to your address by the courier services available in your country upon your contact with us. The sum of US$10.000,000.00 compensatory settlement will be credited into the ATM Master Card and enable you to withdraw your funds through ATM Machine in your country with a maximum withdrawal of US$2.000.00 per day. Your limit can be increased to any amount upon your request.\nIn this regard, you are to furnish us with the requested information below for issuance and delivery of your ATM Master Card at your doorstep address without any further delay; I will do anything humanly possible to ensure you receive your compensatory settlement once you comply with bank rules.\n1. Mobile Telephone:\n2. Delivery Address:\n3. Full Name:\n4. Your Identification:\n5. your WhatSSap number:\nYour urgent response needed to this email as directed to avoid further delay in receiving your ATM Master Card at your doorstep address.\nYours faithfully,\nMr Oliver Alawuba\nManaging Director/Chief Executive\nOfficer of United Bank For Africa   "
     },
     {
         "from": "baiter_1155",
         "to": "scammer_1155",
-        "subject": "Re:    Dear Beneficiary:",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    Dear Beneficiary:",
         "body": "Hello Mr. Oliver Alawuba,\n\nThank you for reaching out to me. I am quite surprised and intrigued by this information. It's not every day that one receives such news.\n\nI'm curious, how was my name selected among the two hundred and fifty thousand scammed victims? Also, could you please explain a bit more about how the ATM Master Card works? \n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nJudith"
     }
 ]

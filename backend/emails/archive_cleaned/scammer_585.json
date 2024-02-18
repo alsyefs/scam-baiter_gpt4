@@ -2,21 +2,21 @@
     {
         "from": "scammer_585",
         "to": "CRAWLER",
-        "subject": " ATTN: Sir/Madam.",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " ATTN: Sir/Madam.",
         "body": " ATTN: Sir/Madam.\n \nAccording to the ethics of an office, introduction is always very important on a first contact like this. I am Mr. Kevin Vorndran Deputy Assistant Director (FBI). This Official Memorandum is to inform you that we discovered that some officials who work under the United States government have attempted to divert your Funds through a back-door channel. We actually discovered this today, through our Secret Agents under the Disciplinary Unit of the Intelligence Division (FBI) after we apprehended a money laundering suspect Mr. Mansour Ahmadi.\n \nThe mentioned suspect Mr. Mansour Ahmadi, was apprehended at the Dulles International Airport early this morning, as he attempted to carry the enormous cash sum of $10,500,000.00 dollars outside the shores of the USA. In respect to the money laundering decree of the United States, such amounts of money cannot be moved in cash outside the United States because such an attempt is a criminal offense and is punishable under the money laundering act of 1982 of the United States of America. This decree is a globalized law applicable in most developed countries in order to check-mate terrorism and money laundering.\n \nFrom our gathered information here in this Unit, we discovered that the said Funds in question actually belong to you, but it had been purposely delayed because the officials in charge of your Payment are into some sort of irregularities which is totally against the ethics of any Payment institution. Presently, this said Funds are under the custody of the Guaranty Bank & Trust N.A and I can assure you that your Funds will be released to you without a hitch provided that you are sincere to us in this matter. Also, we require your positive cooperation at every level because we are closely monitoring this very transaction in order to avert the bad eggs in our society of today.\n \nWe have instructed the Executive management of Guaranty Bank & Trust N.A to Release the said Funds to you as the certified Beneficiary in question, because we have valuable information/records to authenticity that the said Funds valued the sum of $10,500,000.00 dollars truly belong to you. Be that as it may, you are required to provide us with below listed information (for official verification).\n \n1. First Name, Middle Name and Last Name.\n2. Age.\n3. Occupation.\n4. Marital Status.\n5. Direct Telephone/Fax Number.\n6. Residential address.\n \nWe await your immediate compliance to this official obligation, so that you can be paid by the Guaranty Bank & Trust N.A being the authorized paying bank.\n \nOfficially Sealed.\n \nMr. Kevin Vorndran\nDeputy Assistant Director (FBI)   "
     },
     {
         "from": "baiter_585",
         "to": "scammer_585",
-        "subject": "Re:  ATTN: Sir/Madam.",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:  ATTN: Sir/Madam.",
         "body": "Dear Mr. Kevin Vorndran,\n\nI am writing in response to your official memorandum regarding the attempted diversion of my funds. I appreciate the FBI's diligence in this matter and am relieved to hear that my funds are now under the custody of Guaranty Bank Trust.\n\nHere are the details you requested:\n\nFirst Name, Middle Name and Last Name: Lewis D. Noogie\nAge: 45\nMarital Status: Single\nDirect Telephone Number: +371 12345678\nFax Number: N/A\nAddress: Riga, Latvia\n\nI look forward to your prompt response and further instructions on how to proceed with claiming my funds.\n\nBest regards,\nLewis D.\n\nBest wishes,\nKimberly"
     }
 ]

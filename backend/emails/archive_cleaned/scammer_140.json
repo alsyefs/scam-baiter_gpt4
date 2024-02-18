@@ -2,31 +2,31 @@
     {
         "from": "scammer_140",
         "to": "CRAWLER",
-        "subject": "   Attention: ",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "   Attention: ",
         "body": "   Attention: \nHow are you doing today? I am writing to know how far you have gone with our paying bank(Andy Halford (Mr).)  for transfer of your funds valued of $7,800,000.00 into your bank account.\nKindly get back to me.\nRegards,\nBarrister. Ken Morris.\nWhatsApp: +17206490907   "
     },
     {
         "from": "baiter_140",
         "to": "scammer_140",
-        "subject": "Re:    Attention: ",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:    Attention: ",
         "body": "Hello Barrister Ken Morris,\n\nI'm doing well, thank you for asking. I hope you're having a good day too. \n\nRegarding the transfer of funds, I must admit that I'm a bit confused. Could you please provide more details about this? For instance, who is Andy Halford Mr and what is his role in this process? Also, could you clarify what these funds are for?\n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nMelissa"
     },
     {
         "from": "scammer_140",
         "to": "baiter_140",
-        "subject": "Re: Attention:",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "2",
+        "subject": "Re: Attention:",
         "body": "Many thanks for your email and I will like you to kindly resend me back my\r\nprevious email to you so that we can proceed.\nRegards,\r\nBarrister Ken Morris."
     }
 ]

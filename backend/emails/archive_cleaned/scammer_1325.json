@@ -2,21 +2,21 @@
     {
         "from": "scammer_1325",
         "to": "CRAWLER",
-        "subject": "Attention: xxx.",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attention: xxx.",
         "body": "Attention: xxx.\nWe hereby confirm the approval of your payment of US$10,500,000.00 only, into our official ESCROW account with the Banco De Oro (BDO) Philippines by order of Ambassador  Lachezara Stoeva,  The Incumbent President United Nations Economic and Social Council (ECOSOC) through her department in-charge of Foreign Debt Recovery Committee on Overdue contract, lotto, Loan/ Next of Kin payments in Africa, as indicated in our database.\nWe sincerely apologize for delays and advice you to STOP any further communication with any other payment center in Europe or Asia, as well as your associates in any of the African countries e.g, South Africa, Nigeria, Ghana, Togo, Abidjan, Angola, Cotonou, Malaysia, for they contributed 100% hindrances to the release of your funds.\nKindly provide us with the below information to reconfirm your details in our database and for our prompt payment procedures.\nBeneficiary's Name:\nBeneficiary's Address:\nAge:\nCompany's Name:\nRank In Office:\nTel, Cell, Fax:\nBank Details:\nReceiving Bank Name:\nBank Address:\nAccount Number:\nAccount Name:\nRouting Number:\nSwift Code:\nBank Tel:\nNote, that an empty account will serve as long as it is still a valid account. Our final fund release order will be forwarded to our operational paying bank, for the immediate release of your allocation to you upon receipt and official re-confirmation of your information.\nFor any further inquiry, please contact the undersigned officer as funds will be retrieved to the treasury after Fourteen (14) business days of this notice.\nYours In Service,\n \nEdward Mark.\nFor: UN ECOSOC."
     },
     {
         "from": "baiter_1325",
         "to": "scammer_1325",
-        "subject": "Re: Attention: xxx.",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: Attention: xxx.",
         "body": "Hello Edward Mark,\n\nThank you for your message. It's quite interesting to hear about this payment approval. I must say, it's a bit unexpected! \n\nCould you please provide me with more information? For instance, how did my name come up in your database? And what is the purpose of this payment?\n\nI'm also curious about the United Nations Economic and Social Council ECOSOC and their role in this process. Could you explain a bit more about their involvement?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nJackie"
     }
 ]

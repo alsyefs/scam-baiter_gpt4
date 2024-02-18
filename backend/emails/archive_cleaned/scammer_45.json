@@ -2,21 +2,21 @@
     {
         "from": "scammer_45",
         "to": "CRAWLER",
-        "subject": "Do you need a loan urgent to p",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Do you need a loan urgent to p",
         "body": "Do you need a loan urgent to pay up your bills or are you seeking a loan to open a good business today like Rent loans, Car loans, Business loans, Home mortgage, Educational loans Construction loans, Commercial mortgage,  you can contact Email:  \najmanpalaceloanservice1@gmail.com"
     },
     {
         "from": "baiter_45",
         "to": "scammer_45",
-        "subject": "Re: Do you need a loan urgent to p",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Do you need a loan urgent to p",
         "body": "Dear Sir/Madam,\n\nThank you for your offer. However, I am currently not in need of any loans. I appreciate your consideration and will keep your contact information for future reference.\n\nBest wishes,\nCleo"
     }
 ]

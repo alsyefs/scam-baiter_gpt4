@@ -2,21 +2,21 @@
     {
         "from": "scammer_766",
         "to": "CRAWLER",
-        "subject": "Attention please",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attention please",
         "body": "Attention please\nThis is Mr Wrey from the SUPREME COURT JUSTICE Washington DC, about\nyour Compensated FUNDS IN A Box worth of $15 million, ,but mr James\nEldon the Federal Bureau investigation officer want to Claim your fund\nbecause he said you was killed by Gangsters some years Ago,but since\nthen i have been searching and looking for your Contact up till\nnow,I'm looking for your Contact because I'm a honest man and i can't\nallow someone to take what doesn't belongs to him/her,so you have to\nChoose the Delivery Company that will deliver you your fund Among the\nthree\nUPS Delivery Company price $50\nFedEx Delivery Company  price $100\nDHL Company  price $200\nChoose the delivery Company which will deliver you your box and Sir\nDavid Assign Officer Daniel Munoz, to escort the Company Agent that\nwill deliver the fund so that know one will hurt or stole the box from\nthe Agent because the box is full of money on it, make sure you send\nme a gift for helping you ones you receive this your box from the\nCompany Congrats"
     },
     {
         "from": "baiter_766",
         "to": "scammer_766",
-        "subject": "Re: Attention please",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Attention please",
         "body": "Dear Mr. Wrey,\n\nThank you for your message. However, I must inform you that there seems to be a misunderstanding. I have not been involved in any transactions involving large sums of money or a box full of funds.\n\nI would appreciate it if you could provide more details about this situation, as I am currently unable to assist without further information.\n\nBest wishes,\nJulie"
     }
 ]

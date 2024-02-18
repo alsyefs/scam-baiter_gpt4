@@ -2,21 +2,21 @@
     {
         "from": "scammer_1271",
         "to": "CRAWLER",
-        "subject": " From: Susan Dawson <susandaws",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " From: Susan Dawson <susandaws",
         "body": " From: Susan Dawson <susandawson5@hotmail.com>\nSent: Thursday, November 17, 2022\nTo: \nSubject: Re:Thanks\n \nFor your information\nYou are the beneficiary to my deceased client who died intestate to the bequest of the sum of  17,200,000.00 GBP. Name now withheld.\nYou were chosen because you bear the same last name with him. If you accept, please reply for further details.\nThanks,\nSusan Dawson  "
     },
     {
         "from": "baiter_1271",
         "to": "scammer_1271",
-        "subject": "Re:  From: Susan Dawson <susandaws",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:  From: Susan Dawson <susandaws",
         "body": "Hello Susan Dawson,\n\nWow, this is quite surprising! I had no idea I had a relative who left such a significant amount. Could you please tell me more about my deceased relative? How did you find me and how are we related?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDon"
     }
 ]

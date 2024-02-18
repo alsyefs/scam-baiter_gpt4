@@ -2,61 +2,61 @@
     {
         "from": "scammer_1247",
         "to": "CRAWLER",
-        "subject": "MY NAME IS ANDREW J SAVAGE",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "MY NAME IS ANDREW J SAVAGE",
         "body": "MY NAME IS ANDREW J SAVAGE\nDIPLOMATIC AGENT FROM (IMF)\nthis message is coming to you to inform you that the state government\nof International Monitoring Fund (IMF) have compensated you  with the\nsum of  ($8.5 million)   Eight  million, five hundred thousand USD) as\na compensation fund for scam victims and also saying sorry for\nwhatever you lost in the hands of the scam victims, and also promise\nyou that such will not repeat it again from today the government of\nUnited Nation have been in control  To Make sure you are happy this\nchristmas holyday as we are compensating all the victim this season W\nhave directed you to contact Mr Andrew J Savage your delivery Agent\nfor you to get your own package ,You are free choose How you wanted to\nreceive your funds\nContact Inf +1 (814)499- 2141\nso \nkindly confirm your address were to ship this compensation fund to you.\nFull name\nPhone number\nOccupation\nCopy of your ID card\nThanks as we are we are waiting for your positive responds"
     },
     {
         "from": "baiter_1247",
         "to": "scammer_1247",
-        "subject": "Re: MY NAME IS ANDREW J SAVAGE",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: MY NAME IS ANDREW J SAVAGE",
         "body": "Hello Andrew Savage,\n\nWow, this is such an unexpected surprise! I can't believe the state government of Monitoring Fund IMF has chosen me for this. It's really kind of them to think about scam victims like this. \n\nI'm curious though, how did you guys select me? And could you tell me more about how this fund works? I'm just so excited and want to understand everything clearly.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nRobert"
     },
     {
         "from": "scammer_1247",
         "to": "baiter_1247",
-        "subject": "Re: MY NAME IS ANDREW J SAVAGE",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "2",
+        "subject": "Re: MY NAME IS ANDREW J SAVAGE",
         "body": "Your name and your email address was mentioned to the United States Secret\r\nService by one of the victims\r\n\r\nMeanwhile this Compensation department has been mandated by the IMF and the\r\nUnited Nations to deliver your compensation funds to you through UPS\r\nCourier Service which is 100% Or ATM card Guarantee for payment to you as\r\none of the scammed victim."
     },
     {
         "from": "scammer_1247",
         "to": "baiter_1247",
-        "subject": "Re: MY NAME IS ANDREW J SAVAGE",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.6315162037037036,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "3",
+        "subject": "Re: MY NAME IS ANDREW J SAVAGE",
         "body": "What is going on\n\n[SMITH WALTER - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gcewf)\t[2gcewf]"
     },
     {
         "from": "scammer_1247",
         "to": "baiter_1247",
-        "subject": "Re: MY NAME IS ANDREW J SAVAGE",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.6319212962962963,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "4",
+        "subject": "Re: MY NAME IS ANDREW J SAVAGE",
         "body": "I have been waiting for your positive respond for the delivery of your funds\n\n[SMITH WALTER - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gcexi)\t[2gcexi]"
     },
     {
         "from": "scammer_1247",
         "to": "baiter_1247",
-        "subject": "Re: MY NAME IS ANDREW J SAVAGE",
         "direction": "Inbound",
-        "days_from_first_conversation": 1,
+        "days_from_first_conversation": 1.0544097222222222,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "5",
+        "subject": "Re: MY NAME IS ANDREW J SAVAGE",
         "body": "Why are you not responding to my email?\n\n[SMITH WALTER - Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=2gd737)\t[2gd737]"
     }
 ]

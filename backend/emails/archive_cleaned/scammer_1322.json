@@ -2,21 +2,21 @@
     {
         "from": "scammer_1322",
         "to": "CRAWLER",
-        "subject": "  405 East 42nd Street,New Yor",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  405 East 42nd Street,New Yor",
         "body": "  405 East 42nd Street,New York,NY,\n10017,USA/Ref: WB/NF/UN/XX027,(5501BDHX/844)\nUNPAID/TR/W/CBN006 Code:/CON/FT\nTelephone Number: +1 2129631234\nUSD$39.5M/Donation Fund Payment.\nDEAR ,BENEFICIARY, YOUR DONATION FUNDS FORWARD TO\nUSD$39.5M/Donation Fund Payment.\nGood morning, In line with the arrangement with you for your donation fund release, we have discussed with the management of DHB Bank (Nederland) N.V. and we have reached an agreement for your fund release and transfer.\nYour acknowledgement of this mail is needed urgently with your contact details for me to give you the contact information of the Director of Remittances who is in charge of your fund in DHB Bank (Nederland) N.V.\nYour contact details, home address and phone number Is urgently needed for communication with DHB Bank (Nederland) N.V. TWO COPIES OF YOUR PASSPORT PHOTOGRAPH\nREGARD.\nANTONIO GUTERRES.\nUNITED NATION SECRETARY GENERAL.   "
     },
     {
         "from": "baiter_1322",
         "to": "scammer_1322",
-        "subject": "Re:   405 East 42nd Street,New Yor",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   405 East 42nd Street,New Yor",
         "body": "Good morning,\n\nThank you for your message. It's great to hear that the donation fund release has been discussed and an agreement has been reached. I'm eager to learn more about this process.\n\nCould you please provide me with more details about how this fund release and transfer will take place? Also, what role does the Director of DHB Bank Nederland play in this process?\n\nI look forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nElliott"
     }
 ]

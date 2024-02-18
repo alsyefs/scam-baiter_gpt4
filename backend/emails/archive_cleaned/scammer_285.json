@@ -2,61 +2,61 @@
     {
         "from": "scammer_285",
         "to": "CRAWLER",
-        "subject": "Attention,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "Attention,",
         "body": "Attention,\nI am David Brown, Head Officer-in-Charge, Administrative Service\nInspection Unit United Nations Inspection Agency in Hartsfield-Jackson\nInternational Airport Atlanta, Georgia. During our investigation, I\ndiscovered an abandoned shipment through a Diplomat from the United\nKingdom which was transferred from JF Kennedy Airport to our facility\nin Atlanta, and when scanned it revealed an undisclosed sum of m0ney\nin 2 Metal Trunk Boxes weighing approximately 130kg.\nThe consignment was abandoned because the Content was not properly\ndeclared by the consignee as m0ney rather it was declared as a\npersonal effect/classified document to either av0id diversion by the\nShipping Agent or confiscation by the relevant authorities. The\ndiplomat's inability to pay for Non-Inspection fees among other things\nis the reason why the consignment is delayed and abandoned.\nBy my assessment, each of the boxes contains $ 4M  which is a total of\n$ 8 million USD. They are still left in the airport storage facility\nt0day. The Consignments like I said, are two metal trunk boxes\nweighing about 65kg each (Internal dimension:  W61 x H156 x D73 (cm)\neffective capacity: 680 L) Approximately. The details of the\nconsignment including your n a m e and email on the official document\nfrom the United Nations office in London where the shipment was tagged\nas personal effects/classified document is still available with us. As\nit stands n o w, you have to reconfirm your full n a m e, P H O N E\nNumber, and full address so I  can cross-c h e ck and see if it\ncorresponds with the one on the official documents. It is n o w left\nto you to decide if you still need the consignment or allow us to\nrepatriate it back to the UK (place of origin) as we were\ninstructed.Pls make sure that you Reply to this email:\ndddavidbbbrownnn@gmail.com\nAs I did say again, the shipper abandoned it and ran away most\nimportantly because he gave a false declaration, he could not pay for\nthe yellow tag, he could not secure a valid non-inspection\ndocument(s), etc. I am ready to assist you in any way I can f o r you\nto g e t back these packages provided you will also give me something\nout of it (F I N A N C I A L gratification). You can either come in\nperson or engage the services of a secure shipping/delivery\nCompany/agent that will provide the necessary security that is\nrequired to deliver the package to your doorstep or the destination of\nyour choice. I need the guarantees that I can g e t from you before I\ncan g e t involved in this project.\nBest Regards,\nDavid Brown\nHead Officer-in-Charge\nAdministrative Service Inspection Unit."
     },
     {
         "from": "baiter_285",
         "to": "scammer_285",
-        "subject": "Re: Attention,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: Attention,",
         "body": "Dear David Brown,\n\nI am quite surprised to receive your email regarding the abandoned shipment. I can assure you that I have no knowledge of this shipment and I am not expecting any packages from the United Kingdom.\n\nHowever, if there is indeed a package addressed to me, I would like to know more about it. Could you please provide more details about the contents of these metal trunk boxes? Also, could you clarify what you mean by \"personal effects classified document\"?\n\nI look forward to your response.\n\nBest wishes,\nRichard"
     },
     {
         "from": "scammer_285",
         "to": "baiter_285",
-        "subject": "Re: Attention,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "2",
+        "subject": "Re: Attention,",
         "body": "Attention:Beneficiary!Mr.Richard,\r\n\r\nSir,\r\n\r\nThanks for your email received regarding the shipment of your consignment\r\nof two Trunk Boxes which will take effect within the next 72 hours once the\r\ndelivery is scheduled. Note that consignments were declared as personal\r\neffects and classified documents while  in actual fact they contain raw\r\ncash, US currency notes in $ 100USD denominations carefully packed and\r\nstashed in two trunk boxes.\r\n\r\nApproximately, 4Million USD in each box. The electronic scanner revealed it\r\nwhen the package was scanned in the airport and has been inspected and\r\napproved by United States Internal Revenue for delivery to your destination\r\nand I wish to let you know that such consignments\r\nare not what you ship through FEDEX, UPS, DHL etc.  The consignment was\r\noriginally abandoned by the diplomat because it was wrongfully declared as\r\nI explained to you in my previous email and US customs have approved and\r\nissued us a customs certificate which is very assured to be delivered to\r\nyou once Non-Inspection and delivery processing documentation are settled.\r\n\r\nWe have concluded with the Authorities and what is required from the\r\nrecipient' are Yellow Tag, clearance  and Non-inspection charges of $450\r\nUSD only, this will be used for Clearance  and shipment to your doorstep\r\nwith the help of another Diplomat directly to you within\r\n72hours upon the charges is pad to avoid any delay or hindrance, this\r\nconsignment would have been repatriated back if not for my effort and that\r\nof the Director at the Airport who agreed with me and decided to make sure\r\nit is delivered to the owner.\r\n\nThank you,\r\n\r\nMr. David Brown\r\nHead Officer-in-Charge\r\nAdministrative Service\r\nInspection Unit."
     },
     {
         "from": "baiter_285",
         "to": "scammer_285",
-        "subject": "Re: Attention,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.008969907407407407,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "3",
+        "subject": "Re: Attention,",
         "body": "Dear Mr. David Brown,\n\nThank you for your email and the detailed information regarding the shipment of the two trunk boxes. I understand that these boxes contain a significant amount of cash and have been approved by United States Internal Revenue for delivery to my address.\n\nI appreciate your efforts and those of the Director at the Airport in ensuring this delivery. However, I would like to clarify a few things before we proceed.\n\nFirstly, could you please provide more details about the Yellow Tag and clearance procedures? Also, I would like to know how I can settle the charges of USD 1,000 that you mentioned.\n\nLooking forward to your prompt response.\n\nBest wishes,\nRichard"
     },
     {
         "from": "baiter_285",
         "to": "scammer_285",
-        "subject": "Re: Attention,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.2591087962962963,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "4",
+        "subject": "Re: Attention,",
         "body": "Dear Mr. David Brown,\n\nThank you for your email and the detailed information regarding the shipment of the two trunk boxes. I understand that these boxes contain a significant amount of cash and have been approved by the United States Internal Revenue for delivery to my address.\n\nI appreciate your efforts and those of the Director at the Airport in ensuring this delivery. However, I would like to clarify a few things before we proceed.\n\nFirstly, could you please provide more details about the Yellow Tag and clearance procedures? Also, I would like to know how I can settle the charges of USD 1,000 that you mentioned.\n\nLooking forward to your prompt response.\n\nBest wishes,\nRichard"
     },
     {
         "from": "scammer_285",
         "to": "baiter_285",
-        "subject": "Re: Attention,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.28726851851851853,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "5",
+        "subject": "Re: Attention,",
         "body": "Attention:Beneficiary!Mr.Richard,\r\n\r\nSir,\r\n\r\nThanks for your mail. This is to inform you that after reading your mail I\r\nunderstand, but I want to let you know that I will send you the Yellow Tag\r\nby tomorrow and I will tell you how you are going to receive your boxes\r\ncontain a significant amount of cash by tomorrow but you have to provide us\r\nyour home address and your Direct Telephone Number and I will send you the\r\npayment details by tomorrow on the email so you don’t have any problem with\r\nthe United States Internal Revenue for delivery your boxes to your home\r\naddress.\r\n\r\n1. House address\n2. Direct Telephone Number\r\n3. Your Full Name:\r\n\r\nThank you,\r\n\r\nMr. David Brown\r\nHead Officer-in-Charge\r\nAdministrative Service\r\nInspection Unit."
     }
 ]

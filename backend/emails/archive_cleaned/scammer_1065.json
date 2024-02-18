@@ -2,21 +2,21 @@
     {
         "from": "scammer_1065",
         "to": "CRAWLER",
-        "subject": " Dear Sir/Madam,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": " Dear Sir/Madam,",
         "body": " Dear Sir/Madam,\nIf you received this email note that you have not received your fund\nfrom us. We are sorry that the past administrations did not do their\nbest in making sure you received your fund payment.\nKindly reply to this email with the following:\n1. Full name\n2. Receiving address\n3. Total Fund amount\n4. Phone number/WhatsApp\n5.Mode of payment\n6. ID card.\nAs soon as We received the requested information we shall crosscheck and\nproceed with your payment.\nWaiting for your reply.\nThanks.\nMichael Olaymei Cardoso.\nCentral Bank of Nigeria Governor.    "
     },
     {
         "from": "baiter_1065",
         "to": "scammer_1065",
-        "subject": "Re:  Dear Sir/Madam,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:  Dear Sir/Madam,",
         "body": "Hello Michael Olaymei Cardoso,\n\nThank you for reaching out to me. I must say, it's quite surprising to hear about this fund payment. Could you please provide more details about it? Like, how did this come about and why am I receiving it?\n\nI'm also curious about the process involved in receiving these funds. Could you explain that a bit more? \n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nJerry"
     }
 ]

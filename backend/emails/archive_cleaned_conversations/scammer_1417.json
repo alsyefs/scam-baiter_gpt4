@@ -2,31 +2,31 @@
     {
         "from": "scammer_1417",
         "to": "CRAWLER",
-        "subject": "  Greetings,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Greetings,",
         "body": "  Greetings,\nI am Mr. Ali Bin Ahmed Al-Kuwari, Manager Finance and Account,\nQatar Petroleum. I have  one hundred million dollars for\nInvestment.\nContact me if you are interested, I have all it take to move the\nfund to you as a contract fund to avoid every query. I will give\nyou more details upon the receipt of your response.\nRegards,\nAli Bin Ahmed Al-Kuwari\nFinance and Account\nQatar Petroleum\nEmail: \nytiiusa2@gmail.com\n "
     },
     {
         "from": "baiter_1417",
         "to": "scammer_1417",
-        "subject": "Re:   Greetings,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re:   Greetings,",
         "body": "Hello Mr. Ali Bin Ahmed,\n\nI hope this message finds you well. Your proposal sounds very interesting, although I must admit, it's a bit overwhelming to think about such a large sum of money! \n\nCould you please provide more details about this process? How exactly would the fund be moved? And what does it mean for me to have \"all it takes\"?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nDorthy"
     },
     {
         "from": "scammer_1417",
         "to": "baiter_1417",
-        "subject": "Re: Greetings,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "2",
+        "subject": "Re: Greetings,",
         "body": "Dear Dorthy,\r\n\r\nThanks for your kind response and your interest.\r\n\r\nI am willing to invest in any profitable venture proposed by you provided\r\nyou are capable of investing wisely when the fund arrives in your account.\r\nI have decided to offer you 30% while me and my colleagues will take 70%.\r\nBefore I contacted you, I prayed and fasted to Allah for a good, honest and\r\nreliable partner, I am happy to have you  here and I will be glad to work\r\nwith you in honesty.\r\n\r\nThe first step is to register your company and send a copy of the\r\nregistration which will be back dated. Secure company operational license\r\nand other relevant documents required, after that,  We have to be honest to\r\neach other, because this project required a whole lot of trust. be rest\r\nassured that this transaction is very transparent and 100% risk free. We\r\nare going to follow all due processes to achieve this goal (Documentations)\r\nand you will appreciate it as we progress.\r\n\r\nThus, I will want you to send the following information to me for the\r\ndocumentation at the Qatar Financial Center.Your company name or the name\r\nyou would want to be used as the company that executed the contract with\r\nQatar petroleum that has not been paid by Qatar Petroleum before. While I\r\nwait for your prompt and urgent reply with any of your ID. I will register\r\nyour name or company name as a contractor with the QP to secure every\r\ncontract document that will empower you to receive the fund as a contract\r\npayment.\r\n\r\nMy conditions are:\r\n\r\n1. The sum of US$100M will be transferred to your Account.\r\n2. This deal must be kept secret forever and all correspondence will be\r\nstrictly by email for security purposes.\r\n3. There should be no third part in this Deal.\r\n\r\nlf this is OK by you, send to me the above mentioned requirements\r\na: Any of your proof of identification (lD)\r\nb. Your name or company name\r\n\r\nI will forward copies of my international passport, upon the receipt of\r\nyour response.\r\n\r\nWaiting for your urgent response.\r\n\nSincerely Yours\r\nAli Bin Ahmed Al-Kuwari"
     }
 ]

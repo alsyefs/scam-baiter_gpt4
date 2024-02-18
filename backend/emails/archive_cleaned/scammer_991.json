@@ -2,21 +2,21 @@
     {
         "from": "scammer_991",
         "to": "CRAWLER",
-        "subject": "My Name is Mrs Renate Settnik,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "My Name is Mrs Renate Settnik,",
         "body": "My Name is Mrs Renate Settnik, a German Citizen, I know that this message\n will be a surprise to you. Firstly, I am married to Mr. Bernd Settnik A\n gold merchant who owns a small gold Mine in Burkina Faso; He died of\n Cardiovascular Disease in mid-March 2011. During his life time he deposited\n the sum of £ 8.5 Million pounds) Eight million, Five hundred thousand\n pounds in a bank in Ouagadougou the capital city of Burkina\n Faso in West Africa . The deposited money was from the sale of the shares,\n death benefits payment and entitlements of my deceased husband by his\n company.\n I am sending this message to you praying that it will reach you in good\n health, since I am not in good health condition in which I sleep every\n night without knowing if I may be alive to see the next day. I am suffering\n from long time cancer and presently i am partially suffering from a stroke\n illness which has become almost impossible for me to move around. I am\n married to my late husband for over 4 years before he died and is\n unfortunately that we don't have a child, my doctor confided in me that i\n have less chance to live. Having known my health condition, I decided to\n contact you to claim the fund since I don't have any relation I grew up\n from the orphanage home,\n I have decided to donate what I have to you for the support of helping\n Motherless babies/Less privileged/Widows' because I am dying and diagnosed\n of cancer for about 2 years ago. I have been touched by God Almighty to\n donate from what I have inherited from my late husband to you for good work\n of God Almighty. I have asked Almighty God to forgive me and believe he\n has, because He is a Merciful God I will be going in for an operation\n surgery soon\n This is the reason i need your services to stand as my next of kin or an\n executor to claim the funds for charity purposes. If this money remains\n unclaimed after my death, the bank executives or the government will take\n the money as unclaimed fund and maybe use it for selfish and worthless\n ventures, I need a very honest person who can claim this money and use it\n for Charity works, for orphanages, widows and also build schools for less\n privilege that will be named after my late husband and my name; I need your\n urgent answer to know if you will be able to execute this project, and I\n will give you more information on how the fund will be transferred to your\n bank account.please contact me through this email address (\nrenatesettnik@germanymail.com\n Waiting for your reply,\n Thanks & Best Regards,\n Mrs. Renate Settnik\nrenatesettnik@germanymail.com"
     },
     {
         "from": "baiter_991",
         "to": "scammer_991",
-        "subject": "Re: My Name is Mrs Renate Settnik,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat1",
         "conversation_counter": "1",
+        "subject": "Re: My Name is Mrs Renate Settnik,",
         "body": "Hello Mrs. Renate Settnik,\n\nI'm really sorry to hear about your health condition and the passing of your husband. It's very kind of you to think about helping others in such a difficult time.\n\nYour story is quite touching and it's admirable that you want to use this money for charity purposes. I'm curious, why did you choose me for this task? Also, could you tell me more about the charity works you have in mind?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMary"
     }
 ]

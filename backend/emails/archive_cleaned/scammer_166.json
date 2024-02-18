@@ -2,51 +2,51 @@
     {
         "from": "scammer_166",
         "to": "CRAWLER",
-        "subject": "BMW Dealership",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "BMW Dealership",
         "body": "BMW Dealership\n         Greetings from Bavarian Engine Works Company.\nWe are very gratified to be at your service and we written to inform you\nabout your BMW winning fund that brought by the United Embassy from\nthe government\nof USA in the white house Washington DC.The 2 BMW X6 cars and a check\nof $12, million dollars have been \nmandated\nto be deliver to your residential house address as soon as you get\nback to us with these\nfollowing details;\nYour current home address::::::?\nYour full name::::::?\nOccupation::::::?\nPhone no::::::?\nNext of kin::::::?\ncontact us within these days  with your full delivery informations.\nThanks as we're waiting for your reply.\nOliver Zipse CEO,\nSebastian Mackensen CEO /President of BMW Group.\nYours Sincerly."
     },
     {
         "from": "baiter_166",
         "to": "scammer_166",
-        "subject": "Re: BMW Dealership",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: BMW Dealership",
         "body": "Dear Oliver Zipse and Sebastian Mackensen,\n\nI am thrilled to hear about my BMW winning fund. However, I would like to clarify a few details before we proceed. Could you please provide more information about this winning fund? How was I selected and what are the terms and conditions of this award?\n\nHere are my details for delivery:\n\n\n\n\n\n\nLooking forward to your prompt response.\n\nBest wishes,\nLenora"
     },
     {
         "from": "scammer_166",
         "to": "baiter_166",
-        "subject": "Re: BMW Dealership",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "2",
+        "subject": "Re: BMW Dealership",
         "body": "How can we help you?\r\nJust send your information here and we will start this delivery"
     },
     {
         "from": "baiter_166",
         "to": "scammer_166",
-        "subject": "Re: BMW Dealership",
         "direction": "Outbound",
-        "days_from_first_conversation": 2,
+        "days_from_first_conversation": 2.119872685185185,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "3",
+        "subject": "Re: BMW Dealership",
         "body": "Dear Sir/Madam,\n\nThank you for your prompt response. I am ready to proceed with the necessary steps for obtaining my Green Card. Could you please provide me with detailed instructions on what I need to do next? \n\nLooking forward to your guidance.\n\nBest regards,\nLewis D.\n\nBest wishes,\nLenora"
     },
     {
         "from": "scammer_166",
         "to": "baiter_166",
-        "subject": "BMW Dealership",
         "direction": "Inbound",
-        "days_from_first_conversation": 2,
+        "days_from_first_conversation": 2.384803240740741,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "4",
+        "subject": "BMW Dealership",
         "body": "Okay\r\nWe need you\r\nInformation\r\n\r\nYou full name\r\nYou home address\r\nYou phone number\r\nYou age"
     }
 ]

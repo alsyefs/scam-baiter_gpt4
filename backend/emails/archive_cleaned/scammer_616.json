@@ -2,21 +2,21 @@
     {
         "from": "scammer_616",
         "to": "CRAWLER",
-        "subject": "I have something very importan",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "I have something very importan",
         "body": "I have something very important to tell you."
     },
     {
         "from": "baiter_616",
         "to": "scammer_616",
-        "subject": "Re: I have something very importan",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re: I have something very importan",
         "body": "I hope this message finds you well. I have something very important to share with you. Please respond at your earliest convenience so we can discuss further.\n\nBest wishes,\nHarold"
     }
 ]

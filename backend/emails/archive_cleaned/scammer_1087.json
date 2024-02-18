@@ -2,21 +2,21 @@
     {
         "from": "scammer_1087",
         "to": "CRAWLER",
-        "subject": "  Dear Friend,",
         "direction": "Inbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "None",
         "conversation_counter": "0",
+        "subject": "  Dear Friend,",
         "body": "  Dear Friend,\nHope this mail find you in an excellent condition of health. I'm happy\nto inform you that I have resign from the Central Bank of Nigeria and\nabout my success in getting those funds transferred under the\nco-operation of a new partner from Bahamas. Presently I'm in Hong Kong\nfor investment projects with my own share of the total sum. Meanwhile\ni didn't forget your past efforts and attempts to assist me in\ntransferring those funds despite that it failed us somehow.\nNow contact my secretary her name is MISS. PATRICIA and her email\naddress is { \npatriciayeapthum@gmail.com\n } ask her to send you the\ntotal sum of $1,200,000 Bank Draft in which I kept for your\ncompensation for all your past efforts and attempts to assist me in\nthis matter. I appreciated your efforts at that time very much .so\nfeel free and get in touch with my secretary MISS. PATRICIA with your\ndetails below :\nYour Full Names\nYour Address\nYour Cell Phone Number, if any\nInstruct her where and when to send the Bank Draft to you. Please do\nlet me know immediately you receive it so that we can share the joy\nafter all the sufferings at that time. I'm very busy here because of\nthe investment projects which me and the new partner are having at\nhand, finally, remember that I had forwarded instruction to My\nsecretary on your behalf to receive those moneys feel free to get in\ntouch with MISS. PATRICIA she will send the amount to you without any\ndelay.\nWith best regards.\nMr. Chris David\nIMPORTANT WARNING: This message is intended for the use of the person\nor entity to which it is addressed and may contain information that is\nprivileged and confidential, Thus you are hereby notified that any\ndissemination, distribution or copying of this information is STRICTLY\nPROHIBITED. If you have received this message by error, please ignore\nit  and destroy the related message.   "
     },
     {
         "from": "baiter_1087",
         "to": "scammer_1087",
-        "subject": "Re:   Dear Friend,",
         "direction": "Outbound",
-        "days_from_first_conversation": 0,
+        "days_from_first_conversation": 0.0,
         "startegy": "gpt-4-Chat2",
         "conversation_counter": "1",
+        "subject": "Re:   Dear Friend,",
         "body": "Dear Mr. Chris David,\n\nI am glad to hear that you are doing well and have successfully managed your funds. I appreciate your kind gesture of remembering my efforts.\n\nHowever, I would like to clarify that there seems to be some missing information in your email. You mentioned contacting your secretary Miss Patricia but did not provide her email address. Also, the amount of the bank draft was not specified.\n\nCould you please provide these details so I can proceed accordingly?\n\nBest wishes,\nWilliam"
     }
 ]

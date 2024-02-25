@@ -5,6 +5,7 @@ from datetime import datetime
 from tqdm import tqdm
 import pandas as pd
 import matplotlib.pyplot as plt
+import re
 from globals import (
     BASE_DIR, MAIL_SAVE_DIR, MAIL_ARCHIVE_DIR, UNIQUE_EMAIL_QUEUED,
     UNIQUE_EMAIL_QUEUED_DUPLICATE, EMAIL_ARCHIVED_CLEANED_DIR,
@@ -14,11 +15,15 @@ from globals import (
     MAILGUN_DOMAIN_NAME, EMAIL_ARCHIVED_REPORT, EMAILS_REPORT_DIR,
     EMAIL_CONVERSATIONS_REPORT_CSV, EMAIL_CONVERSATIONS_SUMMARY_REPORT_CSV
 )
+HIDE_EMAILS = True
+CHAT_1_STRATEGY_NAME = 'gpt-4-Chat1'
+CHAT_2_STRATEGY_NAME = 'gpt-4-Chat2'
+
 def get_sol_from_addr_sol_path(email_to, email_from):
     with open(ADDR_SOL_PATH, 'r') as f:
         addr_sol_data = json.load(f)
-    chat_1 = 'gpt-4-Chat1'
-    chat_2 = 'gpt-3.5-turbo-Chat2'
+    chat_1 = CHAT_1_STRATEGY_NAME
+    chat_2 = CHAT_2_STRATEGY_NAME
     result = None
     for key, value in addr_sol_data.items():
         if key.lower() == email_to.lower():
@@ -46,12 +51,17 @@ def check_duplicate_queued_emails(hide_emails=True):
             if filename.endswith(".json"):
                 file_path = os.path.join(BASE_DIR, "emails", "queued", filename)
                 with open(file_path, "r", encoding="utf8") as f:
-                    email = json.load(f)
-                    email_count += 1
-                    if email["from"] in email_set:
-                        email_dup_set.add(email["from"])
-                    else:
-                        email_set.add(email["from"])
+                    data = f.read()
+                    data = re.sub(r'^\s+|\s+$', '', data).strip().replace(r'\s+', ',')
+                    try:
+                        email = json.loads(data)
+                        email_count += 1
+                        if email["from"] in email_set:
+                            email_dup_set.add(email["from"])
+                        else:
+                            email_set.add(email["from"])
+                    except json.JSONDecodeError as e:
+                        print(f"Error decoding JSON in {filename}: {e}")
     with open(EMAIL_ARCHIVED_REPORT, "w", encoding="utf-8") as file:
             file.write(f"Number of queued emails to be interacted with: ({email_count}).\n")
             print(f"Number of queued emails to be interacted with: ({email_count}).")
@@ -222,23 +232,23 @@ def clean_and_sort_conversations(source_directory, output_directory,
             counter = 0
             file.write(f"\n*** All conversations with scammers: \n")
             for filename, days in conversations_report.items():
-                counter+=1
-                file.write(f"{counter}. Conversations with ({filename.replace('.json', '')}) took ({days['days_from_first_conversation']}) days and had ({days['number_of_conversations']}) conversations, ({days['inbounds']}) as inbounds and ({days['outbounds']}) outbounds, using ({days['strategy']}).\n")
+                if days['strategy'] != 'None':
+                    counter+=1
+                    file.write(f"{counter}. Conversations with ({filename.replace('.json', '')}) took ({days['days_from_first_conversation']}) days and had ({days['number_of_conversations']}) conversations, ({days['inbounds']}) as inbounds and ({days['outbounds']}) outbounds, using ({days['strategy']}).\n")
         counter = 0
         with open(EMAIL_CONVERSATIONS_REPORT_CSV, "w", encoding="utf-8") as file:
             file.write("n,scammer,conversation_days,number_of_conversations,outbounds,inbounds,strategy\n")
             for filename, days in conversations_report.items():
-                counter+=1
-                file.write(f"{counter},{filename.replace('.json', '')},{days['days_from_first_conversation']},{days['number_of_conversations']}, {days['outbounds']}, {days['inbounds']},{days['strategy']}\n")
+                if days['strategy'] != 'None':
+                    counter+=1
+                    file.write(f"{counter},{filename.replace('.json', '')},{days['days_from_first_conversation']},{days['number_of_conversations']}, {days['outbounds']}, {days['inbounds']},{days['strategy']}\n")
     else:
         print("No files with valid conversations were found.")
 
 def generate_report_from_csv():
     df = pd.read_csv(EMAIL_CONVERSATIONS_REPORT_CSV)
-    # list all keys:
-    # print(df.keys())
     df['n'] = df['n'].astype(int)
-    df['scammer'] = df['scammer'].astype(str) # Cannot find this key 'scammer' in the CSV file.
+    df['scammer'] = df['scammer'].astype(str)
     df['conversation_days'] = df['conversation_days'].astype(float)
     df['number_of_conversations'] = df['number_of_conversations'].astype(int)
     df['outbounds'] = df['outbounds'].astype(int)
@@ -250,54 +260,65 @@ def generate_report_from_csv():
         if row['strategy'] not in strategies:
             strategies[row['strategy']] = {'total_conversation_threads': 0,
                                            'total_conversations': 0,
-                                           'total_inbounds': 0,
                                            'total_outbounds': 0,
+                                           'total_inbounds': 0,
+
                                            'max_conversations': 0,
-                                           'max_days': 0,
                                            'max_outbounds': 0,
                                            'max_inbounds': 0,
+                                           'max_days': 0,
+
                                            'min_conversations': 10000, # set to a large number to get the min value
-                                           'min_days': 10000, # set to a large number to get the min value
                                            'min_outbounds': 10000, # set to a large number to get the min value
                                            'min_inbounds': 10000, # set to a large number to get the min value
+                                           'min_days': 10000, # set to a large number to get the min value
+
                                            'avg_conversations': 0,
-                                           'avg_days': 0,
                                            'avg_outbounds': 0,
                                            'avg_inbounds': 0,
+                                           'avg_days': 0,
+
                                            'mean_conversations': 0,
-                                           'mean_days': 0,
                                            'mean_outbounds': 0,
                                            'mean_inbounds': 0,
+                                           'mean_days': 0,
+
                                            'median_conversations': 0,
-                                           'median_days': 0,
                                            'median_outbounds': 0,
                                            'median_inbounds': 0,
+                                           'median_days': 0,
+
                                            'std_conversations': 0,
-                                           'std_days': 0,
                                            'std_outbounds': 0,
-                                           'std_inbounds': 0
+                                           'std_inbounds': 0,
+                                           'std_days': 0
                                            }
         strategies[row['strategy']]['total_conversation_threads'] += 1
         if row['strategy'] in strategies:
             strategies[row['strategy']]['total_conversations'] = df[df['strategy'] == row['strategy']]['number_of_conversations'].sum()
-            strategies[row['strategy']]['total_inbounds'] = df[df['strategy'] == row['strategy']]['inbounds'].sum()
             strategies[row['strategy']]['total_outbounds'] = df[df['strategy'] == row['strategy']]['outbounds'].sum()
+            strategies[row['strategy']]['total_inbounds'] = df[df['strategy'] == row['strategy']]['inbounds'].sum()
+            
             strategies[row['strategy']]['avg_conversations'] = (df[df['strategy'] == row['strategy']]['number_of_conversations'].sum() / strategies[row['strategy']]['total_conversation_threads']).round(2)
-            strategies[row['strategy']]['avg_days'] = (df[df['strategy'] == row['strategy']]['conversation_days'].sum() / strategies[row['strategy']]['total_conversation_threads']).round(2)
             strategies[row['strategy']]['avg_outbounds'] = (df[df['strategy'] == row['strategy']]['outbounds'].sum() / strategies[row['strategy']]['total_conversation_threads']).round(2)
             strategies[row['strategy']]['avg_inbounds'] = (df[df['strategy'] == row['strategy']]['inbounds'].sum() / strategies[row['strategy']]['total_conversation_threads']).round(2)
+            strategies[row['strategy']]['avg_days'] = (df[df['strategy'] == row['strategy']]['conversation_days'].sum() / strategies[row['strategy']]['total_conversation_threads']).round(2)
+
             strategies[row['strategy']]['mean_conversations'] = df[df['strategy'] == row['strategy']]['number_of_conversations'].mean().round(2)
-            strategies[row['strategy']]['mean_days'] = df[df['strategy'] == row['strategy']]['conversation_days'].mean().round(2)
             strategies[row['strategy']]['mean_outbounds'] = df[df['strategy'] == row['strategy']]['outbounds'].mean().round(2)
             strategies[row['strategy']]['mean_inbounds'] = df[df['strategy'] == row['strategy']]['inbounds'].mean().round(2)
+            strategies[row['strategy']]['mean_days'] = df[df['strategy'] == row['strategy']]['conversation_days'].mean().round(2)
+            
             strategies[row['strategy']]['median_conversations'] = df[df['strategy'] == row['strategy']]['number_of_conversations'].median().round(2)
-            strategies[row['strategy']]['median_days'] = df[df['strategy'] == row['strategy']]['conversation_days'].median().round(2)
             strategies[row['strategy']]['median_outbounds'] = df[df['strategy'] == row['strategy']]['outbounds'].median().round(2)
             strategies[row['strategy']]['median_inbounds'] = df[df['strategy'] == row['strategy']]['inbounds'].median().round(2)
+            strategies[row['strategy']]['median_days'] = df[df['strategy'] == row['strategy']]['conversation_days'].median().round(2)
+            
             strategies[row['strategy']]['std_conversations'] = df[df['strategy'] == row['strategy']]['number_of_conversations'].std().round(2)
-            strategies[row['strategy']]['std_days'] = df[df['strategy'] == row['strategy']]['conversation_days'].std().round(2)
             strategies[row['strategy']]['std_outbounds'] = df[df['strategy'] == row['strategy']]['outbounds'].std().round(2)
             strategies[row['strategy']]['std_inbounds'] = df[df['strategy'] == row['strategy']]['inbounds'].std().round(2)
+            strategies[row['strategy']]['std_days'] = df[df['strategy'] == row['strategy']]['conversation_days'].std().round(2)
+
         if row['number_of_conversations'] > strategies[row['strategy']]['max_conversations']:
             strategies[row['strategy']]['max_conversations'] = row['number_of_conversations']
         if row['conversation_days'] > strategies[row['strategy']]['max_days']:
@@ -315,17 +336,188 @@ def generate_report_from_csv():
         if row['inbounds'] < strategies[row['strategy']]['min_inbounds']:
             strategies[row['strategy']]['min_inbounds'] = row['inbounds']
         
+        # Add a new row for the total:
+        strategies['Total'] = {'total_conversation_threads': df['n'].count(), # total number of conversations
+                               'total_conversations': df['number_of_conversations'].sum(),
+                               'total_outbounds': df['outbounds'].sum(),
+                               'total_inbounds': df['inbounds'].sum(),
+                               
+                               'max_conversations': 'N/A',
+                               'max_outbounds': 'N/A',
+                               'max_inbounds': 'N/A',
+                               'max_days': 'N/A',
+                               
+                               'min_conversations': 'N/A',
+                               'min_outbounds': 'N/A',
+                               'min_inbounds': 'N/A',
+                               'min_days': 'N/A',
+                               
+                               'avg_conversations': 'N/A',
+                               'avg_outbounds': 'N/A',
+                               'avg_inbounds': 'N/A',
+                               'avg_days': 'N/A',
+                               
+                               'mean_conversations': 'N/A',
+                               'mean_outbounds': 'N/A',
+                               'mean_inbounds': 'N/A',
+                               'mean_days': 'N/A',
+                               
+                               'median_conversations': 'N/A',
+                               'median_outbounds': 'N/A',
+                               'median_inbounds': 'N/A',
+                               'median_days': 'N/A',
+                               
+                               'std_conversations': 'N/A',
+                               'std_outbounds': 'N/A',
+                               'std_inbounds': 'N/A',
+                               'std_days': 'N/A'
+                               }
+    
     df = pd.DataFrame(strategies)
     df = df.transpose()
     df = df.reset_index()
     df = df.rename(columns={'index': 'strategy'})
-    df = df.sort_values(by='total_conversation_threads', ascending=False)
+    df = df.sort_values(by='strategy', ascending=False)
     df.to_csv(EMAIL_CONVERSATIONS_SUMMARY_REPORT_CSV, index=False)
     print(f"Report stored in ({os.path.relpath(EMAIL_CONVERSATIONS_SUMMARY_REPORT_CSV, BASE_DIR)}).")
-    
+    plot_chart_threads_per_strategy(strategies)
+    plot_chart_conversations_per_strategy(strategies)
+    plot_chart_max_conversations_per_thread(strategies)
+    plot_chart_avg_conversations_per_thread(strategies)
+
+def plot_chart_threads_per_strategy(strategies):
+    df = pd.DataFrame(strategies)
+    df = df.transpose()
+    df = df.reset_index()
+    df = df.rename(columns={'index': 'strategy'})
+    df = df.sort_values(by='strategy', ascending=False)
+    df.to_csv(EMAIL_CONVERSATIONS_SUMMARY_REPORT_CSV, index=False)
+    print(f"Plot chart of threads per strategy stored in ({os.path.relpath(EMAIL_CONVERSATIONS_SUMMARY_REPORT_CSV, BASE_DIR)}).")
+    df = df[df['strategy'] != 'Total']
+    df = df.sort_values(by='total_conversation_threads', ascending=False)
+    fig, ax = plt.subplots(figsize=(10, 7))
+    bar_width = 0.2
+    bars = ax.bar(df['strategy'], df['total_conversation_threads'], width=bar_width, label='Total conversation threads per strategy')
+    ax.set_title('Conversation threads per strategy')
+    ax.set_xlabel('Strategy')
+    ax.set_ylabel('Conversation threads')
+    ax.tick_params(axis='x', rotation=45)
+    for bar in bars:
+        height = bar.get_height()
+        ax.annotate(f'{int(height)}',
+                    xy=(bar.get_x() + bar.get_width() / 2, height),
+                    xytext=(0, 3),
+                    textcoords="offset points",
+                    ha='center', va='bottom')
+    plt.tight_layout()
+    plt.savefig(os.path.join(EMAILS_REPORT_DIR, 'chart_threads_per_strategy.png'))
+    print(f"Bar chart stored in ({os.path.relpath(EMAILS_REPORT_DIR, BASE_DIR)}).")
+
+def plot_chart_conversations_per_strategy(strategies):
+    df = pd.DataFrame(strategies)
+    df = df.transpose()
+    df = df.reset_index()
+    df = df.rename(columns={'index': 'strategy'})
+    df = df.sort_values(by='strategy', ascending=False)
+    df.to_csv(EMAIL_CONVERSATIONS_SUMMARY_REPORT_CSV, index=False)
+    print(f"Plot chart conversations per strategy stored in ({os.path.relpath(EMAIL_CONVERSATIONS_SUMMARY_REPORT_CSV, BASE_DIR)}).")
+    df = df[df['strategy'] != 'Total']
+    df = df.sort_values(by='total_outbounds', ascending=False)
+    fig, ax = plt.subplots(figsize=(10, 7))
+    bar_width = 0.2
+    indices = range(len(df))
+    ax.bar([x - bar_width for x in indices], df['total_conversations'], width=bar_width, label='Conversations', align='center')
+    ax.bar(indices, df['total_outbounds'], width=bar_width, label='Outbounds', align='center')
+    ax.bar([x + bar_width for x in indices], df['total_inbounds'], width=bar_width, label='Inbounds', align='center')
+    ax.set_title('Conversations per strategy')
+    ax.set_xlabel('Strategy')
+    ax.set_ylabel('Conversations')
+    ax.set_xticks(indices)
+    ax.set_xticklabels(df['strategy'], rotation=45)
+    for i, v in enumerate(df['total_conversations']):
+        ax.text(i - bar_width, v + 3, str(int(v)), ha='center')
+    for i, v in enumerate(df['total_outbounds']):
+        ax.text(i, v + 3, str(int(v)), ha='center')
+    for i, v in enumerate(df['total_inbounds']):
+        ax.text(i + bar_width, v + 3, str(int(v)), ha='center')
+    ax.legend()
+    plt.tight_layout()
+    plt.savefig(os.path.join(EMAILS_REPORT_DIR, 'chart_conversations_per_strategy.png'))
+    print(f"Bar chart stored in ({os.path.relpath(EMAILS_REPORT_DIR, BASE_DIR)}).")
+
+def plot_chart_max_conversations_per_thread(strategies):
+    df = pd.DataFrame(strategies)
+    df = df.transpose()
+    df = df.reset_index()
+    df = df.rename(columns={'index': 'strategy'})
+    df = df.sort_values(by='strategy', ascending=False)
+    df.to_csv(EMAIL_CONVERSATIONS_SUMMARY_REPORT_CSV, index=False)
+    print(f"Plot chart max conversations per thread stored in ({os.path.relpath(EMAIL_CONVERSATIONS_SUMMARY_REPORT_CSV, BASE_DIR)}).")
+    df = df[df['strategy'] != 'Total']
+    df = df.sort_values(by='total_outbounds', ascending=False)
+    fig, ax = plt.subplots(figsize=(10, 7))
+    bar_width = 0.2
+    indices = range(len(df))
+    ax.bar([x - bar_width*1.5 for x in indices], df['max_conversations'], width=bar_width, label='Max conversations', align='center')
+    ax.bar([x - bar_width*0.5 for x in indices], df['max_outbounds'], width=bar_width, label='Max outbounds', align='center')
+    ax.bar([x + bar_width*0.5 for x in indices], df['max_inbounds'], width=bar_width, label='Max inbounds', align='center')
+    ax.bar([x + bar_width*1.5 for x in indices], df['max_days'], width=bar_width, label='Max days', align='center')
+    ax.set_title('Maximum conversations per thread')
+    ax.set_xlabel('Strategy')
+    ax.set_ylabel('Conversations')
+    ax.set_xticks(indices)
+    ax.set_xticklabels(df['strategy'], rotation=45)
+    for i, v in enumerate(df['max_conversations']):
+        ax.text(i - bar_width*1.5, v, str(int(v)), ha='center')
+    for i, v in enumerate(df['max_outbounds']):
+        ax.text(i - bar_width*0.5, v, str(int(v)), ha='center')
+    for i, v in enumerate(df['max_inbounds']):
+        ax.text(i + bar_width*0.5, v, str(int(v)), ha='center')
+    for i, v in enumerate(df['max_days']):
+        ax.text(i + bar_width*1.5, v, f"{v:.2f}", ha='center')
+    ax.legend()
+    plt.tight_layout()
+    plt.savefig(os.path.join(EMAILS_REPORT_DIR, 'chart_max_conversations_per_thread.png'))
+    print(f"Bar chart stored in ({os.path.relpath(EMAILS_REPORT_DIR, BASE_DIR)}).")
+
+def plot_chart_avg_conversations_per_thread(strategies):
+    df = pd.DataFrame(strategies)
+    df = df.transpose()
+    df = df.reset_index()
+    df = df.rename(columns={'index': 'strategy'})
+    df = df.sort_values(by='strategy', ascending=False)
+    df.to_csv(EMAIL_CONVERSATIONS_SUMMARY_REPORT_CSV, index=False)
+    print(f"Plot chart average conversations per thread stored in ({os.path.relpath(EMAIL_CONVERSATIONS_SUMMARY_REPORT_CSV, BASE_DIR)}).")
+    df = df[df['strategy'] != 'Total']
+    df = df.sort_values(by='total_outbounds', ascending=False)
+    fig, ax = plt.subplots(figsize=(10, 7))
+    bar_width = 0.2
+    indices = range(len(df))
+    ax.bar([x - bar_width*1.5 for x in indices], df['avg_conversations'], width=bar_width, label='Average conversations', align='center')
+    ax.bar([x - bar_width*0.5 for x in indices], df['avg_outbounds'], width=bar_width, label='Average outbounds', align='center')
+    ax.bar([x + bar_width*0.5 for x in indices], df['avg_inbounds'], width=bar_width, label='Average inbounds', align='center')
+    ax.bar([x + bar_width*1.5 for x in indices], df['avg_days'], width=bar_width, label='Average days', align='center')
+    ax.set_title('Average conversations per thread')
+    ax.set_xlabel('Strategy')
+    ax.set_ylabel('Conversations')
+    ax.set_xticks(indices)
+    ax.set_xticklabels(df['strategy'], rotation=45)
+    for i, v in enumerate(df['avg_conversations']):
+        ax.text(i - bar_width*1.5, v, f"{v:.2f}", ha='center')
+    for i, v in enumerate(df['avg_outbounds']):
+        ax.text(i - bar_width*0.5, v, f"{v:.2f}", ha='center')
+    for i, v in enumerate(df['avg_inbounds']):
+        ax.text(i + bar_width*0.5, v, f"{v:.2f}", ha='center')
+    for i, v in enumerate(df['avg_days']):
+        ax.text(i + bar_width*1.5, v, f"{v:.2f}", ha='center')
+    ax.legend()
+    plt.tight_layout()
+    plt.savefig(os.path.join(EMAILS_REPORT_DIR, 'chart_avg_conversations_per_thread.png'))
+    print(f"Bar chart stored in ({os.path.relpath(EMAILS_REPORT_DIR, BASE_DIR)}).")
+
 if __name__ == "__main__":
     print(f"Running...")
-    hide_emails = True
+    hide_emails = HIDE_EMAILS
     print(f"1. Checking duplicate emails in ({os.path.relpath(MAIL_SAVE_DIR, BASE_DIR)})...")
     check_duplicate_queued_emails(hide_emails=hide_emails)
     print(f"2. Completed checking duplicate emails. Stored unique and duplicate emails in ({os.path.relpath(UNIQUE_EMAIL_QUEUED, BASE_DIR)}) and ({os.path.relpath(UNIQUE_EMAIL_QUEUED_DUPLICATE, BASE_DIR)}) respectively.")

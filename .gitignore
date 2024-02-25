@@ -3,6 +3,10 @@
 /backend/database/system.db
 /backend/cache/
 /backend/data/audio_files/
+/backend/emails/archive/
+/backend/emails/handled/
+/backend/emails/queued/
+/backend/emails/record.json
 # /backend/emails/
 # /backend/models
 # /backend/models/history.json

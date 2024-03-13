@@ -1,0 +1,52 @@
+[
+    {
+        "from": "scammer_100",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention: Beneficiary,",
+        "body": "Attention: Beneficiary,\nThis is to inform you that, We have been working towards\nthe eradication of fraudsters and scam\nArtists in Africa with the help of the Organisation of African Unity\n(OAU) United Nations (UN),\nEuropean Union (EU) and the International Monetary Fund (IMF) and FBI.\nWe have been able to track down so many of this scam artist in various\nparts of African countries which includes (Nigeria, Republic of Benin,\nGhana, Cameroon and Senegal) and they are all in Government\ncustody now, they will appear at International Criminal Court (ICC)\nHague (Netherlands) soon for Criminal/Fraud Justice.\nDuring the course of our investigation, we have been able to recover\nso much money from these scam artists. The United Nations Anti-Crime\nCommission and the International Monetary Fund\n(IMF) have ordered the money recovered from the Scammers to be shared\namong 100 Lucky people around the World for compensation.\nThis Email/Letter is been directed to you because your email address\nwas found in one of the Scam Artists file and computer hard-disk\nduring our investigation, maybe you have been scammed or not, you are\ntherefore being compensated with the sum of $,1.500,000.00 USD (One\nMillion Five Hundred Thousand United State Dollars).\nWe have also arrested some of those who claim that they are barristers,\n bank officials,\nLottery Agents who has been sending you SMS on your phone that you\nhave won a lottery which does not exist. Since your email address\nappeared among the lucky beneficiaries who will receive a compensation\nfunds, we have arranged your payment to be paid to you through ATM\nVISA CARD. An ATM Visa Card will be issued in your name and your\n$1,500,000.00 USD will be loaded into it, and deliver it to your\npostal address with the Pin Number, as to enable you withdrawal your\nfunds from any Bank ATM Machine worldwide.\nTo issue the ATM Visa Card, you are therefore advised to contact the\nAccountant in Charge of your payment, this is because the United Nations\nAnti-Crime Commission and the International Monetary Fund (IMF) and the\nGovernment has chosen them to payout all\nthe compensation funds to the 100 Lucky beneficiaries, because the ATM\nVisa Card is a global payments technology that enables consumers,\nbusinesses, financial institutions and governments to use digital\ncurrency instead of cash and checks.\nKindly contact the\nATM Card Issuance Department now with your following information\nYour name:\nCompany name:\nContact address:\nOccupation:\nTelephone number:\nFax number:\nPrivate email address:\nMarital status:\nATM CARD DEPARTMENT\nCONTACT PERSON: Sir.Troy A Miller\nEMAIL:atmd302@gmail.com"
+    },
+    {
+        "from": "baiter_100",
+        "to": "scammer_100",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention: Beneficiary,",
+        "body": "Oh wow, that's quite a story! I can't believe my email was found in one of those files. I'm just an ordinary person, you know? It's hard to imagine being involved in such a big thing. \n\nBut I have to ask, how did you manage to track down all these people across different countries? That must have been a huge operation! And what will happen to them now? Will they be punished for their actions?\n\nAlso, this ATM Visa Card sounds very convenient. But how does it work exactly? Is it safe and secure? I mean, with all the digital thefts happening these days, one can never be too careful.\n\nAnd finally, could you tell me more about this Accountant in Charge of my payment? How do I know they are trustworthy?\n\nI'm sorry for all the questions. This is all so new and overwhelming for me!\n\nBest wishes,\nTisha"
+    },
+    {
+        "from": "scammer_100",
+        "to": "baiter_100",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Attention: Beneficiary,",
+        "body": "yes We need your full information so we can be able to deliver your funds\r\nto you kindly send us your full information\r\nYour name:\r\nCompany name:\r\nContact address:\r\nOccupation:\r\nTelephone number:\r\nFax number:\r\nPrivate email address:\r\nMarital status:"
+    },
+    {
+        "from": "baiter_100",
+        "to": "scammer_100",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3019791666666667,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Attention: Beneficiary,",
+        "body": "Oh, I'm so excited about this! But could you tell me more about these funds? Where are they coming from?\n\nBest wishes,\nTisha"
+    },
+    {
+        "from": "scammer_100",
+        "to": "baiter_100",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.9875231481481481,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Attention: Beneficiary,",
+        "body": "This is to inform you that, We have been working towards\r\ntheeradication of fraudsters and scam\r\nArtists in Africa with the help of the Organisation of African Unity\r\n(OAU) United Nations (UN),\r\nEuropean Union (EU) and the International Monetary Fund (IMF) and FBI.\r\n\r\nWe have been able to track down so many of this scam artist in various\r\nparts of African countries which includes (Nigeria, Republic of Benin,\r\nGhana, Cameroon and Senegal) and they are all in Government\r\ncustody now, they will appear at International Criminal Court (ICC)\r\nHague (Netherlands) soon for Criminal/Fraud Justice.\r\n\r\nDuring the course of our investigation, we have been able to recover\r\nso much money from these scam artists. The United Nations Anti-Crime\r\nCommission and the International Monetary Fund\r\n\r\n(IMF) have ordered the money recovered from the Scammers to be shared\r\namong 100 Lucky people around the World for compensation.\r\n\r\nSo you are among the 100 lucky people that we receive this money but the\r\nmoney will be send to you true ATM card.\r\nWith this ATM card you can be able to withdraw your fund in any ATM machine"
+    }
+]

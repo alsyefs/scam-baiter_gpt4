@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_249",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "ATTENTION!",
+        "body": "ATTENTION!\nA1 Express Courier Company, United States\nAddress: 1450 Peachtree St NW #200, Atlanta, GA 30309, USA\nHours Opens: 8;00 am\nDear Beneficiary,\nI am Williams from A1 Express Courier Company Atlanta Georgia 30309,\nUnited States, I want to informed you that your undue fraud victims\ncompensation funds which came from the Governmental Organization of\nUnited Nations but it was \nhold by United States Customs due to the\nCustoms Clearance fees that you could not fulfill\n. It was released\nyesterday at exactly 4:50 pm Atlanta Georgia time with the help of the\nUnited States Government/United Nations and the total sum is\n$3,500,000.00 United States Dollars.\nYou’re required to confirm your full information such as;\nFull Names\nDelivery address\nCell/Mobile Number\nOccupation\nAge/Sex\nA copy of Identification\nI await your positive response and still remain yours in service.\nRegards,\nA1 Express Courier Company\nAtlanta Georgia 30309, United State"
+    },
+    {
+        "from": "baiter_249",
+        "to": "scammer_249",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: ATTENTION!",
+        "body": "Dear Express Courier Company,\n\nThank you for your message. I am surprised to hear about this situation as I was not aware of any funds being held on my behalf. \n\nBefore we proceed, could you please provide more details about the origin of these funds and why they were held by United States Customs? Also, could you clarify what the customs clearance fees are for?\n\nHere is the information you requested:\n\nFull Names: John Doe\nDelivery address: 123 Main St, Anytown, USA\nCell Mobile Number: (123) 456-7890\nOccupation: Software Engineer\nAge Sex: Male, 35 years old\n\nI look forward to hearing from you soon.\n\nBest wishes,\nJoan"
+    },
+    {
+        "from": "scammer_249",
+        "to": "baiter_249",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: ATTENTION!",
+        "body": "Dear Joan  Doe i am Williams Francis from A1 Express Courier Company\r\nAtlanta Georgia 30309,United States, I want to informed you that your undue\r\nfraud victims compensation funds of $3,500,000.00 United States Dollars\r\nwhich came from the Governmental Organization is here to transfer your fund\r\nto you which we have tried to deduct the fee out from your fund so that you\r\ncan not be bothered about the fee but the ministry administrator trust fund\r\ntold us that no one has access over your fund as it has been sign and\r\nstamped that no money should be deducted until it get to you so right now\r\nwe are here to inform you that before we proceed with your transaction that\r\nyou are to send the transfer charge which is $25 dollars and you are also\r\ninstructed to send it via Google play gift card or steam wallets gift card\r\nand also razor Gold is allowed including iTunes gift card is also allowed\r\nso get back to know when you will send the fee as it's the only thing\r\nholding us right now not to proceed with your delivery since thank.\r\n\r\nWilliams Francis"
+    }
+]

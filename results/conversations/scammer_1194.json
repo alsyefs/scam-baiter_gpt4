@@ -1,0 +1,72 @@
+[
+    {
+        "from": "scammer_1194",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Sir,",
+        "body": "Dear Sir,\nIt's me Russell Robinson, i write to bring good news to you that UBS Swiss has\ninitiated your fund USD$45 Million approval transfer and attached is\nthe electronic\nfund approval transfer programmed system report.\nGet back to me as quickly as possible for further directives.\nBest regards\nRussell Robinson"
+    },
+    {
+        "from": "baiter_1194",
+        "to": "scammer_1194",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello Russell Robinson,\n\nThank you for your message. It's quite exciting to hear about this fund approval transfer. Could you please provide more details about it? How did this come about and what does it entail?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nWalter"
+    },
+    {
+        "from": "scammer_1194",
+        "to": "baiter_1194",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello Mr Walter,\r\n\r\nIn response to your mail, kindly note that the only way for you to receive\r\nthe fund without any stop order from any money monitoring agency is for me\r\nto use my organisation to represent you as our beneficiary as i have\r\nalready did in my request and has been approved by the UBS Swiss .\r\n\r\nbelow is my web page  again ;\r\n\r\nhttps://www.americanprogress.org/people/robinson-russell/\r\n\r\nWith this arrangement, you will receive the fund via   tbank withdrawal\r\ninstrument  ATM card and also  will  be process and send to your nominated\r\naddress in your country through express delivery service by their\r\naccredited courier firm.\r\n\r\nFurther note note ATM card  bank withdrawal instrument will arrive before\r\nthe 5 days  and this will enable you start making withdrawal of cash from\r\nany ATM machine around you and this will be based on the daily withdrawal\r\nlimit which is $15,000.00 dollar's which comes in three different\r\ntransaction of $5,000.00 dollars each.\r\n\r\nBut bear in mind that the UBS Swiss bank require  that we pay the\r\nprocessing of the fund release upfront charges which $18,090.00 dollars and\r\nthis  will be taken care by me through my organisation accredited fiduciary\r\nagent while you  will have to take care of the  outstanding balance is\r\n$4,975.00 dollars only.\r\n\r\nOn this noted, I will use my organisation accredited fiduciary agent   to\r\npay part upfront payment for them to start up the process and completed,\r\nand all legal documents issues ,I will send it to you for your preview and\r\nrecord too and  you will then take care of the outstanding balance\r\n$4,975.00 dollars  so that they can immediately effects the  sending of\r\nthe  ATM card  bank withdrawal instrument to you at once for your immediate\r\nuse for cash withdrawal\r\n\r\nI attached here my I'd card for your preview and record too.\r\n\r\nIn this regards, I urge you to get back to me now and let me know if I\r\nshould proceed with this arrangement.\nBest regards\r\nRussell *Robinson**W**a*"
+    },
+    {
+        "from": "scammer_1194",
+        "to": "baiter_1194",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.4338194444444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Fwd: Dear Sir,",
+        "body": "---------- Forwarded message ----------\r\nFrom: *R R* <rrimfinterclientservice@gmail.com>\r\nDate: Sunday, February 4, 2024\r\nSubject: Re: Dear Sir,\r\nTo: Walter <yi66388@***.com>\r\n\r\n\r\nHello Mr Walter,\r\n\r\nIn response to your mail, kindly note that the only way for you to receive\r\nthe fund without any stop order from any money monitoring agency is for me\r\nto use my organisation to represent you as our beneficiary as i have\r\nalready did in my request and has been approved by the UBS Swiss .\r\n\r\nbelow is my web page  again ;\r\n\r\nhttps://www.americanprogress.org/people/robinson-russell/\r\n\r\nWith this arrangement, you will receive the fund via   tbank withdrawal\r\ninstrument  ATM card and also  will  be process and send to your nominated\r\naddress in your country through express delivery service by their\r\naccredited courier firm.\r\n\r\nFurther note note ATM card  bank withdrawal instrument will arrive before\r\nthe 5 days  and this will enable you start making withdrawal of cash from\r\nany ATM machine around you and this will be based on the daily withdrawal\r\nlimit which is $15,000.00 dollar's which comes in three different\r\ntransaction of $5,000.00 dollars each.\r\n\r\nBut bear in mind that the UBS Swiss bank require  that we pay the\r\nprocessing of the fund release upfront charges which $18,090.00 dollars and\r\nthis  will be taken care by me through my organisation accredited fiduciary\r\nagent while you  will have to take care of the  outstanding balance is\r\n$4,975.00 dollars only.\r\n\r\nOn this noted, I will use my organisation accredited fiduciary agent   to\r\npay part upfront payment for them to start up the process and completed,\r\nand all legal documents issues ,I will send it to you for your preview and\r\nrecord too and  you will then take care of the outstanding balance\r\n$4,975.00 dollars  so that they can immediately effects the  sending of\r\nthe  ATM card  bank withdrawal instrument to you at once for your immediate\r\nuse for cash withdrawal\r\n\r\nI attached here my I'd card for your preview and record too.\r\n\r\nIn this regards, I urge you to get back to me now and let me know if I\r\nshould proceed with this arrangement.\r\n\r\nBest regards\r\nRussell *Robinson**W**a*\r\n\r\n\r\n\r\nOn Sunday, February 4, 2024, Walter <yi66388@***.com> wrote:\r\n\r\n>\r\n>\r\n>\r\n> Hello Russell Robinson,\r\n>\r\n> Thank you for your message. It's quite exciting to hear about this fund\r\n> approval transfer. Could you please provide more details about it? How did\r\n> this come about and what does it entail?\r\n>\r\n> Looking forward to hearing from you soon.\r\n>\r\n> Best regards.\r\n>\r\n> Best wishes,\r\n> Walter\r\n>\r\n>\r\n>\r\n>\r\n>"
+    },
+    {
+        "from": "baiter_1194",
+        "to": "scammer_1194",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.461076388888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Fwd: Dear Sir,",
+        "body": "Hello Mr. Robinson,\n\nThank you for your detailed response. I appreciate the time and effort you've put into explaining this process to me. \n\nI'm intrigued by the ATM card bank withdrawal instrument you mentioned. Could you please elaborate more on how it works? Also, I'm curious about the daily withdrawal limit of dollars, is there a reason why it's set at that specific amount?\n\nRegarding the processing fee, could you provide more information on what exactly this fee covers? And why is there a need for me to cover part of it?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nWalter"
+    },
+    {
+        "from": "scammer_1194",
+        "to": "baiter_1194",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.2758333333333334,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Dear Sir,",
+        "body": "Hello Walter,\r\n\r\nIn response to your email, I am surprised that you don't know about bank\r\nwithdrawal instrument  ATM card, anyway bank ATM card works as simple as\r\nonce you receive it , take to any ATM machine around you and slort it into\r\nthe machine and press the amount you want to withdraw and then press your\r\nsecret pin code four digits number and wait for a few minutes and then\r\namount will be despence out for your cash collection.\r\n\r\nFurther more, the withdrawal limit is programmed in such a way that you\r\ndon't pay high taxation withdrawal charges when ever you perform a\r\nwithdrawal transaction.\r\n.\r\nOn the issue of the processing fee, note that this fee covers all legal\r\nclearance documents as required by the government monentay authorities in\r\norder to avoid any government agency to put a stop order on the fund\r\nrelease to you..\r\n\r\nAlso, on the issue of you  covering the outstanding balance is because i\r\ncould not get the total amount required through my organisation agent who\r\nwill be paying for the upfront payment fee as I stated iny previous email.\r\n\r\nI hope the above details explanation and information have given a direct\r\nand clear answer to your questions while I wait for your immediate response\r\nwith your required informatios and confirm your readiness for us to move\r\nforward .\r\n\r\nYours sincerely brother\r\nMr Russell Robinson"
+    },
+    {
+        "from": "scammer_1194",
+        "to": "baiter_1194",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.101099537037037,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Fwd: Dear Sir,",
+        "body": "Hello Walter,\r\n\r\nIn response to your email, I am surprised that you don't know about bank\r\nwithdrawal instrument  ATM card, anyway bank ATM card works as simple as\r\nonce you receive it , take to any ATM machine around you and slort it into\r\nthe machine and press the amount you want to withdraw and then press your\r\nsecret pin code four digits number and wait for a few minutes and then\r\namount will be despence out for your cash collection.\r\n\r\nFurther more, the withdrawal limit is programmed in such a way that you\r\ndon't pay high taxation withdrawal charges when ever you perform a\r\nwithdrawal transaction.\r\n.\r\nOn the issue of the processing fee, note that this fee covers all legal\r\nclearance documents as required by the government monentay authorities in\r\norder to avoid any government agency to put a stop order on the fund\r\nrelease to you..\r\n\r\nAlso, on the issue of you  covering the outstanding balance is because i\r\ncould not get the total amount required through my organisation agent who\r\nwill be paying for the upfront payment fee as I stated iny previous email.\r\n\r\nI hope the above details explanation and information have given a direct\r\nand clear answer to your questions while I wait for your immediate response\r\nwith your required informatios and confirm your readiness for us to move\r\nforward .\r\n\r\nYours sincerely brother\r\nMr Russell Robinson"
+    }
+]

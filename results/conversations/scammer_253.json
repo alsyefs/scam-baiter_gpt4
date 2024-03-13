@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_253",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello,  ",
+        "body": "  Hello,  \n I have a serious client, who is looking to invest in your Country, I got your contact through the Investment Network and world Global Business. Kindly reply if you need more information.  \nI am waiting for your kind and urgent response. \nI can be reach through my alternative email address. \ncrownsteven330@gmail.com\n \nWarm Regards  \nMr. Steven Crown   "
+    },
+    {
+        "from": "baiter_253",
+        "to": "scammer_253",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello,  ",
+        "body": "Hello Mr. Steven Crown,\n\nThank you for reaching out and considering me for this opportunity. It's always exciting to hear about potential investments in our country. Could you please provide more details about the nature of this investment? What kind of business or sector is your client interested in?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nJoshua"
+    },
+    {
+        "from": "scammer_253",
+        "to": "baiter_253",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Hello,",
+        "body": "Dear Joshua,\r\n\r\nI have received your response to my email and I quite appreciate your\r\ninterest in handling the investment. It is therefore my great pleasure to\r\nbe in contact with you once again. I was tasked with the mandate and\r\nresponsibility by my Principal who is my long time close associate, with\r\ninstructions to secure a capable and tested investor/business person who\r\nhas the capacity to safe-guard this fund in his country for investment,\r\nobviously any investment will be under your directions as you know the\r\nareas that will be lucrative to invest in your country.\r\n\r\nAlso, I understand very well that this is not the best medium to introduce\r\nto you a fund project of this magnitude and volume, this is due to many\r\nunsolicited/scam mails presently circulating across the globe especially on\r\nthe internet as I would not like my honest business intentions and the\r\nfacts/details of this fund project to be treated as a mistaken identity.\r\n\r\nThe total investment fund available for immediate transfer and safe-guard\r\nfor investment in your country is USD 500 MILLION.\r\n\r\nThis fund will be transferred to your custody under your company and you\r\nwill be charged with the sole responsibility of investing the funds in\r\nbusinesses of your choice with an Annual Return on Investment (AROI) of\r\n5-10% per year.\r\n\r\nMy Principal is a top politician in Africa and highly placed in government\r\nand wishes to invest anonymously by providing funds to set up new\r\nbusinesses of good return or inject funds to companies seeking funds to\r\nincrease productivity in an already established business for a percentage\r\nshare in the Annual Return on Investment (AROI).\r\n\r\nPlease be informed that my Principal wants to make sure that the investment\r\nfund will not be used for high risk investment or illegal businesses which\r\nmight put the entire fund into jeopardy, hence he wants a capable and\r\nreliable person or company to use the fund for investment. The investment\r\namount is currently in the Safety Vault of a Security Company in Liquid\r\nSecurities from where it will be transferred to your accounts once both\r\nparties meet and sign a Fund Managers Agreement (FMA) or Joint Venture\r\nAgreement (JVA).\r\n\r\nAll arrangements will be in place for the fund to be transferred to you for\r\ninvestment through the Special financial legal channel of the Holding\r\nCompany and the bank in custody of the investment fund. The investments\r\nwill be under your direct control and management and once you have agreed\r\non the terms and conditions of the agreement, the fund will be released to\r\nyou.\r\n\r\nAlso, I want us to have a very confidential telephone discussion first to\r\nenable us have a heart to heart discussion and understanding.This is very\r\nimportant and  as a partner I shall make available to you all the\r\nconfidential details of my Principal and the fund as soon as I receive your\r\nhonest acceptance to partner with us and your demonstration of your\r\nmaturity and character to keep and maintain the confidentiality of this\r\nproject and most importantly to protect the identity of my Principal after\r\nthe telephone discussion.\r\n\r\nPlease,I want you to kindly provide your direct telephone number {Whatsapp}\r\nfor easy and more effective communication. I look forward to your\r\nco-operation and wealth creation through partnership as I await your urgent\r\nresponse.\r\n\r\nThank you.\r\n\nYours Sincerely\r\nSteven Crown"
+    }
+]

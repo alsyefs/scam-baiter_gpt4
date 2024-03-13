@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_333",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Interim Assistance General Man",
+        "body": "Interim Assistance General Manager,\n(Operations, Maintenance, Transportation)\nCargo Wing Terminal E, DFW International Airport\n2400 Aviation Dr, DFW Airport, TX 75261, USA\nRe: Your Abandoned consignment/ Package waiting  for Delivery\nGood morning\nI write again for you to reconfirm your details  Full name Current\nAddress Phone number And country of origin to enable us verify if you\nare actually owner/Beneficiary of sealed consignment with number\nWT505E trunk box,\ncopy of your identification Drivers License or\nInternational Passport copy  is needed urgent  for verification\n.\nYour consignment was tagged family valuables when scanned it contains\nhuge currency in US Dollars Bills.Upon verification clearance special\ndelivery Diplomatic personnel will commence delivery to your door step\nwithout any delay.\nKindly contact Mr Robert our Head Of Admin office Cargo wings Terminal\nE immediately to avoid sending your consignment  to USA Treasury\nDepartment for Non-claim.Do confirm to him to enable delivery commence\nto your door-step immediately.\nHis official email below.\nadmistration.dfw@usa.com\nMy Regards\nDonald."
+    },
+    {
+        "from": "baiter_333",
+        "to": "scammer_333",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Interim Assistance General Man",
+        "body": "Hello Donald,\n\nGood morning to you too! I hope this message finds you well. \n\nI appreciate your efforts in reaching out to me regarding the trunk box. It's quite intriguing, I must say. However, before we proceed further, could you please provide more information about how this box came into your possession? Also, what exactly does it mean that my \"was tagged family valuables\"? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMarceline"
+    },
+    {
+        "from": "scammer_333",
+        "to": "baiter_333",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Interim Assistance General Man",
+        "body": "(Operations, Maintenance, Transportation,Logistics Department)\r\nCargo Wing Terminal E, DFW International Airport\r\n2400 Aviation Dr, DFW Airport, TX 75261, USA\r\n\r\n\r\nRe: Your Abandoned consignment/ Package waiting  for Delivery\r\n\r\nGood morning\r\n\r\nAm contacting you concerning a consignment with number WT505E that was\r\nabandoned in our storage house at DFW Airport  Cargo wing Terminal E Dallas\r\nTexas USA for long now by Diplomatic delivery person who could not obtain\r\nUSA NON INSPECTION CLEARANCE CERTIFICATE for easy passage the consignment.\r\n\r\nYour consignment tagged family valuables when scan it contains huge sum\r\ncurrency in US Dollars Bills.Reconfirm your Full name Current Address Phone\r\nnumber And country of origin to enable us verify of sealed consignment\r\ntrunk box with number WT505E,Copy of your identification Drivers License or\r\nInternational Passport copy  is needed urgent.\r\n\r\nKindly contact Mr Robert our Head Of Admin office Cargo wings Terminal E\r\nimmediately to avoid sending your consignment to the wrong person or to USA\r\nTreasury Department for Non-claim.contact him for delivery commence to your\r\ndoor-step immediately.\r\n\r\nHis official email below.\r\n\r\nadmistration.dfw@usa.com\r\n\r\n\r\nMy Regards, Thanks for your cooperation.\r\n\r\nDonald."
+    }
+]

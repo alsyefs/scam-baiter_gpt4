@@ -1,0 +1,102 @@
+[
+    {
+        "from": "scammer_1004",
+        "to": "baiter_1004",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "FROM: MRS. MARY JOHNSON(.SECRETARY UN AUDIT MONITORING UNIT ON FINANCIAL MATTERS)",
+        "body": "FROM: MRS. MARY JOHNSON(.SECRETARY UN AUDIT MONITORING UNIT ON\r\nFINANCIAL MATTERS)\r\n\r\nDate. 16/01/2024\r\n\r\nAttention Beneficiary, Mr Peter Palmer\r\n\r\nWe are hereby informing you regarding the transaction concerning\r\nyour outstanding  fund which you are having with the Bank in Ivory\r\nCoast which was discovered through our network gazette. And So Far So\r\nGood, An Approval Has Been Made Today On Your Behalf\r\n\r\nPlease If There Are Any Kind Of Questions You Wish To Ask, Do Not\r\nHesitate To Ask. And Mind You, A Warning Has Been Issued To You, Never\r\nTo Respond To Any Body Again Word Wide Except The United Nation Gives\r\nYou The Authority And Order To Do So, Otherwise, Your Funds Will Be\r\nAutomatically Blocked By The United Nation.\r\n\r\nBelow Is The Bank Approved By The United Nation To Make The Necessary\r\noutstanding Compensation Payment Through ATM CARD delivery to your\r\nhome mailing address\r\n\r\nMr. Sarata KONE -THIAM\r\nForeign Remittance Director,\r\nUBA BANK COTE D’IVOIRE\r\nBanque internationale pour l'Afrique occidentale Côte d'Ivoire\r\nUBA GROUP - COTE D’IVOIRE.\r\nEmail:    ubafinancialinstitute2019@gmail.com\r\nAlternative.      ubabankplc252@yahoo.com\r\nTell:  +225 07 68 522 164\r\nAdresse géo: 8-10,avenue Joseph Anoma Plateau Abidjan Côte d'Ivoire\r\n\r\n\r\n\r\nWe are waiting to hear from you to enable us commence as instructed by\r\nthe authorities.\r\n\r\nSINCERELY YOURS,\r\n\r\n\r\nMRS. MARY  JOHNSON.\r\nUNITED NATIONS  SECRETARY FOR PEACEKEEPING FORCE MISSION ON FINANCIAL\r\nMATTERS.IVORY COAST ABIDJAN.\r\nDirect Line...+225 05 05 70 23 98"
+    },
+    {
+        "from": "baiter_1004",
+        "to": "scammer_1004",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: FROM: MRS. MARY JOHNSON(.SECRETARY UN AUDIT MONITORING UNIT ON FINANCIAL MATTERS)",
+        "body": "Hello Mrs. Mary Johnson,\n\nThank you for your message and the information provided. It's quite interesting to hear about this fund in Ivory Coast. I must admit, I'm a bit surprised as I wasn't aware of any funds under my name there.\n\nCould you please provide more details about this? How was it discovered and why is it under my name? Also, could you explain more about the role of the United Nations in this matter?\n\nI appreciate your assistance and look forward to hearing from you soon.\n\nBest wishes,\nRaymond"
+    },
+    {
+        "from": "baiter_1004",
+        "to": "scammer_1004",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.04282407407407408,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: FROM: MRS. MARY JOHNSON(.SECRETARY UN AUDIT MONITORING UNIT ON FINANCIAL MATTERS)",
+        "body": "Hello Mrs. Mary Johnson,\n\nThank you for your message and the information provided. It's quite interesting to hear about this fund in Ivory Coast. I must admit, I'm a bit surprised as I don't recall having any connections with a bank there.\n\nCould you please provide more details about this fund? How was it discovered and why is it associated with my name? Also, could you explain the role of Mr. Sarata Kone in this process?\n\nI appreciate your warning about not responding to anyone else regarding this matter. However, could you clarify how the United Nations is involved in this situation?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nRaymond"
+    },
+    {
+        "from": "scammer_1004",
+        "to": "baiter_1004",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.16148148148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: FROM: MRS. MARY JOHNSON(.SECRETARY UN AUDIT MONITORING UNIT ON FINANCIAL MATTERS)",
+        "body": "Hello My Dear, I have heard what you said and all are noted with care as\r\nyou stated. As a matter of fact, you where chosen by the IMF, then was\r\nintroduced to the United Nation to take control for the said programme of\r\nCompersation in your favor\r\n\r\nIt happens that your name among others 6 people where shown. And out of the\r\n7 of you, 5 has completed their notification and by this week Friday their\r\nATM CARD will be delivered to their home mailing address with a success\r\narriving\r\n\r\nSo as a matter of fact, Kindly contact the UBA BANK as was given to you\r\ntoday to contact so that yours own ATM CARD will also be among the ones\r\nleaving by Friday this week to its various destinations\r\n\r\n\r\nYours sincerely\r\n\r\nMrs Mary Johnson"
+    },
+    {
+        "from": "scammer_1004",
+        "to": "baiter_1004",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.16149305555555554,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: FROM: MRS. MARY JOHNSON(.SECRETARY UN AUDIT MONITORING UNIT ON FINANCIAL MATTERS)",
+        "body": "Kindly contact the Bank"
+    },
+    {
+        "from": "baiter_1004",
+        "to": "scammer_1004",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.16770833333333332,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: FROM: MRS. MARY JOHNSON(.SECRETARY UN AUDIT MONITORING UNIT ON FINANCIAL MATTERS)",
+        "body": "Hello Mrs. Mary Johnson,\n\nThank you for your message. It's quite interesting to hear about this program and that my name was chosen by the IMF and introduced to the United Nation. I'm curious, how did they come across my name? \n\nAlso, could you please provide more details about this ATM card? What is its purpose and how does it work? \n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRaymond"
+    },
+    {
+        "from": "baiter_1004",
+        "to": "scammer_1004",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2096875,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: FROM: MRS. MARY JOHNSON(.SECRETARY UN AUDIT MONITORING UNIT ON FINANCIAL MATTERS)",
+        "body": "Hello Mrs. Mary Johnson,\n\nThank you for your message. It's quite interesting to hear about this opportunity from the IMF and United Nations. I'm curious, how was my name chosen for this program? And could you please explain a bit more about what the ATM card is for?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nRaymond"
+    },
+    {
+        "from": "baiter_1004",
+        "to": "scammer_1004",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.20982638888888888,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: FROM: MRS. MARY JOHNSON(.SECRETARY UN AUDIT MONITORING UNIT ON FINANCIAL MATTERS)",
+        "body": "Hello Mrs. Mary Johnson,\n\nThank you for reaching out to me. It's quite a surprise to hear that my name was chosen by the IMF and introduced to the United Nations. I'm curious, how did this selection process take place? \n\nYou mentioned an ATM card being delivered to my home mailing address. Could you please provide more details about this? What is the purpose of this ATM card and how does it relate to the programme?\n\nLooking forward to hearing from you.\n\nBest wishes,\nRaymond"
+    },
+    {
+        "from": "baiter_1004",
+        "to": "scammer_1004",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.2520486111111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: FROM: MRS. MARY JOHNSON(.SECRETARY UN AUDIT MONITORING UNIT ON FINANCIAL MATTERS)",
+        "body": "Hello Mrs. Mary Johnson,\n\nThank you for your message. It's quite interesting to hear about this program and the involvement of the IMF and United Nations. I'm curious, how was my name chosen for this? \n\nAlso, could you please provide more details about the ATM card? What is its purpose and how does it work?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nRaymond"
+    },
+    {
+        "from": "scammer_1004",
+        "to": "baiter_1004",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.979212962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Re: FROM: MRS. MARY JOHNSON(.SECRETARY UN AUDIT MONITORING UNIT ON FINANCIAL MATTERS)",
+        "body": "Raymond <qe65647@***.com>\r\n\r\n\r\n\r\nFROM UNITED NATIONS OFFICE OF INTERNATIONAL OVERSIGHT SERVICES INTERNAL\r\nAUDIT, MONITORING, CONSULTING AND INVESTIGATIONS DIVISION ON FINANCIAL\r\nMATTERS.\r\n\r\nFROM: MRS. MARY JOHNSON(.SECRETARY UN AUDIT MONITORING UNIT ON FINANCIAL\r\nMATTERS)\r\n\r\nDate. 08/02/2024\r\n\r\nWe have heard what you said, and also remember that this programme is only\r\n10days to be finalised. If not, the ATM CARD will be returned back to the\r\nIMF for refusal of claim by the beneficiary. So it is better you contact\r\nthe UBA BANK for further details before it is too late.\r\n\r\nDear start counting from the day you were contacted and today presently.\r\nHow many days have gone out of the 10 days given ? So calculate it yourself\r\n\r\n\r\nSINCERELY YOURS,\r\n\r\n\r\nMRS. MARY  JOHNSON.\r\nUNITED NATIONS  SECRETARY FOR PEACE KEEPING FORCE MISSION ON FINANCIAL\r\nMATTERS.IVORY COAST ABIDJAN.\r\nDirect Line...+225 05 05 70 23 98"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_576",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  International Monetary Fund ",
+        "body": "  International Monetary Fund (IMF)\n700 19th Street, N.W,\nWashington, D.C. 20431\nUnited States of America.\nOur Ref; imf/wsh/dc/usa                                                  Your Ref:..\nAttention: \nThe International Monetary Fund (IMF) hereby confirmed the receipt of your email. Note that your email has been noted and because of so many Beneficiaries paying money to scammers in the past without receiving their funds that is the main reason why we are now fully involved to checkmate them and make sure that all the Beneficiaries receive their funds. Well it might interest you to know that we are the power house that regulates and oversees the movement of funds across the globe and we always make sure that all the funds are genuine and has the complete legitimate documents which makes it a legal tendered, so i will advise that you should in fairness and gospel truth send all the Documents you have received from any self acclaimed offices and payment receipts you have used to transfer money since the inception of your communication in pursuant of your funds to which ever office you may have communicated with in the past so that any one that is not inline with our funds receiving regulatory procedure will be corrected, because that is the main reason why you have not received your funds before you will receive your funds so that once you receive the funds you will not be found wanting or having any issues.\nThanks,\nMs Kristalina Georgieva\nManaging Director IMF\nHead Office, USA   "
+    },
+    {
+        "from": "baiter_576",
+        "to": "scammer_576",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   International Monetary Fund ",
+        "body": "Hello Ms. Kristalina Georgieva,\n\nThank you for your email and the information provided. It's good to know that there are organizations like the Monetary Fund IMF working hard to regulate and oversee the movement of funds across the globe.\n\nI understand from your message that I need to provide documents and payment receipts related to any previous transactions I've made in pursuit of my funds. However, I'm a bit confused about what specific documents you're referring to. Could you please clarify this for me?\n\nAlso, could you explain a bit more about what you mean by \"funds receiving regulatory procedure\"? I want to make sure I fully understand everything so that there won't be any issues in the future.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDerrick"
+    },
+    {
+        "from": "scammer_576",
+        "to": "baiter_576",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: International Monetary Fund",
+        "body": "International Monetary Fund (IMF)\r\n700 19th Street, N.W,\r\n\r\nWashington, D.C. 20431\r\nUnited States of America.\r\n\r\nOur Ref; imf/wsh/dc/usa                                                  \r\nYour Ref:..\r\n\r\nAttention:  Beneficiary,\r\n\r\nThe International Monetary Fund (IMF) hereby confirmed the receipt of \r\nyour email. As requested this is to clarify you on your questions;\r\n\r\nAll you are required to is to forward any documents you received \r\npreviously while trying to receive your funds from any office that may \r\nhave contacted you in the past or if there is any payment receipt you \r\nuse in sending money to any office or an individual previously as well.\r\n\r\nAll i meant by funds receiving procedure is that any funds that has the \r\nvolume as yours IMF will make sure that all the genuine and authentic \r\ndocuments will be completely issued by the government offices whose duty \r\nis to issue them so as to meet IMF funds receiving requirements so that \r\nthere will be no problem on and after the beneficiary must have received \r\nthe funds.\nThanks,\r\n\r\nMs Kristalina Georgieva\r\nManaging Director IMF\r\n\r\nHead Office, USA"
+    }
+]

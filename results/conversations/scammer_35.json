@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_35",
+        "to": "baiter_35",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "subject": "Attention Eliza Dane",
+        "body": "Attention Eliza Dane\r\n\r\nThis is FBI Agent Kennedy Albano, I want to use this opportunity to\r\ninform you that we have arrested the diplomatic agent that refused to\r\ndeliver your package worth a sum of $20.7Million USD. Meanwhile, we\r\nurge you to respond to this email if you're interested in receiving\r\nyour fund with this below information..\r\n\r\n\r\nContact Mr.Agent Kennedy Albano directly with the below details:\r\n\nContact Person: Mr Agent Kennedy Albano\r\nEmail:agentkennedyalbano743@gmail.com\r\n\r\nYour Full Name:\r\nHome Address:\r\nDirect call number:\r\nyour Nearest Airport\r\n\r\nAm looking forward to your immediate response.\r\n\r\nBest Regards.\r\nFBI Agent Kennedy Albano"
+    },
+    {
+        "from": "baiter_35",
+        "to": "scammer_35",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Attention Eliza Dane",
+        "body": "Dear Agent Kennedy Albano,\n\nI am surprised to hear about this situation. I was not expecting any package, let alone one of such value. Could you please provide more details about this matter? \n\nLooking forward to your response.\n\nBest wishes,\nJoyce"
+    },
+    {
+        "from": "scammer_35",
+        "to": "baiter_35",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6451157407407407,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Attention Eliza Dane",
+        "body": "Alright, thanks for your feedback, So which method would you prefer to\r\nreceive your funds with? Please the options are below please get back to me\r\nwith your choice. (1)An International ATM Card? (2)International Bank\r\nDraft? (3)Bank To Bank Transfer? (4)Conner it in Cash and Deliver It To You\r\nWith Consignment Box? Your Urgent Respond Is Need Asap As We Don’t Have\r\nEnough Time To Waist On This Transaction Anymore. your fund with this below\r\ninformation.. Your Full Name: Home Address: Direct call number: your\r\nNearest Airport Am looking forward to your immediate response. Best\r\nRegards. FBI Agent Kennedy Albano"
+    }
+]

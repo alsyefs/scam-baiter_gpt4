@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_826",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I Am Mrs.Rebecca  Margaret, ",
+        "body": "  I Am Mrs.Rebecca  Margaret, A Christian Woman, I Want to transfer to you $, my inheritance Funds  United States dollars, for a Charity Project in your Country.\nFor more Details kindly Email me,  \nmargaretadams454@gmail.com\n "
+    },
+    {
+        "from": "baiter_826",
+        "to": "scammer_826",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   I Am Mrs.Rebecca  Margaret, ",
+        "body": "Hello Margaret,\n\nThank you for reaching out to me. I'm intrigued by your proposal and would love to learn more about this charity project. Could you please provide more details about the nature of the project, its goals, and how these funds will be used? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nLaura"
+    },
+    {
+        "from": "scammer_826",
+        "to": "baiter_826",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: I Am Mrs.Rebecca Margaret,",
+        "body": "Good day, Dear Laura\r\n\r\n I am a dying woman who has decided to donate what I have to the Charities.\r\nI am 75 years old and was diagnosed with cancer about four years ago,\r\nimmediately after the death of my husband.\r\n\r\nI have been touched to donate what I have inherited from my late husband\r\nfor good work rather than allow his relatives to lavish my husband's\r\nhard-earned funds.\r\n\r\nAs I lay on my sick bed, I want you to help me in carrying out my last wish\r\non earth which will also be very profitable to you. I want to WILL a total\r\nsum of USD 50 million to you which I want you to distribute part of it to\r\nany charity home for me and the rest for yourself and your family, I will\r\ninform you on how to share all.\nBest regards,\r\n\r\n Mrs. Margarte"
+    }
+]

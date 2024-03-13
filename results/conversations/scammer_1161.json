@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_1161",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Hello sir,",
+        "body": "  Hello sir,\nI am a financial agent that works with bankers and politicians including their personal assistance in Africa.There's a huge business opportunity that needs a very urgent attention if you are competent and trustworthy.\nThere are deposits in different financial institutions across the globe including the Arab nations lying fallow for investments.Kindly get back to me if you are interested for further details.\nRgds,\nDr.Resendiz Sergio.   "
+    },
+    {
+        "from": "baiter_1161",
+        "to": "scammer_1161",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Hello sir,",
+        "body": "Dear Sergio,\n\nThank you for your message. I am interested in hearing more about these business opportunities. Could you please provide me with more details?\n\nBest wishes,\nElizabeth"
+    },
+    {
+        "from": "scammer_1161",
+        "to": "baiter_1161",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Hello sir,",
+        "body": "Sir\r\nThank you for your email.I want to assure you that every instruction from\r\nthe ECOWAS and modalities for your payment have already been concluded and\r\nall your pains in the past as a result of this transaction will turn into a\r\nthing of joy any moment from now.Therefore you need to follow your\r\ntransaction up right away because we are not going to give a second chance\r\nfor another approval if you miss it now.\r\n\r\nMeanwhile There's an urgent need for you to follow this payment up as soon\r\nas the bank is ready to pay you without wasting time because your name will\r\nbe included in the next payment schedule so there is no time for many\r\nprotocols.\r\n\r\nConsidering The category of your payment,you are required to forward your\r\nbank account details for your payment to our offshore payment center where\r\nwe maintain an escrow account for foreign payments any moment you are\r\nadvised to do so but remember that you will be required to make a little\r\nfluctuation marginal difference fee during the course of your transfer.\nRegards,\r\nSergio Resendiz."
+    }
+]

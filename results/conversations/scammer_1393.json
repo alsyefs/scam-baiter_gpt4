@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_1393",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Thank you very much for your u",
+        "body": "Thank you very much for your urgent response to to me\nI am Ms. Liza Wong the Head of Accounting Audit Department of HSBC BANK (HSBC)in\nMalaysia.\nIn my department in the Bank where i work, I discovered a sum of $85.5 Million USD In an account that belongs to one of our foreign deceased customers, a billionaire Business Mogul Late Mr.Moises Saba Masri, a Jew from\nMexico who was a victim of a helicopter crash since 2010 year.resulting to his death and his family members.\nYou can see more information about Saba Masri Mr.Moises unfortunate end accident\non the website-link below.\nhttp: / /www.ynetnews.com/articles/0,7340,L-3832556,00.html\nNow our bank has been waiting for any of the relatives to come forth for the\nclaim but nobody has done that SINCE 2010. I personally have been unsuccessful in locating the relatives,Which the Board of\nDirectors are planing to share this funds among them-self.\nWhich i have good heart to use this funds to help the poor and the motherless\nhome.I seek your consent as my foreign business partner in this transaction to present you as the next of kin/Beneficiary to the deseased,so that the funds of this account valued at $85.5 Million usd can be paid to your local bank account in your country.Also this transaction is %100 free risk, because i have all the legal document with me to make this transaction possible, and the funds we be share 50/50\nI want to use part of my funds to help orphanage and motherless child home And i dont know about you.\nPlease Provide me the following few information about you, as we have few days to run it through.\n1, Your Full names:.............................\n2, Your age:..........................\n3, Your private phone number:...............\n4, Your current country and residential address:........\n5, Your Occupation:.....................\nPlease on your confirmation of this message and indicating your interest,\ni will furnish you with more information on this business transaction once i get your respond back asap.\nBest Regard\nMs. Liza Wong"
+    },
+    {
+        "from": "baiter_1393",
+        "to": "scammer_1393",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Thank you very much for your u",
+        "body": "Hello Ms. Liza Wong,\n\nThank you for reaching out to me with such an interesting proposition. I must say, the story of Mr. Saba Masri is quite tragic and it's a shame that his family hasn't come forward to claim his assets.\n\nI'm curious about how you found me and why you think I would be a good fit for this endeavor? Also, could you please explain more about the process of presenting someone as the next of kin? It sounds like a complex legal procedure.\n\nAs for your request for my personal information, I hope you understand that it's not safe to share such details over email due to privacy concerns. However, I am more than willing to continue our conversation and learn more about this opportunity.\n\nLooking forward to hearing from you soon!\n\nBest wishes,\nRobert"
+    },
+    {
+        "from": "scammer_1393",
+        "to": "baiter_1393",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Thank you very much for your u",
+        "body": "just send your full name and contact number to start from their first okay.."
+    }
+]

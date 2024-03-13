@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_407",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "From United Nation Federal Rep",
+        "body": "From United Nation Federal Republic of Nigeria we have registered your\nATM CARD of (US$5.2m) with our DHL Express courier Company customer\nservice with registration code of ( 910048 ) \nplease Contact with your\ndelivery information:\n1) Your Full Name_______________\n2) Your Telephone No_______________\n3) Your Receiving_______________\n4) Your Home Address_______________\n5) COUNTRY_______________\nE-mail: \nexpresscompanydhl84@gmail.com\nTelephone Number: +234-9030-280-376\nWe have paid for the Insurance & Delivery fee. The only fee you have\nto pay is their Security keeping fee only. Please indicates the\nregistration Number of ( 910048 ) Furnish them with your Address and\nPhone number for your delivery.\nBest Regards\nName: Jacob Timothy\nSUB: DELIVERY OF YOUR ATM MASTER CARD"
+    },
+    {
+        "from": "baiter_407",
+        "to": "scammer_407",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: From United Nation Federal Rep",
+        "body": "Dear Sir/Madam,\n\nI am delighted to hear that my ATM card has been registered with DHL Express. However, I would like to clarify a few details before proceeding further.\n\nCould you please provide me with the tracking number for the shipment? This will allow me to monitor the progress of the delivery and ensure that it arrives safely at my address.\n\nAdditionally, could you please confirm the exact amount of the security keeping fee? I want to make sure that I have sufficient funds available to cover this cost.\n\nHere are my details:\n\nFull Name: John Doe\nTelephone No: +1-234-567-890\nReceiving Address: 123 Main Street, Anytown, USA\nCountry: United States\n\nI look forward to your prompt response.\n\nBest wishes,\nDon"
+    },
+    {
+        "from": "scammer_407",
+        "to": "baiter_407",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: From United Nation Federal Rep",
+        "body": "United Nation Nigeria Republic Office Allocation\r\nLot 01 Patte d'oie, Abuja, Nigeria\r\nYour ATM VISA card payment worth of $5,200,000.00USD\r\n\r\nATTN.Beneficiary John Doe,\r\n\r\nI must thank you and assure you that UBA BANK ATM VISA CARD has been\r\napproved And upgraded in your favor today The amount upgraded in the ATM\r\nCARD is $5,200,000.00 Million Dollars your secret pin number is 1824, Right\r\nnow, Invitation have been extended to you to visit UBA BANK Nigeria\r\nRepublic to collection of your UBA BANK ATM VISA CARD and PIN NUMBER so\r\nthat you can activate it by yourself and start withdrawing funds from any\r\nATM Machine in your country but the amount you can withdraw in a day is\r\n$15,000 per daily withdraw, as we have programmed it.\r\n\r\nAlternatively, if you are unable to visit UBA BANK Federal Republic of\r\nNigeria for collection of this your UBA BANK ATM VISA CARD and PIN NUMBER,\r\ntherefore you must paid $100.00 only for the security keeping fee UBA BANK\r\nATM VISA CARD and PIN NUMBER to be sent to you via our DHL diplomatic\r\ncourier service at your own expenses, we had paid for the Insurance &\r\nDelivery fee by offsetting the package;\r\n\r\nNoted if there is any name person That want the success of this transaction\r\ni of think i will BE the first Counted, do you know the boost of the\r\nsuccessful the completion of this will of transfer of have on Departmental\r\ncloseup my appraisal .We are not writing this mail to you by closeup or\r\nPushed you away from your personal Believe But to the ensure That for last\r\nyou will of the make good recommendation of this Institution as with a\r\ncredible and reliable and my self in particular. The slogan of the United\r\nNation Nigeria Republic is \"WE CAN\" and I assure you that WE CAN release\r\nyour Fund once you send the money for a security keeping fee. Your ATM CARD\r\nwill arrive at your doorstep with our DHL company within 24hrs you send the\r\nrequirement fee security keeping.\r\n\r\nYou have been advised. To choose any of the following options such as\r\nWestern Union / Gifts card or thru Bitcoin to pay the US$100.00 for the\r\nSecurity keeping fee only before your ATM card would be delivered to you\r\nimmediately, I am looking forward to your urgent response to choose the way\r\nyou wish to make the payment today Thanks!\nBest Regards\r\nName: Jacob Timothy\r\nSUB: DELIVERY OF YOUR ATM MASTER CARD."
+    }
+]

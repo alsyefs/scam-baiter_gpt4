@@ -1,0 +1,102 @@
+[
+    {
+        "from": "scammer_889",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "   Attention: ",
+        "body": "   Attention: \nSir,\nThis is bring to your notice that today is 25th of July,2022, this office has deliberated and decided today to send your US$2.5M compensation payment back to Payment Approved Committee on the 27th of July 2022 as unclaimed fund. This office has waited for so long since you promised to pay the required fee of US$680.00 for International Transfer Payment Permit with Wire Transfer Stamp Duty on Capital for the transfer US$2.5M direct to your account, which this office has given you receiving account information and up to the moment no response from you regards to that. Am sorry we can keep waiting your US$2.5M is sending back to Payment Approved Committee on the 27th of July, then they can lodge the fund to Federal Government Covers as unclaimed fund.\nThanks and Long Live the Federal Republic of Nigeria. \nRespectfully,\nImage result for Zainab Shamsuna Ahmed\nDr. Zainab Shamsuna Ahmed, \nHonourable Finance Minister,\nFederal Republic of Nigeria.  "
+    },
+    {
+        "from": "baiter_889",
+        "to": "scammer_889",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:    Attention: ",
+        "body": "Hello Dr. Zainab Shamsuna Ahmed,\n\nThank you for your message. I'm sorry to hear that the payment has been marked as unclaimed. I must have misunderstood the process, and I apologize for any inconvenience caused.\n\nCould you please explain more about the Transfer Payment Permit with Wire Transfer Stamp Duty on Capital? Also, could you provide more details about the Payment Approved Committee? \n\nI am eager to understand this better so that we can resolve this issue promptly.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nEric"
+    },
+    {
+        "from": "scammer_889",
+        "to": "baiter_889",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Attention: Eric , (YOUR URGENT RESPONSE IS NEEDED)",
+        "body": "816 AHMADU BELLO WAY, CENTRALBUSINESS DIS, ABUJA-NIGERIA\r\n \r\n \r\n Attention: Eric ,\r\nSir,Your mail was received and noted. There's no much problem about your payment what is delaying your fund is International Transfer Payment Permit and Stamp Duty on Capital. If you can have these solved your fund will be transferred direct to your account or deliver to you through ATM Debit Card.\r\nAs I said earlier every clearance documents of your fund are in tact to backup your transfer fund. \r\n\r\n \r\n \nThanks and Long Live the FederalRepublic of Nigeria. \r\n \r\n \r\n \r\nRespectfully,\r\n \r\n\r\n Dr. Zainab ShamsunaAhmed,  \r\nHonourable Finance Minister,\r\nFederal Republic of Nigeria."
+    },
+    {
+        "from": "baiter_889",
+        "to": "scammer_889",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.027407407407407408,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Attention: Eric , (YOUR URGENT RESPONSE IS NEEDED)",
+        "body": "Hello Dr. Zainab,\n\nThank you for your prompt response and the detailed information about my payment. It's great to hear that all the clearance documents are in place.\n\nCould you please explain a bit more about the Transfer Payment Permit and Stamp Duty on Capital? I'm not very familiar with these terms. How can I solve these issues?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nEric"
+    },
+    {
+        "from": "baiter_889",
+        "to": "scammer_889",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.5233217592592593,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Attention: Eric , (YOUR URGENT RESPONSE IS NEEDED)",
+        "body": "Hello Dr. Zainab,\n\nThank you for your message and the information provided. It's great to hear that there are no major issues with my payment. I'm a bit confused about the Transfer Payment Permit and Stamp Duty on Capital, though. Could you please explain what these are and how I can go about obtaining them? \n\nAlso, could you provide more details about the ATM Debit Card delivery option? That sounds quite convenient.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nEric"
+    },
+    {
+        "from": "baiter_889",
+        "to": "scammer_889",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7356828703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Attention: Eric , (YOUR URGENT RESPONSE IS NEEDED)",
+        "body": "Hello Dr. Zainab,\n\nThank you for your message and the information provided. It's great to hear that there are no major issues with my payment. I'm a bit confused about the Transfer Payment Permit and Stamp Duty on Capital though. Could you please explain what these are and how I can go about obtaining them? \n\nAlso, could you provide more details about the ATM Debit Card delivery option? That sounds like a convenient method.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nEric"
+    },
+    {
+        "from": "scammer_889",
+        "to": "baiter_889",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.8419444444444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Attention: Eric , (YOUR URGENT RESPONSE IS NEEDED)",
+        "body": "816 AHMADU BELLO WAY, CENTRALBUSINESS DIS, ABUJA-NIGERIA\r\n \r\n \r\n Attention: Eric ,\r\nSir,\r\nYour mail was received and noted. International Transfer Payment Permit is mandatory to be paid to allow movement of fund going out of the country to another country International noon as International Transfer Payment Permit.\r\nThe Stamp Duty on Capital, any transfer both local transfer and international transfer must required STAMP DUTY ON CAPITAL, you should verify to your bank they will explain better. The Stamp Duty on Capital charged base on the transfer amount, your transfer fund Stamp Duty is US$125.00 while International Transfer Payment Permit is US$210.00 making total of US$335.00 and your fund will be transferred to your account.\r\nThis is all that needed to transfer your fund. \r\n\r\n \r\n \nThanks and Long Live the FederalRepublic of Nigeria. \r\n \r\n \r\n \r\nRespectfully,\r\n \r\n\r\n Dr. Zainab ShamsunaAhmed,  \r\nHonourable Finance Minister,\r\nFederal Republic of Nigeria."
+    },
+    {
+        "from": "scammer_889",
+        "to": "baiter_889",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.8419560185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Attention: Eric ,(YOUR URGENT RESPONSE IS NEEDED)",
+        "body": "816 AHMADU BELLO WAY, CENTRALBUSINESS DIS, ABUJA-NIGERIA\r\n \r\n \r\n Attention: Eric ,\r\nSir,Your mail was received and noted. I have told you every International Transfer Required Transfer Payment Permit mostly when it comes to huge amount it must required transfer payment permit and the transfer payment permit will be obtained from Fund Validation Analysis Regulation Agency while stamp duty on capital is bank official charge for local and international transfer. The stamp duty on capital is bank official charge and the needed fee must paid to the bank that in charge for the transfer fund.\r\nPayment through ATM Debit Card also required International Payment Permit and delivery fee of the ATM Debit Card only. The delivery fee is US$95.00. I prefer you receive the fund by ATM Debit Card so that all your fund clearance documents will attached together with the ATM Debit Card in Dhl Envelop and then deliver to you at the same time.\r\n\r\n \r\n \nThanks and Long Live the FederalRepublic of Nigeria. \r\n \r\n \r\n \r\nRespectfully,\r\n \r\n\r\n Dr. Zainab ShamsunaAhmed,  \r\nHonourable Finance Minister,\r\nFederal Republic of Nigeria."
+    },
+    {
+        "from": "scammer_889",
+        "to": "baiter_889",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.8419791666666666,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Re: Attention: Eric , (YOUR URGENT RESPONSE IS NEEDED)",
+        "body": "816 AHMADU BELLO WAY, CENTRALBUSINESS DIS, ABUJA-NIGERIA\r\n \r\n \r\n Attention: Eric ,\r\nSir,Your mail was received and noted. I have told you every International Transfer Required Transfer Payment Permit mostly when it comes to huge amount it must required transfer payment permit and the transfer payment permit will be obtained from Fund Validation Analysis Regulation Agency while stamp duty on capital is bank official charge for local and international transfer. The stamp duty on capital is bank official charge and the needed fee must paid to the bank that in charge for the transfer fund.\r\nPayment through ATM Debit Card also required International Payment Permit and delivery fee of the ATM Debit Card only. The delivery fee is US$95.00. I prefer you receive the fund by ATM Debit Card so that all your fund clearance documents will attached together with the ATM Debit Card in Dhl Envelop and then deliver to you at the same time.\r\n\r\n \r\n \nThanks and Long Live the FederalRepublic of Nigeria. \r\n \r\n \r\n \r\nRespectfully,\r\n \r\n\r\n Dr. Zainab ShamsunaAhmed,  \r\nHonourable Finance Minister,\r\nFederal Republic of Nigeria."
+    },
+    {
+        "from": "baiter_889",
+        "to": "scammer_889",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.5652314814814814,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "Re: Attention: Eric ,(YOUR URGENT RESPONSE IS NEEDED)",
+        "body": "Hello Dr. Zainab,\n\nThank you for your detailed explanation about the transfer process. It's quite interesting to learn about these procedures, especially when it involves such a large amount of money.\n\nI'm curious though, how does the Fund Validation Analysis Regulation Agency work? And what exactly is their role in this process? Also, could you please explain more about the stamp duty on capital?\n\nRegarding the ATM Debit Card option, it sounds convenient indeed. But I wonder, how secure is this method? And how long would it take for the card to be delivered?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nEric"
+    }
+]

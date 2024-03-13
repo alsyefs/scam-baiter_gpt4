@@ -1,0 +1,92 @@
+[
+    {
+        "from": "scammer_4",
+        "to": "baiter_4",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "subject": "Hello Eliza Dane",
+        "body": "Hello  Eliza Dane\r\n\r\n\r\nThis is to acknowledge the receipt of your mail. You were among the\r\nbeneficiaries selected through \"EMAIL RANDOM SELECTION\" to benefit from the\r\nfinancial grant.\r\n\r\nWe have started all necessary documentations towards the release of your\r\nUnited Nations Development financial grants of US$2, 500,000. You are to\r\nchoose out of the payment option on how you want to receive your funds.\r\n\r\nOur duty is to process and release your funds to you through any payment\r\noption below which you have chosen from.\r\n\r\nYou are to scan and send your means of identification  for proper\r\ndocumentation towards the immediate release of the US$2.5M\r\ndollars.\r\n\r\nWe have three payment options through which you can receive your fund\r\n\r\n(1) Security Cash Delivery\r\n(2) Atm card Payment\r\n(3) Bank Draft\r\n\r\nYou are advised to act fast as we have stipulated time to complete this\r\npayment exercise. Attached is my working ID to enable you to know who you\r\nare dealing with.\nBest Regards,\r\n\r\nMrs Jean George,\r\nFunds Release Processing Officer\r\nUNDP Grant Programm"
+    },
+    {
+        "from": "baiter_4",
+        "to": "scammer_4",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Hello Eliza Dane",
+        "body": "Dear Mrs. Jean George,\n\nThank you for your email and the information provided. I am interested in this financial grant from the United Nations. However, before proceeding further, I would like to know more about this program and how I was selected.\n\nAlso, could you please provide more details about the three payment options? What are the procedures and requirements for each of them?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDerek"
+    },
+    {
+        "from": "scammer_4",
+        "to": "baiter_4",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.6524189814814815,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Hello Eliza Dane",
+        "body": "Attn: Eliza Dane,\r\n\r\nThis is to acknowledge the receipt of your mail. You were among the\r\nbeneficiaries selected through \"EMAIL RANDOM SELECTION\" to benefit from the\r\nfinancial grant for the year 2024.\r\n\r\nThe United Nations office came up with the idea of this financial grant,\r\nafter the Covid-19 problem that made so many people to stay away from work\r\nand that brought poverty to the world. Hence, this financial grant is to\r\naid individuals recover from their financial losses and  Poverty\r\nAlleviation.\r\n\r\nThe three payment options are the way we intend to release your US$2.5M\r\ndollars to you. You are not paying for the funds release processing.\r\n\r\nIt is Our duty to process and release your funds to you through any payment\r\noption of your choice. You will be required to come down and collect your\r\nfunds immediately. We release your funds through any payment option that\r\nyou choose.\r\n\r\n(1) Security Cash Delivery\r\n(2) Atm card Payment\r\n(3) Bank Draft\r\n\r\nYou are advised to act fast as we have stipulated time to complete this\r\npayment exercise. You should forward your means of identification.\nBest Regards,\r\n\r\nMrs Jean George,\r\nFunds Release Processing Officer\r\nUNDP Grant Programm"
+    },
+    {
+        "from": "scammer_4",
+        "to": "baiter_4",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.4775810185185185,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Hello Eliza Dane",
+        "body": "Attn: Eliza Dane,\r\nWe do not have much time with the payment exercise. You should choose which\r\npayment option that you want.\r\n\r\n(1) Security Cash Delivery\r\n(2) Atm card Payment\r\n(3) Bank Draft\r\n\r\nYou should forward your means of identification.\nBest Regards,\r\n\r\nMrs Jean George,\r\nFunds Release Processing Officer\r\nUNDP Grant Programm"
+    },
+    {
+        "from": "baiter_4",
+        "to": "scammer_4",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.5699652777777777,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Hello Eliza Dane",
+        "body": "Dear Mrs. Jean George,\n\nThank you for your prompt response. I would prefer the Bank Draft payment option. Please let me know the next steps in this process.\n\nBest wishes,\nDerek"
+    },
+    {
+        "from": "scammer_4",
+        "to": "baiter_4",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.6626967592592592,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: Hello Eliza Dane",
+        "body": "Attn: Eliza Dane,\r\n\r\nWe have directed the paying bank to start processing your financial grant\r\ninto Certified Bank Draft.\r\n\r\nYou will be notified immediately the bank draft is ready.\r\n\r\nConfirm the receipt of this mail.\nBest Regards,\r\n\r\nMrs Jean George,\r\nFunds Release Processing Officer\r\nUNDP Grant Programm"
+    },
+    {
+        "from": "scammer_4",
+        "to": "baiter_4",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.6733912037037038,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "7",
+        "subject": "Attn: David",
+        "body": "Attn: David\r\n\r\nThis is to acknowledge the receipt of your mail. You were among the\r\nbeneficiaries selected through \"EMAIL RANDOM SELECTION\" to benefit from the\r\nfinancial grant for the year 2024.\r\n\r\nThe United Nations office came up with the idea of this financial grant,\r\nafter the Covid-19 problem that made so many people to stay away from work\r\nand that brought poverty to the world. Hence, this financial grant is to\r\naid individuals recover from their financial losses and  Poverty\r\nAlleviation.\r\n\r\nYou are advised to provide us with your means of identification for proper\r\ndocumentation towards the release of your financial grant .\r\n\r\nThe three payment options are the way we intend to release your US$2.5M\r\ndollars to you. You are not paying for the funds release processing.\r\n\r\nIt is Our duty to process and release your funds to you through any payment\r\noption of your choice. You will be required to come down and collect your\r\nfunds immediately. We release your funds through any payment option that\r\nyou choose.\r\n\r\n(1) Security Cash Delivery\r\n(2) Atm card Payment\r\n(3) Bank Draft\r\n\r\nYou are advised to act fast as we have stipulated time to complete this\r\npayment exercise. You should forward your means of identification.\nBest Regards,\r\n\r\nMrs Jean George,\r\nFunds Release Processing Officer\r\nUNDP Grant Programm"
+    },
+    {
+        "from": "baiter_4",
+        "to": "scammer_4",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.8617592592592593,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Hello Eliza Dane",
+        "body": "Dear Mrs. Jean George,\n\nThank you for your email and the information provided. I am interested in this financial grant from the United Nations. However, I would like to know more about how I was selected and what the grant is intended for.\n\nRegarding the payment options, could you please provide more details on each? Specifically, I would like to understand any fees associated with these methods and how quickly the funds can be transferred.\n\nLooking forward to your response.\n\nBest wishes,\nDerek"
+    },
+    {
+        "from": "scammer_4",
+        "to": "baiter_4",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.4650810185185184,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: Hello Eliza Dane",
+        "body": "Attn: Eliza Dane,\r\n\r\nCongratulations, we have good news for you. The processing of your US$2.5M\r\ndollars into an Certified Bank Draft has been completed and your Atm card\r\nis now ready for collection.\r\n\r\nAttached is a scanned copy of your processed Certified Bank Draft. Let us\r\nknow when you would like to come down to our office and pick up your\r\nprocessed Certified Bank Draft.\r\n\r\nUnited Nations Office,\r\n350 Lincoln Rd 2nd FL,\r\nMiami Beach, FLorida 33139,\r\nUnited States\r\n\r\nIn the alternative, if you cannot come, you can make use of the courier\r\ndelivery services to deliver your Certified Bank Draft to you and you take\r\ncare of the little delivery charges. The decision is yours.\r\n\r\nWe await your response.\nBest regards,\r\n\r\nMrs Jean George,\r\nChairman UNDP Grant Programm"
+    }
+]

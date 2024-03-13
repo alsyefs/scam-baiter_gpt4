@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_162",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear friend,",
+        "body": "Dear friend,\nMy name is Mr. Bill Will from the USA. I am a financier. \nI need an investor who is ready and willing to invest for me while I finance the investment.\nIf you are interested, kindly contact me directly with your personal profile and plans in my email address at (\nbillwill@financier.com\n )\nYours faithfully,\nMr.Bill Will."
+    },
+    {
+        "from": "baiter_162",
+        "to": "scammer_162",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear friend,",
+        "body": "Hello Mr. Bill Will,\n\nIt's a pleasure to meet you! I'm intrigued by your proposal and would love to learn more about it. Could you please provide some more details? What kind of investment are you looking for? And what kind of business or project do you have in mind?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDonna"
+    },
+    {
+        "from": "scammer_162",
+        "to": "baiter_162",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Dear friend,      HAPPY NEW MONTH !    THANKS",
+        "body": "Dear friend, \nThanks for your timely response. I will like us to invest in REAL ESTATE, HOSPITALIZATION Investment like hotels and reservations OR any lucraive company investment. Can you detail me about the best lucrative investments in your country. I will like to know if you are capable and willing to handle the project in your country.  Do send me your name, Occupation. age, marital status, phone /WhatsApp number and address. \nYours faithfully, \nMr.Bill Will. \n \n \n Sent: Friday, February 02, 2024 at 9:28 AM From: \"Donna\" <bm45439@***.com> To: billwill@financier.com Subject: Re: Dear friend, \n \nHello Mr. Bill Will, \nIt's a pleasure to meet you! I'm intrigued by your proposal and would love to learn more about it. Could you please provide some more details? What kind of investment are you looking for? And what kind of business or project do you have in mind? \nLooking forward to hearing from you soon. \nBest regards.\nBest wishes, \nDonna"
+    },
+    {
+        "from": "baiter_162",
+        "to": "scammer_162",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.8669444444444445,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Dear friend,      HAPPY NEW MONTH !    THANKS",
+        "body": "Hello Donna,\n\nThank you for your interest in my proposal. I am looking to invest in a profitable business venture, preferably in the real estate or hospitality industry. However, I am open to other lucrative opportunities as well.\n\nAs for the project details, I would like to discuss this further once we have established a mutual understanding and trust. Could you please tell me more about your experience in these fields? And what kind of opportunities do you think are available in your country?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDonna"
+    },
+    {
+        "from": "baiter_162",
+        "to": "scammer_162",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.1588425925925927,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Dear friend,      HAPPY NEW MONTH !    THANKS",
+        "body": "Hello Mr. Will,\n\nThank you for considering me for this exciting opportunity. I'm quite interested in learning more about the potential investments in real estate and hotels, as well as other lucrative companies. \n\nAs for your question about the best lucrative opportunities in my country, it varies greatly depending on the region and industry. However, technology, healthcare, and renewable energy sectors are currently thriving.\n\nRegarding your request for personal information, I believe it would be more appropriate to continue discussing the business aspects of this potential partnership first. Could you please provide more details about the project? What is its scope? What kind of commitment are you expecting from me?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nDonna"
+    },
+    {
+        "from": "scammer_162",
+        "to": "baiter_162",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.6780555555555554,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Dear friend,      THANKS",
+        "body": "Dear Donna, \nKindly contact Mr. Bright in his WhatsApp for all the discussions and formalities \nName: Mr Bright \nWhatsApp number +1(225)5221777 \n \nEmail:   mr.bright@dr.com \nBest regards. \nBill Will. \n \n \n Sent: Sunday, February 04, 2024 at 9:34 PM From: \"Donna\" <bm45439@***.com> To: billwill@financier.com Subject: Re: Dear friend, HAPPY NEW MONTH ! THANKS \n \nHello Mr. Will, \nThank you for considering me for this exciting opportunity. I'm quite interested in learning more about the potential investments in real estate and hotels, as well as other lucrative companies. \nAs for your question about the best lucrative opportunities in my country, it varies greatly depending on the region and industry. However, technology, healthcare, and renewable energy sectors are currently thriving. \nRegarding your request for personal information, I believe it would be more appropriate to continue discussing the business aspects of this potential partnership first. Could you please provide more details about the project? What is its scope? What kind of commitment are you expecting from me? \nLooking forward to hearing from you soon.\nBest wishes, \nDonna"
+    }
+]

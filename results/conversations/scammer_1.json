@@ -1,0 +1,52 @@
+[
+    {
+        "from": "scammer_1",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attention",
+        "body": "Attention\nA power of attorney was forwarded to our office this morning by one\nMr. Luis Juan from Mexico.\nThis man claimed to be your representative, and this power of attorney\nstated that you are dead, he brought an account to replace your\ninformation in order to claim your fund of $12.5 Million Usd which is\nnow lying DORMANT and UNCLAIMED.\nBe further informed that this power of attorney also stated that you\nsuffered and died of throat cancer, you are therefore given 24hrs to\nconfirm the truth in this information, if you are still alive, you are\nto contact us back\nimmediately, because we work 24 hrs just to ensure that we monitor all\nthe activities going on in regards to the transfer of beneficiaries\ninheritance and contract payment.\nFill The Form Below:\n1. Full Names :...\n2. Residential Address :...\n3. Mobile Number:\n4. Nationality :...\n5. Country :...\n6. Marital Status :...\nN/B please send your full information to avoid diplomatic to deliver\nto wrong person, I look forward to your urgent and positive response\nYou are to contact us immediately for clarifications on this matter as\nwe shall be available 24 hrs to speak with you and give you the\nnecessary guidelines on how to ensure that your funds are wired to you\nimmediately.\nJust also be informed that any further delay from your side could be\ndangerous, as we would not be held\nresponsible for wrong payment.\nMy regard to your family\nMr. Eddie Jaun\nForeign Remittance Department"
+    },
+    {
+        "from": "baiter_1",
+        "to": "scammer_1",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attention",
+        "body": "Hello Mr. Eddie Jaun,\n\nThank you for reaching out to me. I must say, this is quite a surprise! I can assure you that I am very much alive and well, and certainly not suffering from throat cancer. \n\nI'm curious about this Mr. Luis Juan from Mexico who claims to be me. Can you tell me more about him? How did he come into possession of my power of attorney?\n\nAlso, could you please provide more details about the fund that is now lying dormant and unclaimed? How did it come to be in my name?\n\nI appreciate your dedication in monitoring all activities regarding the transfer of funds and contract payment.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "scammer_1",
+        "to": "baiter_1",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Attention",
+        "body": ""
+    },
+    {
+        "from": "baiter_1",
+        "to": "scammer_1",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.14798611111111112,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Attention",
+        "body": "Hello there,\n\nI hope you're having a great day! I'm really interested in learning more about what you have to offer. Could you please provide me with some more details? I'm all ears and ready to understand better. \n\nJust to clarify, could you explain how this works? And what are the benefits that come along with it? I'm really excited to hear more about this opportunity.\n\nLooking forward to your response.\n\nBest wishes,\nAmy"
+    },
+    {
+        "from": "baiter_1",
+        "to": "scammer_1",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.14822916666666666,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Attention",
+        "body": "Hello there! I hope you're having a great day. I'm really interested in learning more about what you have to offer. Could you please provide me with some more details?\n\nBest wishes,\nAmy"
+    }
+]

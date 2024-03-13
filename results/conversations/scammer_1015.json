@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1015",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  NIGERIAN NATIONAL PETROLEUM ",
+        "body": "  NIGERIAN NATIONAL PETROLEUM CORPORATION\n                      7, kofo Abayomi street Victorian island-Lagos\n                                            Tel: 2348068570439\nSIR\nWe receive instruction from the new president that all contractors\nthat are due to receive their payment will receive their fund through\nMASTER  CARD payment system, You are required to reconfirm your\ninformation to enable us commence the processing of your fund into\nyour account. You are advice to stop every communication with any body\nor group of people regarding to this payment. Your urgent attention is\nneeded in regards to this payment.\nI wait from your prompt response.\nYours faithfully\nDr. Uzoma  Oyeze\nChairman Contract Award Division (NNPC)   "
+    },
+    {
+        "from": "baiter_1015",
+        "to": "scammer_1015",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   NIGERIAN NATIONAL PETROLEUM ",
+        "body": "Dear Dr. Uzoma Oyeze,\n\nThank you for your email. However, I believe there may be some misunderstanding as I am not expecting any payment from the Nigerian National Petroleum Corporation.\n\nCould you please provide more details about this matter?\n\nBest wishes,\nDeborah"
+    },
+    {
+        "from": "scammer_1015",
+        "to": "baiter_1015",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: NIGERIAN NATIONAL PETROLEUM",
+        "body": "NIGERIAN NATIONAL PETROLEUM CORPORATION\r\n                                    7, kofo Abayomi street Victorian\r\nisland-Lagos\r\n                                                    Tel: 2347066258650\r\n                                             Email:  nnpcn7507@gmail.com\r\n\r\n\r\nTO   Deborah\r\n\r\nI acknowledge the receipt of your mail dated of  Subject  2024 and the\r\ncontent well noted, it was due to much work in my office concerning all the\r\ncontractors.You are advice with immediate effect to reconfirmed to this\r\noffice, your contract information and banking details for immediate\r\nreconciliation of your files and also see attached copy of contractors fund\r\nrelease application, fill out the space and return back to this office to\r\nenable us commence action on transfer of your fund.\r\n\r\nThanks for your cooperation\r\n\r\nYours faithfully\r\n\r\nDr. Uzoma  Oyeze\r\nChairman Contract Award Division (NNPC)"
+    },
+    {
+        "from": "scammer_1015",
+        "to": "baiter_1015",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.1667361111111112,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: NIGERIAN NATIONAL PETROLEUM",
+        "body": "NIGERIAN NATIONAL PETROLEUM CORPORATION\r\n                                    7, kofo Abayomi street Victorian\r\nisland-Lagos\r\n                                                    Tel: 2347066258650\r\n                                             Email:  nnpcn7507@gmail.com\r\n\r\n\r\nTO   Deborah\r\n\r\nGood day can I trust you because I know that you are not the right\r\nbeneficiary of this compensation  according to your email which you send to\r\nme that you were not expecting any money from Nigeria but I can trust you\r\nbecause I want both of us to do business and if they transfer this fund\r\ninto your account that you will not run away with the money don't worry I\r\nwill provide the necessary documents backing the fund and I repeat myself\r\nagain I believe I can trust you.get back to me.\r\n\r\n\r\nThanks for your cooperation\r\n\r\nYours faithfully\r\n\r\nDr. Uzoma  Oyeze\r\nChairman Contract Award Division (NNPC)"
+    }
+]

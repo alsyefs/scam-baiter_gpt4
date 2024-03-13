@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_909",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Attn: Beneficiary,",
+        "body": "Attn: Beneficiary,\nWe have concluded to affect your payment today through Money Gram\n$6,000.00 daily until the $1.8M USD is completely transferred to you.\nThrough Mrs. Kelly-Ann Davey. So contact Money Gram Agent: Mr. Terry\nJames E-mail: \nmoneygramservice28@gmail.com\n and Tell him to give you\nthe REFERENCE Number, sender name and question/ answer to pick up the\n$6,000.00 immediately.\nNOTE: This payment has been instructed by the Ministry Of Finance and\nyou must undergo the due process once you get in contact with Money\nGram Office to enable them authenticate the legitimacy of your funds\nand again reconfirm your current info such as; Name. Address. Phone\nnumber.\nThe IMF commission who set up this payment programmer is now waiting\nfor confirmation so hasten up and give the agent a call to process\nyour payment.\nKelly-Ann Davey\nIMF Fund Delivery."
+    },
+    {
+        "from": "baiter_909",
+        "to": "scammer_909",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Attn: Beneficiary,",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm quite excited about this opportunity! Could you please provide more details about the process? How does Money Gram work and what is the role of Mr. Terry in this?\n\nAlso, could you explain a bit more about the IMF commission and their involvement in this payment program? I'm eager to understand everything clearly.\n\nLooking forward to your response.\n\nBest wishes,\nJanice"
+    },
+    {
+        "from": "scammer_909",
+        "to": "baiter_909",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Attn: Beneficiary,",
+        "body": ""
+    },
+    {
+        "from": "scammer_909",
+        "to": "baiter_909",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.472222222222222e-05,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Attn: Beneficiary,",
+        "body": "Okay.."
+    },
+    {
+        "from": "baiter_909",
+        "to": "scammer_909",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.6203472222222223,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Attn: Beneficiary,",
+        "body": "Hello there! I hope you're having a great day. I'm really interested in learning more about what you have to offer. Could you please provide me with some more details?\n\nBest wishes,\nJanice"
+    },
+    {
+        "from": "baiter_909",
+        "to": "scammer_909",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.866261574074074,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Attn: Beneficiary,",
+        "body": "Hello there! I hope you're having a great day. I'm really interested in learning more about what you have to share. Could you please provide some more details?\n\nBest wishes,\nJanice"
+    },
+    {
+        "from": "baiter_909",
+        "to": "scammer_909",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.4536805555555556,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Attn: Beneficiary,",
+        "body": "Hello there,\n\nI hope you're having a great day! I'm really interested in learning more about what you have to offer. Could you please provide me with some more details? I'm all ears and ready to understand better.\n\nLooking forward to your response.\n\nBest wishes,\nJanice"
+    },
+    {
+        "from": "baiter_909",
+        "to": "scammer_909",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.145347222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Attn: Beneficiary,",
+        "body": "Hello there! I hope you're having a great day. I'm excited to share some information with you. What would you like to know more about?\n\nBest wishes,\nJanice"
+    }
+]

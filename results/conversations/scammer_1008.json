@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1008",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello Dear,",
+        "body": "Hello Dear,\nHow are you doing today. I hope all is well with you. I previously\nsent you an email but no response from you. I don’t really know how to\nstart; \nI’m actually from Ukraine who managed to escape through the\nevacuation process from Kherson, Ukraine\n.\nMy name is Daniela Aksamit, \nI am currently in Ireland as a refugee\nseeking for your assistance to enable me move to my dream destination.\nUnfortunately my father was killed during the invasion by Russia\nbefore I had an opportunity to escape the war alive. I am privileged\nto secure my late father’s fortune, which he disclosed where it was\nkept for safety purposes before his death.\nIt was his life savings and was kept as my inheritance before the\ninvasion of Ukraine, my country by Russia. \nI used the escaping\nopportunity to lift  the inheritance with the help of a South African\nRed Cross Society Organization official and deposited the Fortune with\na firm for safety purpose.\nI have been trying to get in touch with him for the past two months\nbut all to no avail. This is the reason why I am seeking for your\nassistance and consent to entrust the inheritance in your care so you\ncan help invest the fortune in any profitable business venture because\nI cannot do anything on my own from here and my country is on fire at\nthe moment but I am very lucky that the Red Cross Society Organization\nofficial provided me with the company's information before we lost\ncommunication.\nBased on your acceptance, I will send you the company's information to\nenable you communicate with them for official introduction as my late\nfather's foreign business partner so that the company will set\nmodalities on how it can be sent to you by airfreight after which we\nshall discuss on my personal meeting with you on the way forward\nregarding my stay and investment plans.\nThanks for your willingness.\nDaniela Aksamit\nKindly revert back to me via my personal email account: \nnewcinegs@gmail.com"
+    },
+    {
+        "from": "baiter_1008",
+        "to": "scammer_1008",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Hello Dear,",
+        "body": "Hello Daniela,\n\nI'm doing well, thank you for asking. I'm sorry to hear about the difficult circumstances you're facing. It must be really tough for you.\n\nIt's quite a story that you've shared with me. I can't imagine what it must be like to go through such an ordeal. You mentioned your father's fortune and a company involved in its safekeeping. Could you tell me more about this company? What kind of business are they into?\n\nAlso, I'm curious about your plans once the fortune is invested. Do you have any specific business ventures in mind? \n\nLooking forward to hearing from you soon.\n\nBest wishes,\nAlma"
+    },
+    {
+        "from": "scammer_1008",
+        "to": "baiter_1008",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Hello Dear,",
+        "body": "Hello Alma,\r\n\r\nThanks for your response. I am very glad that you responded at this time.\r\nIt was tough but better now. Firstly, kindly tell me about yourself like\r\nyour current location, full name, contact to make our communication and\r\nacquaintance easier.\r\n\r\nThe company is into warehousing and logistics. I will disclose the company\r\ndetails to you upon your response to enable you to contact them for further\r\naction for the release of the fortune to you for investment.\r\n\r\nI do not have any business in mind at the moment but I believe you have\r\nsome good ideas in businesses and investments.\r\n\r\nI will formally introduce you to the company as soon as I hear from you.\nThanks,\r\nDaniela Aksamit."
+    },
+    {
+        "from": "scammer_1008",
+        "to": "baiter_1008",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.9875347222222223,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Fwd: Hello Dear,",
+        "body": "---------- Forwarded message ---------\r\nFrom: Daniela Aksamit <newcinegs@gmail.com>\r\nDate: Wed, Feb 7, 2024, 9:18 AM\r\nSubject: Re: Hello Dear,\r\nTo: Alma <tt05012@***.com>\r\n\r\n\r\nHello Alma,\r\n\r\nThanks for your response. I am very glad that you responded at this time.\r\nIt was tough but better now. Firstly, kindly tell me about yourself like\r\nyour current location, full name, contact to make our communication and\r\nacquaintance easier.\r\n\r\nThe company is into warehousing and logistics. I will disclose the company\r\ndetails to you upon your response to enable you to contact them for further\r\naction for the release of the fortune to you for investment.\r\n\r\nI do not have any business in mind at the moment but I believe you have\r\nsome good ideas in businesses and investments.\r\n\r\nI will formally introduce you to the company as soon as I hear from you.\r\n\r\nThanks,\r\nDaniela Aksamit.\r\n\r\nOn Mon, Feb 5, 2024 at 3:34 AM Alma <tt05012@***.com> wrote:\r\n\r\n>\r\n>\r\n>\r\n> Hello Daniela,\r\n>\r\n> I'm doing well, thank you for asking. I'm sorry to hear about the\r\n> difficult circumstances you're facing. It must be really tough for you.\r\n>\r\n> It's quite a story that you've shared with me. I can't imagine what it\r\n> must be like to go through such an ordeal. You mentioned your father's\r\n> fortune and a company involved in its safekeeping. Could you tell me more\r\n> about this company? What kind of business are they into?\r\n>\r\n> Also, I'm curious about your plans once the fortune is invested. Do you\r\n> have any specific business ventures in mind?\r\n>\r\n> Looking forward to hearing from you soon.\r\n>\r\n> Best wishes,\r\n> Alma\r\n>\r\n>\r\n>\r\n>\r\n>"
+    }
+]

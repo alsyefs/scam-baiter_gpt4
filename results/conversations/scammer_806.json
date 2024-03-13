@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_806",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Lotus Bank Limited",
+        "body": "  Lotus Bank Limited\n2 Bourdillion Rd, Ikoye Lagos\nPH:0700 5688 72265\nE=mail:LOTUSBANKPLC@financier.com\nAttn:Sir\nThis is to inform the bearer that we have received notfication from the\napex bank to credit your interest rate on your fund deposited on your\nbehalf by CBN.The accrued interest was generated from your\nUSD$20,000,000 deposited by the Apex bank, tagged{Inheritance fund} .\nThe fund has been fixed deposited with us for the last 2 years  and\nhas generated interest of USD$500,000.00.The MOU signed compiled us\nLOTUS BANK LTD to pay you the interest accumulated after every two\nyears.\nYou are adviced to to fill the KYC attached file immediately and\nreturn back to the office.\nRegards\nKafilat ARAOYE\nManaging Director/CEO - LOTUS Bank   "
+    },
+    {
+        "from": "baiter_806",
+        "to": "scammer_806",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Lotus Bank Limited",
+        "body": "Dear Kafilat Araoye,\n\nThank you for your email. I am interested in the accrued interest on my deposited fund. However, I did not receive any KYC (Know Your Customer) form attached to your email.\n\nCould you please resend the form so that I can fill it out and return it back to your office?\n\nBest wishes,\nThomas"
+    },
+    {
+        "from": "scammer_806",
+        "to": "baiter_806",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Lotus Bank Limited",
+        "body": "Attn:Thomas \n \nAttached id the Form. \nSorry to know that you didn't receive it earlier. \n \nKafilat Araoye, \n \n \n Sent: Tuesday, February 06, 2024 at 12:34 PM From: \"Thomas\" <te14474@***.com> To: lotusbankplc@financier.com Subject: Re: Lotus Bank Limited \n \nDear Kafilat Araoye, \nThank you for your email. I am interested in the accrued interest on my deposited fund. However, I did not receive any KYC (Know Your Customer) form attached to your email. \nCould you please resend the form so that I can fill it out and return it back to your office?\nBest wishes, \nThomas"
+    },
+    {
+        "from": "baiter_806",
+        "to": "scammer_806",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.43555555555555553,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Lotus Bank Limited",
+        "body": "Dear Thomas,\n\nI apologize for the oversight. I have attached the KYC (Know Your Customer) form to this email. Please fill it out and return it at your earliest convenience.\n\nBest wishes,\nThomas"
+    },
+    {
+        "from": "scammer_806",
+        "to": "baiter_806",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.8251851851851851,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "4",
+        "subject": "Find attached file",
+        "body": "Dear Mr Thomas, \nThank you for your oversight, I really apprecoate it \n \nThe I have attached the KYC (Know Your Customer) form to this email. Please fill it out and return it at your earliest convenience. \n \nRegards \n \nKafilat ARAOYE \nManaging Director/CEO - LOTUS Bank \n \n \n Sent: Wednesday, February 07, 2024 at 7:34 AM From: \"Thomas\" <te14474@***.com> To: lotusbankplc@financier.com Subject: Re: Lotus Bank Limited \n \nDear Thomas, \nI apologize for the oversight. I have attached the KYC (Know Your Customer) form to this email. Please fill it out and return it at your earliest convenience.\nBest wishes, \nThomas"
+    },
+    {
+        "from": "baiter_806",
+        "to": "scammer_806",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.8763310185185185,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Find attached file",
+        "body": "Dear Kafilat,\n\nThank you for your prompt response and for providing the KYC form. I will fill it out and return it to you as soon as possible.\n\nBest wishes,\nThomas"
+    }
+]

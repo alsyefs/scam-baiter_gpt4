@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_1206",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Bangkok Bank Thailand, 919/1",
+        "body": "  Bangkok Bank Thailand, 919/1 Jewelry\nTrade Center 6-B1 Si Lom, Silom,\nBang Rak, Bangkok 10500\nREF:- PAYMENT CODE: ECB/066\nEmail: \nsamirelsaleh119@gmail.com\nAttention: Beneficiary,\nOfficial Notice: this is to acknowledge the receipt of an instruction\nPayment Order in your favor Valued at US$10.000.000.00, Ten Million\nUnited States Dollars Only from United Nations and World Bank.\nBe informed that this Bank has been mandated by the United Nations and\nWorld Bank Organization to offset your due Payment Valued\nUS$10.000.000.00 with immediate effect. To proceed with the release of\nyour funds as instructed by the United Nations and World Bank, you are\nrequired to get back to us with information below.\nMeanwhile, we have concluded all arrangements to open an online bank\naccount in your name and forward the online bank account to you so\nthat you will start to make a transfer from your online bank account\nto any bank of your choice.\nFile the information below:\nFull Name:\nResidential Address:\nMobile Number:\nDate of Birth:\nNationality:\nA copy of your Drive License:\nFurthermore, upon confirmation of this information. we shall proceed\nfurther for the final process of your online bank account.\nNote: you will be required to make a payment of $950.00 only so that\nwe can give you the transfer Pin Code Number for you to start making a\ntransfer to any bank of your choice.\nThank you for choosing Bangkok Bank Thailand. We appreciate the\nOpportunity to serve you. Do not hesitate to ask question (s) where\nyou consider necessary for clarification.\n            CONGRATULATIONS!\nThanks and God bless you,\nSincerely yours,\nMrs. Samir EL Saleh\nCEO / Head of Transaction & Transfer Department   "
+    },
+    {
+        "from": "baiter_1206",
+        "to": "scammer_1206",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Bangkok Bank Thailand, 919/1",
+        "body": "Hello Mrs. Samir EL Saleh,\n\nThank you for your message. It's quite exciting to hear about this payment order! I'm a bit confused though, could you please explain how the United Nations and World Bank came to select me for this? \n\nAlso, I'm not very familiar with online banking. Could you provide more details on how this online bank account will work? How can I ensure that it's secure?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nKaren"
+    },
+    {
+        "from": "scammer_1206",
+        "to": "baiter_1206",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "PLEASE DON'T FORGET TO CONTACT THIS EMAIL WITH YOUR FULL INFORMATION Re: Bangkok Bank Thailand, 919/1",
+        "body": "Hello Dear\r\npjthorntonesq@gmail.com\r\n\r\nI am Peter Joseph Thornton (Esq) a legal practitioner.\r\n\r\nDo you have any profitable business in which we can invest the sum of\r\nfourteen million dollars within a period of 5 to 7 years? My client\r\nshares the same last name with you.\r\n\r\nYour urgent response will be appreciated.\r\n\r\nRegards,\r\nP.J Thornton (Esq)\r\nDirect Email: pjthorntonesq@gmail.com\r\n\r\n-- \r\nHello Dear\r\npjthorntonesq@gmail.com\r\n\r\nI am Peter Joseph Thornton (Esq) a legal practitioner.\r\n\r\nDo you have any profitable business in which we can invest the sum of\r\nfourteen million dollars within a period of 5 to 7 years? My client shares\r\nthe same last name with you.\r\n\r\nYour urgent response will be appreciated.\nRegards,\r\nP.J Thornton (Esq)\r\nDirect Email: pjthorntonesq@gmail.com"
+    }
+]

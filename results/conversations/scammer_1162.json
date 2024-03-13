@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_1162",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "I am Rev poole Benjamin DHL Di",
+        "body": "I am Rev poole Benjamin DHL Diplomatic Agent.\nI have received your Fund Consignment Box worth $8.5 million USD.\nEight million Five Hundred Thousand United States Dollars in my office\nas it could be delivered your home address or through bank transaction\nbefore two young men by name WILLIAM HUGES and JOHN CAMEL came with a\nsad news of your death they also claim to be your relatives As they\nmake enquiry to claim your Fund as it is their rightful inheritance\nthey told us that you gave them the permissions at the hospital bed to\nclaim your money before you die we couldn't hand over your money to\nthem untill we find out that you are dead and\n if they are truely your\nsons please reconfirm with your information if you are still alive and\nif you know these two men\nYOUR CURRENT PHONE NUMBER......\nYOUR HOME ADDRESS ...............\nYOUR AIRPORT ADDRESS .......\nYOUR VALID ID CARD\n ..............\nYOUR EMAIL ADDRESS......."
+    },
+    {
+        "from": "baiter_1162",
+        "to": "scammer_1162",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: I am Rev poole Benjamin DHL Di",
+        "body": "Hello Rev Poole Benjamin,\n\nThank you for reaching out. I'm quite surprised to hear about this situation. I must say, it's news to me that I have a Fund Box worth millions of dollars! And the story about my supposed death and those two men claiming to be my relatives is quite intriguing.\n\nI'm curious, how did you come into possession of this Fund Box? Also, could you tell me more about these two men, William Huges and John Camel? What exactly did they say about their relationship with me?\n\nAs for the information you're asking for, I'm afraid I can't provide it at this time. But let's continue our conversation and see if we can clear up this misunderstanding.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nPaul"
+    },
+    {
+        "from": "scammer_1162",
+        "to": "baiter_1162",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: I am Rev poole Benjamin DHL Di",
+        "body": "Send me your information now"
+    }
+]

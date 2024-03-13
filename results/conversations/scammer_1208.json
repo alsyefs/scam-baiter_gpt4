@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_1208",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "How are you doing today ? Well",
+        "body": "How are you doing today ? Well there is a lady called Mrs Mary\nPolinice, she was in our office this morning trying to pay the\nrequired fees of $50 to claim your funds. According to her statement\nshe stated that you're one of the victims car accident so we are\ncontacting you now to confirm if you're really dead or Alive?\nHere is the information :\nYour full name AND address:\nName of your Country/ City:\nCell/office address:\nIDENTITY CARD/PHOTO\n:\nCurrent occupation:\nContact telephone number:\nThank Your\nMR BENJAMIN PAUL"
+    },
+    {
+        "from": "baiter_1208",
+        "to": "scammer_1208",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: How are you doing today ? Well",
+        "body": "Hello Mr. Benjamin Paul,\n\nI hope you're having a good day. I'm quite surprised to hear about this situation with Mrs. Mary Polinice. I can assure you that I am very much alive and well, thank goodness! \n\nAs for the car accident, there seems to be some misunderstanding. Could you please provide more details about this incident? And how did Mrs. Polinice come to believe that I was involved in such an unfortunate event?\n\nAlso, could you explain more about these funds that she is trying to claim on my behalf? It's all a bit confusing.\n\nLooking forward to your response.\n\nBest wishes,\nCarlos"
+    },
+    {
+        "from": "scammer_1208",
+        "to": "baiter_1208",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Mr Carlos Happy Sunday",
+        "body": "Mr Carlos I received your email and also understand understand what your\r\nsaid that your don't know Mrs Mary is well because he will come back on\r\nMonday and I will call the police to get her arrested but first are your\r\nready to pay the transfer fee to receive your Fund that's all I need to\r\nknow before calling the police so I will like to here from your to know\r\nwhat's next ok\r\n\r\nBenjamin"
+    }
+]

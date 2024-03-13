@@ -1,0 +1,52 @@
+[
+    {
+        "from": "scammer_448",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "UNICEF/LOTERIA/INTERNATIONAL  ",
+        "body": "UNICEF/LOTERIA/INTERNATIONAL                                                               \nFROM THE DESK OF THE DIRECTOR INTERNATIONAL\nPROMRTION PRIZE UNICEF LOTERIA ESPAÑA                                                                                                             \n                                                    AWARD FINAL NOTIFICATION\nAttention Beneficiary,\nWe are delighted to inform you of the released results of UNICEF International Lottery Promotion Program held on Friday December 22nd 2023. We try to reach you again on this same address as our previous notification to you returned undelivered. Due to a mix up of names, all the undelivered mails were released on January 19th 2024 for final notification; do endeavor to respond to this urgent and final notification so that we will not be held liable at the end.\nOur records indicate your name attached to the winning number (10989) won the second category of the UNICEF International Lottery Promotion Program held on Friday December 22nd 2023. Therefore, you have been approved for a lump Sum of (€1,095.810.20) One Million and Ninety-Five Thousand Eight Hundred and Ten Euros Twenty Cent Only, Congratulations! Your unclaimed winning Prize is still outstanding, secured, insured and available for claim.\nYour Name; .............................................\nAge; ..........................................................\nGender; ...................................................\nAddress; ...................................................\nEmail; .......................................................\nContact Telephone; ……………………….\nOccupation; ...............................................\nAmount Won...............................................\nTo begin your claim, Contact our foreign operational manager below for the processing and remittance of your prize-winning money to a destination of your choice.\nMr. Alfred Henz\nEmail: \nfinancedeposite@gmail.com\nNOTE: We look forward to your urgent acknowledgment as we assure you of our assistance and guidance. CONGRATULATIONS!!!!!!\nYours Faithfully,   \nEdward Santiago\nDirector of department UNICEF\nC\\ San Vicente Paul 1 EOD 50.\n001 Zaragoza (ESPAÑA)"
+    },
+    {
+        "from": "baiter_448",
+        "to": "scammer_448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: UNICEF/LOTERIA/INTERNATIONAL  ",
+        "body": "Dear Edward Santiago,\n\nI am delighted to receive your email informing me about my winning in the UNICEF Lottery Promotion Program. I am ready to claim my prize and would like to proceed with the necessary steps.\n\nHere are my details:\n\nName: Lewis D. Noogie\nAge: 45\nGender: Male\nAddress: 123 Main Street, Novosibirsk, Latvia\nEmail: lewis.noogie@email.com\nContact Telephone: +371 12345678\nOccupation: Hotel Consultant\n\nI look forward to hearing from you soon.\n\nBest regards,\nLewis D.\n\nBest wishes,\nShante"
+    },
+    {
+        "from": "scammer_448",
+        "to": "baiter_448",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: UNICEF/LOTERIA/INTERNATIONAL",
+        "body": "Hello Lewis Noogie\r\n\r\nMy name is Mr. Alfred Henz your claim agent, we have received your\r\ninformation and have already forwarded them to our corresponding paying\r\nBank for processing and remittance of your price found, The Bank requires\r\nyour identification, make a copy of a valid identity sent to our office via\r\nattachment,\nRegards\r\n\r\nAlfred Henz"
+    },
+    {
+        "from": "baiter_448",
+        "to": "scammer_448",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.05645833333333333,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: UNICEF/LOTERIA/INTERNATIONAL",
+        "body": "Dear Mr. Alfred Henz,\n\nThank you for your prompt response. I am excited about the opportunity to live and work in the United States. \n\nAs per your request, I will send a copy of my valid identity document to your office. Could you please provide me with the necessary details such as the address or email where I should send this?\n\nLooking forward to hearing from you soon.\n\nBest regards,\nLewis D.\n\nBest wishes,\nShante"
+    },
+    {
+        "from": "scammer_448",
+        "to": "baiter_448",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.49115740740740743,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: UNICEF/LOTERIA/INTERNATIONAL",
+        "body": "Hello Lewis Noogie\r\n\r\nSend your Identification here financedeposite@gmail.com\nRegards\r\n\r\nAlfred Henz"
+    }
+]

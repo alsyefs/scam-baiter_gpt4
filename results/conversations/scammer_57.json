@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_57",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Dear friend,",
+        "body": "  Dear friend,\nPlease consider to help me relocate this €27.65m Euro for establishing an industry in your country. This fund was deposited in our bank by Mrs. Nina Wang from Hong Kong who died of cancer on April 3rd 2007 without a heir.\nA routine notification was sent to her forwarding E-mail address but without responses. She did not declare her next of kin in the bank official papers including her real home contacts.\nClick here ;( http:/ /news.bbc.co.uk/2/hi/asia-pacific/6524861.stm)\n;(http:/ /www.iht.com/articles/2007/04/04/news/obits.php)\nThis money has been floating and if I do not remit it out urgently it will be confiscated by the government as unclaimed fund. You will be compensated with 40% for your collaboration to receive this fund.\nI will give you all vital information and clarification when I receive your reply via my private email id: \nhenalbertia1010@gmail.com\nMeanwhile kindly send the following info:\n1. Name in full:...................\n2. Address:..........................\n3. Nationality:......................\n4. Sex...............................\n5. Occupation: ......................\n6. Position..........................\n7. Marital status:...................\n8. Mobile Phone......................\nRegards,\nMr.Hena Albertia.     "
+    },
+    {
+        "from": "baiter_57",
+        "to": "scammer_57",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Dear friend,",
+        "body": "Hello Albertia,\n\nThank you for reaching out to me. I'm sorry to hear about Mrs. Nina Wang's unfortunate passing. It's always sad when someone leaves this world without any heirs.\n\nI'm intrigued by your proposal, but I have a few questions before we proceed further. Could you please explain more about the industry you mentioned? What kind of business are we talking about here?\n\nAlso, could you provide more details on how this process works? How would the funds be transferred and what would my role be in all of this?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nTim"
+    },
+    {
+        "from": "scammer_57",
+        "to": "baiter_57",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Dear friend,",
+        "body": ""
+    }
+]

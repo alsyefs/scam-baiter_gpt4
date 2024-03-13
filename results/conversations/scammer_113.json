@@ -1,0 +1,52 @@
+[
+    {
+        "from": "scammer_113",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Sir",
+        "body": "Dear Sir\nYour overdue payment of $15m which has been approved for immediate release to you.\nkindly respond for next procedures.\nMr Zakky Ali"
+    },
+    {
+        "from": "baiter_113",
+        "to": "scammer_113",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Sir",
+        "body": "Hello Mr. Zakky Ali,\n\nThank you for reaching out to me about this overdue payment. I must admit, I'm a bit surprised as I don't recall having any pending payments. Could you please provide more details? For instance, what is this payment related to? And why has it been approved for immediate release?\n\nLooking forward to your response.\n\nBest wishes,\nYvonne"
+    },
+    {
+        "from": "scammer_113",
+        "to": "baiter_113",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Sir",
+        "body": "Dear Yvonne\r\n\r\nThanks for the email response and your questions, the fund $15 million\r\nUnited States Dollars is your overdue inheritance fund which was in our\r\nescrow account (Apex Bank Plc) before we decided to move it to current\r\noffice in Amsterdam Holland where you will go in person to pick up the fund\r\nby cash payment.\r\n\r\nThe reasons are because imposter that are aware of the fund wants to claim\r\nit without your consent or permission to do so.\r\n\r\nSecondly the fund has over stayed because it was proposed to be long term\r\nbut quest to get in touch with you all this while made it so but finally we\r\nwhere able to reach you for the claim.\r\n\r\nI would like you to send me your mobile number as soon as possible and your\r\nany means of identification.\r\n\r\nThe fund has been approved for immediate release to you because all is\r\nrequired for you to be there in person at the office in Amsterdam Holland.\r\n\r\nWaiting to hear from you soonest.\r\n\nMr Zakky Ali"
+    },
+    {
+        "from": "baiter_113",
+        "to": "scammer_113",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9181597222222222,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Dear Sir",
+        "body": "Hello Mr. Zakky Ali,\n\nThank you for your prompt response and the detailed explanation about the fund. It's quite a surprise to hear about this overdue fund, I must say.\n\nI'm curious though, how did my name get associated with this fund? And why was it moved to Holland? Also, could you please explain more about these imposters who are trying to claim the fund without my consent?\n\nI appreciate your request for my mobile number, but I prefer to keep our conversation here over email for now. I hope that's okay with you.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nYvonne"
+    },
+    {
+        "from": "scammer_113",
+        "to": "baiter_113",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0783564814814814,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Dear Sir",
+        "body": "Yvonne\r\n\r\nYour names got associated with the fund as the next of kin and sole\r\nbeneficiary of the fund to Jessica Karen Saunders who was a contractor to\r\nfederal government of nigeria on crude oil and pipeline maintenance before\r\nher death years back and your email info was only communication to reach\r\nout for you.\r\n\r\nThe imposters knew about this fund and they wanted to claim it without your\r\nconsent. That is why we moved the fund to Amsterdam Holland so it can be\r\neasy for you to go and pick up the fund.\r\n\r\nyour number is very important. If not there is no way I can proceed with\r\nyou because to contact the company mobile number must be ready.\r\n\nMr Zakky Ali"
+    }
+]

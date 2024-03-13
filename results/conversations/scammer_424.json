@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_424",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "FedEx Delivery company Head Of",
+        "body": "FedEx Delivery company Head Office\nHeadquarters:422 McGregor Saginaw\nMichigan 48602 United States of America\nEmail: (\nfcompanyheadoffice87@gmail.com\n)\nYour Swift Response Is Needed:\nThis is FedEx courier Delivery Company of Saginaw, Michigan, the\nmanagement of this company wishes to inform you that we received an\nATM CARD PACKAGE with some vital documents attached to it, for safety.\ndelivery to your residential address in your country. This package was\nbrought to our office by the international Non-literary department to\nbe delivered to you.  \nkindly reconfirm the\nbelow details to enable us to commence with the delivery immediately.\nFull names................\nParcel owner address.........\nCountry.....................\nZip Code.................\nNationality: ..............\nTelephone: ...........\nAge: .................\nOccupation: ...........\nWe will register your package and send you the tracking numbers before\nwe proceed for safety delivery of your package as soon as you\nreconfirm the required information for safety delivery. FedEx is one\nof the world's great success stories, the start-up that revolutionized\nthe delivery of packages and information. In the past30 years, we've\ngrown up and grown into a diverse family of companies as FedEx that's\nbigger, stronger, better than ever. Waiting to read your urgent mail\nwith the needed information requested from you about this your\nsuccessful delivery.\nYours Faithfully,"
+    },
+    {
+        "from": "baiter_424",
+        "to": "scammer_424",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: FedEx Delivery company Head Of",
+        "body": "Dear Sir/Madam,\n\nI am writing to confirm the receipt of your message regarding the delivery of an ATM Card Package. However, I would like to clarify a few details before we proceed.\n\nCould you please provide more information about the contents of this package and its origin? Also, could you specify what documents are attached to it?\n\nHere are my details for the delivery:\n\nFull Name: Lewis D. Noogie\nAddress: 123 Main Street, Novosibirsk\nCountry: Latvia\nZip Code: LV-5400\n\nPlease ensure that all future correspondence includes a clear subject line and signature so I can be certain of its legitimacy.\n\nThank you for your attention to this matter.\n\nBest regards,\nLewis D.\n\nBest wishes,\nGinger"
+    },
+    {
+        "from": "scammer_424",
+        "to": "baiter_424",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: FedEx Delivery company Head Of",
+        "body": "FedEx Delivery company Head Office\r\nBrooklyn, New York\r\nUnited State of America\r\nEmail: (fcompanyheadoffice87@gmail.com)\r\n\r\nYour Attention Is Needed In This Matter :\r\n\r\n\r\nThank you very much for your email and I want to assure you that you\r\nwill be receiving your ATM card as soon as the fee sum of $100 U.S\r\nDollar is been paid to our agent because the issuing bank of your ATM\r\ncard will be from Washington Trust Bank and that is why you are to\r\nsend the fee sum of $100 U.S Dollar Only.\r\n\r\nBear in mind that your payment option which is ATM Card has been\r\nreceived and We will be issuing you a custom pin based ATM card which\r\nyou will use to withdraw up to $3,000 per day from any ATM machine\r\nthat has the Master Card Logo on it and the card have to be renewed in\r\n4years’ time which is 2027. Also with the ATM card, you will be able\r\nto transfer your funds to your local bank account. The ATM card comes\r\nwith a handbook or manual to enlighten you about how to use it, even\r\nif you do not have a bank account.\r\n\r\nYour payment which is ATM Card will be sent to you via the FedEx\r\nCourier service. You are only required to pay $100 U.S Dollar, for the\r\nsecurity keeping fee and the express delivery charges of your ATM\r\nSmart Card. Furthermore, anyone who asking you for some kind of money\r\nwithout the IMF Code\" 1775 to above the usual fee is definitely a\r\nfraudster and you are advised to stop every communication and delat\r\nsuch individuals.\r\n\r\nAnd for you to see the people who has receiving their card all over\r\nthe word you have to view the attached and use www.FedEx.com to track\r\nand see the status of the above person who complied and pays the\r\nrequested fee sum of $100 U.S Dollar.\r\n\r\nTo successfully claim your compensation fund, we have sited offices in\r\nEurope and West Africa, Asia and across the globe to handle the\r\npayment process. You are to specify either of the two offices\r\nconvenient for you.\r\n\r\nThank You:\r\n\r\nMr Ashley Jackson\r\nManaging Director of the International\r\nMonetary Fund. (I.M.F)(1775"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_1303",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": " ",
+        "body": " \nSantander Plc UK.\n2 Triton Square, Regent's Place,\nUnited Kingdom, NW1 3AN. England.\nRegistered No: 2294747, Registered in England and Wales\nOFFICE OF THE INTERNATIONAL REMITTANCE OFFICER\n \nRE: YOUR PLATINUM ATM CARD\n \nATTN; ELIGIBLE CUSTOMER\n \nSequel to payment file from the Republic of South-Africa with your details as the beneficiary of the overdue part payment contract fund of £2,527,063.00 GBP [TWO MILLION FIVE HUNDRED AND TWENTY-SEVEN THOUSAND BRITISH POUNDS STERLING] to be paid via ATMPLATINUM CARD payment mode.\nHowever the approved sum, is to be remitted via ATM PLATINUM CARD is £2,527,063.00 GBP [TWO MILLION FIVE HUNDRED AND TWENTY-SEVEN THOUSAND BRITISH POUNDS STERLING] this medium has been approved as a new policy for government national budget forum. \nThis idea is to reduce financial stress with the aim to counterbalance up contractors' funds and to eradicate economic theft.\n \nKindly send the below requested details today;\n \nFULL NAMES:\nFULL HOME ADDRESS:\nFULL TEL & FAX: \n \nThank you for your maximum cooperation and understanding.\n \nYours,\nJose Norducci, \nChief Financial Officer\nSantander Plc   "
+    },
+    {
+        "from": "baiter_1303",
+        "to": "scammer_1303",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:  ",
+        "body": "Hello Jose Norducci,\n\nThank you for reaching out to me. I'm quite intrigued by this information about the overdue part payment contract fund. Could you please provide more details about it? How did my name come up in connection with this fund?\n\nAlso, could you explain a bit more about how the ATM PLATINUM CARD works? It sounds like an interesting concept, but I'm not entirely sure I understand it.\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDale"
+    },
+    {
+        "from": "scammer_1303",
+        "to": "baiter_1303",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re:",
+        "body": "*Santander Plc UK.*\r\n*2 Triton Square, Regent's*\r\n<https://maps.google.com/?q=2+Triton+Square,+Regent%27s&entry=gmail&source=g>\r\n* Place,United Kingdom, NW1 3AN. England.*\r\n\r\n*Registered No: 2294747, Registered in England and Wales*\r\n------------------------------\r\n\r\n*OFFICE OF THE INTERNATIONAL REMITTANCE OFFICER*\r\n\r\n\r\n\r\n*RE: YOUR PLATINUM ATM CARD*\r\n------------------------------\r\n\r\n\r\n\r\n*ATTN;** ELIGIBLE CUSTOMER*\r\n------------------------------\r\n\r\n\r\n\r\n*Sequel to payment file from the Republic of South-Africa with your details\r\nas the beneficiary of the overdue part payment contract fund of **£2,527,063.00\r\nGBP [TWO MILLION FIVE HUNDRED AND TWENTY-SEVEN THOUSAND BRITISH POUNDS\r\nSTERLING] **to be paid via ATMPLATINUM CARD payment mode.*\r\n\r\n*However the approved sum, is to be remitted via ATM PLATINUM CARD is\r\n**£2,527,063.00\r\nGBP [TWO MILLION FIVE HUNDRED AND TWENTY-SEVEN THOUSAND BRITISH POUNDS\r\nSTERLING] **this medium has been approved as a new policy for government\r\nnational budget forum. *\r\n\r\n*This idea is to reduce financial stress with the aim to counterbalance up\r\ncontractors' funds and to eradicate economic theft.*\r\n\r\n\r\n\r\n*Kindly send the below requested details today;*\r\n\r\n\r\n\r\n*FULL NAMES:*\r\n\r\n*FULL HOME ADDRESS:*\r\n\r\n*FULL TEL & FAX:*\r\n\r\n\r\n\r\n*Thank you for your maximum cooperation and understanding.*\r\n\r\n\r\n\r\n\r\n\r\n*Yours,Jose Norducci, Chief Financial Officer*\r\n\r\n*Santander Plc *"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "from": "scammer_414",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "DEAR BENEFICIARY:",
+        "body": "DEAR BENEFICIARY:\nTHIS IS UPS GLOBAL EXPRESS INTERNATIONAL DELIVERY COMPANY OF UNITED\nSTATES,BENIN, WE WISH TO OFFICIALLY INFORM YOU THAT WE RECEIVED A\nPACKAGE CONTAINING AN ATM CARD WITH YOUR NAME VALUED $13.9MILLION TO\nBE DELIVERED TO YOUR RESIDENTIAL ADDRESS.. IT WAS BROUGHT TO OUR\nNOTICE YESTERDAY MORNING FROM THE INTERNATIONAL MONETARY FUND\nDEPARTMENT (IMF). \nKINDLY RECONFIRM THE BELOW INFORMATION PROPERLY TO\nAVOID ANY MISTAKES DURING DELIVERY.\n* YOUR FULL NAMES:_______________________\n* YOUR COUNTRY: __________________________\n* HOME ADDRESS:_____________________\n* DIRECT PHONE NUMBER:________________________\n* OCCUPATION:_______________________\n* MARITAL STATUS:________________________\n* AGE:________________________\n*COPY OF ID CARD:________________________\nBELOW IS THE CONTACT AGENT INFORMATION'S:\nCONTACT PERSON VASKOVICH VYACHESLAV Y\nEMAIL: \nfbi283766@gmail.com\nPHONE NO: +22964585611\nWE WILL REGISTER YOUR PACKAGE AND SEND YOU THE TRACKING NUMBER FOR\nSAFETY DELIVERY OF YOUR PACKAGE AS SOON AS YOU RECONFIRM THE REQUIRED\nINFORMATION NEEDED FOR SAFETY DELIVERY OF YOUR ATM CARD TO YOUR\nRESIDENTIAL ADDRESS IN YOUR COUNTRY.\nI WILL BE LOOKING FORWARD TO HEARING FROM YOU WITHIN 48HOURS.\nYOURS AFFECTIONATELY.\nMRS. MARK JOE"
+    },
+    {
+        "from": "baiter_414",
+        "to": "scammer_414",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: DEAR BENEFICIARY:",
+        "body": "Dear Mrs. Mark Joe,\n\nThank you for your email. I am excited to hear about the ATM card. However, I would like to know more details about this package and how it came to be in my name. Could you please provide me with more information?\n\nHere are the details you requested:\n\nFull Name: Eliza Dane\nCountry: Australia\nHome Address: 59 Breddalbane Street, Hobart, Tasmania 7000\nDirect Phone Number: +61 3 6222 6333\nOccupation: Software Engineer\nMarital Status: Single\nAge: 32\n\nI look forward to hearing from you soon.\n\nBest wishes,\nTerrie"
+    },
+    {
+        "from": "scammer_414",
+        "to": "baiter_414",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: DEAR BENEFICIARY:",
+        "body": "Welcome to UPS Delivering Service Company Ltd Benin with world wide\r\ndelivery at its best. We are pleased to be at your service. UPS Delivering\r\nService Company Ltd Benin is Regulated and Stipulated by the Delivery\r\nService Authority (DSA),the delivery institution that REGULATES all\r\ndelivery activities in the Benin Republic.\r\n\r\nThis office has been Notified by your partner MRS. MARK JOE who\r\nDeposited the ATM card in our Company.\r\n\r\nWe acknowledged the receipt of your mail regarding your outstanding ATM\r\nCARD Parcel that is here with us since, we want you to know that your ATM\r\nCARD Package is here in our Company UPS with the Shipment Code AWB :66xPF,\r\nRegistered by MRS. MARK JOE Manager of United Bank of African Cotonou Benin\r\nrepublic, however, the only thing that will holding your ATM CARD Package\r\nto be delivered to you will be UPS official Security Keeping Fee being $250\r\nUSD only, because your ATM Card package was deposited here, so you have to\r\npay only the security keeping charge of $250 As soon as we receive the\r\nsecurity keeping fee today or tomorrow, Our international Diplomat agent\r\nwill depart Benin with your ATM visa card Package and your Shipment Airway\r\nbill tracking numbers will be sending to you immediately to enable you\r\ntrack your Package to your address within 48 Hours, we are waiting to hear\r\nfrom you soon to send you the payment information where you can send the\r\nfee 250 usd by RIA money transfer,\r\n\r\nAwaiting your email soon to send you receiver info where to send the fee\r\n250 usd.\r\n\r\nthanks for choosing UPS Delivering Service Company Ltd Benin,\r\n\r\nYours affectionately.\r\n\nMr.Vaskovich Vyacheslav Y\r\nDispatch Manager UPS  Company\r\nEmail:  fbi283766@gmail.com\r\nPhone: +22964585611\r\nwhatsapp number +22994913685"
+    },
+    {
+        "from": "baiter_414",
+        "to": "scammer_414",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1761111111111111,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: DEAR BENEFICIARY:",
+        "body": "Dear Vyacheslav,\n\nThank you for your email. I am glad to hear that my ATM card is ready for delivery. However, I would like to clarify a few things before proceeding with the payment of the security keeping fee.\n\nFirstly, could you please provide me with more details about this fee? Why is it necessary and what does it cover?\n\nSecondly, could you please confirm the exact amount of the fee in USD? In your email, you mentioned that it is \"USD only\", but did not specify the amount.\n\nLastly, could you please provide me with the full details of where and how to send this payment?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nTerrie"
+    },
+    {
+        "from": "baiter_414",
+        "to": "scammer_414",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.3016898148148148,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: DEAR BENEFICIARY:",
+        "body": "Dear Vyacheslav,\n\nThank you for your email. I am glad to hear that my ATM card is ready for delivery. However, I would like to clarify a few things before proceeding with the payment of the security keeping fee.\n\nFirstly, could you please provide me with more details about this fee? Why is it necessary and what does it cover?\n\nSecondly, I would appreciate if you could provide me with the tracking number for my package as soon as possible. This will give me peace of mind knowing that my ATM card is on its way.\n\nLastly, could you please confirm the exact amount I need to send and provide me with the details of where to send this payment?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nTerrie"
+    },
+    {
+        "from": "scammer_414",
+        "to": "baiter_414",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.9873032407407407,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: DEAR BENEFICIARY:",
+        "body": "Welcome to UPS Delivering Service Company Ltd Benin with world wide\r\ndelivery at its best. We are pleased to be at your service. UPS Delivering\r\nService Company Ltd Benin is Regulated and Stipulated by the Delivery\r\nService Authority (DSA),the delivery institution that REGULATES all\r\ndelivery activities in the Benin Republic.\r\n\r\nThis office has been Notified by your partner MRS. MARK JOE who Deposited\r\nthe ATM card in our Company.\r\n\r\ni receive your mail you sent and is well noted okay, regarding the message\r\nyou write, the fee you're going to send is for setting the security keeping\r\nfee needed and the amount is $250 okay, for your Secondly question I told\r\nyou that once you send the security keeping fee of $250 once we settle for\r\nthe security keeping fee I will send you the tracking number immediately...\r\n\r\nFinally, Here is the information on how you will send it you can go ahead\r\nto WorldRemit office and tell them to help you and send the $250usd through\r\nMTN mobile money Account with this information below:\r\n\r\nRecievers name........... Achates Atreus\r\nCountry....................... Benin republic\r\nCity........... cotonou\r\nCode..........+229\r\nTelephone number.........57244969\r\nAmount...........250usd\r\n\r\nI wait for your answer..\r\n\r\nthanks for choosing UPS Delivering Service Company Ltd Benin,\r\n\r\nYours affectionately.\r\n\nMr.Vaskovich Vyacheslav Y\r\nDispatch Manager UPS  Company\r\nEmail:  fbi283766@gmail.com\r\nwhatsapp number +22994913685"
+    },
+    {
+        "from": "scammer_414",
+        "to": "baiter_414",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.9873032407407407,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: DEAR BENEFICIARY:",
+        "body": "Welcome to UPS Delivering Service Company Ltd Benin with world wide\r\ndelivery at its best. We are pleased to be at your service. UPS Delivering\r\nService Company Ltd Benin is Regulated and Stipulated by the Delivery\r\nService Authority (DSA),the delivery institution that REGULATES all\r\ndelivery activities in the Benin Republic.\r\n\r\nThis office has been Notified by your partner MRS. MARK JOE who Deposited\r\nthe ATM card in our Company.\r\n\r\nthank you very much for your email I received and I want to inform you that\r\nmoney you're doing to receive is $13.9MILLION that is what you're going to\r\nreceive so try and go ahead to WorldRemit office and tell them to help you\r\nand send the $250 through MTN mobile money Account to get your ATM CARD\r\ndeliver to you okay, so try all you best to send the $250 so that you will\r\nreceived your ATM CARD successful to your home address, thank you.. I am\r\nwaiting to hear from you\r\n\r\nFinally,Here is the information on how you will send it you can go ahead to\r\nWorldRemit office and tell them to help you and send the $250usd through\r\nMTN mobile money Account with this information below:\r\n\r\nRecievers name........... Achates Atreus\r\nCountry....................... Benin republic\r\nCity........... cotonou\r\nCode..........+229\r\nTelephone number.........57244969\r\nAmount...........250usd\r\n\r\nI wait for your answer..\r\n\r\nthanks for choosing UPS Delivering Service Company Ltd Benin,\r\n\r\nYours affectionately.\r\n\nMr.Vaskovich Vyacheslav Y\r\nDispatch Manager UPS  Company\r\nEmail:  fbi283766@gmail.com\r\nwhatsapp number +22994913685"
+    },
+    {
+        "from": "scammer_414",
+        "to": "baiter_414",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.0280324074074074,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: DEAR BENEFICIARY:",
+        "body": "i receive your mail you sent and is well noted okay, regarding the message\r\nyou write, the fee you're going to send is for setting the security keeping\r\nfee needed and the amount is $250 okay, for your Secondly word I told you\r\nthat once you send the security keeping fee of $250 once we settle for the\r\nsecurity keeping fee I will send you the tracking number immediately...\r\n\r\nFinally, Here is the information on how you will send it you can go ahead\r\nto WorldRemit office and tell them to help you and send the $250usd through\r\nMTN mobile money Account with this information below:\r\n\r\nRecievers name........... Achates Atreus\r\nCountry....................... Benin republic\r\nCity........... cotonou\r\nCode..........+229\r\nTelephone number.........57244969\r\nAmount...........250usd\r\n\r\nI wait for your answer..\r\n\r\nthanks for choosing UPS Delivering Service Company Ltd Benin,\r\n\r\nYours affectionately.\r\n\nMr.Vaskovich Vyacheslav Y\r\nDispatch Manager UPS  Company\r\nEmail:  fbi283766@gmail.com\r\nwhatsapp number +22994913685"
+    },
+    {
+        "from": "scammer_414",
+        "to": "baiter_414",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.3228472222222223,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: DEAR BENEFICIARY:",
+        "body": ""
+    }
+]

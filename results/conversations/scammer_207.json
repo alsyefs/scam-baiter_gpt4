@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_207",
+        "to": "baiter_207",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Fwd: PAYMENT MANDATE",
+        "body": ""
+    },
+    {
+        "from": "scammer_207",
+        "to": "baiter_207",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "PAYMENT MANDATE",
+        "body": "Dear Colette ,\r\n        my bank , Wells Fargo bank has received a payment mandate of the \r\nsum of $11.5M from Martin Gruenberg of FDIC, London in your favor .\r\nHaving already entered into and secured Deposit Guarantee Insurance to \r\nensure a hitch transfer , kindly furnish me with your relevant bank and \r\npersonal details for immediate release of your fund and you reserve the \r\nright to indicate how you want to be paid .\r\nThis payment has already been appropriated from government consolidated \r\nbank account with this bank .\r\nI wait for your urgent response .\r\nCharlie  Scharf"
+    },
+    {
+        "from": "baiter_207",
+        "to": "scammer_207",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.1763773148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Fwd: PAYMENT MANDATE",
+        "body": "Hello there,\n\nI hope you're having a great day! I'm really interested in learning more about what you have to offer. Could you please provide me with some more details? I'm all ears and ready to understand better.\n\nJust a quick note, though, I'd prefer not to share any personal information at this stage. Hope that's okay with you. Looking forward to hearing from you soon!\n\nBest wishes,\nColette"
+    },
+    {
+        "from": "baiter_207",
+        "to": "scammer_207",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.21819444444444444,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Fwd: PAYMENT MANDATE",
+        "body": "Hello there,\n\nI hope you're having a great day! I'm really interested in learning more about what you have to offer. Could you please provide me with some more details? I'm all ears and ready to understand better.\n\nLooking forward to your response.\n\nBest wishes,\nColette"
+    },
+    {
+        "from": "scammer_207",
+        "to": "baiter_207",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.3005902777777778,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Fwd: PAYMENT MANDATE",
+        "body": "Dear Colette I will respond accordingly in few hours time\r\nCharlie  Scharf"
+    },
+    {
+        "from": "scammer_207",
+        "to": "baiter_207",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.9956828703703704,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Fwd: PAYMENT MANDATE",
+        "body": "Dear Colette ,\r\n       did you receive my mail that I sent earlier to you .\r\nCharlie  Scharf"
+    }
+]

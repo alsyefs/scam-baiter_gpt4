@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_568",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Re: IMF message,",
+        "body": "Re: IMF message,\nWe wish to inform you that you are among those whose pending payment\nhas been approved by the IMF in conjunction with the World Bank. The\nfund release has been delayed as a result of your dealings with\nunauthorized individuals, so you are advised to stop every\ncommunication with anybody/institution regarding the payment.\nThese funds originated from unpaid contract sums, inheritance/next of\nkin and lottery beneficiaries that originated from Europe, Asia Plus\nMiddle East, America and Africa. You are among the list of individuals\nand companies whose unpaid funds have been approved for payment under\nthe supervision of the International Monetary Fund regional\nHeadquarters here in West Africa.\nWe do hereby ask you to contact this office within 48 hours of\nreceiving this notification. Please reconfirm your full name and\ncontact telephone number to enable us to normalize the documents in\nyour name and advise you on how to make your claim.\nYours faithfully,\nDr. Robert Carter\nCoordinator, International Settlement Unit."
+    },
+    {
+        "from": "baiter_568",
+        "to": "scammer_568",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: IMF message,",
+        "body": "Dear Dr. Robert Carter,\n\nThank you for your email and the information provided. I am glad to hear that my pending payment has been approved by the IMF in conjunction with the World Bank.\n\nHere are my details as requested:\n\nFull Name: John Doe\nContact Telephone Number: +1-234-567-890\n\nI look forward to your guidance on how to proceed with making my claim.\n\nBest wishes,\nHazel"
+    },
+    {
+        "from": "scammer_568",
+        "to": "baiter_568",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "subject": "Final Verification",
+        "body": "INTERNATIONAL MONETARY FUND (IMF)\r\nInternational Settlement Unit,\r\n1900 Pennsylvania Avenue NW, Washington, DC 20431, United States\r\nTel: +1 202 982 4980\r\n\r\nAttn:  John Doe,\r\n\r\nFinal Verification\r\n\r\nwe are in receipt of your email message, and we want you to understand that\r\nthe content of the email sent to you was as a result of the joint effort by\r\nthe World Bank and IMF to ensure that funds currently floating in the\r\ninternational banking community are released to the authentic owners, as it\r\nhas been observed that this will further stabilize the global economy.\r\n\r\nYou are among those that have a huge sum credited in their names for\r\ntransfer and the funds are currently floating in the international banking\r\ncommunity, your name was listed among those who have not been able to\r\nreceive their funds due to some constraints. Therefore, it has been jointly\r\ndecided by the International Monetary Fund (IMF) and World Bank (WB) that\r\nthe fund will be released to you under the supervision of the International\r\nMonetary Fund. These funds originated from unpaid contract sums,\r\ninheritance/next of kin and lottery beneficiaries that originated from\r\nEurope, Asia Plus Middle east, America, Australia and Africa. You are among\r\nthe list of individuals and companies whose unpaid funds have been approved\r\nfor payment under the supervision of the International Monetary Fund.\r\n\r\nHowever, we shall direct one of our payment centers to release the fund to\r\nyou after due verification is completed on your payment file. This\r\nverification is important as we are mandated to make sure that you are the\r\nauthentic beneficiary of the fund before forwarding your details to the\r\nbank designated to release the fund.\r\n\r\nBe informed that this office is mandated to make sure you get your payment\r\nin good record time which must be in line with transparency and\r\naccountability, so you are advised to disregard any other communication\r\nfrom anybody/institution regarding your payment as we are completely in\r\ncharge of your fund release process. Also make sure you keep your claim\r\nproceedings confidential and do not discuss it with a third party until you\r\nget your payment to avoid the activities of intruders and complication of\r\nyour payment file verification.\r\n\r\nIn accordance, you are required to furnish us with the under-listed\r\ninformation for final verification of your payment file and make sure you\r\nattach a copy of your valid Id (Drivers License or International Passport)\r\nas they are vital for the processing of your payment. The information\r\nrequired are;\r\n\r\n(1) Name of Beneficiary:\r\n(2) Address:\r\n(3) Country of Residence:\r\n(4) Nationality:\r\n(5) Occupation\r\n(6) Telephone:\r\n(7) Fax:\r\n(8) Email:\r\n(9) Amount Expected:\r\n(10) Do you have any crime record?:\r\n(11) If yes, please explain:\r\n\r\nMake sure you furnish us with the requested information and remember to\r\nattach a copy of your valid Id as it is very important for verification and\r\nprocessing of your payment. Feel free to call us on +1 202 982 4980 for\r\nfurther clarification.\r\n\r\nWe are waiting to hear from you.\r\n\r\nYours faithfully,\r\nDr. Carlos Rowling\r\nCoordinator, International Settlement Unit\r\nInternational Monetary Fund (IMF)\r\n\r\n\r\n*Warning:*\r\n*This email and any attachments are solely for the intended recipient and\r\nshould be confidential. If you have received this email in error, please\r\nnotify the sender and delete it from your system. Do not use, copy or\r\ndisclose the information contained in this email or in any attachment\r\nwithout the permission of the sender. The INTERNATIONAL MONETARY FUND is\r\npermitted by law and any email and/or attachments may be read by monitoring\r\nstaff. Only specified personnel are authorized to conclude binding\r\nagreements by email and no responsibility is accepted f**or\r\nunauthorized agreements reached with other personnel. *\r\n                                                               *INTERNATIO**NAL\r\nMONE**TARY** FUND  *© *2024*\r\n\r\n\r\n\r\n\r\n                                                                    *THE\r\nINTERNATIONAL MONETARY FUND*"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_966",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Respond if you are still alive",
+        "body": "Respond if you are still alive for a confirmation\nCondolences Notice !!!\nWe welcomed Mr. William and Mrs. Jennifer yesterday evening at our\noffice with a painful report that you had an accident three days ago\nand couldn't survive the accident when you were on your way to work.\nThey claimed that they are your siblings and that they seriously need\nyour funds to prepare your burial ceremony. They came with $1500.00 to\nclear all the necessary charges and claim your fund $50,000,000,00 as\nyour next of kin. If you're not dead, please kindly respond now and\nhave your funds before it's too late but If you're truly dead, may\nyour soul rest in peace.\nPlease, do reconfirm to us as a matter of urgency if this lady is from\nyou and has your authority to receive your compensation fund. We will\nrelease your funds to them to conduct your burial smoothly as they\nrequested if we didn't hear from you in the next two days. May your\nspirit avenge who ever caused your sudden death. Amen\nfill the following information if the person is fake\nfull name .............\nphone number...........\naddress ...............\ncountry ...............\nand \nyourID\n.............\nYours Faithfully,\nMr. Smith Kwaku (Executive Director)\nInternational Remittance Department"
+    },
+    {
+        "from": "baiter_966",
+        "to": "scammer_966",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Respond if you are still alive",
+        "body": "Dear Mr. Smith Kwaku,\n\nI am very much alive and well, thank you for your concern. I have no idea who Mr. William and Mrs. Jennifer are, they are certainly not my siblings as I am an only child.\n\nHere is the information you requested:\n\nFull Name: Lewis D. Noogie\nPhone: +371 12345678\nAddress: Riga Street 10, Novosibirsk, Latvia\nCountry: Latvia\n\nPlease do not release any funds to these people as they are clearly trying to commit fraud.\n\nBest regards,\nLewis D.\n\nBest wishes,\nBonnie"
+    },
+    {
+        "from": "scammer_966",
+        "to": "baiter_966",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Respond if you are still alive",
+        "body": "*Thanks your mail is  well received and appreciated and as promise and\r\nswear by the oath to make sure that i serve the people i will make sure you\r\nreceive your fund as far as you cooperate I guarantee you that nothing will\r\nstop you from receiving your fund  i would want you to follow this first\r\nprocedure and cooperation and honesty and trust and you will be a happier\r\nperson as i will make sure you receive your fund i would want to know how\r\nyou would want to receive this claim this are the options (1) WIRE TRANSFER\r\n(2) BITCOIN(3) ATM CARD (4) CASH DELIVERY  so which of the above options\r\nwould you prefer to receive your fund awaiting your soonest respond if you\r\nhave any questions don't hesitate ask awaiting your response*"
+    }
+]

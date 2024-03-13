@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_591",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  PRIME LOTTERY INTERNATIONAL",
+        "body": "  PRIME LOTTERY INTERNATIONAL\nCustomer Service\nRef:ABC/73085746305822/64\nBatch: 473/34/3419\nWINNING NOTIFICATION:\nWINNING NOTIFICATION:\nDear\nThat is not true. I am not sure of what you said it looked like story. That is Chase Bank. Below is another account.\n \nAccount holder: R. L.\nRouting number: 084009519\nAccount number: 960000000037XXXX\nAccount type: Current account\nBank name : Trasfer wise\nWise's address: 30 W. 26th Street, Sixth Floor\nNew York NY 10010\nUnited States\n \nYours  Sincerely,\nMrs. Rose Williams\nPRIME LOTTERY Co-ordinator   "
+    },
+    {
+        "from": "baiter_591",
+        "to": "scammer_591",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   PRIME LOTTERY INTERNATIONAL",
+        "body": "Hello Mrs. Rose Williams,\n\nThank you for your message regarding the PRIME LOTTERY. It's quite interesting to hear about this, although I must admit, I'm not entirely sure what it entails. Could you please provide more details? \n\nYou mentioned Chase Bank and Wise's address in New York - how are these related to the lottery? Is there a specific process or steps that need to be followed?\n\nLooking forward to hearing from you.\n\nBest wishes,\nFrancisco"
+    },
+    {
+        "from": "scammer_591",
+        "to": "baiter_591",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: PRIME LOTTERY INTERNATIONAL",
+        "body": "Thank you for your late response. Please I want you to send me a copy of \r\nthe message you received from me to enable me be very sure I am talking \r\nwith the right person."
+    },
+    {
+        "from": "baiter_591",
+        "to": "scammer_591",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.7316435185185185,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: PRIME LOTTERY INTERNATIONAL",
+        "body": "Hello there,\n\nThank you for getting back to me. I'm afraid I can't provide a copy of the message as per your request. However, we can continue our conversation here. Could you please tell me more about the subject we were discussing?\n\nBest wishes,\nFrancisco"
+    }
+]

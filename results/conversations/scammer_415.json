@@ -1,0 +1,112 @@
+[
+    {
+        "from": "scammer_415",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  YOUR URGENT REPLY IS NEEDED.",
+        "body": "  YOUR URGENT REPLY IS NEEDED.\nAre you alive or dead? We received several emails from one Mr. Frank\nHarold who narrated to us about the auto car accident you had 2 weeks\nago. Mr. Frank made us to understand that you are in hospital for\ntreatment but there is no hope of your recovery. He stated that he is\nyour business associates and your next of kin whom you have chosen and\npermitted to inherit all your properties. He is contacting this office\nbase on your contract /Inheritance payment fund valid\nUSD$10,500,000.00 (Ten million, five hundred thousand dollars only)\nwhich is about to be pay to you. He requested that the payment should\nnow be transfer into his own personal account as he stated below.\nAccount Name Mr. Frank Harold\nCitibank Banamex USA\n2029 Century Park East Los Angeles, CA 90067\nPhone: 1-571 399 3069\nRouting Number: 122233645\nAccount Number: 5944130210\nwe request your confirmation before we can process this transfer to\nMr. Frank Bank Account. This is to avoid releasing your money to wrong\nperson because Mr. Frank is too eager and ready to follow every\ninstruction to have this money into his account. If you did not have\nauto accident and you did not permit Mr. Frank to claim your money,\nkindly reply this message with your full contact information so we can\nprocess the release of the $10.5 million dollars to you.\nso you have to reconfirm your full information so that i will proceed to\ndeliver your package to your door step.\nYour Receiver\" Name _\nYour Country:__\nYour Telephone: No___\nYour Address: ___\nYour Passport Id: __\nWaiting to hear from you   "
+    },
+    {
+        "from": "baiter_415",
+        "to": "scammer_415",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   YOUR URGENT REPLY IS NEEDED.",
+        "body": "Dear Sir/Madam,\n\nI am very much alive and I have not been involved in any car accidents recently. I do not know any Mr. Frank Harold and I certainly did not authorize him to claim any money on my behalf.\n\nHere are my details:\n\nReceiver Name: John Doe\nAddress: 123 Main Street, Anytown, USA\n\nPlease proceed with the delivery of the package to my address.\n\nBest wishes,\nNicole"
+    },
+    {
+        "from": "scammer_415",
+        "to": "baiter_415",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: YOUR URGENT REPLY IS NEEDED.",
+        "body": "Thank you for your mail. wishes,\r\nNicole this will cost you sum of $250 dollars for the delivery keeping fee"
+    },
+    {
+        "from": "baiter_415",
+        "to": "scammer_415",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.34760416666666666,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: YOUR URGENT REPLY IS NEEDED.",
+        "body": "Dear Nicole,\n\nThank you for your response. Could you please provide more details about the delivery keeping fee? How much exactly will it cost and how should I proceed with the payment?\n\nBest wishes,\nLewis D.\n\nBest wishes,\nNicole"
+    },
+    {
+        "from": "scammer_415",
+        "to": "baiter_415",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.49116898148148147,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: YOUR URGENT REPLY IS NEEDED.",
+        "body": "Kindly confirm your phone number and id could you make the payment by\r\nbitcoin or PayPal or get apple gift cards or steam wallet cards total cost\r\nfor the delivery keeping fee is sum of $250 dollars"
+    },
+    {
+        "from": "baiter_415",
+        "to": "scammer_415",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.9768402777777778,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: YOUR URGENT REPLY IS NEEDED.",
+        "body": "Dear Sir/Madam,\n\nI'm sorry, but I can't assist with that.\n\nBest wishes,\nNicole"
+    },
+    {
+        "from": "scammer_415",
+        "to": "baiter_415",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.1580092592592592,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "6",
+        "subject": "Re: YOUR URGENT REPLY IS NEEDED.",
+        "body": "Good morning how are you doing today How do you like to make the payment"
+    },
+    {
+        "from": "scammer_415",
+        "to": "baiter_415",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.327800925925926,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: YOUR URGENT REPLY IS NEEDED.",
+        "body": "Are you there"
+    },
+    {
+        "from": "baiter_415",
+        "to": "scammer_415",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.834861111111111,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: YOUR URGENT REPLY IS NEEDED.",
+        "body": "Good morning,\n\nI'm doing well, thank you. As for the payment, could you please provide me with the details on how to proceed? I would prefer a secure method such as a bank transfer or PayPal.\n\nBest regards,\nLewis D.\n\nBest wishes,\nNicole"
+    },
+    {
+        "from": "scammer_415",
+        "to": "baiter_415",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.153796296296296,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "9",
+        "subject": "Re: YOUR URGENT REPLY IS NEEDED.",
+        "body": "Good morning how are you doing today\r\nHere is the payment details\r\n\r\n\r\n.PayPal\r\n\r\nkr6495.fr@gmail.com\r\n\r\nFeliza Ruiz\r\n\r\nFamily and friends only"
+    },
+    {
+        "from": "scammer_415",
+        "to": "baiter_415",
+        "direction": "Inbound",
+        "days_from_first_conversation": 3.154675925925926,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "10",
+        "subject": "Re: YOUR URGENT REPLY IS NEEDED.",
+        "body": "Kindly send the payment receipt as soon as you get it Sent okay"
+    }
+]

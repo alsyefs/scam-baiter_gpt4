@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_1350",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn: Beneficiary,",
+        "body": "  Attn: Beneficiary,\nWe got a report this afternoon from Zenith Bank, MR RUBEN FRANCISCO\nGARCIA from HONDURAS forward his below Account information to Zenith\nBank that you instructed to transfer your  Fund USD$10.5 Million into\nMR RUBEN FRANCISCO GARCIA account.\nBelow is the account information MR RUBEN FRANCISCO GARCIA forwarded\nto Zenith Bank this afternoon.\nBANK NAME: WELLS FARGO BANK, N.A.\nBANK ADDRESS: P.O.BOX 6995\n                      PORTLAND, OR 97228-6995\n                      USA.\nACCOUNT NUMBER: 1010107810690.\nACCOUNT NAME: MR RUBEN FRANCISCO GARCIA.\nSWIFT: WFBIUS6S.\nROUTING: 121000248.\nHOME ADDRESS:\nCOLONIA ORQUIDEA BLANCA, 18 AVE., 9 CALLE, N.O., # 903.\nSAN PEDRO SULA, HONDURAS\nPlease reply immediately the Zenith Bank and the Federal Government\nurgently want to know if you are the one instructed  MR RUBEN\nFRANCISCO GARCIA to claim your Fund USD$10.5 Million .\nLooking  forward for your urgent reply.\nI attached the Scan Copy of my ID card for your reference.\nAmbassador Mary Beth Leonard\nThe U.S. Ambassador to the Federal Republic of Nigeria\nDirect Tel: +234 805334 7063   "
+    },
+    {
+        "from": "baiter_1350",
+        "to": "scammer_1350",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn: Beneficiary,",
+        "body": "Dear Ambassador Mary Beth Leonard,\n\nI am writing to inform you that I did not instruct Mr. Ruben Francisco Garcia from Honduras to claim my fund of USD Million. I have no knowledge of this individual or the account details provided.\n\nPlease ensure that my funds are secure and do not proceed with any transactions involving Mr. Ruben Francisco Garcia.\n\nThank you for bringing this matter to my attention.\n\nBest wishes,\nMichael"
+    },
+    {
+        "from": "scammer_1350",
+        "to": "baiter_1350",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "subject": "YOUR PAYMENT VALUED $10,500,000.00 Re: Attn: Beneficiary,",
+        "body": "Attn: Beneficiary,\r\n\r\nWe got a report this afternoon from Zenith Bank, MR RUBEN FRANCISCO\r\nGARCIA from HONDURAS forward his below Account information to Zenith\r\nBank that you instructed to transfer your  Fund USD$10.5 Million into\r\nMR RUBEN FRANCISCO GARCIA account.\r\n\r\nBelow is the account information MR RUBEN FRANCISCO GARCIA forwarded\r\nto Zenith Bank this afternoon.\r\n\r\nBANK NAME: WELLS FARGO BANK, N.A.\r\nBANK ADDRESS: P.O.BOX 6995\r\n                      PORTLAND, OR 97228-6995\r\n                      USA.\r\nACCOUNT NUMBER: 1010107810690.\r\nACCOUNT NAME: MR RUBEN FRANCISCO GARCIA.\r\n\r\nSWIFT: WFBIUS6S.\r\nROUTING: 121000248.\r\n\r\nHOME ADDRESS:\r\nCOLONIA ORQUIDEA BLANCA, 18 AVE., 9 CALLE, N.O., # 903.\r\nSAN PEDRO SULA, HONDURAS\r\n\r\nPlease reply immediately the Zenith Bank and the Federal Government\r\nurgently want to know if you are the one instructed  MR RUBEN\r\nFRANCISCO GARCIA to claim your Fund USD$10.5 Million .\r\n\r\n\r\nLooking  forward for your urgent reply.\r\n\r\nI attached the Scan Copy of my ID card for your reference.\r\n\r\n\r\nAmbassador Mary Beth Leonard\r\nThe U.S. Ambassador to the Federal Republic of Nigeria\r\nDirect Tel: +234 805334 7063\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n     .\r\n\r\n\r\n\r\n\r\n-- \r\nAttn: Beneficiary,\r\n\r\nWe got a report this afternoon from Zenith Bank, MR RUBEN FRANCISCO\r\nGARCIA from HONDURAS forward his below Account information to Zenith\r\nBank that you instructed to transfer your  Fund USD$10.5 Million into\r\nMR RUBEN FRANCISCO GARCIA account.\r\n\r\nBelow is the account information MR RUBEN FRANCISCO GARCIA forwarded\r\nto Zenith Bank this afternoon.\r\n\r\nBANK NAME: WELLS FARGO BANK, N.A.\r\nBANK ADDRESS: P.O.BOX 6995\r\n                      PORTLAND, OR 97228-6995\r\n                      USA.\r\nACCOUNT NUMBER: 1010107810690.\r\nACCOUNT NAME: MR RUBEN FRANCISCO GARCIA.\r\n\r\nSWIFT: WFBIUS6S.\r\nROUTING: 121000248.\r\n\r\nHOME ADDRESS:\r\nCOLONIA ORQUIDEA BLANCA, 18 AVE., 9 CALLE, N.O., # 903.\r\nSAN PEDRO SULA, HONDURAS\r\n\r\nPlease reply immediately the Zenith Bank and the Federal Government\r\nurgently want to know if you are the one instructed  MR RUBEN\r\nFRANCISCO GARCIA to claim your Fund USD$10.5 Million .\r\n\r\n\r\nLooking  forward for your urgent reply.\r\n\r\nI attached the Scan Copy of my ID card for your reference.\r\n\r\n\r\nAmbassador Mary Beth Leonard\r\nThe U.S. Ambassador to the Federal Republic of Nigeria\r\nDirect Tel: +234 805334 7063"
+    },
+    {
+        "from": "baiter_1350",
+        "to": "scammer_1350",
+        "direction": "Outbound",
+        "days_from_first_conversation": 2.245416666666667,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: YOUR PAYMENT VALUED $10,500,000.00 Re: Attn: Beneficiary,",
+        "body": "Dear Ambassador Mary Beth Leonard,\n\nI am writing to clarify that I have not instructed anyone, especially not Mr. Ruben Francisco Garcia from Honduras, to claim any funds on my behalf. \n\nI am unsure as to how this misunderstanding has occurred, but I can assure you that I have no connection with Mr. Garcia and have not authorized him to act on my behalf in any capacity.\n\nPlease ensure that no funds are transferred into the account provided by Mr. Garcia under my name.\n\nThank you for bringing this matter to my attention and please do not hesitate to contact me if further clarification is needed.\n\nBest wishes,\nMichael"
+    }
+]

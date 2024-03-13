@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_358",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "This is Dr. Raymond Kiki from ",
+        "body": "This is Dr. Raymond Kiki from the ATM Card Activation Office, Am\nplease to inform you that the Ministry OF Foreign Affairs deposited a\ntotal sum of$2.500, 000.00 million USD as compensation to be sent to\nyou. You have to Reconfirm your information where you want us to\ndeliver this ATM Card for you from our office today.\nWaiting urgently for your email reply for the transaction of this fund\ninto your accounts today.\nYou are advised to contact Me back  email with your full information.such as\nYour name........................\nYour country......................\nYour phone number.........\nYour address.....................\nYour Occupation................\nBest Regards\nDr. Raymond Kiki\nAtm card activation office lagos Nigeria.\nCall or Text +234_8081204921"
+    },
+    {
+        "from": "baiter_358",
+        "to": "scammer_358",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: This is Dr. Raymond Kiki from ",
+        "body": "Dear Dr. Raymond Kiki,\n\nThank you for your email. However, I must inform you that I am not expecting any ATM card or funds from the Ministry of Foreign Affairs. \n\nI would appreciate it if you could provide more information about this matter, such as how my name came to be associated with this ATM card and why the Ministry of Foreign Affairs is involved.\n\nBest wishes,\nVan"
+    },
+    {
+        "from": "scammer_358",
+        "to": "baiter_358",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: This is Dr. Raymond Kiki from",
+        "body": "What is your full details"
+    },
+    {
+        "from": "baiter_358",
+        "to": "scammer_358",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.097384259259259,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: This is Dr. Raymond Kiki from",
+        "body": "Dear Marykate Purchia,\n\nThank you for your prompt response. Here are my full details:\n\nFull Name: Lewis D. Noogie\nAddress: 1234 Novosibirsk Street, Riga, Latvia LV-1001\nDate of Birth: January 1, 1980\nNationality: Latvian\nOccupation: Hotel Consultant\n\nI look forward to hearing from you soon.\n\nBest regards,\nLewis D.\n\nBest wishes,\nVan"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_421",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  From: FEDERAL BUREAU OF INVE",
+        "body": "  From: FEDERAL BUREAU OF INVESTIGATION <fbi_monetaryinvestigation@europe.com>\nTo:  \nSent: Mon Nov 07 2022  \nSubject: OFFICIAL NOTIFICATION.\nDear,\nGood day \nWe are still waiting to hear from ou as regard to the last mail we sent you.\nGet back to me as soon as you get this mail, so that we can finalize your fund release process.\nSincerely,\nMark Jones   "
+    },
+    {
+        "from": "baiter_421",
+        "to": "scammer_421",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   From: FEDERAL BUREAU OF INVE",
+        "body": "Dear Mark Jones,\n\nI apologize for the delay in response. I have been preoccupied with some personal matters. Could you please remind me of the details regarding the fund release process?\n\nBest wishes,\nMable"
+    },
+    {
+        "from": "scammer_421",
+        "to": "baiter_421",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: From: FEDERAL BUREAU OF INVE",
+        "body": "Dear Sir/ Madam, \n \n Quickly forward us with your information as indicated below. \n  \n  *  Full names \n  *  Address \n  *  Personal telephone number \n  *  Amount transferred \n  *  Copy of identity \n  *  Bank name \n  *  Bank address \n  *  Bank account number \n  *  Bank swift code Bank telephone number \n \n Hope to hear from you soon. \n \n \n Sincerely, \n \n Mark Jones"
+    }
+]

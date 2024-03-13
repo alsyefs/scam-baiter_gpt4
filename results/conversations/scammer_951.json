@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_951",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  The International Monetary F",
+        "body": "  The International Monetary Fund (IMF)\nOffice of Internal Audit and Inspection\nDear Sir,\nIt might be of interest to you to know that the IMF has eventually\nintervened in your persistent payment failures after several reports\nof irregularities and illegalities reached us.\nAfter our investigation, we realized that there are interests from\nsome high-class persons, from private and government institutions,\nthat want your funds to end up in their offshore accounts. They are\nthe people undermining all the previous efforts to release your funds.\nThey used several methods, such as unnecessary demands of fees, among\nother things, to frustrate and scare away beneficiaries to keep their\nfunds.\nTo stop this from reoccurring and achieve our objective, which is to\noversee your payment through, we are collaborating with several law\nenforcement agencies, integrating some of their personnel with the\nofficials that are handling your funds' release in different\ncapacities to scrutinize the process and bring to justice those with\ncriminal intentions.\nResponding to this notice, we request that you kindly re-confirm the\nbelow-listed details for clarity's sake.\n1) Your Full Name:\n2) Your Address:\n3) DOB:\n4) Direct Phone Numbers:\n5) Your Profession/Occupation:\n6) Company (If there is any)\n7) A copy of your DL, front, and back\nI would appreciate a reply as soon as possible with the above request\nto verify that you are the intended recipient and the rightful\nbeneficiary.\nRegards,\nNancy Asiko Onyango\nDirector, Office of the Internal Audit and Inspection,\nInternational Monetary Fund (IMF)   "
+    },
+    {
+        "from": "baiter_951",
+        "to": "scammer_951",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   The International Monetary F",
+        "body": "Dear Nancy Asiko Onyango,\n\nThank you for your email and the information provided. I appreciate the IMF's intervention in this matter. However, I would like to clarify a few things before providing my personal details.\n\nCould you please provide more specific details about the persistent payment failures you mentioned? Also, could you elaborate on who these individuals are that are trying to divert my funds?\n\nOnce I have a clearer understanding of the situation, I will be more than happy to provide the necessary information.\n\nBest wishes,\nJimmy"
+    },
+    {
+        "from": "scammer_951",
+        "to": "baiter_951",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: The International Monetary F",
+        "body": ""
+    }
+]

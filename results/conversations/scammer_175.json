@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_175",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "We are experts in the sale of ",
+        "body": "We are experts in the sale of Artworks and we export into America. We are searching for reliable representatives who can help us establish a medium of getting to our customers in the America as well as legally receiving cash and all forms of payment on our behalf from them as our Representative and get 5% to 10%.email:\n \nPeter J. Stelter \nTony Wang (PRESIDENT/CEO).\nGraphic/ArtWorks Import & Export Corporation"
+    },
+    {
+        "from": "baiter_175",
+        "to": "scammer_175",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: We are experts in the sale of ",
+        "body": "Hello Peter J. Stelter and Tony Wang,\n\nThank you for reaching out to me! I'm intrigued by your business in Artworks, it sounds fascinating. Could you please tell me more about the kind of Artworks you deal with? Also, could you elaborate on how exactly I can assist in establishing a medium for your customers?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nJeremy"
+    },
+    {
+        "from": "scammer_175",
+        "to": "baiter_175",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: We are experts in the sale of",
+        "body": "Thanks for your response. Please the offer is only for those residing in the United States. Thanks"
+    }
+]

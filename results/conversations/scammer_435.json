@@ -1,0 +1,42 @@
+[
+    {
+        "from": "scammer_435",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Hello",
+        "body": "Hello\nTo receive your Compensation.\nContact Mr. Felix Moore accountant officer In Nigeria e-mail:\n(\nfelimoore661@gmail.com\n)\nI have succeeded in transferring the huge amount of funds under the\ncooperation of the new partner from London okay, I traveled to Taiwan\nto build a business project.\nSo contact him to receive 1.9million bank draft which I kept for you.\nYours Sincerely\nMr. Philips Odouza"
+    },
+    {
+        "from": "baiter_435",
+        "to": "scammer_435",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Hello",
+        "body": "Dear Mr. Philips Odouza,\n\nThank you for your email. Could you please provide more details about the bank draft and the process of receiving it?\n\nBest wishes,\nDavid"
+    },
+    {
+        "from": "scammer_435",
+        "to": "baiter_435",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Hello",
+        "body": "Hello\r\nThis is Felix Moore, I received your email regarding the compensation\r\npayment by Mr. Philips odouza.\r\nThe purpose of the compensation is best known to Philips because I was only\r\ninstructed to make sure you receive the $1.9m bank draft hence you have\r\ncontacted for it.\r\nCurrently the bank draft is with our bank right now and to receive it will\r\ncost you a mailing fee about $100.00 to send it through courier in your\r\ncountry address.\r\nIn case if you want to receive it through wire transfer you let me know.\r\nThanks and God bless\nMr. Felix Moore"
+    },
+    {
+        "from": "baiter_435",
+        "to": "scammer_435",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.022939814814814816,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Hello",
+        "body": "Dear Mr. Felix Moore,\n\nThank you for your email and the information provided. I would prefer to receive the bank draft through a wire transfer. Could you please provide me with the necessary details to proceed with this method?\n\nBest wishes,\nDavid"
+    }
+]

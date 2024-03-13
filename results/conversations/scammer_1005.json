@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_1005",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  ATTENTION:",
+        "body": "  ATTENTION:\n \nTHIS IS MR.MICHAEL  WOOD GATE, THE HEAD OF THE DIPLOMATIC DELEGATES ASSIGNED FOR DELIVERING YOUR  CONSIGNMENT PACKAGE.\n \nPROCEED AND SEND THE FEE VIA MONEY GRAM OR OVER NIGHT MAIL\nNOTE THAT YOUR LUGGAGE WILL DELIVER AT \nI WAIT FOR YOUR IMMEDIATE COMPLIANCE TO THIS EFFECT. \nREGARDS,\nDIPLOMATIC MICHAEL WOODGATE   "
+    },
+    {
+        "from": "baiter_1005",
+        "to": "scammer_1005",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   ATTENTION:",
+        "body": "Hello Diplomatic Michael Woodgate,\n\nThank you for reaching out to me. I'm quite excited about this package! Could you please tell me more about it? What's inside the package? And why is there a fee involved in receiving it?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nSandra"
+    },
+    {
+        "from": "scammer_1005",
+        "to": "baiter_1005",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: ATTENTION:",
+        "body": "*[image: NatWest][image: Helpful Banking]From the desk ofMr. Charles\r\nCummings,Director of ONLINE TRANSFERNatwest Bank Plc. London-England,*\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Thanks for your email response. You are advised to send the sum of 1,ooo\r\nus to this account,Note that we shall  credit your account as soon as you\r\ncomply with our directives and send the required fee.Below is account\r\ndetails ;Bank: Truist Bank.Name: Lisa Cook.Account number 1180007337142\r\n                                                   Swift code:\r\nSNTRUS3ARouting number 083900680Home address: 5905 Alanadale Drive\r\nLouisville, KY 40272Amount;1,000 Best regards,Thank you and remain\r\nblessed,Mr. Charles Cummings,For; And on behalf of the Natwest Bank London\r\nUnited Kingdom*\r\n\r\n*[image: NatWest][image: Helpful Banking]*"
+    }
+]

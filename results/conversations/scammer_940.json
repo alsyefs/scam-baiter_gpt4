@@ -1,0 +1,62 @@
+[
+    {
+        "from": "scammer_940",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings to you my Dear,",
+        "body": "Greetings to you my Dear,\ni am Mr Goodluck Dominic from federal Minister of finance in united\nstate of america and i am the new elected director appointed on 13th\napril 2023, so a lady called Mrs Mary Ann came to visit my office on\n10th may 2023 telling me that she wanted to claim all your funds worth\nabout $4.6 Million usd and stated that you are on sick bed very\nserious sickness for the past 6 Months ago so she told me that you\ninstruct her to deposit the processing charges of $100 usd on your\nbehalf and get all your funds transferred inside her account because i\nsaid to her that all needed to be paid by you is $100 usd to get the\nfunds released to her.\nPlease if this is true kindly get back to me and let me know what next\nto do if i should instruct her to go and get the funds.\nThanks and i am waiting to hear from you soon."
+    },
+    {
+        "from": "baiter_940",
+        "to": "scammer_940",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings to you my Dear,",
+        "body": "Dear Mr. Goodluck Dominic,\n\nI am surprised to hear about Mrs. Mary Ann's claim. I have not authorized anyone to act on my behalf regarding this matter. I am not suffering from any serious sickness and I am fully capable of handling my own affairs.\n\nPlease do not proceed with any transactions involving Mrs. Mary Ann or anyone else claiming to represent me without my explicit consent.\n\nThank you for bringing this matter to my attention.\n\nBest wishes,\nMichelle"
+    },
+    {
+        "from": "scammer_940",
+        "to": "baiter_940",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Greetings to you my Dear,",
+        "body": "Hello Michelle,\r\n\r\nThanks for responding today in regarding the information we got from\r\nMrs Mary Ann concerning your funds which she wanted to claim as your\r\nnext of kin.\r\n\r\nWe are taking the instructions seriously as you indicated that this\r\nlady does not have any right over your funds because she ask me how\r\nmuch it will cost her to get your funds but now i knew and realize\r\nthat she is fake i will make sure that she rot in jail for lieing\r\nagainst innocent soul like you.\r\n\r\nMeanwhile you have to comply with me and follow all the instruction\r\ngiving to you if you wish to receive this funds because it will only\r\ncost you just $200 usd only to get it settled asap.\r\n\r\nWe are waiting to hear back from you soon.\r\n\r\nWarm Regards.\r\n\r\nMr  Goodluck Dominic."
+    },
+    {
+        "from": "scammer_940",
+        "to": "baiter_940",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.286863425925926,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Greetings to you my Dear,",
+        "body": "Hello Michelle I am still waiting to hear from you soon regarding this\r\ntransaction."
+    },
+    {
+        "from": "baiter_940",
+        "to": "scammer_940",
+        "direction": "Outbound",
+        "days_from_first_conversation": 3.780104166666667,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "4",
+        "subject": "Re: Greetings to you my Dear,",
+        "body": "Dear Mr. Goodluck Dominic,\n\nThank you for your prompt response and for taking the matter seriously. I am relieved to hear that you have identified Mrs Mary Ann's claim as false. \n\nI am ready to comply with all necessary procedures to secure my funds. However, I would appreciate if you could provide more details about the next steps and how I should proceed with the payment of USD.\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nMichelle"
+    },
+    {
+        "from": "scammer_940",
+        "to": "baiter_940",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.727627314814815,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Greetings to you my Dear,",
+        "body": "Hello Michelle thanks for responding to me I am happy hearing from you soon.\r\n\r\nWell we are making every efforts to secure your funds as we have already\r\nreported this lady leing against innocent soul like you and she will suffer\r\nfor all the damages she caused.\r\n\r\nIn other hand I will like to give you some procedure towards your funds and\r\nhow do you want to receive it?\r\n\r\n1. ATM card ..\r\n2. Bank transfer..\r\n3.cashier cheque..\r\n\r\nYou have to choose between these three options and get back to me for more\r\ndetails asap.\r\n\r\nFinally you should also reconfirm your delivery information such as below.\r\n\r\nFull name........\r\nHome address......\r\nSex .......\r\nPhone number......\r\nCountry.......\r\nCopy of id or passport......\r\nEmail.....\r\n\r\nI will give you details on how to proceed with the payment which you will\r\nsend asap for us to complete this transaction.\r\n\r\nThanks and remain blessed.\r\n\r\nWe are here to serve you better.\r\n\r\nMr Goodluck Dominic.\r\n\r\nOn Tuesday, February 6, 2024, Michelle <jd05550@***.com> wrote:\r\n>\r\n>\r\n>\r\n> Dear Mr. Goodluck Dominic,\r\n>\r\n> Thank you for your prompt response and for taking the matter seriously. I\r\nam relieved to hear that you have identified Mrs Mary Ann's claim as false.\r\n>\r\n> I am ready to comply with all necessary procedures to secure my funds.\r\nHowever, I would appreciate if you could provide more details about the\r\nnext steps and how I should proceed with the payment of USD.\r\n>\r\n> Looking forward to hearing from you soon.\r\n>\r\n> Best wishes,\r\n> Michelle\r\n>\r\n>\r\n>\r\n>\r\n>"
+    }
+]

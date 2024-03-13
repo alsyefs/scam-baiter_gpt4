@@ -1,0 +1,192 @@
+[
+    {
+        "from": "scammer_1045",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "We have deposited  your funds ",
+        "body": "We have deposited  your funds (10.5Milion USD) through\nWestern Union department after our final meeting Today\ncontact Western Union director Mr.   John\n \nHe will give you the instruction\nhow you will be\nreceiving $5000  each a day\nsend him your Full information to avoid wrong transfer such as,\n \nReceiver's Name__\nAddress: __\nCountry: __\nPhone Number: _\n \nFrom Ministry of Finance.\nyour Funds Worths $10.5Milion USD\n \nMr. John\nONLY ON THIS EMAIL ADDRESS\n(\nofficeservice231@gmail.com\n)"
+    },
+    {
+        "from": "baiter_1045",
+        "to": "scammer_1045",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: We have deposited  your funds ",
+        "body": "Hello there,\n\nThank you for your message. It's exciting to hear about the funds! I'm a bit confused though, could you please explain more about this process? How does it work exactly with Western Union?\n\nAlso, you mentioned Mr. John - is he the person I should be in contact with regarding this matter? Could you tell me more about his role?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDebbie"
+    },
+    {
+        "from": "scammer_1045",
+        "to": "baiter_1045",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "This is my working I'd,",
+        "body": "Here's my working I'd"
+    },
+    {
+        "from": "scammer_1045",
+        "to": "baiter_1045",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.1574074074074073e-05,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Attention, Dear funds beneficiary",
+        "body": "This Mr. John Bell from Western Union payment department, I have received\r\nyour email and well noted, This is your compensation funds , we have\r\nconcluded to pay you through Western Union and you will be receiving every\r\nday $5000.00usd until you receive your total amount from This Western\r\nUnion,  Noted that before we can send your first payment of $5000 you will\r\npay for our transfer charge which cost You only $195 and once you pay the\r\n$195 then you will immediately receive your first payment of $5000 ,\r\n\r\nHere's the information needed from You.\r\n\r\nReceiver's Name__\r\n\r\nAddress: __\r\n\r\nCountry: __\r\n\r\nPhone Number: _\r\nYour I'd copy__\r\n\r\n\r\nI needed your urgent response\r\n\r\nFrom Ministry of Finance.\r\n\r\nyour Funds Worths 5.5Milion USD\r\n\r\n\r\nMr. John\r\n\r\nONLY ON THIS EMAIL ADDRESS\r\n\r\n(officeservice231@gmail.com)"
+    },
+    {
+        "from": "scammer_1045",
+        "to": "baiter_1045",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.1574074074074073e-05,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Attention,",
+        "body": "This is Mr. John Bell from Western Union payment department, I have\r\nreceived your email and well noted, This is your compensation funds , we\r\nhave concluded to pay you through Western Union and you will be receiving\r\nevery day $5000.00usd until you receive your total amount from This Western\r\nUnion,  Noted that before we can send your first payment of $5000 you will\r\npay for our transfer charge which cost You only $195 and once you pay the\r\n$195 then you will immediately receive your first payment of $5000 ,\r\n\r\nHere's the information needed from You.\r\n\r\nReceiver's Name__\r\n\r\nAddress: __\r\n\r\nCountry: __\r\n\r\nPhone Number: _\r\nYour I'd copy__\r\n\r\n\r\nI needed your urgent response\r\n\r\nFrom Ministry of Finance.\r\n\r\nyour Funds Worths 5.5Milion USD\r\n\r\nMr. John\r\n\r\nONLY ON THIS EMAIL ADDRESS\r\n\r\n(officeservice231@gmail.com)"
+    },
+    {
+        "from": "baiter_1045",
+        "to": "scammer_1045",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.10672453703703703,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Attention,",
+        "body": "Hello Mr. John Bell,\n\nThank you for reaching out to me from Western Union. I'm quite excited about this opportunity! It's not every day that one gets an email like this.\n\nI understand that there is a transfer charge involved, and I will be receiving payments daily until the total amount is received. That sounds very interesting!\n\nCould you please provide more details about these daily payments? How much would each payment be? And how long would it take to receive the total amount?\n\nAlso, could you clarify what exactly the transfer charge covers? Is it a one-time fee or will there be additional charges in the future?\n\nLooking forward to your response.\n\nBest wishes,\nDebbie"
+    },
+    {
+        "from": "baiter_1045",
+        "to": "scammer_1045",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.14831018518518518,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Attention,",
+        "body": "Hello Mr. John Bell,\n\nThank you for reaching out to me! It's quite exciting to hear about this opportunity from Western Union. I'm a bit confused though, could you please explain more about how this process works? \n\nAlso, I'm curious about the transfer charge. Is it a one-time fee or will there be additional charges in the future? \n\nLooking forward to your response.\n\nBest regards.\n\nBest wishes,\nDebbie"
+    },
+    {
+        "from": "scammer_1045",
+        "to": "baiter_1045",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.8419907407407408,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Attention, Dear fund beneficiary",
+        "body": "Attention, Dear fund beneficiary\r\n\r\nSorry for my late response, I am writing to inform you that there's no more\r\nfee again after you send This transfer charge of $195 , This transfer\r\ncharge of $195 covered all the payment of $5000 per day, meanwhile I am\r\ntell you The honest Truth that this transfer charge is only once not every\r\nday, So This is all needed from and you will be receiving your daily\r\npayment from this Western Union office until you receive your total amount,\r\n\r\nAgain this payment will only take 2hours to be available on your name each\r\nday from Monday to Saturday without any further delay once you come up with\r\nThe transfer charge,\r\n\r\nTry to reconfirm us your full information to avoid wrong transfer,\r\n\r\nI needed your urgent response\r\n\r\nFrom Ministry of Finance.\r\nyour Funds Worths 5.5Milion USD\r\n\r\nMr. John\r\nONLY ON THIS EMAIL ADDRESS\r\n(officeservice231@gmail.com)"
+    },
+    {
+        "from": "scammer_1045",
+        "to": "baiter_1045",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.8420601851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "8",
+        "subject": "Attention, What's going on,",
+        "body": "I am still waiting to hear from you, What's all this silent try to get back\r\nto me because we are ready to start sending your payment\nThanks\r\nMr. John Bell"
+    },
+    {
+        "from": "scammer_1045",
+        "to": "baiter_1045",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.8420601851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "9",
+        "subject": "I am still waiting to hear from you",
+        "body": "I am still waiting to hear from you, What's all this silent try to get back\r\nto me because we are ready to start sending your payment\nThanks\r\nMr. John Bell"
+    },
+    {
+        "from": "scammer_1045",
+        "to": "baiter_1045",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.667326388888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "10",
+        "subject": "Attention, Debbie",
+        "body": "Try your best to get back because I do not want you to lose your payment\r\nfrom this office, I am looking forward to hear from and to Know how will\r\nyou sending the transfer charge of $195 today and start picking up your\r\npayment\r\n\r\nI needed your urgent response"
+    },
+    {
+        "from": "scammer_1045",
+        "to": "baiter_1045",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.667326388888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "11",
+        "subject": "Attention, What is going on why do you not responding to my email what's all This silent,",
+        "body": "Attention, What is going on why do you not responding to my email what's\r\nall This silent,\r\n\r\nTry your best to get back because I do not want you to lose your payment\r\nfrom this office, I am looking forward to hear from and to Know how will\r\nyou sending the transfer charge of $195 today and start picking up your\r\npayment\r\n\r\nI needed your urgent response"
+    },
+    {
+        "from": "baiter_1045",
+        "to": "scammer_1045",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.718923611111111,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "12",
+        "subject": "Re: Attention, Debbie",
+        "body": "Hello there,\n\nThank you for reaching out to me. I'm really interested in what you're saying, but could you please explain a bit more about this payment? What is it for exactly? And why do I need to send a transfer charge?\n\nLooking forward to your response.\n\nBest wishes,\nDebbie"
+    },
+    {
+        "from": "baiter_1045",
+        "to": "scammer_1045",
+        "direction": "Outbound",
+        "days_from_first_conversation": 1.761226851851852,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "13",
+        "subject": "Re: I am still waiting to hear from you",
+        "body": "Hello Mr. John Bell,\n\nThank you for reaching out to me. I'm really excited about this opportunity! Could you please provide more details about the payment process? How does it work exactly?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nDebbie"
+    },
+    {
+        "from": "scammer_1045",
+        "to": "baiter_1045",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.8369907407407406,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "14",
+        "subject": "TRY TO SEND THE ACTIVATION AND TRANSFER SIGN FEE OF $195 BY MONEY GRAM OR WESTERN UNION",
+        "body": "TRY TO SEND THE ACTIVATION AND TRANSFER SIGN FEE OF $195 BY MONEY GRAM OR\r\nWESTERN UNION,\r\n\r\nRECEIVERS NAME:::::::: JUDE AFOY\r\nCOUNTRY:::::::: BENIN REPUBLIC\r\nCITY::::::: PORTONOVO\r\nAMOUNT:::::: $195\r\nMTCN:::::::\r\n\r\nYOU CAN BUY GIFT CARD SUCH AS APPLE CARD OR STEAM WALLET IF YOU CAN NOT\r\nSEND IT THROUGH MONEY GRAM OR WESTERN UNION,\r\n\r\nSEND THE PAYMENT SLIP HERE\r\n\r\nFrom the Ministry of Finance.\r\nyour Funds Worths $10.5Milion USD\r\n\r\nMr. John Bell\r\nONLY ON THIS EMAIL ADDRESS\r\nContact email: officeservice231@gmail.com"
+    },
+    {
+        "from": "scammer_1045",
+        "to": "baiter_1045",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.837002314814815,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "15",
+        "subject": "Attention, Debbie",
+        "body": "Attention,\r\n\r\nI received your email and I am here to answer your email, This Western\r\nUnion payment was instructed from the Government and This payment is your\r\ncompensation payment and the reason why you must pay for the transfer\r\ncharge is to sure that you be receiving This payment without any problem\r\nafter we send to your name to pick up, It's mandentry that you will pay for\r\nthe transfer charge and start picking up your daily payment from this\r\nWestern Union, There's no way you can receive This payment without paying\r\nthe transfer charge,And again noted that delay is very bad over this\r\ntransfer before you will lose your payment, So I want only your full trust\r\nAnd understand because I do not want you to lose This payment,\r\n\r\nTell me exactly how will you going to send the transfer charge because it's\r\nthe only thing holding your payment\r\n\r\nI needed your urgent response\r\n\r\nFrom Ministry of Finance.\r\n\r\nMr. John\r\nONLY ON THIS EMAIL ADDRESS\r\n(officeservice231@gmail.com)"
+    },
+    {
+        "from": "scammer_1045",
+        "to": "baiter_1045",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.837013888888889,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "16",
+        "subject": "Attention,",
+        "body": "Attention,\r\n\r\nI received your email and I am here to answer your email, This Western\r\nUnion payment was instructed from the Government and This payment is your\r\ncompensation payment and the reason why you must say for the transfer\r\ncharge is to sure that you be receiving This payment without any problem\r\nafter we send to your name to pick up, It's mandentry that you will pay for\r\nthe transfer charge and start picking up your daily payment from this\r\nWestern Union, There's no way you can receive This payment without paying\r\nthe transfer charge,And again noted that delay is very bad over this\r\ntransfer before you will lose your payment, So I want only your full trust\r\nAnd understand because I do not want you to lose This payment,\r\n\r\nTell me exactly how will you going to send the transfer charge because it's\r\nthe only thing holding your payment\r\n\r\nI needed your urgent response\r\n\r\nFrom Ministry of Finance.\r\n\r\nMr. John\r\nONLY ON THIS EMAIL ADDRESS\r\n(officeservice231@gmail.com)"
+    },
+    {
+        "from": "scammer_1045",
+        "to": "baiter_1045",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.9901851851851853,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "17",
+        "subject": "Attention",
+        "body": "I am very sorry, Because of your silent are you not interested to receive\r\nyour funds from this office\r\n\r\nPlease I want to know exactly what is going with you, Is because of the\r\nrequired fee that you can take lose your payment\r\n\r\nI really need to know exactly what is going on\r\nBecause you are about to lose your payment\r\n\r\nIf I did not hear from you then you will lose your payment\r\n\r\nGet back to me"
+    },
+    {
+        "from": "scammer_1045",
+        "to": "baiter_1045",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.9902199074074076,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "18",
+        "subject": "It's now clear to this office that you are not The rightful owner of this funds,",
+        "body": "It's now clear to this office that you are not The rightful owner of this\r\nfunds,"
+    }
+]

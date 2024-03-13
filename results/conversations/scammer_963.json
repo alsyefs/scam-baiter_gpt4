@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_963",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attn: Beneficiary,",
+        "body": "  Attn: Beneficiary,\nCompliment of the day. My name is Dr .  Patrick Fisher, Deputy\nGovernor, CBN. I was mandated by the President Federal Republic of\nNigeria 2 days ago, in conjunction with the Federal Executive Council\n(FEC), the Senate Committee on Foreign Debts Reconciliation and\nImplementation Panel on Contract/inheritance/compensation payments to\ncomplete all long over due unpaid Contract/inheritance/lottery fund\nwithin 48 hours. I wish to congratulate you for a successful\ncompletion of your payment process. You are advised to contact the\nhead of ICT department (Dr Mrs. Marina Luda) of Inter switch for the\nfinal release of your approved $8,600,000.00 United States Dollars\nonly via their online internet banking platform, powered by western\nunion server. You can contact him urgently via email:\nContact Person:-----Dr Mrs. Marina Luda\nEmail:------ \nmrsmarinaluda128@gmail.com\nWe apologize for any delay you might have encountered in the past\ntrying to receive your payment. All thanks to God, your payment is now\n100% Guaranteed. Kindly update us as you communicate with Inter\nswitch.\nBest Regards,\nDr .  Patrick Fisher\nDeputy Governor, Financial System Stability,\nCentral Bank of Nigeria.\nNB: KINDLY NOTE THAT SOME PEOPLE (FRAUDSTERS) HAVE STARTED MAKING\nFORGERY OF MY GOOD NAME.   "
+    },
+    {
+        "from": "baiter_963",
+        "to": "scammer_963",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   Attn: Beneficiary,",
+        "body": "Dear Dr. Patrick Fisher,\n\nThank you for your email and the information provided. I am glad to hear that the payment process is now successful.\n\nHowever, I would like to clarify a few things before proceeding further. Could you please provide more details about the contract lottery fund? Also, could you please explain how the online internet banking platform powered by Western Union server works?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nGinger"
+    },
+    {
+        "from": "scammer_963",
+        "to": "baiter_963",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Attn: Beneficiary,",
+        "body": "Attention  Ginger,\r\n\r\nThank  you for your reply back to us with out your account details for the\r\nrelease of your fund ( 10.5m dollars). but like as i have said from day\r\n that what stopped you from having your fund released to you since is that\r\nthe people you have worked in the past did not tell you truth . so now what\r\nwe only have to confirm from you is that if you have this three documents\r\nthat will back up your fund once it is released and transfer into your\r\naccount. so let us know now if you have this documents as it is below here\r\nupdated from 8th Jan 2024 but if you do not  have them let me know so that\r\nthe bank lawyer can get them on your behalf and stamp them for the transfer\r\nof your fund into your account . so please here are the names of the\r\ndocuments below.\r\n\r\nA,  Anti-Terrorist certificate\r\n\r\nB,  Money Laundry certificate.\r\n\r\nC,  Drug free laundry certificate.\r\n\r\nPlease if you have any of the documents updated up to 8th Jan send them to\r\nme now but if you do not have any let us know i will call the to tell you\r\nhis service conditions so that he can get them immediately for the transfer\r\nof your fund i am waiting for your answers back to my office now thank you\r\nfor your understanding.\r\n\r\nI await your urgent response.\r\n\r\nYours faithfully,\nBest Regards,\r\n\r\nMr Patrick Fisher,"
+    }
+]

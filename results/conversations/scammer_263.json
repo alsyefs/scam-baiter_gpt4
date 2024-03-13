@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_263",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Friend,",
+        "body": "Dear Friend,\nIt is my wish to solicit your assistance in claiming the sum of\nUS$18,400,000.00 belonging to\n our late customer, he was drilling\na contractor with some Oil Companies here\n. Your assistance will be of\na great benefit to both of us since I cannot achieve this without your\nsupport, therefore your cooperation will be appreciated to claim this\nfund from the bank as the rightful next of kin after which you will be\neligible for 40% of the fund, while 60% will be mine.\nPlease get back to me through my confidential email\n(\ndanielleon11000@gmail.com\n ) if you are interested in more\ninformation.\nYour's Sincerely,\nDaniel Leon"
+    },
+    {
+        "from": "baiter_263",
+        "to": "scammer_263",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Friend,",
+        "body": "Dear Daniel Leon,\n\nI appreciate your message and the trust you have shown in me. However, I would need more information about this matter before I can make a decision. Could you please provide more details about the late customer, the nature of his work, and how you came to approach me for this?\n\nLooking forward to hearing from you.\n\nBest wishes,\nPatricia"
+    },
+    {
+        "from": "scammer_263",
+        "to": "baiter_263",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Friend,",
+        "body": "Dear Patricia,\r\n\r\n\r\nThank you for your response to my email and your willingness to partake in\r\nthis business with me. It is interesting to know that we can be partners.\r\n\r\n\r\nThis business I am talking about is about a certain account belonging to\r\nour customer, who died in a crash with his entire family. He has no one who\r\ncan stand as his relation or next of kin, and so our bank governing body is\r\nplanning to convert his account into government treasury.\r\n\r\n\r\nI do not want this to happen, and that is why I wrote you, suggesting to\r\nyou to apply as next of kin to the deceased. This way I will use my high\r\nposition to influence approval of your application and this money will be\r\npaid into your account as true inheritor.\r\n\r\n\r\n\r\nI want you to know that there is no risks involved. I want you to know that\r\nI have done all necessary arrangements to facilitate smooth and quicker\r\ntransaction. If really you would want to be my partner, Could you please\r\nconfirm your personal details, Such as: Full Name:......................,\r\nResidential Address:........................, Company/Office\r\nAddress:..........................., Age:...........................,\r\nProfession:........................, Marital\r\nStatus:......................., I want to remind you that you will receive\r\n40% of the total sum for helping me while 60% will be mine.\r\n\r\n\r\nPlease I want you to understand that a stitch in time saves nine so write\r\nor call back and tell me if you really want to carry out this transaction\r\nwith me.\r\n\r\n\r\nFrom banking experience it will take up to 7 working days to conclude this\r\ntransfer. I sincerely need your help because this might be my first and\r\nlast opportunity of hitting big money. I also would want you to treat this\r\naffair as both urgent and confidential.\r\n\r\n\r\n\r\nI want to remind you that you will receive 40% of the total sum for helping\r\nme while 60% will be mine.\r\n\r\n\r\nAs soon as i hear from you i will be sending to you the text of application\r\nto fill and send to the bank for the Onward approval and the transfer of\r\nthis fund into your account within 7 bank working days.\r\n\r\n\nYours Specially,\r\n\r\nMr. Daniel Leon"
+    }
+]

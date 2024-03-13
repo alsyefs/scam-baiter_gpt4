@@ -1,0 +1,92 @@
+[
+    {
+        "from": "scammer_1126",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  I am Princess Kadidja Kanazo",
+        "body": "  I am Princess Kadidja Kanazo, a personal Accountant/Executive board of Directors working with Coris Bank International Burkina Faso (CBI).I have an interesting business proposal for you that will be of immense benefit to both of us. Although this may be hard for you to believe, we stand to gain a huge amount between us in a matter of days.Please grant me the benefit of doubt and hear me out. I need you to signify your interest by replying to my mail\nHonestly, i have business transaction worth the sum of ($10.5Million Dollars) Ten Million Five Hundred Thousand United State Dollars to transfer to you through proper documentation in position of your own account most importantly, i will need you to promise to keep whatever you learn from me between us even if you decide not to go along with me. I will make more details available to you on receipt of a positive response from you.This transaction is risk-free; please urgently confirm your willingness and interest to assist in this deal, I am in good faith and with trust waiting for your Urgent response and maximum cooperation for more details,\nBest Regards.   "
+    },
+    {
+        "from": "baiter_1126",
+        "to": "scammer_1126",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re:   I am Princess Kadidja Kanazo",
+        "body": "Dear Princess Kadidja Kanazo,\n\nThank you for your email and the business proposal. I am interested in hearing more about this opportunity. However, I would like to know more about how this transaction will be carried out and what exactly is required of me.\n\nLooking forward to your response.\n\nBest wishes,\nYoshiko"
+    },
+    {
+        "from": "scammer_1126",
+        "to": "baiter_1126",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "subject": "Details Of This Transaction",
+        "body": "Dear friend,\r\nThank you very much for your response. My name is:Princess Kadidja Kanazo,\r\nI am from Burkina Faso, a country in West Africa and I work with Coris Bank\r\nInternational here in Ouagadougou, the capital city. I have contacted you\r\nfor this transaction because it strictly requires a foreigner to carry out\r\nthis deal successfully.\r\n\r\nI want you to know that this transaction will be realized legally according\r\nto the law of this country and you should not be sceptical or afraid of\r\nanything because this transaction is totally risk-free, and no problem is\r\ninvolved either in the short-run or in the long-run.\r\n\r\nAlso know that there is no disadvantage on your part if you decide to\r\nassist me in carrying out this transaction as everything will jointly\r\nfavour us. You will get 45% of the total Fund ($10.500.000.00) while 55%\r\nwill be for me as the initiator and originator of this transaction.\r\n\r\nMy questions again are:\r\nCan I trust you?\r\nAre you capable of assisting me to receive this fund in your bank account?\r\n\r\nIt is quite unfortunate that my status in the bank cannot allow me to\r\ndivert this fund alone, but please before we proceed, you should re-assure\r\nme of your integrity, trust, confidentiality of handling this transaction\r\nthe way it should be, especially that there will be no change of mind to\r\nbetray me. I comment strictly on trust because I would not like to suffer a\r\nfinancial setback in my life again, I have worked with the concerned bank\r\nhere for the past 5 years, if i did not use this opportunity all my labour\r\nwould go in vain. I need your support so i can give my family and the\r\nmembers of my community a better future.\r\n\r\nIf you are interested in this, with hope you have these qualities I need,\r\nplease go ahead and send me your detailed information as stated below for\r\nus to move forward.\r\n\r\n1. Your full name:\r\n2. Your residence address:\r\n3. Your  age:\r\n4. Your Occupation:\r\n5. Your private (mobile) phone number:\r\n\r\n\r\nPlease reply with this information so that i will send you an Official\r\nApplication Form which i fill immediately with those your above details and\r\nsend to you to resend to our bank for the process of the claim to commence.\r\nFinally, once you apply to our bank, the process of this transaction will\r\nnot last more than 5 days and as long as you follow my guidelines and\r\npieces of advice, there will be no risk in the transaction and the chances\r\nof getting the fund is very certain.\r\n\r\nPlease I want you to keep this transaction very confidential and let it be\r\na top secret strictly known between you and I alone because I am still\r\nworking with this bank.\r\n\r\nI am waiting for your urgent response and chating  on this my private\r\nnumber / whatsapp number:+226-79-80-00-13\r\n\r\nNote Well: Please note very well that I want you to help me receive the\r\namount of ($10.500.000.00) which was deposited by a foreign customer in the\r\nCoris Bank International here before his accidental death some years ago.\r\nAfter receiving the fund, i will visit you in your country for us to share\r\nthe fund in the ratio of 55% : 45%, that is, 55% will be for me as the\r\ninitiator and originator of this transaction, while 45% will be taken by\r\nyou for your help, you will also assist me to invest my own share in your\r\ncountry.\r\n\r\n\r\nThanks and best regards."
+    },
+    {
+        "from": "baiter_1126",
+        "to": "scammer_1126",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9398032407407407,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "3",
+        "subject": "Re: Details Of This Transaction",
+        "body": "Dear Princess Kadidja Kanazo,\n\nThank you for your email and the trust you have placed in me. I understand the importance of this transaction and assure you that I will handle it with utmost confidentiality and professionalism.\n\nHere are my details as requested:\n\nFull Name: John Doe\nResidence Address: 123 Main Street, Anytown, USA\nAge: 45\nOccupation: Business Consultant\nPrivate Mobile Phone Number: +1-234-567-890\n\nI look forward to receiving the official form and further instructions on how to proceed.\n\nBest wishes,\nYoshiko"
+    },
+    {
+        "from": "scammer_1126",
+        "to": "baiter_1126",
+        "direction": "Inbound",
+        "days_from_first_conversation": 1.2108912037037036,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "4",
+        "subject": "Please go ahead now to sign your signature/date on the attached Application Letter and send it to the bank immediately",
+        "body": "Dear friend,\r\nThanks a lot for your mail and for all your detailed information as I\r\nrequested.Truly, I highly appreciate your interest and willingness to help\r\nme carry out this transaction and also share its great benefits with me.\r\nPlease, i want you to keep this transaction very confidential as you\r\npromised me in your last mail, let it be a top secret only known between\r\nyou and i.I am still working with the concerned bank here, if the bank\r\nauthority here finds out that i gave you information about this fund and\r\nthe deceased bank customer, they will cancel your Application Letter and\r\nconfiscate the fund. What you have to do now, is to print the Application\r\nLetter Form out,then sign your official signature with the date and send it\r\nto the bank here for the transfer process of the claim to start.\r\n\r\nPlease go ahead now to sign your signature / date on the attached\r\nApplication Form and send it to the bank here with our bank customers email\r\naddress for claims:( coris-bank.com@financier.com ),for us to wait and see\r\nwhat will be the bank response. Immediately you send the application letter\r\nto the bank, please try to send me a copy of what you sent to the bank here\r\n,for me to know what is going on between you and the bank, also anything\r\nyou received from the bank, you forward it to me for my advice before you\r\nreply back to them to avoid mistake from your side.\r\n\r\nNote: Very Well That: The name of the concerned Bank here: is Coris Bank\r\nInternational (CBI) and the name of the late Bank Customer is Mr. Frank\r\nHugo, who is from Germany. If there is any information that the bank here\r\nmay need from you which you are unable to provide, please call me through\r\nmy private phone number +226-79-80-00-13 ,or you can send me a mail without\r\nwasting time and you can also WhatsApp me, so that I can help you provide\r\nthe information. Thanks a lot, and best regards also to your family.Note\r\nthat we need to be communicating through whatsapp or direct telephone calls\r\nall the time for the success of this transaction.\r\n\r\nI will be waiting to hear from you immediately if you contact the bank here,\r\n\nPrincess Kadidja Kanazo of\r\nKanazo Ancient Kingdoms."
+    },
+    {
+        "from": "baiter_1126",
+        "to": "scammer_1126",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.023171296296296,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "5",
+        "subject": "Re: Please go ahead now to sign your signature/date on the attached Application Letter and send it to the bank immediately",
+        "body": "Dear Princess Kadidja Kanazo,\n\nThank you for your detailed message. I understand the need for confidentiality in this matter and assure you that I will keep this information strictly between us.\n\nI have printed out the Letter Form and signed it with my official signature. However, I am unsure of how to send it to the bank as you did not provide me with their contact details. Could you please provide me with the necessary information so that I can proceed?\n\nOnce I have sent the letter to the bank, I will forward a copy to you as requested. Please do advise me on any further steps that need to be taken.\n\nBest wishes,\nYoshiko"
+    },
+    {
+        "from": "scammer_1126",
+        "to": "baiter_1126",
+        "direction": "Inbound",
+        "days_from_first_conversation": 4.204768518518518,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "6",
+        "subject": "Regards",
+        "body": "Dear friend,\r\nThanks a lot for your mail.As you have printed it out and signed it ,all\r\nyou have to do is to scan it back to your email and send it to the bank\r\nhere with our bank customers email address for claims:(\r\ncoris-bank.com@financier.com ),for us to wait and see what will be the bank\r\nresponse. Immediately you send the application letter to the bank, please\r\ntry to send me a copy of what you sent to the bank here ,for me to know\r\nwhat is going on between you and the bank, also anything you received from\r\nthe bank, you forward it to me for my advice before you reply back to them\r\nto avoid mistake from your side.\r\n\r\nNote: Very Well That: The name of the concerned Bank here: is Coris Bank\r\nInternational (CBI) and the name of the late Bank Customer is Mr. Frank\r\nHugo, who is from Germany. If there is any information that the bank here\r\nmay need from you which you are unable to provide, please call me through\r\nmy private phone number +226-79-80-00-13 ,or you can send me a mail without\r\nwasting time and you can also WhatsApp me, so that I can help you provide\r\nthe information. Thanks a lot, and best regards also to your family.Note\r\nthat we need to be communicating through whatsapp or direct telephone calls\r\nall the time for the success of this transaction.\r\n\r\nI will be waiting to hear from you immediately if you contact the bank here,\r\n\nPrincess Kadidja Kanazo of\r\nKanazo Ancient Kingdoms."
+    },
+    {
+        "from": "baiter_1126",
+        "to": "scammer_1126",
+        "direction": "Outbound",
+        "days_from_first_conversation": 4.464398148148148,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "7",
+        "subject": "Re: Regards",
+        "body": "Dear Princess Kadidja Kanazo,\n\nThank you for your email. I have printed out the document and signed it as per your instructions. I will scan it and send it to the bank shortly.\n\nI understand the importance of keeping you informed about all correspondence with the bank, and I assure you that I will forward all communications from them to you for your advice before responding.\n\nI appreciate your offer to assist in case there are any requirements from the bank that I am unable to fulfill. Your guidance is invaluable in this process.\n\nI look forward to our continued communication through email or direct telephone calls for the success of this transaction.\n\nBest wishes,\nYoshiko"
+    },
+    {
+        "from": "scammer_1126",
+        "to": "baiter_1126",
+        "direction": "Inbound",
+        "days_from_first_conversation": 5.230208333333334,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "8",
+        "subject": "Re: Regards",
+        "body": "Noted with thanks sir."
+    }
+]

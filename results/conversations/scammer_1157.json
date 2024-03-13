@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_1157",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "My Warmest Greetings",
+        "body": "My Warmest Greetings\nI am Mrs. Christina Cook from South Africa. A cancer patient, married to the late Dr McCauley Cook who was a very successful Gold businessman. I am donating the sum of $10.5 million United State Dollars to you for charity works in Your Country.I want you to use it and help the underprivileged and widows since i cannot do it myself due to my cancer problem, my doctors have revealed that i will not last long. I hope you accept my kind gesture. Kindly get back to me for more details at this Email : \nrecruitinvestglobal@gmail.com\n (hidden link going to \nmrlouisramgoolam@gmail.com\n)\nI await your reply for details.\n Mrs. Christina Cook"
+    },
+    {
+        "from": "baiter_1157",
+        "to": "scammer_1157",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: My Warmest Greetings",
+        "body": "Hello Mrs. Christina Cook,\n\nI'm deeply touched by your story and your generous intention to help the less fortunate. It's truly inspiring to see such kindness in the world, especially in times of personal hardship.\n\nI would be honored to learn more about this noble cause and how I can contribute. Could you please provide me with more details? For instance, what kind of charity works are you particularly interested in? And how do you envision these funds being used to make a difference?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nMarissa"
+    },
+    {
+        "from": "scammer_1157",
+        "to": "baiter_1157",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "My Warmest Greetings",
+        "body": "Dearest one Marissa\r\n\r\nMy Name is Mrs. Chrissy Cook. I am 70 years old based in South Africa and I\r\nwas married to Late McCauley Cook  who was a contractor with the Government\r\nof South Africa before he died in a plane crash in 2000 in Kenya airways. I\r\nam a new Christian convert, suffering from long term breast cancer.\r\n\r\nAll indications from my doctor are that my condition is really\r\ndeteriorating and it is quite obvious that I wouldn't live more than three\r\nmonths, according to my doctors and in all indications with regards to\r\nmedical analysis. This is because the cancer disease has gotten to a very\r\nbad stage that no hope for me to be a living person again.40 years period\r\nof marriage life, still we could not produce any child, my late husband was\r\nvery wealthy and after his death, I inherited some part of his business and\r\nmoney in the bank.\r\n\r\nThe the most important thing for me here is for you to assure me that the\r\nfunds will be distributed as I mentioned which is my last wish and this is\r\nlegit, I have never been involved in anything illegal and I will not start\r\nit now so if you are interested and ready to carry out my wish as\r\ninstructed then be advised to provide me a copy of your ID and direct\r\ncontact details which will enable me introduce you to my banker as my next\r\nof kin, this is very urgent, I will be looking forward hearing from you.\nRegards\r\nMrs. Cook"
+    }
+]

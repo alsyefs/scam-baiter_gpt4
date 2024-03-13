@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_246",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Good day,",
+        "body": "Good day,\nI specifically contacted you because of the opportunity that I want to share with you. I am a personal assistant to the chief procurement officer of my local municipality and he has designated me to find a suitable person whom our office can present to the municipality board of directors as a good advisory personnel on rural development matters. The budget of this advisory services is huge and all advisory work will be rightly remunerated by our provincial government. I am tapping on you to work closely with me and achieve these handsome remunerations that will be made.\nOur rural urbanization projects have been ongoing successfully and all agreed supplies and constructions have been carried out, all payments promptly made to the appointed suppliers and contractors. As we enter a new phase in our dispensation, my office colleagues and I have developed some new framework of project requirements, supervision and implementation which has been adopted and approved by the municipality board of trustees.\nAt this point all I need you in your personal capacity to do is to collaborate and setup a conducive front for the international supply-chain and payment environment for all foreign project advisory works that will be engaged in the months to come. Your role will be to act as our appointed foreign consultant and advisory personnel. All international procurements from your region will be channeled through your proposed consultancy and advice. With this in place, \nwe aim to make regular huge bank balance transfers to your foreign accounts after which you will then pay our international suppliers their stipulated amounts. \nThis arrangement will help us to hike prices of certain goods and save some good markups in foreign currencies that will be kept in your possession. You will be advised on how to make available our share of the transfers as soon as all projects are concluded.\nPlease indicate your readiness to take up the offer in your response email to me.\nWarmest regards\nJuaquin Dabeer"
+    },
+    {
+        "from": "baiter_246",
+        "to": "scammer_246",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Good day,",
+        "body": "Dear Juaquin Dabeer,\n\nThank you for your email and the opportunity. However, I would need more specific details about the role, responsibilities, and the nature of the projects before I can make a decision. \n\nCould you please provide more information about what exactly my duties would be as a foreign consultant and advisory personnel? Also, could you clarify what you mean by \"conducive front for the and payment\"?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nPamela"
+    },
+    {
+        "from": "scammer_246",
+        "to": "baiter_246",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Good day,",
+        "body": "Good day,\r\nCompliments of the New Year.  I apologize for getting back to you a bit late; this is because I was out of my station. Thank you for taking time to write me back concerning my mail. In my last email to you, I was actually asking for your assistance to receive monetary payments on our behalf into your offshore account.\r\nBefore I am able to give out more information that will begin the whole process, firstly I would like to know this information from you,\r\n(a) Do you have any legal and/or financial problems in your country or internationally?(b) If you have problems, will they affect any activity (ies) that you will undertake with us as an individual?(c) Have you successfully carried out long term projects that are worth over $1 million and/or handled large funds prior to this request?(d) If yes what was the net worth?\r\nAll answers will be kept very confidential.\r\nKindly let me explain why I am asking these questions; If you have existing profile problems, we may end up inheriting your backlog thus creating a problem where none exists. We need you to answer the questions in honesty so we can forge a healthy relationship.\r\nI am asking these few questions because it is important to be clear and be specific in our readiness. Please feel free to call me.\r\nWarmest regardsJuaquin Dabeer"
+    }
+]

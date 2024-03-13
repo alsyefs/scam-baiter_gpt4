@@ -1,0 +1,32 @@
+[
+    {
+        "from": "scammer_964",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Dear Trusted one",
+        "body": "Dear Trusted one\n \nI believe my email will be coming to you as a surprise since we have not met before and you would also think how I know you. I found your profile from the guestbook resumes directories and I decided to contact you.\nI am Mrs. Mary Russell , a native of London, an aging widow of 78 years old, i am suffering from a long time cancer illness and i have some funds which i inherited from my late husband the sum of Ten Million Four Hundred Thousand Great British Pounds also needed a very honest and God fearing person that will use this fund for charity purposes sincerely because of my present health condition and through this unconditionally task and since my days to live are numbered i will like to be remembered also immortalize when I am gone.\nKindly get back to me immediately if you have made up your mind with the details below to enable me to prepare a letter of Authorization in your name so that the Foreign Bank Account where my fund was deposited will proceed for the release of my last wish to you .\n(1) Your full names: ===\n(2) Personal or official contact address: ====\n(3) Home or Office phone#:==Cell phone#:===Fax#:===\n(4) Your Age: ===\n(5) Sex: ===\n(6) Marital status: ===\n(7) Occupation:===\nYours Faithfully,\nMrs. Mary Russell\nReply to my following E-mail:\nmrsmaryrussell8732@gmail.com"
+    },
+    {
+        "from": "baiter_964",
+        "to": "scammer_964",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "1",
+        "subject": "Re: Dear Trusted one",
+        "body": "Dear Mrs. Mary Russell,\n\nI am deeply moved by your email and I'm sorry to hear about your health condition. It's very noble of you to think about charity in such difficult times.\n\nHowever, I must inform you that it would be inappropriate for me to accept such a responsibility without knowing more details about the nature of the charity work you have in mind. Could you please provide more information on how you would like these funds to be used for charitable purposes?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nCharles"
+    },
+    {
+        "from": "scammer_964",
+        "to": "baiter_964",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat2",
+        "conversation_counter": "2",
+        "subject": "Re: Dear Trusted one",
+        "body": "Dear Charles\r\n\r\nThank you so much for your message and willingness to assist in this\r\nproject. Absolutely, it is important to indicate the kind and nature of\r\ncharity work I desire, which mainly is to promote the gospel of our Lord\r\nJesus. Establishing churches and promoting the work of God.\r\n\r\nAlso helping the orphans and widows. Mainly donating to orphanage homes and\r\nhelping victims of war and natural disasters affected people globally.\r\n\r\nThis is the kind of charity work that pleases my heart. I will feel\r\nfulfilled to see this kind of charity implemented in good faith.\r\n\r\nSo this is my brief explanation, and now I would like you to forward your\r\ndetails for the process to commence and once again do have a lovely day and\r\nremain blessed.\r\n\nSincerely,\r\n\r\nYour sister,\r\n\r\nMrs. Mary Russell."
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "from": "scammer_1066",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "Greetings!",
+        "body": "Greetings!\nMy name is Omran Abdullah, I work as Head of Communications at Alba Nova investments LLC, our investors are seeking for new\nbusiness opportunities and projects for possible funding and\ncapital financing. We are open to further discussions.\nYours Sincerely,\nOmran Abdullah\nHead Of Communication Alba Nova Investment LLC.\nPO Box 3235, Level 3, Tower C-1,\nStreet 32, Abu Dhabi, United Arab Emirates."
+    },
+    {
+        "from": "baiter_1066",
+        "to": "scammer_1066",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re: Greetings!",
+        "body": "Hello Omran Abdullah,\n\nIt's a pleasure to meet you. I'm intrigued by your proposal of seeking new businesses and projects for possible funding and capital financing. Could you please provide more details about the kind of projects or businesses your investors are interested in? Also, what is the usual range of investment that Alba Nova LLC typically makes?\n\nLooking forward to hearing from you soon.\n\nBest regards.\n\nBest wishes,\nGregory"
+    },
+    {
+        "from": "scammer_1066",
+        "to": "baiter_1066",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "Re: Greetings!",
+        "body": "Dear Gregory,\r\n\r\n\r\nThank you for your email, based on its content, kindly note the following:\r\n\r\n\r\n1. We are ready to consider possible collaboration with projects between\r\nthe limits of US$1M to US$5Billion. We are ready to fund projects within\r\nany sector and geographical area as long as we find the project as\r\npresented viable after our review. Our offer for funding is based on a debt\r\nfinance of 2.5% interest rate annually which is not limited to any sector\r\nor region.\r\n\r\n\r\n2. All projects are considered for funding independently and the specific\r\nterms and conditions for granting funding also differ from one project to\r\nthe other because projects differ in structure and capital requirements for\r\nits actualization. The specific term for granting funding for a specific\r\nproject can only be finalized after our review and consideration based on\r\nthe offering of the project.\r\n\r\n\r\n3. For the purpose of consideration of projects for funding purposes, we\r\nwill also expect the project presentation, executive summary and\r\ncomprehensive business plan to support the project. If after our initial\r\nreview we accept to fund the project, we will issue the project owner a\r\nformal loan application form which will be filled. All the sections of the\r\napplication form are meant to collect all data and information necessary\r\nfor considering the loan request.\r\n\r\n\r\n4. The 2.5% interest rate on the loan is constant throughout the duration\r\nof the loan. The duration of the loan is only agreed and determined based\r\non the structure of the project and the duration as requested by the\r\nproject owner at the time of making the loan application to ANI.\r\n\r\n\r\n5. Currently our offer for funding is only based on loan/debt finance.\r\nHowever, as part of the funding application process, an evaluation is\r\nrendered by an independent financial consultant who makes a recommendation\r\nto the project owner on the funding scheme which is most workable between\r\nthe project owner and ANI. If at this stage the consultant recommends an\r\nequity stake, we will definitely consider the same, but before then our\r\noffer is based on the loan as offered.\r\n\r\n\r\n6. The funding application process takes within 2– 4 weeks to be finalized\r\ndepending on the timely actions and implementations between both parties.\r\nThe summary of the process includes three important steps\r\n\r\n\r\n- Initial review: As soon as we are in receipt of the comprehensive\r\nbusiness plan and project presentation, we will forward the same for an\r\ninitial review. This initial review is executed internally by our team. If\r\nafter this initial review is confirmed that this project will be funded,\r\nthe project owner will be issued with the loan application form. This loan\r\napplication form is only issued to project owners whose project has been\r\nreviewed and confirmed to receive funding from ANI.\r\n\r\n\r\n- Evaluation/Due diligence process: The completely filled loan application\r\nform as received from the project owner is attached to all project details\r\nand data as received which is forwarded to a private financial consultant.\r\nThis consultant acts independently and will render a final evaluation and\r\ndue diligence. This consultant will discuss with the project owner on all\r\nbest funding options for this project and make a final recommendation to\r\nANI. At the completion of the same, the consultant will also issue to the\r\nproject owner a draft copy of the funding contractual agreement which will\r\ndefine all the terms and conditions for granting the funding in\r\nclear/precise terms. If this term as stipulated is acceptable to the\r\nproject owner, ANI will proceed with the finalization and implementation\r\nprocess.\r\n\r\n\r\n- The finalization and implementation process involves a face-to-face\r\nmeeting between ANI's facilitators and the representatives of the project\r\nowner to familiarize and discuss the project, terms and the collaboration.\r\nAfter signing all MOU, we will proceed with the actual implementation which\r\ninvolves fund disbursement to the project owner's designated account.\r\n\r\n\r\nWe hope this communication clarifies and guides you accordingly. We will\r\nlook forward to further communication from you in moving forward.\r\n\r\n\r\nKind regards,\r\n\r\n\r\nOmran Abdullah.\r\nDirector of Corporate Communication\r\nAlba Nova Investment Corporation of Abu Dhabi\r\nPO Box 3235, Level 3, Tower C-1, Street 32, Abu Dhabi, United Arab Emirates.\nTel: +971 2 444 4012\r\nEmail: info@albanovainvestments.com"
+    },
+    {
+        "from": "baiter_1066",
+        "to": "scammer_1066",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.01425925925925926,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: Greetings!",
+        "body": "Hello Omran Abdullah,\n\nThank you for your detailed response. It's great to hear that you're open to funding projects in any sector and region, as long as they are viable. I'm particularly interested in the debt finance option with a constant interest rate throughout the loan duration.\n\nCould you please elaborate more on the evaluation process? Specifically, what criteria does your financial consultant use to determine whether a project is viable or not? \n\nAlso, could you provide more information about the due diligence process? What kind of information will be required from me during this stage?\n\nI look forward to hearing from you soon.\n\nBest wishes,\nGregory"
+    },
+    {
+        "from": "baiter_1066",
+        "to": "scammer_1066",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.05556712962962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: Greetings!",
+        "body": "Hello Omran Abdullah,\n\nThank you for your detailed response. It's great to hear that you're open to funding projects in any sector or region, and I appreciate the clarity on your loan debt finance offer.\n\nI'm curious about the review process. Could you please elaborate more on what criteria your team uses during the initial review of a project? What makes a project viable in your eyes?\n\nAlso, could you provide more information about the role of the financial consultant? How are they chosen and what is their relationship with ANI?\n\nLastly, I'd like to understand better about the signing and disbursement process. Is there a specific location where this meeting takes place or can it be done virtually?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nGregory"
+    },
+    {
+        "from": "scammer_1066",
+        "to": "baiter_1066",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.490775462962963,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "5",
+        "subject": "Re: Greetings!",
+        "body": "Dear Gregory,\r\n\r\nI am in good receipt of your email and as such i want you to know that\r\nprojects are been evaluated by their sizes and region and also our due\r\ndiligence can be done electronically since we will need the borrower to set\r\nup an SPV account here in the UAE before the loan can be approved by the\r\ncentral bank of the UAE.\r\n\r\nSo I will have you fill out our KYC form then we can take it from there.\nRegards,\r\n\r\nOmran."
+    },
+    {
+        "from": "baiter_1066",
+        "to": "scammer_1066",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.5596296296296296,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "6",
+        "subject": "Re: Greetings!",
+        "body": "Hello Omran,\n\nThank you for your prompt response. It's interesting to learn about the process of evaluating projects based on their sizes and regions. I'm also intrigued by the concept of setting up an SPV account in the UAE.\n\nCould you please elaborate more on what an SPV account is? And how does it contribute to the loan approval process by the central bank of the UAE?\n\nAlso, I'd appreciate if you could explain a bit more about this KYC form that I need to fill out. What kind of information does it require?\n\nLooking forward to hearing from you soon.\n\nBest wishes,\nGregory"
+    },
+    {
+        "from": "scammer_1066",
+        "to": "baiter_1066",
+        "direction": "Inbound",
+        "days_from_first_conversation": 2.1581712962962962,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "7",
+        "subject": "Re: Greetings!",
+        "body": "Dear Gregory,\r\n\r\nDid you receive my previous email?\r\n\r\nPlease advise.\nRegards,\r\n\r\nOmran."
+    }
+]

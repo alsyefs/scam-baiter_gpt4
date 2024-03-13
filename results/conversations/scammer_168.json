@@ -1,0 +1,52 @@
+[
+    {
+        "from": "scammer_168",
+        "to": "CRAWLER",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "None",
+        "conversation_counter": "0",
+        "subject": "  Attention:Sir/madam",
+        "body": "  Attention:Sir/madam\n    I write to inform you that your name is among the beneficiaries that\n    will receive their funds of US$10.5 Million (Ten Million Five Hundred\n    Thousand United States Dollars Only) this second quarter of the fiscal\n    year 2022.\n    In view of this good news, I am pleased to inform you that your total\n    Payment Compensation Entitlement of US$10.5 Million has been cleared\n    and approved to be released to you finally through our Offshore\n    Payment Centers in two different countries which will be disclosed to\n    you as soon as you respond to my proposal.\n    Consequently, you are expected to travel to two countries of offshore\n    payment centers to sign your Original Funds Classified Document (OFCD)\n    to legally empower our Payment Officer to transfer your funds to you\n    without you paying any money upfront again till your funds get into\n    your bank account of your choice.\n    PLEASE NOTE THAT YOU ARE NOT GOING TO ADVANCE OR PAY ANY MONEY UPFRONT\n    TILL YOUR FUNDS GET TO YOUR BANK ACCOUNT.\n    Furthermore, it is very important that you send me the below\n    information as to enable us get your Flight Ticket and your Hotel\n    Accommodation:\n    Your Full Names.\n    Your Full Address.\n    Your Mobile Tel. No./Whatsapp Tel. No.\n    Your Occupation.\n    Valid Copy of Your International Passport.\n    Name of Your Nearest International Airport in Your City.\n    Finally, if you accept to make this trip, note that the entire journey\n    will take you only 5 days to conclude. Therefore, you should prepare\n    yourself for this number of days that you will travel.\n    Await your urgent reply.\n    MR BOBBY SULE   "
+    },
+    {
+        "from": "baiter_168",
+        "to": "scammer_168",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "1",
+        "subject": "Re:   Attention:Sir/madam",
+        "body": "Hello Mr. Bobby Sule,\n\nWow, this is such exciting news! I can't believe my luck. However, I'm a bit confused about some details. Could you please clarify a few things for me?\n\nFirstly, could you explain more about the Original Funds Classified Document (OFCD)? What exactly is it and why do I need to sign it in two different countries? \n\nSecondly, you mentioned that I won't have to pay any money upfront until the funds get into my bank account. That sounds great but how will the transfer process work? \n\nLastly, regarding the trip, could you provide more information about where I'll be going and what kind of preparations I should make?\n\nLooking forward to your response.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "scammer_168",
+        "to": "baiter_168",
+        "direction": "Inbound",
+        "days_from_first_conversation": 0.0,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "2",
+        "subject": "RE-Attn:William,GET BACK TO ME NOW",
+        "body": "Attn:William\r\n\r\nThanks for your response in regards to your payment,however you are requested to forward your full contact information and your valid passport .\r\n\r\nThe meaning of (OFCD) is Original Funds Classified Document.\r\n\r\nI wait to hear from you now,\nRegards\r\n\r\nMR BOBBY SULE"
+    },
+    {
+        "from": "baiter_168",
+        "to": "scammer_168",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.05960648148148148,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "3",
+        "subject": "Re: RE-Attn:William,GET BACK TO ME NOW",
+        "body": "Hello MR BOBBY SULE,\n\nThank you for your quick response. I'm intrigued by the term OFCD, Original Funds Classified Document. Could you please elaborate more on this? What is its purpose and how does it work?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nWilliam"
+    },
+    {
+        "from": "baiter_168",
+        "to": "scammer_168",
+        "direction": "Outbound",
+        "days_from_first_conversation": 0.9345833333333333,
+        "startegy": "gpt-4-Chat1",
+        "conversation_counter": "4",
+        "subject": "Re: RE-Attn:William,GET BACK TO ME NOW",
+        "body": "Hello Mr. Bobby Sule,\n\nThank you for your quick response! I'm really interested in learning more about this Original Funds Classified Document (OFCD). Could you please explain a bit more about it? How does it work and what are its benefits?\n\nLooking forward to hearing from you.\n\nBest regards.\n\nBest wishes,\nWilliam"
+    }
+]
